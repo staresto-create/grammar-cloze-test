@@ -1,0 +1,7646 @@
+[
+ {
+  "id": "G83_11_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 11,
+  "category": "時態",
+  "options": {
+   "A": "have had",
+   "B": "had",
+   "C": "have",
+   "D": "having"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G83_12_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 12,
+  "category": "介系詞",
+  "options": {
+   "A": "From",
+   "B": "In",
+   "C": "For",
+   "D": "Around"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G83_13_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 13,
+  "category": "情態助動詞",
+  "options": {
+   "A": "would",
+   "B": "could",
+   "C": "wouldn't",
+   "D": "won't"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G83_14_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 14,
+  "category": "vocab in context",
+  "options": {
+   "A": "likely",
+   "B": "only",
+   "C": "nearly",
+   "D": "possibly"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G83_15_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 15,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "used",
+   "B": "to use",
+   "C": "used to",
+   "D": "using"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G83_16_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "seems",
+   "B": "likes",
+   "C": "looks",
+   "D": "maybe"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G83_17_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 17,
+  "category": "關係子句",
+  "options": {
+   "A": "what",
+   "B": "when",
+   "C": "which",
+   "D": "where"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G83_18_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 18,
+  "category": "介系詞",
+  "options": {
+   "A": "below",
+   "B": "of",
+   "C": "against",
+   "D": "from"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G83_19_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "subject",
+   "B": "object",
+   "C": "matter",
+   "D": "element"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G83_20_1",
+  "year": "83年",
+  "passageId": "83_1",
+  "blankNum": 20,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "so",
+   "B": "for",
+   "C": "unless",
+   "D": "but"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G83_21_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 21,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "By and by",
+   "B": "Luckily",
+   "C": "In general",
+   "D": "Even so"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G83_22_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 22,
+  "category": "時態",
+  "options": {
+   "A": "have",
+   "B": "having",
+   "C": "to have",
+   "D": "has"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G83_23_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "positive",
+   "B": "common",
+   "C": "weak",
+   "D": "normal"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G83_24_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 24,
+  "category": "連接詞／轉承語",
+  "options": {
+   "A": "Until",
+   "B": "Because",
+   "C": "Unless",
+   "D": "However"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G83_25_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "best",
+   "B": "correct",
+   "C": "well",
+   "D": "good"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G83_26_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 26,
+  "category": "介系詞",
+  "options": {
+   "A": "to",
+   "B": "at",
+   "C": "in",
+   "D": "on"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G83_27_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 27,
+  "category": "關係子句／疑問詞",
+  "options": {
+   "A": "which",
+   "B": "how",
+   "C": "why",
+   "D": "what"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G83_28_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "losing",
+   "B": "by",
+   "C": "with",
+   "D": "have"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G83_29_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "like",
+   "B": "look",
+   "C": "watch",
+   "D": "regard"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G83_30_2",
+  "year": "83年",
+  "passageId": "83_2",
+  "blankNum": 30,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "Instead",
+   "B": "In addition",
+   "C": "Thus",
+   "D": "In case"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G84_21_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 21,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "For example",
+   "B": "Afterwards",
+   "C": "For one thing",
+   "D": "On the whole"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G84_22_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 22,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "so as",
+   "B": "such as",
+   "C": "as such",
+   "D": "such that"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G84_23_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "simply",
+   "B": "clumsily",
+   "C": "closely",
+   "D": "carefully"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G84_24_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "Few",
+   "B": "Little",
+   "C": "Small",
+   "D": "Many"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G84_25_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 25,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "drink",
+   "B": "to drink",
+   "C": "drinking",
+   "D": "drunk"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G84_26_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "almost",
+   "B": "mostly",
+   "C": "altogether",
+   "D": "hardly"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G84_27_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "Stories",
+   "B": "Drinks",
+   "C": "Characters",
+   "D": "Messages"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G84_28_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 28,
+  "category": "轉承語（副詞）",
+  "options": {
+   "A": "furthermore",
+   "B": "consequently",
+   "C": "moreover",
+   "D": "however"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G84_29_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "attentive",
+   "B": "attributive",
+   "C": "attractive",
+   "D": "accustomed"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G84_30_1",
+  "year": "84",
+  "passageId": "84_1",
+  "blankNum": 30,
+  "category": "關係子句／疑問詞",
+  "options": {
+   "A": "where",
+   "B": "while",
+   "C": "what",
+   "D": "why"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G84_31_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 31,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "far from",
+   "B": "by far",
+   "C": "a bit far",
+   "D": "as far"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G84_32_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 32,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "also",
+   "B": "but",
+   "C": "for",
+   "D": "or"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G84_33_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 33,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "In addition",
+   "B": "In due time",
+   "C": "For instance",
+   "D": "By and large"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G84_34_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 34,
+  "category": "介系詞",
+  "options": {
+   "A": "About",
+   "B": "For",
+   "C": "With",
+   "D": "In"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G84_35_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 35,
+  "category": "vocab in context",
+  "options": {
+   "A": "the",
+   "B": "this",
+   "C": "a",
+   "D": "that"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G84_36_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 36,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "to make",
+   "B": "make",
+   "C": "made",
+   "D": "making"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G84_37_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 37,
+  "category": "vocab in context",
+  "options": {
+   "A": "activity",
+   "B": "advice",
+   "C": "proposal",
+   "D": "sport"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G84_38_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 38,
+  "category": "vocab in context",
+  "options": {
+   "A": "fairly",
+   "B": "happily",
+   "C": "gorgeously",
+   "D": "finally"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G84_39_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 39,
+  "category": "連接詞／轉承語",
+  "options": {
+   "A": "As",
+   "B": "Since",
+   "C": "Until",
+   "D": "Then"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G84_40_2",
+  "year": "84",
+  "passageId": "84_2",
+  "blankNum": 40,
+  "category": "連接詞／關係子句",
+  "options": {
+   "A": "Where",
+   "B": "What",
+   "C": "If",
+   "D": "That"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G85_21_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "easy",
+   "B": "some",
+   "C": "small",
+   "D": "little"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G85_22_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 22,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "looking for",
+   "B": "look for",
+   "C": "looked for",
+   "D": "to look for"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G85_23_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "took",
+   "B": "avoided",
+   "C": "paid",
+   "D": "joined"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G85_24_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 24,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "Although",
+   "B": "Because",
+   "C": "If",
+   "D": "Unless"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G85_25_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 25,
+  "category": "時態",
+  "options": {
+   "A": "including",
+   "B": "included",
+   "C": "being included",
+   "D": "was included"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G85_26_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "much",
+   "B": "one",
+   "C": "it",
+   "D": "others"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G85_27_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 27,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "as far as",
+   "B": "as good as",
+   "C": "as",
+   "D": "as well as"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G85_28_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "One day",
+   "B": "Another day",
+   "C": "Someday",
+   "D": "The other day"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G85_29_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "casually",
+   "B": "frequently",
+   "C": "regularly",
+   "D": "suddenly"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G85_30_1",
+  "year": "85年",
+  "passageId": "85_1",
+  "blankNum": 30,
+  "category": "時態",
+  "options": {
+   "A": "needed",
+   "B": "need",
+   "C": "needing",
+   "D": "have needed"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G85_31_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 31,
+  "category": "vocab in context",
+  "options": {
+   "A": "it",
+   "B": "them",
+   "C": "this",
+   "D": "which"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G85_32_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 32,
+  "category": "比較級",
+  "options": {
+   "A": "better",
+   "B": "fewer",
+   "C": "less",
+   "D": "lower"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G85_33_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 33,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "however",
+   "B": "for instance",
+   "C": "in case",
+   "D": "more or less"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G85_34_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 34,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "blend with",
+   "B": "differ from",
+   "C": "gaze upon",
+   "D": "migrate to"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G85_35_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 35,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "Nevertheless",
+   "B": "As a result",
+   "C": "In contrast",
+   "D": "On the other hand"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G85_36_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 36,
+  "category": "介系詞",
+  "options": {
+   "A": "about",
+   "B": "above",
+   "C": "against",
+   "D": "around"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G85_37_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 37,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "give",
+   "B": "are going to give",
+   "C": "have given",
+   "D": "have been given"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G85_38_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 38,
+  "category": "vocab in context",
+  "options": {
+   "A": "himself",
+   "B": "itself",
+   "C": "themselves",
+   "D": "yourselves"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G85_39_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 39,
+  "category": "vocab in context",
+  "options": {
+   "A": "sensational",
+   "B": "sensible",
+   "C": "sensitive",
+   "D": "sentimental"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G85_40_2",
+  "year": "85年",
+  "passageId": "85_2",
+  "blankNum": 40,
+  "category": "vocab in context",
+  "options": {
+   "A": "During",
+   "B": "Instead of",
+   "C": "Over",
+   "D": "Through"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G87_21_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "lonely",
+   "B": "unique",
+   "C": "sorrowful",
+   "D": "personal"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G87_22_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "without",
+   "B": "beyond",
+   "C": "except",
+   "D": "despite"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G87_23_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "did",
+   "B": "put",
+   "C": "had",
+   "D": "made"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G87_24_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 24,
+  "category": "時態",
+  "options": {
+   "A": "failed",
+   "B": "attempted",
+   "C": "changed",
+   "D": "succeeded"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G87_25_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "pet",
+   "B": "thing",
+   "C": "temper",
+   "D": "possession"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G87_26_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 26,
+  "category": "疑問詞",
+  "options": {
+   "A": "How",
+   "B": "Why",
+   "C": "What",
+   "D": "When"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G87_27_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "tell",
+   "B": "talk",
+   "C": "repeat",
+   "D": "converse"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G87_28_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 28,
+  "category": "介系詞",
+  "options": {
+   "A": "in",
+   "B": "on",
+   "C": "at",
+   "D": "for"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G87_29_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 29,
+  "category": "時態",
+  "options": {
+   "A": "worried",
+   "B": "shocked",
+   "C": "delighted",
+   "D": "blinded"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G87_30_1",
+  "year": "87年",
+  "passageId": "87_1",
+  "blankNum": 30,
+  "category": "動詞過去式&倒裝句",
+  "options": {
+   "A": "lay",
+   "B": "laid",
+   "C": "lied",
+   "D": "lying"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G87_31_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 31,
+  "category": "vocab in context",
+  "options": {
+   "A": "fights",
+   "B": "sings",
+   "C": "laughs",
+   "D": "cries"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G87_32_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 32,
+  "category": "連接詞／轉承語",
+  "options": {
+   "A": "How",
+   "B": "But",
+   "C": "So",
+   "D": "When"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G87_33_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 33,
+  "category": "vocab in context",
+  "options": {
+   "A": "good",
+   "B": "serious",
+   "C": "few",
+   "D": "heavy"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G87_34_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 34,
+  "category": "時態",
+  "options": {
+   "A": "has been decreasing",
+   "B": "was decreasing",
+   "C": "should have decreased",
+   "D": "had decreased"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G87_35_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 35,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "as a result",
+   "B": "in addition",
+   "C": "by chance",
+   "D": "on the other hand"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G87_36_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 36,
+  "category": "vocab in context",
+  "options": {
+   "A": "bursts",
+   "B": "breaks",
+   "C": "circles",
+   "D": "pieces"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G87_37_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 37,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "as many",
+   "B": "as much",
+   "C": "so many",
+   "D": "so much"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G87_38_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 38,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "encourages",
+   "B": "encouraged",
+   "C": "encouraging",
+   "D": "to encourage"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G87_39_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 39,
+  "category": "文法（虛主詞/there be句型）",
+  "options": {
+   "A": "It",
+   "B": "There",
+   "C": "What",
+   "D": "Where"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G87_40_2",
+  "year": "87年",
+  "passageId": "87_2",
+  "blankNum": 40,
+  "category": "vocab in context",
+  "options": {
+   "A": "hardly",
+   "B": "kindly",
+   "C": "rarely",
+   "D": "really"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G88_16_1",
+  "year": "88年",
+  "passageId": "88_1",
+  "blankNum": 16,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "awoke",
+   "B": "woke up",
+   "C": "was woken up",
+   "D": "wakened"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G88_17_1",
+  "year": "88年",
+  "passageId": "88_1",
+  "blankNum": 17,
+  "category": "時態",
+  "options": {
+   "A": "happens",
+   "B": "is happening",
+   "C": "has happened",
+   "D": "had happened"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G88_18_1",
+  "year": "88年",
+  "passageId": "88_1",
+  "blankNum": 18,
+  "category": "比較級",
+  "options": {
+   "A": "most",
+   "B": "much",
+   "C": "more",
+   "D": "many"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G88_19_1",
+  "year": "88年",
+  "passageId": "88_1",
+  "blankNum": 19,
+  "category": "代名詞／指示詞",
+  "options": {
+   "A": "They",
+   "B": "These",
+   "C": "Those",
+   "D": "There"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G88_20_1",
+  "year": "88年",
+  "passageId": "88_1",
+  "blankNum": 20,
+  "category": "助動詞",
+  "options": {
+   "A": "could",
+   "B": "do",
+   "C": "ought",
+   "D": "may"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G88_21_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 21,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "Yet",
+   "B": "And",
+   "C": "Or",
+   "D": "So"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G88_22_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "mean",
+   "B": "like",
+   "C": "tend",
+   "D": "act"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G88_23_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 23,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "instead of",
+   "B": "rather than",
+   "C": "in order",
+   "D": "in addition"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G88_24_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 24,
+  "category": "比較級",
+  "options": {
+   "A": "little",
+   "B": "least",
+   "C": "lesser",
+   "D": "fewer"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G88_25_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "In contrast",
+   "B": "In particular",
+   "C": "In fact",
+   "D": "In other words"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G88_26_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "situations",
+   "B": "exceptions",
+   "C": "perceptions",
+   "D": "observations"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G88_27_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "called",
+   "B": "named",
+   "C": "said",
+   "D": "told"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G88_28_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 28,
+  "category": "介系詞",
+  "options": {
+   "A": "on",
+   "B": "to",
+   "C": "for",
+   "D": "in"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G88_29_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 29,
+  "category": "轉折副詞",
+  "options": {
+   "A": "Nevertheless",
+   "B": "Conversely",
+   "C": "Consequently",
+   "D": "Moreover"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G88_30_2",
+  "year": "88年",
+  "passageId": "88_2",
+  "blankNum": 30,
+  "category": "分詞",
+  "options": {
+   "A": "depend",
+   "B": "depends",
+   "C": "depended",
+   "D": "depending"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G88_31_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 31,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "As",
+   "B": "But",
+   "C": "Though",
+   "D": "For"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G88_32_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 32,
+  "category": "vocab in context",
+  "options": {
+   "A": "analyze",
+   "B": "emphasize",
+   "C": "recognize",
+   "D": "memorize"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G88_33_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 33,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "have seen",
+   "B": "saw",
+   "C": "had seen",
+   "D": "was seeing"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G88_34_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 34,
+  "category": "時態",
+  "options": {
+   "A": "exhausted",
+   "B": "interested",
+   "C": "frightened",
+   "D": "embarrassed"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G88_35_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 35,
+  "category": "連接詞／轉承語",
+  "options": {
+   "A": "Even",
+   "B": "Then",
+   "C": "When",
+   "D": "While"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G88_36_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 36,
+  "category": "vocab in context",
+  "options": {
+   "A": "eagerly",
+   "B": "happily",
+   "C": "politely",
+   "D": "willingly"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G88_37_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 37,
+  "category": "時態",
+  "options": {
+   "A": "declared",
+   "B": "proposed",
+   "C": "responded",
+   "D": "assured"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G88_38_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 38,
+  "category": "vocab in context",
+  "options": {
+   "A": "overlook",
+   "B": "overlooking",
+   "C": "overlooks",
+   "D": "overlooked"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G88_39_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 39,
+  "category": "介系詞",
+  "options": {
+   "A": "before",
+   "B": "after",
+   "C": "until",
+   "D": "towards"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G88_40_3",
+  "year": "88年",
+  "passageId": "88_3",
+  "blankNum": 40,
+  "category": "vocab in context",
+  "options": {
+   "A": "gone",
+   "B": "none",
+   "C": "no",
+   "D": "nothing"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G95_16_1",
+  "year": "95年",
+  "passageId": "95_1",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "manage",
+   "B": "restrict",
+   "C": "charge",
+   "D": "deposit"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G95_17_1",
+  "year": "95年",
+  "passageId": "95_1",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "indulge in",
+   "B": "dwell in",
+   "C": "attend to",
+   "D": "apply to"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G95_18_1",
+  "year": "95年",
+  "passageId": "95_1",
+  "blankNum": 18,
+  "category": "時態",
+  "options": {
+   "A": "Regarded",
+   "B": "To regard",
+   "C": "Being regarded",
+   "D": "Regarding"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G95_19_1",
+  "year": "95年",
+  "passageId": "95_1",
+  "blankNum": 19,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "catch up",
+   "B": "get my way",
+   "C": "keep in touch",
+   "D": "make ends meet"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G95_20_1",
+  "year": "95年",
+  "passageId": "95_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "spirit",
+   "B": "expenses",
+   "C": "savings",
+   "D": "estimate"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G95_21_2",
+  "year": "95年",
+  "passageId": "95_2",
+  "blankNum": 21,
+  "category": "時態",
+  "options": {
+   "A": "annoying",
+   "B": "interfering",
+   "C": "amazing",
+   "D": "inviting"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G95_22_2",
+  "year": "95年",
+  "passageId": "95_2",
+  "blankNum": 22,
+  "category": "時態",
+  "options": {
+   "A": "noticing",
+   "B": "noticeable",
+   "C": "noticed",
+   "D": "unnoticed"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G95_23_2",
+  "year": "95年",
+  "passageId": "95_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "make",
+   "B": "do",
+   "C": "tell",
+   "D": "count"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G95_24_2",
+  "year": "95年",
+  "passageId": "95_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "what",
+   "B": "who",
+   "C": "those",
+   "D": "where"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G95_25_2",
+  "year": "95年",
+  "passageId": "95_2",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "Not until",
+   "B": "Even if",
+   "C": "As if",
+   "D": "No sooner than"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G95_26_3",
+  "year": "95年",
+  "passageId": "95_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "agreements",
+   "B": "arguments",
+   "C": "accomplishments",
+   "D": "arrangements"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G95_27_3",
+  "year": "95年",
+  "passageId": "95_3",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "attracted",
+   "B": "is attracted",
+   "C": "attract",
+   "D": "attracts"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G95_28_3",
+  "year": "95年",
+  "passageId": "95_3",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "In addition",
+   "B": "As a result",
+   "C": "In contrast",
+   "D": "To some extent"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G95_29_3",
+  "year": "95年",
+  "passageId": "95_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "hardly",
+   "B": "almost",
+   "C": "somehow",
+   "D": "rarely"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G95_30_3",
+  "year": "95年",
+  "passageId": "95_3",
+  "blankNum": 30,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "Even so",
+   "B": "For that reason",
+   "C": "On the contrary",
+   "D": "By the same token"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G96_16_1",
+  "year": "96年",
+  "passageId": "96_1",
+  "blankNum": 16,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "will feel",
+   "B": "to feel",
+   "C": "have felt",
+   "D": "feeling"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G96_17_1",
+  "year": "96年",
+  "passageId": "96_1",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "counted on",
+   "B": "followed by",
+   "C": "turned into",
+   "D": "started with"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G96_18_1",
+  "year": "96年",
+  "passageId": "96_1",
+  "blankNum": 18,
+  "category": "時態",
+  "options": {
+   "A": "concerning",
+   "B": "showing",
+   "C": "including",
+   "D": "relating"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G96_19_1",
+  "year": "96年",
+  "passageId": "96_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "Although",
+   "B": "Because",
+   "C": "Once",
+   "D": "Until"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G96_20_1",
+  "year": "96年",
+  "passageId": "96_1",
+  "blankNum": 20,
+  "category": "時態",
+  "options": {
+   "A": "devoted",
+   "B": "determined",
+   "C": "delighted",
+   "D": "directed"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G96_21_2",
+  "year": "96年",
+  "passageId": "96_2",
+  "blankNum": 21,
+  "category": "介系詞",
+  "options": {
+   "A": "by",
+   "B": "in",
+   "C": "of",
+   "D": "at"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G96_22_2",
+  "year": "96年",
+  "passageId": "96_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "height",
+   "B": "distance",
+   "C": "geography",
+   "D": "landscape"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G96_23_2",
+  "year": "96年",
+  "passageId": "96_2",
+  "blankNum": 23,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "If",
+   "B": "For",
+   "C": "Unless",
+   "D": "Though"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G96_24_2",
+  "year": "96年",
+  "passageId": "96_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "wayward",
+   "B": "downward",
+   "C": "northward",
+   "D": "outward"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G96_25_2",
+  "year": "96年",
+  "passageId": "96_2",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "yet",
+   "B": "even",
+   "C": "rather",
+   "D": "indeed"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G96_26_3",
+  "year": "96年",
+  "passageId": "96_3",
+  "blankNum": 26,
+  "category": "介系詞",
+  "options": {
+   "A": "into",
+   "B": "with",
+   "C": "for",
+   "D": "from"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G97_16_1",
+  "year": "97年",
+  "passageId": "97_1",
+  "blankNum": 16,
+  "category": "時態",
+  "options": {
+   "A": "would use",
+   "B": "are using",
+   "C": "had used",
+   "D": "have been using"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G97_17_1",
+  "year": "97年",
+  "passageId": "97_1",
+  "blankNum": 17,
+  "category": "比較級",
+  "options": {
+   "A": "looks after",
+   "B": "slows down",
+   "C": "takes over",
+   "D": "turns out"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G97_18_1",
+  "year": "97年",
+  "passageId": "97_1",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "for",
+   "B": "from",
+   "C": "at",
+   "D": "inside"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G97_19_1",
+  "year": "97年",
+  "passageId": "97_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "weight",
+   "B": "purpose",
+   "C": "difference",
+   "D": "structure"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G97_20_1",
+  "year": "97年",
+  "passageId": "97_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "whether",
+   "B": "whenever",
+   "C": "what",
+   "D": "why"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G97_21_2",
+  "year": "97年",
+  "passageId": "97_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "give",
+   "B": "bring",
+   "C": "share",
+   "D": "earn"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G97_22_2",
+  "year": "97年",
+  "passageId": "97_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "so",
+   "B": "such",
+   "C": "as",
+   "D": "thus"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G97_23_2",
+  "year": "97年",
+  "passageId": "97_2",
+  "blankNum": 23,
+  "category": "時態",
+  "options": {
+   "A": "had",
+   "B": "had had",
+   "C": "would have",
+   "D": "would have had"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G97_24_2",
+  "year": "97年",
+  "passageId": "97_2",
+  "blankNum": 24,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "hope",
+   "B": "hoping",
+   "C": "hoped",
+   "D": "to hope"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G97_25_2",
+  "year": "97年",
+  "passageId": "97_2",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "on leave",
+   "B": "by surprise",
+   "C": "off record",
+   "D": "in return"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G97_26_3",
+  "year": "97年",
+  "passageId": "97_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "For",
+   "B": "With",
+   "C": "Upon",
+   "D": "Along"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G97_27_3",
+  "year": "97年",
+  "passageId": "97_3",
+  "blankNum": 27,
+  "category": "比較級",
+  "options": {
+   "A": "Since",
+   "B": "Before",
+   "C": "Whatever",
+   "D": "Wherever"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G97_28_3",
+  "year": "97年",
+  "passageId": "97_3",
+  "blankNum": 28,
+  "category": "時態",
+  "options": {
+   "A": "escaped",
+   "B": "featured",
+   "C": "defended",
+   "D": "inspired"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G97_29_3",
+  "year": "97年",
+  "passageId": "97_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "ever",
+   "B": "seldom",
+   "C": "nearly",
+   "D": "wholly"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G97_30_3",
+  "year": "97年",
+  "passageId": "97_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "afterwards",
+   "B": "therefore",
+   "C": "however",
+   "D": "furthermore"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G98_16_1",
+  "year": "98年",
+  "passageId": "98_1",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "marked",
+   "B": "tore",
+   "C": "served",
+   "D": "took"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G98_17_1",
+  "year": "98年",
+  "passageId": "98_1",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "threw at",
+   "B": "occurred to",
+   "C": "looked down upon",
+   "D": "came up with"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G98_18_1",
+  "year": "98年",
+  "passageId": "98_1",
+  "blankNum": 18,
+  "category": "時態",
+  "options": {
+   "A": "is",
+   "B": "was",
+   "C": "will be",
+   "D": "has been"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G98_19_1",
+  "year": "98年",
+  "passageId": "98_1",
+  "blankNum": 19,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "despite that",
+   "B": "rather than",
+   "C": "as long as",
+   "D": "no matter what"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G98_20_1",
+  "year": "98年",
+  "passageId": "98_1",
+  "blankNum": 20,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "into",
+   "B": "out of",
+   "C": "within",
+   "D": "without"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G98_21_2",
+  "year": "98年",
+  "passageId": "98_2",
+  "blankNum": 21,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "For example",
+   "B": "In fact",
+   "C": "As a result",
+   "D": "Little by little"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G98_22_2",
+  "year": "98年",
+  "passageId": "98_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "nearly",
+   "B": "recently",
+   "C": "originally",
+   "D": "shortly"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G98_23_2",
+  "year": "98年",
+  "passageId": "98_2",
+  "blankNum": 23,
+  "category": "關係子句",
+  "options": {
+   "A": "that",
+   "B": "what",
+   "C": "which",
+   "D": "where"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G98_24_2",
+  "year": "98年",
+  "passageId": "98_2",
+  "blankNum": 24,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "spread",
+   "B": "to spread",
+   "C": "should spread",
+   "D": "will spread"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G98_25_2",
+  "year": "98年",
+  "passageId": "98_2",
+  "blankNum": 25,
+  "category": "時態",
+  "options": {
+   "A": "bothered",
+   "B": "contacted",
+   "C": "suffered",
+   "D": "wounded"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G98_26_3",
+  "year": "98年",
+  "passageId": "98_3",
+  "blankNum": 26,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "for",
+   "B": "with",
+   "C": "as",
+   "D": "on"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G98_27_3",
+  "year": "98年",
+  "passageId": "98_3",
+  "blankNum": 27,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "in terms of",
+   "B": "instead of",
+   "C": "at the risk of",
+   "D": "at the cost of"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G98_28_3",
+  "year": "98年",
+  "passageId": "98_3",
+  "blankNum": 28,
+  "category": "分詞／動狀詞",
+  "options": {
+   "A": "participate",
+   "B": "participated",
+   "C": "participating",
+   "D": "to participate"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G98_29_3",
+  "year": "98年",
+  "passageId": "98_3",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "taken turns",
+   "B": "taken place",
+   "C": "taken off",
+   "D": "taken over"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G98_30_3",
+  "year": "98年",
+  "passageId": "98_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "piece",
+   "B": "deadline",
+   "C": "date",
+   "D": "practice"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G99_16_1",
+  "year": "99年",
+  "passageId": "99_1",
+  "blankNum": 16,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "gave up",
+   "B": "ended up",
+   "C": "took to",
+   "D": "used to"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G99_17_1",
+  "year": "99年",
+  "passageId": "99_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "informed",
+   "B": "informative",
+   "C": "informal",
+   "D": "informational"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G99_18_1",
+  "year": "99年",
+  "passageId": "99_1",
+  "blankNum": 18,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "deal with",
+   "B": "head for",
+   "C": "turn to",
+   "D": "look into"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G99_19_1",
+  "year": "99年",
+  "passageId": "99_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "textbook",
+   "B": "notebook",
+   "C": "workbook",
+   "D": "pocketbook"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99_20_1",
+  "year": "99年",
+  "passageId": "99_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "in",
+   "B": "while",
+   "C": "after",
+   "D": "without"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99_21_2",
+  "year": "99年",
+  "passageId": "99_2",
+  "blankNum": 21,
+  "category": "介系詞",
+  "options": {
+   "A": "from",
+   "B": "for",
+   "C": "in",
+   "D": "of"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G99_22_2",
+  "year": "99年",
+  "passageId": "99_2",
+  "blankNum": 22,
+  "category": "時態",
+  "options": {
+   "A": "grown",
+   "B": "tasted",
+   "C": "identified",
+   "D": "emphasized"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G99_23_2",
+  "year": "99年",
+  "passageId": "99_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "such",
+   "B": "much",
+   "C": "that",
+   "D": "it"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99_24_2",
+  "year": "99年",
+  "passageId": "99_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "Unlike",
+   "B": "Through",
+   "C": "Besides",
+   "D": "Despite"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G99_25_2",
+  "year": "99年",
+  "passageId": "99_2",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "anxious",
+   "B": "intense",
+   "C": "organic",
+   "D": "effective"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G99_26_3",
+  "year": "99年",
+  "passageId": "99_3",
+  "blankNum": 26,
+  "category": "時態",
+  "options": {
+   "A": "frightening",
+   "B": "threatening",
+   "C": "appealing",
+   "D": "promoting"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G99_27_3",
+  "year": "99年",
+  "passageId": "99_3",
+  "blankNum": 27,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "cause",
+   "B": "causing",
+   "C": "caused",
+   "D": "to cause"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G99_28_3",
+  "year": "99年",
+  "passageId": "99_3",
+  "blankNum": 28,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "Although",
+   "B": "Despite",
+   "C": "Since",
+   "D": "So"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G99_29_3",
+  "year": "99年",
+  "passageId": "99_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "display",
+   "B": "production",
+   "C": "shipment",
+   "D": "safety"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99_30_3",
+  "year": "99年",
+  "passageId": "99_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "waste",
+   "B": "resource",
+   "C": "ground",
+   "D": "profit"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G100_16_1",
+  "year": "100年",
+  "passageId": "100_1",
+  "blankNum": 16,
+  "category": "介系詞",
+  "options": {
+   "A": "for",
+   "B": "by",
+   "C": "after",
+   "D": "into"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G100_17_1",
+  "year": "100年",
+  "passageId": "100_1",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "went through",
+   "B": "made up",
+   "C": "changed into",
+   "D": "turned out"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G100_18_1",
+  "year": "100年",
+  "passageId": "100_1",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "remain",
+   "B": "remind",
+   "C": "repair",
+   "D": "replace"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G100_19_1",
+  "year": "100年",
+  "passageId": "100_1",
+  "blankNum": 19,
+  "category": "時態",
+  "options": {
+   "A": "wrapped",
+   "B": "wrapping",
+   "C": "to wrap",
+   "D": "being wrapped"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G100_20_1",
+  "year": "100年",
+  "passageId": "100_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "galleries",
+   "B": "landmarks",
+   "C": "companies",
+   "D": "tombs"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G100_21_2",
+  "year": "100年",
+  "passageId": "100_2",
+  "blankNum": 21,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "is given",
+   "B": "was given",
+   "C": "has given",
+   "D": "had given"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G100_22_2",
+  "year": "100年",
+  "passageId": "100_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "worthy",
+   "B": "global",
+   "C": "sticky",
+   "D": "physical"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G100_23_2",
+  "year": "100年",
+  "passageId": "100_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "one",
+   "B": "thing",
+   "C": "other",
+   "D": "else"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G100_24_2",
+  "year": "100年",
+  "passageId": "100_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "how",
+   "B": "what",
+   "C": "where",
+   "D": "that"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G100_25_2",
+  "year": "100年",
+  "passageId": "100_2",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "appealed to",
+   "B": "presented with",
+   "C": "resulted in",
+   "D": "brought about"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G100_26_3",
+  "year": "100年",
+  "passageId": "100_3",
+  "blankNum": 26,
+  "category": "比較級",
+  "options": {
+   "A": "the above",
+   "B": "the former",
+   "C": "the following",
+   "D": "the latter"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G100_27_3",
+  "year": "100年",
+  "passageId": "100_3",
+  "blankNum": 27,
+  "category": "時態",
+  "options": {
+   "A": "traded",
+   "B": "weakened",
+   "C": "limited",
+   "D": "noticed"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G100_28_3",
+  "year": "100年",
+  "passageId": "100_3",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "term",
+   "B": "termed",
+   "C": "terms",
+   "D": "was termed"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G100_29_3",
+  "year": "100年",
+  "passageId": "100_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "what",
+   "B": "which",
+   "C": "why",
+   "D": "how"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G100_30_3",
+  "year": "100年",
+  "passageId": "100_3",
+  "blankNum": 30,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "be",
+   "B": "being",
+   "C": "to be",
+   "D": "were"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G101_16_1",
+  "year": "101年",
+  "passageId": "101_1",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "affairs",
+   "B": "fashions",
+   "C": "industries",
+   "D": "attractions"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G101_17_1",
+  "year": "101年",
+  "passageId": "101_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "them",
+   "B": "that",
+   "C": "those",
+   "D": "which"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G101_18_1",
+  "year": "101年",
+  "passageId": "101_1",
+  "blankNum": 18,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "in fact",
+   "B": "once again",
+   "C": "as usual",
+   "D": "for instance"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G101_19_1",
+  "year": "101年",
+  "passageId": "101_1",
+  "blankNum": 19,
+  "category": "分詞／動狀詞",
+  "options": {
+   "A": "except",
+   "B": "besides",
+   "C": "including",
+   "D": "regarding"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G101_20_1",
+  "year": "101年",
+  "passageId": "101_1",
+  "blankNum": 20,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "make",
+   "B": "making",
+   "C": "made",
+   "D": "to make"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G101_21_2",
+  "year": "101年",
+  "passageId": "101_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "yet",
+   "B": "even",
+   "C": "never",
+   "D": "rather"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G101_22_2",
+  "year": "101年",
+  "passageId": "101_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "though",
+   "B": "because",
+   "C": "where",
+   "D": "when"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G101_23_2",
+  "year": "101年",
+  "passageId": "101_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "close",
+   "B": "apart",
+   "C": "deep",
+   "D": "hard"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G101_24_2",
+  "year": "101年",
+  "passageId": "101_2",
+  "blankNum": 24,
+  "category": "比較級",
+  "options": {
+   "A": "each",
+   "B": "more",
+   "C": "any",
+   "D": "neither"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G101_25_2",
+  "year": "101年",
+  "passageId": "101_2",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "look for",
+   "B": "get over",
+   "C": "do without",
+   "D": "bump into"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G101_26_3",
+  "year": "101年",
+  "passageId": "101_3",
+  "blankNum": 26,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "skip over",
+   "B": "come across",
+   "C": "look into",
+   "D": "break down"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G101_27_3",
+  "year": "101年",
+  "passageId": "101_3",
+  "blankNum": 27,
+  "category": "時態",
+  "options": {
+   "A": "is",
+   "B": "has been",
+   "C": "was",
+   "D": "had been"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G101_28_3",
+  "year": "101年",
+  "passageId": "101_3",
+  "blankNum": 28,
+  "category": "比較級",
+  "options": {
+   "A": "quicker",
+   "B": "sooner",
+   "C": "easier",
+   "D": "better"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G101_29_3",
+  "year": "101年",
+  "passageId": "101_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "aim",
+   "B": "tone",
+   "C": "key",
+   "D": "peak"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G101_30_3",
+  "year": "101年",
+  "passageId": "101_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "push",
+   "B": "keep",
+   "C": "bring",
+   "D": "make"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G103_16_1",
+  "year": "103年",
+  "passageId": "103_1",
+  "blankNum": 16,
+  "category": "時態",
+  "options": {
+   "A": "Amazing",
+   "B": "Smiling",
+   "C": "Deciding",
+   "D": "Praying"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G103_17_1",
+  "year": "103年",
+  "passageId": "103_1",
+  "blankNum": 17,
+  "category": "介系詞",
+  "options": {
+   "A": "At",
+   "B": "By",
+   "C": "For",
+   "D": "Into"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G103_18_1",
+  "year": "103年",
+  "passageId": "103_1",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "a",
+   "B": "the",
+   "C": "other",
+   "D": "another"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G103_19_1",
+  "year": "103年",
+  "passageId": "103_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "Again",
+   "B": "Indeed",
+   "C": "Together",
+   "D": "Moreover"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G103_20_1",
+  "year": "103年",
+  "passageId": "103_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "brave",
+   "B": "lonely",
+   "C": "mean",
+   "D": "skinny"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G103_21_2",
+  "year": "103年",
+  "passageId": "103_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "situations",
+   "B": "descriptions",
+   "C": "translations",
+   "D": "calculations"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G103_22_2",
+  "year": "103年",
+  "passageId": "103_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "operate",
+   "B": "expand",
+   "C": "recover",
+   "D": "vanish"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G103_23_2",
+  "year": "103年",
+  "passageId": "103_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "capable",
+   "B": "ready",
+   "C": "likely",
+   "D": "horrible"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G103_24_2",
+  "year": "103年",
+  "passageId": "103_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "Among",
+   "B": "Besides",
+   "C": "Inside",
+   "D": "Without"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G103_25_2",
+  "year": "103年",
+  "passageId": "103_2",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "thus",
+   "B": "just",
+   "C": "instead",
+   "D": "otherwise"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G103_26_3",
+  "year": "103年",
+  "passageId": "103_3",
+  "blankNum": 26,
+  "category": "時態",
+  "options": {
+   "A": "conveyed",
+   "B": "examined",
+   "C": "solved",
+   "D": "implied"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G103_27_3",
+  "year": "103年",
+  "passageId": "103_3",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "whoever",
+   "B": "because",
+   "C": "whether",
+   "D": "rather"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G103_28_3",
+  "year": "103年",
+  "passageId": "103_3",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "set out",
+   "B": "turn out",
+   "C": "put into practice",
+   "D": "take into account"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G103_29_3",
+  "year": "103年",
+  "passageId": "103_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "However",
+   "B": "Furthermore",
+   "C": "Conditionally",
+   "D": "Similarly"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G103_30_3",
+  "year": "103年",
+  "passageId": "103_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "though",
+   "B": "unless",
+   "C": "once",
+   "D": "even"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G105_16_1",
+  "year": "105年",
+  "passageId": "105_1",
+  "blankNum": 16,
+  "category": "轉承語（副詞）",
+  "options": {
+   "A": "However",
+   "B": "Otherwise",
+   "C": "Furthermore",
+   "D": "Accordingly"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G105_17_1",
+  "year": "105年",
+  "passageId": "105_1",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "made believe",
+   "B": "got along",
+   "C": "turned out",
+   "D": "felt like"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G105_18_1",
+  "year": "105年",
+  "passageId": "105_1",
+  "blankNum": 18,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "hold on to",
+   "B": "get rid of",
+   "C": "make fun of",
+   "D": "take advantage of"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G105_19_1",
+  "year": "105年",
+  "passageId": "105_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "how",
+   "B": "that",
+   "C": "why",
+   "D": "what"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G105_20_1",
+  "year": "105年",
+  "passageId": "105_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "Namely",
+   "B": "Altogether",
+   "C": "Simply",
+   "D": "Instead"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G105_21_2",
+  "year": "105年",
+  "passageId": "105_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "what",
+   "B": "when",
+   "C": "how",
+   "D": "why"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G105_22_2",
+  "year": "105年",
+  "passageId": "105_2",
+  "blankNum": 22,
+  "category": "時態",
+  "options": {
+   "A": "adapted",
+   "B": "attached",
+   "C": "related",
+   "D": "restricted"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G105_23_2",
+  "year": "105年",
+  "passageId": "105_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "Before",
+   "B": "Among",
+   "C": "Without",
+   "D": "Throughout"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G105_24_2",
+  "year": "105年",
+  "passageId": "105_2",
+  "blankNum": 24,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "was being",
+   "B": "would be",
+   "C": "was to be",
+   "D": "would have been"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G105_25_2",
+  "year": "105年",
+  "passageId": "105_2",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "quantity",
+   "B": "accuracy",
+   "C": "possibility",
+   "D": "emergency"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G105_26_3",
+  "year": "105年",
+  "passageId": "105_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "them",
+   "B": "such",
+   "C": "what",
+   "D": "it"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G105_27_3",
+  "year": "105年",
+  "passageId": "105_3",
+  "blankNum": 27,
+  "category": "時態",
+  "options": {
+   "A": "installed",
+   "B": "reserved",
+   "C": "opposed",
+   "D": "determined"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G105_28_3",
+  "year": "105年",
+  "passageId": "105_3",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "to the point",
+   "B": "on the rise",
+   "C": "off the hook",
+   "D": "for the record"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G105_29_3",
+  "year": "105年",
+  "passageId": "105_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "Despite",
+   "B": "Between",
+   "C": "Without",
+   "D": "Under"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G105_30_3",
+  "year": "105年",
+  "passageId": "105_3",
+  "blankNum": 30,
+  "category": "時態",
+  "options": {
+   "A": "driving",
+   "B": "pulling",
+   "C": "riding",
+   "D": "bringing"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G106_16_1",
+  "year": "106年",
+  "passageId": "106_1",
+  "blankNum": 16,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "check out",
+   "B": "look into",
+   "C": "watch over",
+   "D": "see through"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G106_17_1",
+  "year": "106年",
+  "passageId": "106_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "incidents",
+   "B": "measures",
+   "C": "symptoms",
+   "D": "explanations"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G106_18_1",
+  "year": "106年",
+  "passageId": "106_1",
+  "blankNum": 18,
+  "category": "時態",
+  "options": {
+   "A": "attracted",
+   "B": "contributed",
+   "C": "exposed",
+   "D": "transferred"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G106_19_1",
+  "year": "106年",
+  "passageId": "106_1",
+  "blankNum": 19,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "As",
+   "B": "If",
+   "C": "Unless",
+   "D": "Although"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G106_20_1",
+  "year": "106年",
+  "passageId": "106_1",
+  "blankNum": 20,
+  "category": "介系詞",
+  "options": {
+   "A": "against",
+   "B": "among",
+   "C": "about",
+   "D": "after"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G106_21_2",
+  "year": "106年",
+  "passageId": "106_2",
+  "blankNum": 21,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "except for",
+   "B": "provided with",
+   "C": "far from",
+   "D": "let alone"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G106_22_2",
+  "year": "106年",
+  "passageId": "106_2",
+  "blankNum": 22,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "get done",
+   "B": "get lost",
+   "C": "make do",
+   "D": "make believe"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G106_23_2",
+  "year": "106年",
+  "passageId": "106_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "adjust",
+   "B": "explore",
+   "C": "insert",
+   "D": "overlook"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G106_24_2",
+  "year": "106年",
+  "passageId": "106_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "by",
+   "B": "in",
+   "C": "from",
+   "D": "down"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G106_25_2",
+  "year": "106年",
+  "passageId": "106_2",
+  "blankNum": 25,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "whether",
+   "B": "while",
+   "C": "with",
+   "D": "for"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G106_26_3",
+  "year": "106年",
+  "passageId": "106_3",
+  "blankNum": 26,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "At most",
+   "B": "In contrast",
+   "C": "Literally",
+   "D": "Accordingly"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G106_27_3",
+  "year": "106年",
+  "passageId": "106_3",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "gap",
+   "B": "link",
+   "C": "clue",
+   "D": "ratio"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G106_28_3",
+  "year": "106年",
+  "passageId": "106_3",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "out of",
+   "B": "as well as",
+   "C": "in case of",
+   "D": "due to"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G106_29_3",
+  "year": "106年",
+  "passageId": "106_3",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "break off",
+   "B": "approve of",
+   "C": "engage in",
+   "D": "take over"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G106_30_3",
+  "year": "106年",
+  "passageId": "106_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "reform",
+   "B": "lower",
+   "C": "switch",
+   "D": "demand"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G108_16_1",
+  "year": "108年",
+  "passageId": "108_1",
+  "blankNum": 16,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "leads to",
+   "B": "brings out",
+   "C": "stems from",
+   "D": "comes across"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G108_17_1",
+  "year": "108年",
+  "passageId": "108_1",
+  "blankNum": 17,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "continue",
+   "B": "continuing",
+   "C": "to continue",
+   "D": "continued"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G108_18_1",
+  "year": "108年",
+  "passageId": "108_1",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "Precisely",
+   "B": "Eventually",
+   "C": "Additionally",
+   "D": "Literally"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G108_19_1",
+  "year": "108年",
+  "passageId": "108_1",
+  "blankNum": 19,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "come to an end",
+   "B": "go to great lengths",
+   "C": "put in service",
+   "D": "hold in store"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G108_20_1",
+  "year": "108年",
+  "passageId": "108_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "fictional",
+   "B": "essential",
+   "C": "ancient",
+   "D": "subjective"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G108_21_2",
+  "year": "108年",
+  "passageId": "108_2",
+  "blankNum": 21,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "bring along",
+   "B": "turn out",
+   "C": "account for",
+   "D": "serve as"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G108_22_2",
+  "year": "108年",
+  "passageId": "108_2",
+  "blankNum": 22,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "wove",
+   "B": "weaving",
+   "C": "woven",
+   "D": "to weave"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G108_23_2",
+  "year": "108年",
+  "passageId": "108_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "else",
+   "B": "those",
+   "C": "other",
+   "D": "such"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G108_24_2",
+  "year": "108年",
+  "passageId": "108_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "advantages",
+   "B": "considerations",
+   "C": "opportunities",
+   "D": "responsibilities"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G108_25_2",
+  "year": "108年",
+  "passageId": "108_2",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "Due to",
+   "B": "Nothing but",
+   "C": "In contrast to",
+   "D": "On behalf of"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G108_26_3",
+  "year": "108年",
+  "passageId": "108_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "beyond",
+   "B": "into",
+   "C": "from",
+   "D": "with"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G108_27_3",
+  "year": "108年",
+  "passageId": "108_3",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "this",
+   "B": "that",
+   "C": "some",
+   "D": "other"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G108_28_3",
+  "year": "108年",
+  "passageId": "108_3",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "beforehand",
+   "B": "likewise",
+   "C": "instead",
+   "D": "therefore"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G108_29_3",
+  "year": "108年",
+  "passageId": "108_3",
+  "blankNum": 29,
+  "category": "比較級",
+  "options": {
+   "A": "prettier",
+   "B": "larger",
+   "C": "healthier",
+   "D": "tastier"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G108_30_3",
+  "year": "108年",
+  "passageId": "108_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "impress",
+   "B": "release",
+   "C": "bother",
+   "D": "attract"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G109_16_1",
+  "year": "109年",
+  "passageId": "109_1",
+  "blankNum": 16,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "were being",
+   "B": "have been",
+   "C": "will be",
+   "D": "had to be"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G109_17_1",
+  "year": "109年",
+  "passageId": "109_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "competition",
+   "B": "application",
+   "C": "investigation",
+   "D": "participation"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G109_18_1",
+  "year": "109年",
+  "passageId": "109_1",
+  "blankNum": 18,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "carry away",
+   "B": "build on",
+   "C": "cope with",
+   "D": "get off"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G109_19_1",
+  "year": "109年",
+  "passageId": "109_1",
+  "blankNum": 19,
+  "category": "比較級",
+  "options": {
+   "A": "moreover",
+   "B": "altogether",
+   "C": "namely",
+   "D": "otherwise"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G109_20_1",
+  "year": "109年",
+  "passageId": "109_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "positive",
+   "B": "general",
+   "C": "flexible",
+   "D": "considerate"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G109_21_2",
+  "year": "109年",
+  "passageId": "109_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "similar",
+   "B": "miserable",
+   "C": "realistic",
+   "D": "temporary"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G109_22_2",
+  "year": "109年",
+  "passageId": "109_2",
+  "blankNum": 22,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "As a result of",
+   "B": "In a search for",
+   "C": "With a view to",
+   "D": "To the extent of"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G109_23_2",
+  "year": "109年",
+  "passageId": "109_2",
+  "blankNum": 23,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "shoot out",
+   "B": "hold on",
+   "C": "come across",
+   "D": "give up"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G109_24_2",
+  "year": "109年",
+  "passageId": "109_2",
+  "blankNum": 24,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "jump",
+   "B": "to jump",
+   "C": "jumping",
+   "D": "jumped"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G109_25_2",
+  "year": "109年",
+  "passageId": "109_2",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "curious",
+   "B": "relative",
+   "C": "unique",
+   "D": "primitive"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G109_26_3",
+  "year": "109年",
+  "passageId": "109_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "increase",
+   "B": "require",
+   "C": "command",
+   "D": "encourage"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G109_27_3",
+  "year": "109年",
+  "passageId": "109_3",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "disguise",
+   "B": "merit",
+   "C": "remedy",
+   "D": "ceremony"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G109_28_3",
+  "year": "109年",
+  "passageId": "109_3",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "If so",
+   "B": "And yet",
+   "C": "On that",
+   "D": "With this"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G109_29_3",
+  "year": "109年",
+  "passageId": "109_3",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "as for",
+   "B": "owing to",
+   "C": "in spite of",
+   "D": "with respect to"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G109_30_3",
+  "year": "109年",
+  "passageId": "109_3",
+  "blankNum": 30,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "breaks down",
+   "B": "mixes up",
+   "C": "tears off",
+   "D": "results in"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G110_16_1",
+  "year": "110年",
+  "passageId": "110_1",
+  "blankNum": 16,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "as",
+   "B": "for",
+   "C": "though",
+   "D": "without"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G110_17_1",
+  "year": "110年",
+  "passageId": "110_1",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "set up",
+   "B": "hang on",
+   "C": "take over",
+   "D": "break down"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G110_18_1",
+  "year": "110年",
+  "passageId": "110_1",
+  "blankNum": 18,
+  "category": "時態",
+  "options": {
+   "A": "counting",
+   "B": "reducing",
+   "C": "displaying",
+   "D": "maintaining"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G110_19_1",
+  "year": "110年",
+  "passageId": "110_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "nearly",
+   "B": "shortly",
+   "C": "precisely",
+   "D": "similarly"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G110_20_1",
+  "year": "110年",
+  "passageId": "110_1",
+  "blankNum": 20,
+  "category": "時態",
+  "options": {
+   "A": "installing",
+   "B": "installed",
+   "C": "to install",
+   "D": "having installed"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G110_21_2",
+  "year": "110年",
+  "passageId": "110_2",
+  "blankNum": 21,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "if it isn’t",
+   "B": "as you can see",
+   "C": "not to mention",
+   "D": "with regard to"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G110_22_2",
+  "year": "110年",
+  "passageId": "110_2",
+  "blankNum": 22,
+  "category": "時態",
+  "options": {
+   "A": "piloted",
+   "B": "rejected",
+   "C": "survived",
+   "D": "tracked"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G110_23_2",
+  "year": "110年",
+  "passageId": "110_2",
+  "blankNum": 23,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "fearful of",
+   "B": "critical of",
+   "C": "doubtful about",
+   "D": "positive about"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G110_24_2",
+  "year": "110年",
+  "passageId": "110_2",
+  "blankNum": 24,
+  "category": "比較級",
+  "options": {
+   "A": "coming after",
+   "B": "getting over",
+   "C": "holding on to",
+   "D": "watching out for"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G110_25_2",
+  "year": "110年",
+  "passageId": "110_2",
+  "blankNum": 25,
+  "category": "時態",
+  "options": {
+   "A": "was",
+   "B": "had been",
+   "C": "would be",
+   "D": "would have been"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G110_26_3",
+  "year": "110年",
+  "passageId": "110_3",
+  "blankNum": 26,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "home to",
+   "B": "covers of",
+   "C": "roofs over",
+   "D": "room for"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G110_27_3",
+  "year": "110年",
+  "passageId": "110_3",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "occasional",
+   "B": "elaborate",
+   "C": "immediate",
+   "D": "offensive"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G110_28_3",
+  "year": "110年",
+  "passageId": "110_3",
+  "blankNum": 28,
+  "category": "時態",
+  "options": {
+   "A": "Have",
+   "B": "Had",
+   "C": "Having",
+   "D": "Having been"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G110_29_3",
+  "year": "110年",
+  "passageId": "110_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "cultural",
+   "B": "moral",
+   "C": "political",
+   "D": "environmental"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G110_30_3",
+  "year": "110年",
+  "passageId": "110_3",
+  "blankNum": 30,
+  "category": "時態",
+  "options": {
+   "A": "kept balanced",
+   "B": "made released",
+   "C": "seen dismissed",
+   "D": "left unchecked"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G110試辦考試_11_1",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_1",
+  "blankNum": 11,
+  "category": "vocab in context",
+  "options": {
+   "A": "health",
+   "B": "stress",
+   "C": "culture",
+   "D": "friendship"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G110試辦考試_12_1",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_1",
+  "blankNum": 12,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "hand gesture",
+   "B": "body movement",
+   "C": "verbal response",
+   "D": "facial expression"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G110試辦考試_13_1",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_1",
+  "blankNum": 13,
+  "category": "轉承語（副詞）",
+  "options": {
+   "A": "therefore",
+   "B": "likewise",
+   "C": "however",
+   "D": "instead"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G110試辦考試_14_1",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_1",
+  "blankNum": 14,
+  "category": "vocab in context",
+  "options": {
+   "A": "so",
+   "B": "nor",
+   "C": "only",
+   "D": "nearly"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G110試辦考試_15_1",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_1",
+  "blankNum": 15,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "let go of",
+   "B": "look up to",
+   "C": "go in for",
+   "D": "come up with"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G110試辦考試_16_2",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_2",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "imitates",
+   "B": "explains",
+   "C": "develops",
+   "D": "resembles"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G110試辦考試_17_2",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_2",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "how",
+   "B": "where",
+   "C": "what",
+   "D": "whether"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G110試辦考試_18_2",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_2",
+  "blankNum": 18,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "even more ridiculous",
+   "B": "no longer useful",
+   "C": "still quite convenient",
+   "D": "more than important"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G110試辦考試_19_2",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_2",
+  "blankNum": 19,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "threaten",
+   "B": "threatening",
+   "C": "threatened",
+   "D": "to threaten"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G110試辦考試_20_2",
+  "year": "110年試辦考試",
+  "passageId": "110試辦考試_2",
+  "blankNum": 20,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "blocking the smell",
+   "B": "attracting mates",
+   "C": "showing friendliness",
+   "D": "scaring the enemy"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G112_11_1",
+  "year": "112年",
+  "passageId": "112_1",
+  "blankNum": 11,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "in no time",
+   "B": "by all means",
+   "C": "but not quite",
+   "D": "and pretty much"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G112_12_1",
+  "year": "112年",
+  "passageId": "112_1",
+  "blankNum": 12,
+  "category": "vocab in context",
+  "options": {
+   "A": "universal",
+   "B": "productive",
+   "C": "conventional",
+   "D": "multiple"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G112_13_1",
+  "year": "112年",
+  "passageId": "112_1",
+  "blankNum": 13,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "get over",
+   "B": "compete for",
+   "C": "give way to",
+   "D": "make up for"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G112_14_1",
+  "year": "112年",
+  "passageId": "112_1",
+  "blankNum": 14,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "reliance on",
+   "B": "exposure to",
+   "C": "sensitivity to",
+   "D": "reflection on"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G112_15_1",
+  "year": "112年",
+  "passageId": "112_1",
+  "blankNum": 15,
+  "category": "vocab in context",
+  "options": {
+   "A": "For",
+   "B": "Besides",
+   "C": "Despite",
+   "D": "Concerning"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G112_16_2",
+  "year": "112年",
+  "passageId": "112_2",
+  "blankNum": 16,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "back to",
+   "B": "free of",
+   "C": "long before",
+   "D": "straight on"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G112_17_2",
+  "year": "112年",
+  "passageId": "112_2",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "physical",
+   "B": "perceptual",
+   "C": "mental",
+   "D": "external"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G112_18_2",
+  "year": "112年",
+  "passageId": "112_2",
+  "blankNum": 18,
+  "category": "時態",
+  "options": {
+   "A": "redistribute",
+   "B": "redistributed",
+   "C": "redistributing",
+   "D": "being redistributed"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G112_19_2",
+  "year": "112年",
+  "passageId": "112_2",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "contagious",
+   "B": "unusual",
+   "C": "severe",
+   "D": "aggressive"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G112_20_2",
+  "year": "112年",
+  "passageId": "112_2",
+  "blankNum": 20,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "varied with",
+   "B": "brought about",
+   "C": "transferred from",
+   "D": "accompanied by"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G91_21_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "unlike",
+   "B": "dislike",
+   "C": "like",
+   "D": "alike"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G91_22_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "Then",
+   "B": "When",
+   "C": "Since",
+   "D": "And"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G91_23_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "send",
+   "B": "make",
+   "C": "take",
+   "D": "give"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G91_24_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 24,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "If",
+   "B": "For",
+   "C": "As",
+   "D": "So"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G91_25_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "Which",
+   "B": "While",
+   "C": "Where",
+   "D": "What"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G91_26_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "express",
+   "B": "wonder",
+   "C": "select",
+   "D": "ignore"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G91_27_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "sometimes",
+   "B": "anyway",
+   "C": "somehow",
+   "D": "anyhow"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G91_28_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "describes",
+   "B": "described",
+   "C": "describe",
+   "D": "describing"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G91_29_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "happen",
+   "B": "occur",
+   "C": "appear",
+   "D": "become"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G91_30_1",
+  "year": "91年",
+  "passageId": "91_1",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "not",
+   "B": "yet",
+   "C": "till",
+   "D": "though"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G91補考_21_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 21,
+  "category": "介系詞",
+  "options": {
+   "A": "In",
+   "B": "By",
+   "C": "With",
+   "D": "At"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G91補考_22_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "as",
+   "B": "too",
+   "C": "still",
+   "D": "quite"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G91補考_23_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "thus",
+   "B": "just",
+   "C": "so",
+   "D": "yet"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G91補考_24_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "many",
+   "B": "even",
+   "C": "other",
+   "D": "few"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G91補考_25_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "no",
+   "B": "all",
+   "C": "some",
+   "D": "any"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G91補考_26_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 26,
+  "category": "介系詞",
+  "options": {
+   "A": "of",
+   "B": "on",
+   "C": "to",
+   "D": "from"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G91補考_27_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "offer",
+   "B": "offers",
+   "C": "offered",
+   "D": "offering"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G91補考_28_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "get",
+   "B": "join",
+   "C": "learn",
+   "D": "try"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G91補考_29_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "what",
+   "B": "they",
+   "C": "that",
+   "D": "those"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G91補考_30_1",
+  "year": "91年補考",
+  "passageId": "91補考_1",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "upper",
+   "B": "over",
+   "C": "upward",
+   "D": "above"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G92_21_1",
+  "year": "92年",
+  "passageId": "92_1",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "therefore",
+   "B": "similarly",
+   "C": "however",
+   "D": "otherwise"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G92_22_1",
+  "year": "92年",
+  "passageId": "92_1",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "Each",
+   "B": "This",
+   "C": "Their",
+   "D": "Another"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G92_23_1",
+  "year": "92年",
+  "passageId": "92_1",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "rather",
+   "B": "almost",
+   "C": "ever",
+   "D": "still"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G92_24_1",
+  "year": "92年",
+  "passageId": "92_1",
+  "blankNum": 24,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "the one",
+   "B": "someone",
+   "C": "no one",
+   "D": "one"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G92_25_1",
+  "year": "92年",
+  "passageId": "92_1",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "where",
+   "B": "what",
+   "C": "which",
+   "D": "whether"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G92_26_2",
+  "year": "92年",
+  "passageId": "92_2",
+  "blankNum": 26,
+  "category": "比較級",
+  "options": {
+   "A": "another",
+   "B": "one another",
+   "C": "other",
+   "D": "the other"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G92_27_2",
+  "year": "92年",
+  "passageId": "92_2",
+  "blankNum": 27,
+  "category": "關係子句",
+  "options": {
+   "A": "which",
+   "B": "where",
+   "C": "what",
+   "D": "that"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G92_28_2",
+  "year": "92年",
+  "passageId": "92_2",
+  "blankNum": 28,
+  "category": "時態",
+  "options": {
+   "A": "is isolated",
+   "B": "had isolated",
+   "C": "has isolated",
+   "D": "has been isolated"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G92_29_2",
+  "year": "92年",
+  "passageId": "92_2",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "confusion",
+   "B": "marriage",
+   "C": "contact",
+   "D": "transaction"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G92_30_2",
+  "year": "92年",
+  "passageId": "92_2",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "nowhere",
+   "B": "somewhere",
+   "C": "everywhere",
+   "D": "anywhere"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G92補考_21_1",
+  "year": "92年補考",
+  "passageId": "92補考_1",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "answer",
+   "B": "reason",
+   "C": "health",
+   "D": "food"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G92補考_22_1",
+  "year": "92年補考",
+  "passageId": "92補考_1",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "what",
+   "B": "where",
+   "C": "when",
+   "D": "how"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G92補考_23_1",
+  "year": "92年補考",
+  "passageId": "92補考_1",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "many",
+   "B": "much",
+   "C": "such",
+   "D": "so"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G92補考_24_1",
+  "year": "92年補考",
+  "passageId": "92補考_1",
+  "blankNum": 24,
+  "category": "時態",
+  "options": {
+   "A": "shopping",
+   "B": "buying",
+   "C": "marketing",
+   "D": "growing"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G92補考_25_1",
+  "year": "92年補考",
+  "passageId": "92補考_1",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "share",
+   "B": "are shared",
+   "C": "are sharing",
+   "D": "will share"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G92補考_26_2",
+  "year": "92年補考",
+  "passageId": "92補考_2",
+  "blankNum": 26,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "as if",
+   "B": "even though",
+   "C": "in case",
+   "D": "such as"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G92補考_27_2",
+  "year": "92年補考",
+  "passageId": "92補考_2",
+  "blankNum": 27,
+  "category": "時態",
+  "options": {
+   "A": "raided",
+   "B": "raiding",
+   "C": "to be raided",
+   "D": "to be raiding"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G92補考_28_2",
+  "year": "92年補考",
+  "passageId": "92補考_2",
+  "blankNum": 28,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "and",
+   "B": "but",
+   "C": "after",
+   "D": "until"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G92補考_29_2",
+  "year": "92年補考",
+  "passageId": "92補考_2",
+  "blankNum": 29,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "unless",
+   "B": "that",
+   "C": "if",
+   "D": "because"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G92補考_30_2",
+  "year": "92年補考",
+  "passageId": "92補考_2",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "only",
+   "B": "also",
+   "C": "even",
+   "D": "neither"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G93_16_1",
+  "year": "93年",
+  "passageId": "93_1",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "chosen",
+   "B": "searching",
+   "C": "dead",
+   "D": "previous"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G93_17_1",
+  "year": "93年",
+  "passageId": "93_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "It",
+   "B": "All",
+   "C": "One",
+   "D": "This"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G93_18_1",
+  "year": "93年",
+  "passageId": "93_1",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "what",
+   "B": "whether",
+   "C": "why",
+   "D": "that"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G93_19_1",
+  "year": "93年",
+  "passageId": "93_1",
+  "blankNum": 19,
+  "category": "時態",
+  "options": {
+   "A": "having aged",
+   "B": "aging",
+   "C": "to age",
+   "D": "aged"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G93_20_1",
+  "year": "93年",
+  "passageId": "93_1",
+  "blankNum": 20,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "relative to",
+   "B": "rather than",
+   "C": "as a result of",
+   "D": "with regard to"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G93_21_2",
+  "year": "93年",
+  "passageId": "93_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "towards",
+   "B": "against",
+   "C": "down",
+   "D": "over"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G93_22_2",
+  "year": "93年",
+  "passageId": "93_2",
+  "blankNum": 22,
+  "category": "時態",
+  "options": {
+   "A": "expanding",
+   "B": "eliminating",
+   "C": "deleting",
+   "D": "assisting"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G93_23_2",
+  "year": "93年",
+  "passageId": "93_2",
+  "blankNum": 23,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "In view of",
+   "B": "In spite of",
+   "C": "In case of",
+   "D": "In conjunction with"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G93_24_2",
+  "year": "93年",
+  "passageId": "93_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "affected",
+   "B": "frequent",
+   "C": "effective",
+   "D": "included"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G93_25_2",
+  "year": "93年",
+  "passageId": "93_2",
+  "blankNum": 25,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "Contributing",
+   "B": "Contribute",
+   "C": "To contribute",
+   "D": "For contributing"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G93_26_3",
+  "year": "93年",
+  "passageId": "93_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "cultural",
+   "B": "racial",
+   "C": "age",
+   "D": "gender"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G93_27_3",
+  "year": "93年",
+  "passageId": "93_3",
+  "blankNum": 27,
+  "category": "介系詞",
+  "options": {
+   "A": "for",
+   "B": "within",
+   "C": "between",
+   "D": "into"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G93_28_3",
+  "year": "93年",
+  "passageId": "93_3",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "very",
+   "B": "both",
+   "C": "still",
+   "D": "thus"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G93_29_3",
+  "year": "93年",
+  "passageId": "93_3",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "similarly",
+   "B": "moreover",
+   "C": "in contrast",
+   "D": "in consequence"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G93_30_3",
+  "year": "93年",
+  "passageId": "93_3",
+  "blankNum": 30,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "according to",
+   "B": "next to",
+   "C": "such as",
+   "D": "because of"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G94_16_1",
+  "year": "94年",
+  "passageId": "94_1",
+  "blankNum": 16,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "rebel",
+   "B": "to rebel",
+   "C": "rebelling",
+   "D": "be rebelled"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G94_17_1",
+  "year": "94年",
+  "passageId": "94_1",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "take pride in",
+   "B": "fall short of",
+   "C": "get out of",
+   "D": "keep up with"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G94_18_1",
+  "year": "94年",
+  "passageId": "94_1",
+  "blankNum": 18,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "Since",
+   "B": "For",
+   "C": "To",
+   "D": "As"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G94_19_1",
+  "year": "94年",
+  "passageId": "94_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "who",
+   "B": "while",
+   "C": "that",
+   "D": "when"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G94_20_1",
+  "year": "94年",
+  "passageId": "94_1",
+  "blankNum": 20,
+  "category": "時態",
+  "options": {
+   "A": "relieved",
+   "B": "relaxed",
+   "C": "relied",
+   "D": "reacted"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G94_21_2",
+  "year": "94年",
+  "passageId": "94_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "when",
+   "B": "how",
+   "C": "where",
+   "D": "what"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G94_22_2",
+  "year": "94年",
+  "passageId": "94_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "symbols",
+   "B": "warnings",
+   "C": "commercials",
+   "D": "decorations"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G94_23_2",
+  "year": "94年",
+  "passageId": "94_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "increase",
+   "B": "change",
+   "C": "portion",
+   "D": "drop"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G94_24_2",
+  "year": "94年",
+  "passageId": "94_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "highlight",
+   "B": "highlights",
+   "C": "highlighting",
+   "D": "highlighted"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G94_25_2",
+  "year": "94年",
+  "passageId": "94_2",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "in fact",
+   "B": "rather than",
+   "C": "regarding",
+   "D": "especially"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G94_26_3",
+  "year": "94年",
+  "passageId": "94_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "although",
+   "B": "because",
+   "C": "when",
+   "D": "so that"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G94_27_3",
+  "year": "94年",
+  "passageId": "94_3",
+  "blankNum": 27,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "In contrast",
+   "B": "Before long",
+   "C": "For example",
+   "D": "To begin with"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G94_28_3",
+  "year": "94年",
+  "passageId": "94_3",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "discomfort",
+   "B": "prescription",
+   "C": "enjoyment",
+   "D": "satisfaction"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G94_29_3",
+  "year": "94年",
+  "passageId": "94_3",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "from door to door",
+   "B": "from place to place",
+   "C": "from top to toe",
+   "D": "from case to case"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G94_30_3",
+  "year": "94年",
+  "passageId": "94_3",
+  "blankNum": 30,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "as with",
+   "B": "for",
+   "C": "unlike",
+   "D": "except for"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G86_21_1",
+  "year": "86年",
+  "passageId": "86_1",
+  "blankNum": 21,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "Despite",
+   "B": "Because",
+   "C": "Unless",
+   "D": "Although"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G86_22_1",
+  "year": "86年",
+  "passageId": "86_1",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "points",
+   "B": "says",
+   "C": "walks",
+   "D": "feels"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G86_23_1",
+  "year": "86年",
+  "passageId": "86_1",
+  "blankNum": 23,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "or",
+   "B": "if",
+   "C": "as",
+   "D": "but"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G86_24_1",
+  "year": "86年",
+  "passageId": "86_1",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "One",
+   "B": "All",
+   "C": "Some",
+   "D": "Few"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G86_25_1",
+  "year": "86年",
+  "passageId": "86_1",
+  "blankNum": 25,
+  "category": "情態助動詞",
+  "options": {
+   "A": "can",
+   "B": "shall",
+   "C": "must",
+   "D": "should"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G86_26_2",
+  "year": "86年",
+  "passageId": "86_2",
+  "blankNum": 26,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "It couldn't be better",
+   "B": "Don't mention it",
+   "C": "Not too bad",
+   "D": "It was terrible"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G86_27_2",
+  "year": "86年",
+  "passageId": "86_2",
+  "blankNum": 27,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "What a pity!",
+   "B": "Oh, how wonderful!",
+   "C": "Oh, that was great!",
+   "D": "No big deal!"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G86_28_2",
+  "year": "86年",
+  "passageId": "86_2",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "How often",
+   "B": "How on earth",
+   "C": "How hard",
+   "D": "How was that"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G86_29_2",
+  "year": "86年",
+  "passageId": "86_2",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "at all",
+   "B": "after all",
+   "C": "above all",
+   "D": "at most"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G86_30_2",
+  "year": "86年",
+  "passageId": "86_2",
+  "blankNum": 30,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "That's great",
+   "B": "You deserve it",
+   "C": "That's nothing",
+   "D": "That's terrible"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G86_31_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 31,
+  "category": "vocab in context",
+  "options": {
+   "A": "boss",
+   "B": "friend",
+   "C": "client",
+   "D": "doctor"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G86_32_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 32,
+  "category": "介系詞",
+  "options": {
+   "A": "of",
+   "B": "at",
+   "C": "to",
+   "D": "in"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G86_33_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 33,
+  "category": "時態",
+  "options": {
+   "A": "turned",
+   "B": "created",
+   "C": "greeted",
+   "D": "generated"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G86_34_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 34,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "agreed to",
+   "B": "put up",
+   "C": "called upon",
+   "D": "turned down"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G86_35_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 35,
+  "category": "介系詞",
+  "options": {
+   "A": "in",
+   "B": "at",
+   "C": "on",
+   "D": "for"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G86_36_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 36,
+  "category": "vocab in context",
+  "options": {
+   "A": "succeeded",
+   "B": "promoted",
+   "C": "exhausted",
+   "D": "aroused"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G86_37_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 37,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "What had happened?",
+   "B": "Why must it be finished?",
+   "C": "Where did the event take place?",
+   "D": "When will they have another project?"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G86_38_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 38,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "The engineer was too young.",
+   "B": "It took a whole month.",
+   "C": "The boss was satisfied.",
+   "D": "He was right."
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G86_39_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 39,
+  "category": "主詞與動詞一致",
+  "options": {
+   "A": "is related to",
+   "B": "has an impact on",
+   "C": "have a lot to do with",
+   "D": "are of great importance to"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G86_40_3",
+  "year": "86年",
+  "passageId": "86_3",
+  "blankNum": 40,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "are also interested in the rejected proposal",
+   "B": "have resolved the mystery of listening comprehension",
+   "C": "are doing extensive research on the young engineer",
+   "D": "have become very concerned about our bad listening habits"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G89_16_1",
+  "year": "89年",
+  "passageId": "89_1",
+  "blankNum": 16,
+  "category": "時態",
+  "options": {
+   "A": "finish",
+   "B": "finished",
+   "C": "are finishing",
+   "D": "will finish"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G89_17_1",
+  "year": "89年",
+  "passageId": "89_1",
+  "blankNum": 17,
+  "category": "比較級",
+  "options": {
+   "A": "later",
+   "B": "late",
+   "C": "latter",
+   "D": "latest"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G89_18_1",
+  "year": "89年",
+  "passageId": "89_1",
+  "blankNum": 18,
+  "category": "片語/慣用語",
+  "options": {
+   "A": "by",
+   "B": "in",
+   "C": "on",
+   "D": "along"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G89_19_1",
+  "year": "89年",
+  "passageId": "89_1",
+  "blankNum": 19,
+  "category": "助動詞",
+  "options": {
+   "A": "Mustn’t",
+   "B": "Needn’t",
+   "C": "Couldn’t",
+   "D": "Didn’t"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G89_20_1",
+  "year": "89年",
+  "passageId": "89_1",
+  "blankNum": 20,
+  "category": "時態&語態",
+  "options": {
+   "A": "told",
+   "B": "was told",
+   "C": "had told",
+   "D": "had been telling"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G89_21_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "this",
+   "B": "each",
+   "C": "both",
+   "D": "those"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G89_22_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 22,
+  "category": "比較級",
+  "options": {
+   "A": "Other",
+   "B": "Another",
+   "C": "The other",
+   "D": "Others"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G89_23_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "Even",
+   "B": "For",
+   "C": "Except",
+   "D": "Unless"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G89_24_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 24,
+  "category": "轉折語(連接詞)",
+  "options": {
+   "A": "If",
+   "B": "No matter",
+   "C": "No wonder",
+   "D": "Although"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G89_25_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 25,
+  "category": "關係子句",
+  "options": {
+   "A": "that",
+   "B": "where",
+   "C": "which",
+   "D": "who"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G89_26_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 26,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "shows off",
+   "B": "crosses out",
+   "C": "brings up",
+   "D": "turns out"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G89_27_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 27,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "In general",
+   "B": "As a result",
+   "C": "For example",
+   "D": "In contrast"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G89_28_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 28,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "face",
+   "B": "faced",
+   "C": "facing",
+   "D": "to face"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G89_29_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "for instance",
+   "B": "in addition",
+   "C": "in a word",
+   "D": "that is"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G89_30_2",
+  "year": "89年",
+  "passageId": "89_2",
+  "blankNum": 30,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "Due to",
+   "B": "As far as",
+   "C": "In spite of",
+   "D": "Consisting of"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G89_31_3",
+  "year": "89年",
+  "passageId": "89_3",
+  "blankNum": 31,
+  "category": "上下文",
+  "options": {
+   "A": "It's a small world.",
+   "B": "And you?",
+   "C": "Thanks a lot.",
+   "D": "Where are you going?"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G89_32_3",
+  "year": "89年",
+  "passageId": "89_3",
+  "blankNum": 32,
+  "category": "上下文",
+  "options": {
+   "A": "I look forward to seeing her again.",
+   "B": "What a shame!",
+   "C": "We had a great time.",
+   "D": "Thank goodness!"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G89_33_3",
+  "year": "89年",
+  "passageId": "89_3",
+  "blankNum": 33,
+  "category": "上下文",
+  "options": {
+   "A": "I got no clue.",
+   "B": "Well done.",
+   "C": "Well, I lied to her.",
+   "D": "It’s none of your business."
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G89_34_3",
+  "year": "89年",
+  "passageId": "89_3",
+  "blankNum": 34,
+  "category": "上下文",
+  "options": {
+   "A": "What have you done?",
+   "B": "What would you have done?",
+   "C": "What do you think of her?",
+   "D": "What did you do to her?"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G89_35_3",
+  "year": "89年",
+  "passageId": "89_3",
+  "blankNum": 35,
+  "category": "上下文",
+  "options": {
+   "A": "No way.",
+   "B": "Sure.",
+   "C": "Big deal!",
+   "D": "Let's check it out."
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G89_36_4",
+  "year": "89年",
+  "passageId": "89_4",
+  "blankNum": 36,
+  "category": "上下文",
+  "options": {
+   "A": "I would drive them home",
+   "B": "I would take them with me",
+   "C": "I would leave the children in the car",
+   "D": "I would stay in the car with the children"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G89_37_4",
+  "year": "89年",
+  "passageId": "89_4",
+  "blankNum": 37,
+  "category": "上下文",
+  "options": {
+   "A": "and the girls were sitting there",
+   "B": "and the girls had gone home",
+   "C": "but the girls were crying",
+   "D": "but the girls had vanished"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G89_38_4",
+  "year": "89年",
+  "passageId": "89_4",
+  "blankNum": 38,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "In a panic",
+   "B": "With delight",
+   "C": "Out of sorrow",
+   "D": "Filled with embarrassment"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G89_39_4",
+  "year": "89年",
+  "passageId": "89_4",
+  "blankNum": 39,
+  "category": "上下文",
+  "options": {
+   "A": "they had seen my car",
+   "B": "there was a shop nearby",
+   "C": "they had seen two small girls",
+   "D": "there was a police station in the neighborhood"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G89_40_4",
+  "year": "89年",
+  "passageId": "89_4",
+  "blankNum": 40,
+  "category": "上下文",
+  "options": {
+   "A": "were two scared and shivering little girls",
+   "B": "were two red-faced and excited children",
+   "C": "was one of the passers-by I had asked",
+   "D": "was nothing at all"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G90_16_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 16,
+  "category": "分詞／動狀詞（不定詞vs現在分詞）",
+  "options": {
+   "A": "given",
+   "B": "give",
+   "C": "giving",
+   "D": "to give"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G90_17_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 17,
+  "category": "倒裝句",
+  "options": {
+   "A": "it",
+   "B": "here",
+   "C": "that",
+   "D": "where"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G90_18_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 18,
+  "category": "不定詞",
+  "options": {
+   "A": "to be pleased",
+   "B": "to please",
+   "C": "to be pleasing",
+   "D": "to have pleased"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G90_19_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "do",
+   "B": "take",
+   "C": "make",
+   "D": "find"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G90_20_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 20,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "how much",
+   "B": "at that",
+   "C": "what if",
+   "D": "such as"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G90_21_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "Once",
+   "B": "Like",
+   "C": "Just",
+   "D": "For"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G90_22_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "though",
+   "B": "therefore",
+   "C": "otherwise",
+   "D": "however"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G90_23_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "else",
+   "B": "too",
+   "C": "also",
+   "D": "then"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G90_24_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "when",
+   "B": "as",
+   "C": "until",
+   "D": "since"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G90_25_1",
+  "year": "90年",
+  "passageId": "90_1",
+  "blankNum": 25,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "to wake up",
+   "B": "wake up",
+   "C": "woke up",
+   "D": "waking up"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_16_1",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_1",
+  "blankNum": 16,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "accounted for",
+   "B": "divided into",
+   "C": "made of",
+   "D": "taken as"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_17_1",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "strength",
+   "B": "feature",
+   "C": "challenge",
+   "D": "reaction"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_18_1",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_1",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "kind",
+   "B": "source",
+   "C": "role",
+   "D": "price"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_19_1",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "That",
+   "B": "What",
+   "C": "There",
+   "D": "Which"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_20_1",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "nurseries",
+   "B": "instincts",
+   "C": "horizons",
+   "D": "devices"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_21_2",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "What",
+   "B": "When",
+   "C": "Why",
+   "D": "Where"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_22_2",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_2",
+  "blankNum": 22,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "figure out",
+   "B": "catch up with",
+   "C": "pay for",
+   "D": "get rid of"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_23_2",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_2",
+  "blankNum": 23,
+  "category": "vocab in context",
+  "options": {
+   "A": "conventions",
+   "B": "emotions",
+   "C": "donations",
+   "D": "invitations"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_24_2",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_2",
+  "blankNum": 24,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "By contrast",
+   "B": "As a result",
+   "C": "On the spot",
+   "D": "In addition"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_25_2",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_2",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "career",
+   "B": "benefit",
+   "C": "decision",
+   "D": "relationship"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_26_3",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_3",
+  "blankNum": 26,
+  "category": "分詞／動狀詞（不定詞vs動名詞）",
+  "options": {
+   "A": "To make",
+   "B": "Make",
+   "C": "Made",
+   "D": "Making"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_27_3",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_3",
+  "blankNum": 27,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "but",
+   "B": "for",
+   "C": "or",
+   "D": "so"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_28_3",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_3",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "ocean",
+   "B": "setting",
+   "C": "vacation",
+   "D": "journey"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_29_3",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_3",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "coming across",
+   "B": "looking into",
+   "C": "escaping from",
+   "D": "passing through"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G99課綱學測參考用試卷_30_3",
+  "year": "99課綱學測參考用試卷",
+  "passageId": "99課綱學測參考用試卷_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "do",
+   "B": "become",
+   "C": "set",
+   "D": "take"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G102_16_1",
+  "year": "102年",
+  "passageId": "102_1",
+  "blankNum": 16,
+  "category": "時態",
+  "options": {
+   "A": "calling",
+   "B": "being called",
+   "C": "having called",
+   "D": "has been calling"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G102_17_1",
+  "year": "102年",
+  "passageId": "102_1",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "in fact",
+   "B": "to illustrate",
+   "C": "at the same time",
+   "D": "on the other hand"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G102_18_1",
+  "year": "102年",
+  "passageId": "102_1",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "for",
+   "B": "as",
+   "C": "by",
+   "D": "in"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G102_19_1",
+  "year": "102年",
+  "passageId": "102_1",
+  "blankNum": 19,
+  "category": "時態",
+  "options": {
+   "A": "reserved",
+   "B": "assigned",
+   "C": "represented",
+   "D": "assembled"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G102_20_1",
+  "year": "102年",
+  "passageId": "102_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "cost",
+   "B": "format",
+   "C": "quality",
+   "D": "distance"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G102_21_2",
+  "year": "102年",
+  "passageId": "102_2",
+  "blankNum": 21,
+  "category": "比較級",
+  "options": {
+   "A": "Rare as",
+   "B": "The rare",
+   "C": "Rarest",
+   "D": "The rarer"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G102_22_2",
+  "year": "102年",
+  "passageId": "102_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "age",
+   "B": "shape",
+   "C": "size",
+   "D": "weight"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G102_23_2",
+  "year": "102年",
+  "passageId": "102_2",
+  "blankNum": 23,
+  "category": "連接詞／子句",
+  "options": {
+   "A": "since",
+   "B": "while",
+   "C": "whether",
+   "D": "if"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G102_24_2",
+  "year": "102年",
+  "passageId": "102_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "merely",
+   "B": "hardly",
+   "C": "greatly",
+   "D": "roughly"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G102_25_2",
+  "year": "102年",
+  "passageId": "102_2",
+  "blankNum": 25,
+  "category": "比較級",
+  "options": {
+   "A": "older",
+   "B": "better",
+   "C": "latter",
+   "D": "bigger"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G102_26_3",
+  "year": "102年",
+  "passageId": "102_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "contrary",
+   "B": "normal",
+   "C": "detective",
+   "D": "mutual"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G102_27_3",
+  "year": "102年",
+  "passageId": "102_3",
+  "blankNum": 27,
+  "category": "時態",
+  "options": {
+   "A": "had",
+   "B": "kept",
+   "C": "wanted",
+   "D": "asked"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G102_28_3",
+  "year": "102年",
+  "passageId": "102_3",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "composed of",
+   "B": "based on",
+   "C": "resulting in",
+   "D": "fighting against"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G102_29_3",
+  "year": "102年",
+  "passageId": "102_3",
+  "blankNum": 29,
+  "category": "vocab in context",
+  "options": {
+   "A": "success",
+   "B": "objection",
+   "C": "agreement",
+   "D": "discovery"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G102_30_3",
+  "year": "102年",
+  "passageId": "102_3",
+  "blankNum": 30,
+  "category": "時態",
+  "options": {
+   "A": "is",
+   "B": "are",
+   "C": "been",
+   "D": "being"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G104_16_1",
+  "year": "104年",
+  "passageId": "104_1",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "practice",
+   "B": "consult",
+   "C": "display",
+   "D": "manage"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G104_17_1",
+  "year": "104年",
+  "passageId": "104_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "from",
+   "B": "like",
+   "C": "between",
+   "D": "regarding"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G104_18_1",
+  "year": "104年",
+  "passageId": "104_1",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "allow",
+   "B": "allows",
+   "C": "allowed",
+   "D": "allowing"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G104_19_1",
+  "year": "104年",
+  "passageId": "104_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "formal",
+   "B": "mental",
+   "C": "social",
+   "D": "global"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G104_20_1",
+  "year": "104年",
+  "passageId": "104_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "imposes",
+   "B": "offends",
+   "C": "reduces",
+   "D": "disturbs"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G104_21_2",
+  "year": "104年",
+  "passageId": "104_2",
+  "blankNum": 21,
+  "category": "vocab in context",
+  "options": {
+   "A": "Therefore",
+   "B": "Nevertheless",
+   "C": "Roughly",
+   "D": "Similarly"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G104_22_2",
+  "year": "104年",
+  "passageId": "104_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "officially",
+   "B": "mutually",
+   "C": "universally",
+   "D": "eventually"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G104_23_2",
+  "year": "104年",
+  "passageId": "104_2",
+  "blankNum": 23,
+  "category": "時態",
+  "options": {
+   "A": "approach",
+   "B": "approaching",
+   "C": "approached",
+   "D": "be approaching"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G104_24_2",
+  "year": "104年",
+  "passageId": "104_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "replace",
+   "B": "disguise",
+   "C": "distinguish",
+   "D": "represent"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G104_25_2",
+  "year": "104年",
+  "passageId": "104_2",
+  "blankNum": 25,
+  "category": "vocab in context",
+  "options": {
+   "A": "unlucky",
+   "B": "illogical",
+   "C": "impossible",
+   "D": "unnecessary"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G104_26_3",
+  "year": "104年",
+  "passageId": "104_3",
+  "blankNum": 26,
+  "category": "比較級",
+  "options": {
+   "A": "to gather",
+   "B": "gather",
+   "C": "gathered",
+   "D": "gathering"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G104_27_3",
+  "year": "104年",
+  "passageId": "104_3",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "all",
+   "B": "with",
+   "C": "around",
+   "D": "still"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G104_28_3",
+  "year": "104年",
+  "passageId": "104_3",
+  "blankNum": 28,
+  "category": "vocab in context",
+  "options": {
+   "A": "variety",
+   "B": "harvest",
+   "C": "condition",
+   "D": "discovery"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G104_29_3",
+  "year": "104年",
+  "passageId": "104_3",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "bring",
+   "B": "have brought",
+   "C": "were brought",
+   "D": "have been brought"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G104_30_3",
+  "year": "104年",
+  "passageId": "104_3",
+  "blankNum": 30,
+  "category": "vocab in context",
+  "options": {
+   "A": "regularly",
+   "B": "particularly",
+   "C": "permanently",
+   "D": "barely"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G107_16_1",
+  "year": "107年",
+  "passageId": "107_1",
+  "blankNum": 16,
+  "category": "比較級",
+  "options": {
+   "A": "more",
+   "B": "less",
+   "C": "better",
+   "D": "worse"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G107_17_1",
+  "year": "107年",
+  "passageId": "107_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "spark",
+   "B": "carve",
+   "C": "drill",
+   "D": "grind"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G107_18_1",
+  "year": "107年",
+  "passageId": "107_1",
+  "blankNum": 18,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "refer to",
+   "B": "answer for",
+   "C": "take part in",
+   "D": "put up with"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G107_19_1",
+  "year": "107年",
+  "passageId": "107_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "if",
+   "B": "but",
+   "C": "where",
+   "D": "which"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G107_20_1",
+  "year": "107年",
+  "passageId": "107_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "into",
+   "B": "without",
+   "C": "under",
+   "D": "beyond"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G107_21_2",
+  "year": "107年",
+  "passageId": "107_2",
+  "blankNum": 21,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "For",
+   "B": "While",
+   "C": "In case",
+   "D": "As long as"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G107_22_2",
+  "year": "107年",
+  "passageId": "107_2",
+  "blankNum": 22,
+  "category": "vocab in context",
+  "options": {
+   "A": "equipment",
+   "B": "ingredient",
+   "C": "product",
+   "D": "resource"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G107_23_2",
+  "year": "107年",
+  "passageId": "107_2",
+  "blankNum": 23,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "get away with",
+   "B": "clean up after",
+   "C": "run out of",
+   "D": "look down upon"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G107_24_2",
+  "year": "107年",
+  "passageId": "107_2",
+  "blankNum": 24,
+  "category": "vocab in context",
+  "options": {
+   "A": "pollute",
+   "B": "polluting",
+   "C": "polluted",
+   "D": "pollution"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G107_25_2",
+  "year": "107年",
+  "passageId": "107_2",
+  "blankNum": 25,
+  "category": "時態",
+  "options": {
+   "A": "unneeded",
+   "B": "overthrown",
+   "C": "excluded",
+   "D": "disconnected"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G107_26_3",
+  "year": "107年",
+  "passageId": "107_3",
+  "blankNum": 26,
+  "category": "vocab in context",
+  "options": {
+   "A": "what",
+   "B": "why",
+   "C": "when",
+   "D": "which"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G107_27_3",
+  "year": "107年",
+  "passageId": "107_3",
+  "blankNum": 27,
+  "category": "vocab in context",
+  "options": {
+   "A": "apart",
+   "B": "absent",
+   "C": "alone",
+   "D": "asleep"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G107_28_3",
+  "year": "107年",
+  "passageId": "107_3",
+  "blankNum": 28,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "related to",
+   "B": "aside from",
+   "C": "more than",
+   "D": "nothing but"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G107_29_3",
+  "year": "107年",
+  "passageId": "107_3",
+  "blankNum": 29,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "In other words",
+   "B": "By no means",
+   "C": "At any cost",
+   "D": "On the contrary"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G107_30_3",
+  "year": "107年",
+  "passageId": "107_3",
+  "blankNum": 30,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "such as",
+   "B": "regardless of",
+   "C": "with respect to",
+   "D": "on behalf of"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G111_11_1",
+  "year": "111年",
+  "passageId": "111_1",
+  "blankNum": 11,
+  "category": "時態",
+  "options": {
+   "A": "initiated",
+   "B": "represented",
+   "C": "acknowledged",
+   "D": "manipulated"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G111_12_1",
+  "year": "111年",
+  "passageId": "111_1",
+  "blankNum": 12,
+  "category": "分詞／動狀詞",
+  "options": {
+   "A": "spring",
+   "B": "sprang",
+   "C": "had sprung",
+   "D": "have been springing"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G111_13_1",
+  "year": "111年",
+  "passageId": "111_1",
+  "blankNum": 13,
+  "category": "vocab in context",
+  "options": {
+   "A": "form",
+   "B": "count",
+   "C": "end",
+   "D": "matter"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G111_14_1",
+  "year": "111年",
+  "passageId": "111_1",
+  "blankNum": 14,
+  "category": "vocab in context",
+  "options": {
+   "A": "trends",
+   "B": "releases",
+   "C": "agendas",
+   "D": "announcements"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G111_15_1",
+  "year": "111年",
+  "passageId": "111_1",
+  "blankNum": 15,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "get their worldwide fame",
+   "B": "conform to the new mode",
+   "C": "make their visitors satisfied",
+   "D": "keep the printed word alive"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G111_16_2",
+  "year": "111年",
+  "passageId": "111_2",
+  "blankNum": 16,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "contrary to",
+   "B": "except for",
+   "C": "more of",
+   "D": "other than"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G111_17_2",
+  "year": "111年",
+  "passageId": "111_2",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "used to be",
+   "B": "were to be",
+   "C": "would have been",
+   "D": "must have been"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G111_18_2",
+  "year": "111年",
+  "passageId": "111_2",
+  "blankNum": 18,
+  "category": "時態",
+  "options": {
+   "A": "disguised",
+   "B": "understood",
+   "C": "confronted",
+   "D": "intensified"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G111_19_2",
+  "year": "111年",
+  "passageId": "111_2",
+  "blankNum": 19,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "cause conflict",
+   "B": "rebuild strength",
+   "C": "spell disaster",
+   "D": "endure shock"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G111_20_2",
+  "year": "111年",
+  "passageId": "111_2",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "tolerate",
+   "B": "improve",
+   "C": "justify",
+   "D": "obtain"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G113_11_1",
+  "year": "113年",
+  "passageId": "113_1",
+  "blankNum": 11,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "call for",
+   "B": "pose as",
+   "C": "attend to",
+   "D": "engage in"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G113_12_1",
+  "year": "113年",
+  "passageId": "113_1",
+  "blankNum": 12,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "in that",
+   "B": "with which",
+   "C": "for that",
+   "D": "to which"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G113_13_1",
+  "year": "113年",
+  "passageId": "113_1",
+  "blankNum": 13,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "keen competitions",
+   "B": "financial hardship",
+   "C": "racial conflicts",
+   "D": "personal bias"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G113_14_1",
+  "year": "113年",
+  "passageId": "113_1",
+  "blankNum": 14,
+  "category": "vocab in context",
+  "options": {
+   "A": "difficult",
+   "B": "potential",
+   "C": "constant",
+   "D": "anonymous"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G113_15_1",
+  "year": "113年",
+  "passageId": "113_1",
+  "blankNum": 15,
+  "category": "vocab in context",
+  "options": {
+   "A": "distribution",
+   "B": "expectation",
+   "C": "improvement",
+   "D": "management"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G113_16_2",
+  "year": "113年",
+  "passageId": "113_2",
+  "blankNum": 16,
+  "category": "時態",
+  "options": {
+   "A": "must be using",
+   "B": "could have used",
+   "C": "had hardly used",
+   "D": "were mostly using"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G113_17_2",
+  "year": "113年",
+  "passageId": "113_2",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "Aimed at",
+   "B": "Trained for",
+   "C": "Equipped with",
+   "D": "Exhausted by"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G113_18_2",
+  "year": "113年",
+  "passageId": "113_2",
+  "blankNum": 18,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "familiar presences",
+   "B": "distant memories",
+   "C": "vague images",
+   "D": "public eyesores"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G113_19_2",
+  "year": "113年",
+  "passageId": "113_2",
+  "blankNum": 19,
+  "category": "時態",
+  "options": {
+   "A": "remained",
+   "B": "dismissed",
+   "C": "revised",
+   "D": "declined"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G113_20_2",
+  "year": "113年",
+  "passageId": "113_2",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "forget",
+   "B": "change",
+   "C": "match",
+   "D": "regret"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G114_11_1",
+  "year": "114年",
+  "passageId": "114_1",
+  "blankNum": 11,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "had spread",
+   "B": "would spread",
+   "C": "had been spreading",
+   "D": "would have spread"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G114_12_1",
+  "year": "114年",
+  "passageId": "114_1",
+  "blankNum": 12,
+  "category": "時態",
+  "options": {
+   "A": "facilitated",
+   "B": "disrupted",
+   "C": "disclosed",
+   "D": "fulfilled"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G114_13_1",
+  "year": "114年",
+  "passageId": "114_1",
+  "blankNum": 13,
+  "category": "vocab in context",
+  "options": {
+   "A": "circulate",
+   "B": "emphasize",
+   "C": "recover",
+   "D": "preserve"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G114_14_1",
+  "year": "114年",
+  "passageId": "114_1",
+  "blankNum": 14,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "made up for",
+   "B": "kept track of",
+   "C": "gave rise to",
+   "D": "looked out for"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G114_15_1",
+  "year": "114年",
+  "passageId": "114_1",
+  "blankNum": 15,
+  "category": "vocab in context",
+  "options": {
+   "A": "still",
+   "B": "also",
+   "C": "further",
+   "D": "thus"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G114_16_2",
+  "year": "114年",
+  "passageId": "114_2",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "crash",
+   "B": "flush",
+   "C": "burst",
+   "D": "strike"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G114_17_2",
+  "year": "114年",
+  "passageId": "114_2",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "are not regular",
+   "B": "can hardly move",
+   "C": "do not match",
+   "D": "are rarely cued"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G114_18_2",
+  "year": "114年",
+  "passageId": "114_2",
+  "blankNum": 18,
+  "category": "vocab in context",
+  "options": {
+   "A": "aren’t",
+   "B": "won’t",
+   "C": "don’t",
+   "D": "haven’t"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G114_19_2",
+  "year": "114年",
+  "passageId": "114_2",
+  "blankNum": 19,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "special opportunities",
+   "B": "preventive measures",
+   "C": "potential risks",
+   "D": "significant advantages"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G114_20_2",
+  "year": "114年",
+  "passageId": "114_2",
+  "blankNum": 20,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "as well",
+   "B": "by far",
+   "C": "at least",
+   "D": "after all"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G111學測英文參考試卷_16_1",
+  "year": "111年學測英文參考試卷",
+  "passageId": "111學測英文參考試卷_1",
+  "blankNum": 16,
+  "category": "時態",
+  "options": {
+   "A": "was",
+   "B": "being",
+   "C": "did",
+   "D": "doing"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G111學測英文參考試卷_17_1",
+  "year": "111年學測英文參考試卷",
+  "passageId": "111學測英文參考試卷_1",
+  "blankNum": 17,
+  "category": "vocab in context",
+  "options": {
+   "A": "cover",
+   "B": "approve",
+   "C": "predict",
+   "D": "escape"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G111學測英文參考試卷_18_1",
+  "year": "111年學測英文參考試卷",
+  "passageId": "111學測英文參考試卷_1",
+  "blankNum": 18,
+  "category": "時態",
+  "options": {
+   "A": "planned",
+   "B": "achieved",
+   "C": "examined",
+   "D": "denied"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G111學測英文參考試卷_19_1",
+  "year": "111年學測英文參考試卷",
+  "passageId": "111學測英文參考試卷_1",
+  "blankNum": 19,
+  "category": "vocab in context",
+  "options": {
+   "A": "limitation",
+   "B": "classification",
+   "C": "confrontation",
+   "D": "modification"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G111學測英文參考試卷_20_1",
+  "year": "111年學測英文參考試卷",
+  "passageId": "111學測英文參考試卷_1",
+  "blankNum": 20,
+  "category": "vocab in context",
+  "options": {
+   "A": "what",
+   "B": "which",
+   "C": "them",
+   "D": "these"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G115_11_1",
+  "year": "115年",
+  "passageId": "115_1",
+  "blankNum": 11,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "what is more",
+   "B": "it turns out",
+   "C": "in other words",
+   "D": "all in all"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G115_12_1",
+  "year": "115年",
+  "passageId": "115_1",
+  "blankNum": 12,
+  "category": "vocab in context",
+  "options": {
+   "A": "demonstrate",
+   "B": "immigrate",
+   "C": "communicate",
+   "D": "manipulate"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "G115_13_1",
+  "year": "115年",
+  "passageId": "115_1",
+  "blankNum": 13,
+  "category": "vocab in context",
+  "options": {
+   "A": "doubts",
+   "B": "icons",
+   "C": "matches",
+   "D": "clues"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G115_14_1",
+  "year": "115年",
+  "passageId": "115_1",
+  "blankNum": 14,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "hardly surprising",
+   "B": "more acceptable",
+   "C": "truly important",
+   "D": "less likely"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G115_15_1",
+  "year": "115年",
+  "passageId": "115_1",
+  "blankNum": 15,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "responsive to",
+   "B": "annoyed at",
+   "C": "considerate of",
+   "D": "tolerant with"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G115_16_2",
+  "year": "115年",
+  "passageId": "115_2",
+  "blankNum": 16,
+  "category": "vocab in context",
+  "options": {
+   "A": "accommodate",
+   "B": "compensate",
+   "C": "anticipate",
+   "D": "reinforce"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "G115_17_2",
+  "year": "115年",
+  "passageId": "115_2",
+  "blankNum": 17,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "would hardly develop",
+   "B": "had yet to develop",
+   "C": "was fast developing",
+   "D": "had almost developed"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G115_18_2",
+  "year": "115年",
+  "passageId": "115_2",
+  "blankNum": 18,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "passed on to",
+   "B": "brought up as",
+   "C": "thought to have",
+   "D": "meant to be"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "G115_19_2",
+  "year": "115年",
+  "passageId": "115_2",
+  "blankNum": 19,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "if so",
+   "B": "as such",
+   "C": "by then",
+   "D": "in that"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "G115_20_2",
+  "year": "115年",
+  "passageId": "115_2",
+  "blankNum": 20,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "a widely known delicacy",
+   "B": "an intimate romantic dinner",
+   "C": "a joyful social activity",
+   "D": "an amazing local cuisine"
+  },
+  "answer": "C"
+ }
+]
