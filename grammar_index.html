@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>文法克漏字練習 · 83–115年</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F6F1E4;
+    --paper-card:#FFFDF7;
+    --ink:#221F1A;
+    --ink-soft:#5B5648;
+    --rule:#DCD3BB;
+    --crimson:#AE3626;
+    --sage:#3E6E52;
+    --gold:#A9812E;
+    --shadow: 0 1px 0 rgba(34,31,26,.06), 0 8px 24px rgba(34,31,26,.08);
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background: var(--paper);
+    background-image:
+      radial-gradient(circle at 100% 0%, rgba(174,54,38,.05), transparent 40%),
+      repeating-linear-gradient(0deg, rgba(34,31,26,0.025) 0px, rgba(34,31,26,0.025) 1px, transparent 1px, transparent 34px);
+    color: var(--ink);
+    font-family: 'Noto Sans TC', sans-serif;
+    min-height: 100vh;
+    padding: 32px 16px 60px;
+  }
+  .wrap{max-width:760px; width:100%; margin:0 auto;}
+  header.top{
+    text-align:center;
+    border-bottom: 3px double var(--ink);
+    padding-bottom:16px; margin-bottom: 26px;
+  }
+  header.top .title{
+    font-family:'Noto Serif TC',serif; font-weight:900; font-size:26px; letter-spacing:.02em;
+  }
+  header.top .sub{
+    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft); margin-top:6px;
+  }
+  .card{
+    background: var(--paper-card);
+    border:1px solid var(--rule);
+    border-radius: 4px;
+    box-shadow: var(--shadow);
+    padding: 26px;
+    margin-bottom:18px;
+  }
+  .home-lead{font-family:'Noto Serif TC',serif; font-weight:700; font-size:19px; margin:0 0 4px;}
+  .home-desc{color:var(--ink-soft); font-size:14px; line-height:1.7; margin:0 0 18px;}
+
+  .mode-grid{display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:20px;}
+  @media (max-width:560px){ .mode-grid{grid-template-columns:1fr;} }
+  .mode-card{
+    border:1.5px solid var(--rule); border-radius:4px; padding:16px; cursor:pointer;
+    transition: border-color .12s, background .12s; background:#fff;
+  }
+  .mode-card:hover{border-color:var(--ink);}
+  .mode-card.active{border-color:var(--crimson); background:#FBF1EE;}
+  .mode-card .m-name{font-family:'Noto Serif TC',serif; font-weight:700; font-size:16px; margin-bottom:5px;}
+  .mode-card .m-desc{font-size:12.5px; color:var(--ink-soft); line-height:1.6;}
+
+  .sec-title{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:.12em;
+    color:var(--crimson); text-transform:uppercase; margin: 22px 0 10px; display:flex; align-items:center; gap:8px;
+  }
+  .sec-title::after{content:""; flex:1; height:1px; background:var(--rule);}
+  .cat-grid{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:6px;}
+  .cat-chip{
+    font-family:'IBM Plex Mono',monospace; font-size:12px; padding:6px 12px; border-radius:14px;
+    border:1.5px solid var(--rule); cursor:pointer; user-select:none; background:#fff; color:var(--ink-soft);
+    transition:.12s;
+  }
+  .cat-chip.on{border-color:var(--sage); background:#F2F7F1; color:var(--sage); font-weight:600;}
+  .cat-tools{display:flex; gap:14px; margin-top:8px; font-family:'IBM Plex Mono',monospace; font-size:11px;}
+  .cat-tools a{color:var(--ink-soft); cursor:pointer; text-decoration:underline;}
+
+  .big-btn{
+    display:block; width:100%; text-align:center; cursor:pointer;
+    background: var(--ink); color: var(--paper-card);
+    font-family:'Noto Serif TC',serif; font-weight:700; font-size:19px;
+    padding:16px; border:none; border-radius:3px; letter-spacing:.06em;
+    transition: transform .12s ease, background .15s ease;
+    margin-top:20px;
+  }
+  .big-btn:hover{background:#000; transform: translateY(-1px);}
+  .big-btn:disabled{opacity:.4; cursor:not-allowed; transform:none;}
+  .ghost-btn{
+    cursor:pointer; background:transparent; border:1.5px solid var(--ink);
+    color:var(--ink); font-family:'Noto Serif TC',serif; font-weight:700; font-size:14px;
+    padding:9px 15px; border-radius:2px; transition:.15s;
+  }
+  .ghost-btn:hover{background:var(--ink); color:var(--paper-card);}
+  .ghost-btn:disabled{opacity:.35; cursor:not-allowed;}
+
+  .stat-line{display:flex; justify-content:space-between; font-size:13px; padding:9px 0; border-bottom:1px dashed var(--rule); font-family:'IBM Plex Mono',monospace;}
+  .stat-line:last-child{border-bottom:none;}
+  .stat-badge{background:var(--gold); color:#fff; font-size:11px; padding:1px 7px; border-radius:9px; font-family:'IBM Plex Mono',monospace;}
+
+  /* ---- QUIZ (shared) ---- */
+  #single, #full{display:none;}
+  .quiz-meta{
+    display:flex; justify-content:space-between; align-items:center;
+    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft); margin-bottom:10px;
+  }
+  .progress-bar{height:4px; background:var(--rule); border-radius:2px; overflow:hidden; margin-bottom:20px;}
+  .progress-fill{height:100%; background:var(--crimson); transition:width .25s ease;}
+  .q-tag{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft);
+    border:1px solid var(--rule); display:inline-block; padding:2px 8px; border-radius:10px; margin-bottom:14px;
+  }
+  .q-tag.cat{color:var(--crimson); border-color:var(--crimson); margin-left:6px;}
+
+  .passage-text{
+    font-family:'IBM Plex Mono',monospace; font-size:15.5px; line-height:2; letter-spacing:.005em;
+  }
+  .blank-slot{
+    display:inline-block; min-width:34px; text-align:center; padding:0 4px;
+    border-bottom:2px solid var(--ink-soft); color:transparent;
+  }
+  .blank-slot.active{border-bottom-color:var(--crimson);}
+  .blank-num{
+    font-size:10px; vertical-align:super; color:var(--ink-soft); margin:0 1px;
+  }
+  .blank-slot.filled{color:var(--sage); font-weight:600; border-bottom-color:var(--sage);}
+  .blank-slot.filled.wrong{color:var(--crimson); border-bottom-color:var(--crimson);}
+
+  .options{display:grid; gap:10px; margin-top:22px;}
+  .opt{
+    display:flex; align-items:center; gap:12px; text-align:left;
+    padding:13px 16px; border:1.5px solid var(--rule); border-radius:3px;
+    background:#fff; cursor:pointer; font-size:15px; font-family:'IBM Plex Mono',monospace;
+    transition: border-color .12s, background .12s;
+    position:relative;
+  }
+  .opt:hover:not(.locked){border-color: var(--ink);}
+  .opt .letter{
+    width:24px; height:24px; border-radius:50%; border:1.5px solid var(--ink-soft);
+    display:flex; align-items:center; justify-content:center; font-size:12px; flex-shrink:0;
+  }
+  .opt.correct{border-color:var(--sage); background:#F2F7F1;}
+  .opt.correct .letter{background:var(--sage); border-color:var(--sage); color:#fff;}
+  .opt.wrong{border-color:var(--crimson); background:#FBF1EE;}
+  .opt.wrong .letter{background:var(--crimson); border-color:var(--crimson); color:#fff;}
+  .opt .mark{
+    position:absolute; right:14px; font-family:'Noto Serif TC',serif; font-weight:900; font-size:22px;
+    opacity:0; transform: scale(.5) rotate(-8deg); transition: all .25s cubic-bezier(.34,1.56,.64,1);
+  }
+  .opt.correct .mark, .opt.wrong .mark{opacity:1; transform: scale(1) rotate(-8deg);}
+  .opt.correct .mark{color:var(--sage);}
+  .opt.wrong .mark{color:var(--crimson);}
+
+  .explain{margin-top:20px; padding-top:18px; border-top:1px dashed var(--rule); display:none;}
+  .explain.show{display:block;}
+  .explain .note{font-size:13px; color:var(--ink-soft); line-height:1.7;}
+  .next-row{margin-top:22px; display:flex; justify-content:space-between; gap:10px;}
+
+  /* ---- FULL MODE ---- */
+  .full-select{
+    font-family:'IBM Plex Mono',monospace; font-size:14.5px; padding:2px 6px; border-radius:3px;
+    border:1.5px solid var(--rule); background:#fff; color:var(--ink); cursor:pointer;
+  }
+  .full-select.graded.correct{border-color:var(--sage); background:#F2F7F1; color:var(--sage); font-weight:600;}
+  .full-select.graded.wrong{border-color:var(--crimson); background:#FBF1EE; color:var(--crimson); font-weight:600;}
+  .full-review{margin-top:24px; padding-top:18px; border-top:1px dashed var(--rule);}
+  .full-review-item{
+    display:grid; grid-template-columns:44px 1fr; gap:10px; padding:8px 0; font-size:13px;
+    border-bottom:1px dashed var(--rule); font-family:'IBM Plex Mono',monospace;
+  }
+  .full-review-item .fn{color:var(--ink-soft);}
+  .full-review-item .fcat{color:var(--gold); margin-left:8px; font-size:11px;}
+  .full-score{
+    font-family:'Noto Serif TC',serif; font-weight:900; font-size:34px; text-align:center; margin:6px 0 2px;
+  }
+  .full-score-label{text-align:center; font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--ink-soft); margin-bottom:10px;}
+
+  footer{text-align:center; margin-top:32px; color:var(--ink-soft); font-size:11px; font-family:'IBM Plex Mono',monospace;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="title">文法克漏字練習</div>
+    <div class="sub">83–115年學測歷屆克漏字 · 單題模式 / 全文模式</div>
+  </header>
+
+  <!-- HOME -->
+  <div id="home">
+    <div class="card">
+      <div class="home-lead">選擇練習模式</div>
+      <div class="home-desc">克漏字題目需要通篇文章的上下文才能正確作答，兩種模式都會顯示完整段落。</div>
+      <div class="mode-grid">
+        <div class="mode-card active" id="modeCardSingle" onclick="selectMode('single')">
+          <div class="m-name">單題模式</div>
+          <div class="m-desc">一次專注一格空格，作答後立即看答案與分類，適合逐題精讀、累積錯題本。</div>
+        </div>
+        <div class="mode-card" id="modeCardFull" onclick="selectMode('full')">
+          <div class="m-name">全文模式</div>
+          <div class="m-desc">一次看完整篇文章所有空格，全部填完再一起送出批改，較接近實際考試情境。</div>
+        </div>
+      </div>
+
+      <div class="sec-title">篩選文法點</div>
+      <div class="cat-grid" id="catGrid"></div>
+      <div class="cat-tools"><a onclick="toggleAllCats(true)">全選</a><a onclick="toggleAllCats(false)">全不選</a></div>
+
+      <button class="big-btn" id="startBtn" onclick="startSession()">開始練習 →</button>
+    </div>
+
+    <div class="card">
+      <div class="home-lead">錯題本</div>
+      <div class="stat-line"><span>目前累積錯題</span><span class="stat-badge" id="wrongCount">0</span></div>
+      <button class="ghost-btn" id="reviewBtn" onclick="startWrongReview()" style="margin-top:12px;">複習錯題 →</button>
+    </div>
+  </div>
+
+  <!-- SINGLE MODE -->
+  <div id="single">
+    <div class="quiz-meta">
+      <span id="singleProgress">0 / 0</span>
+      <span id="singleWrongBadge"></span>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="singleProgressFill" style="width:0%"></div></div>
+    <div class="card">
+      <span class="q-tag" id="singleYearTag"></span><span class="q-tag cat" id="singleCatTag"></span>
+      <div class="passage-text" id="singlePassage"></div>
+      <div class="options" id="singleOptions"></div>
+      <div class="explain" id="singleExplain">
+        <div class="note" id="singleNote"></div>
+      </div>
+      <div class="next-row">
+        <button class="ghost-btn" onclick="backHome()">← 回首頁</button>
+        <button class="ghost-btn" id="singleNextBtn" style="display:none;" onclick="nextSingle()">下一題 →</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- FULL MODE -->
+  <div id="full">
+    <div class="quiz-meta">
+      <span id="fullProgress">0 / 0</span>
+      <span></span>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="fullProgressFill" style="width:0%"></div></div>
+    <div class="card">
+      <span class="q-tag" id="fullYearTag"></span>
+      <div class="passage-text" id="fullPassage"></div>
+      <button class="big-btn" id="fullSubmitBtn" onclick="gradeFull()">送出批改</button>
+      <div class="full-review" id="fullReview" style="display:none;">
+        <div class="full-score" id="fullScore"></div>
+        <div class="full-score-label">答對題數</div>
+        <div id="fullReviewList"></div>
+      </div>
+      <div class="next-row">
+        <button class="ghost-btn" onclick="backHome()">← 回首頁</button>
+        <button class="ghost-btn" id="fullNextBtn" style="display:none;" onclick="nextFullPassage()">下一篇 →</button>
+      </div>
+    </div>
+  </div>
+
+  <footer>資料來源：83–115年學測歷屆克漏字 · 分類依文法點手動整理<br>© 2026 staresto-create ZZSH 版權所有。誠摯歡迎學生自由使用、分享本題庫進行練習；惟請勿用於商業用途；如需轉載，敬請註明出處，勿逕行據為己作。</footer>
+</div>
+
+<script>
+let PASSAGES = {};
+let ITEMS = [];
+let currentMode = 'single';
+let selectedCats = new Set();
+
+const WRONG_KEY = 'grammar_cloze_wrong_ids_v1';
+
+function loadWrongIds(){
+  try{ return new Set(JSON.parse(localStorage.getItem(WRONG_KEY) || '[]')); }catch(e){ return new Set(); }
+}
+function saveWrongIds(set){
+  localStorage.setItem(WRONG_KEY, JSON.stringify(Array.from(set)));
+}
+function addWrong(id){
+  const s = loadWrongIds(); s.add(id); saveWrongIds(s); refreshWrongCount();
+}
+function removeWrong(id){
+  const s = loadWrongIds(); if(s.has(id)){ s.delete(id); saveWrongIds(s); refreshWrongCount(); }
+}
+function refreshWrongCount(){
+  const n = loadWrongIds().size;
+  document.getElementById('wrongCount').textContent = n;
+  document.getElementById('reviewBtn').disabled = n === 0;
+}
+
+async function init(){
+  const [pRes, iRes] = await Promise.all([
+    fetch('grammar_passages.json'),
+    fetch('grammar_items.json')
+  ]);
+  PASSAGES = await pRes.json();
+  ITEMS = await iRes.json();
+  buildCategoryChips();
+  refreshWrongCount();
+}
+
+function buildCategoryChips(){
+  const cats = Array.from(new Set(ITEMS.map(it => it.category))).sort();
+  const grid = document.getElementById('catGrid');
+  selectedCats = new Set(cats);
+  grid.innerHTML = cats.map(c =>
+    `<div class="cat-chip on" data-cat="${escapeAttr(c)}" onclick="toggleCat(this)">${escapeHtml(c)}</div>`
+  ).join('');
+}
+function toggleCat(el){
+  const c = el.dataset.cat;
+  if(selectedCats.has(c)){ selectedCats.delete(c); el.classList.remove('on'); }
+  else{ selectedCats.add(c); el.classList.add('on'); }
+}
+function toggleAllCats(on){
+  document.querySelectorAll('.cat-chip').forEach(el=>{
+    const c = el.dataset.cat;
+    if(on){ selectedCats.add(c); el.classList.add('on'); }
+    else{ selectedCats.delete(c); el.classList.remove('on'); }
+  });
+}
+
+function selectMode(m){
+  currentMode = m;
+  document.getElementById('modeCardSingle').classList.toggle('active', m==='single');
+  document.getElementById('modeCardFull').classList.toggle('active', m==='full');
+}
+
+function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function escapeAttr(s){ return escapeHtml(s).replace(/"/g,'&quot;'); }
+
+/* ---------------- SINGLE MODE ---------------- */
+let singleQueue = [];
+let singleIdx = 0;
+let singleAnswered = false;
+
+function buildQueue(filterFn){
+  const pool = ITEMS.filter(filterFn);
+  // shuffle
+  for(let i=pool.length-1;i>0;i--){
+    const j = Math.floor(Math.random()*(i+1));
+    [pool[i],pool[j]]=[pool[j],pool[i]];
+  }
+  return pool;
+}
+
+function startSession(){
+  if(selectedCats.size===0){ alert('請至少選擇一個文法分類'); return; }
+  const filterFn = it => selectedCats.has(it.category);
+  if(currentMode === 'single'){
+    singleQueue = buildQueue(filterFn);
+    if(singleQueue.length===0){ alert('這個篩選條件下沒有題目'); return; }
+    singleIdx = 0;
+    showScreen('single');
+    renderSingle();
+  } else {
+    startFullMode(filterFn);
+  }
+}
+
+function startWrongReview(){
+  const wrongIds = loadWrongIds();
+  if(wrongIds.size===0) return;
+  singleQueue = ITEMS.filter(it => wrongIds.has(it.id));
+  for(let i=singleQueue.length-1;i>0;i--){
+    const j = Math.floor(Math.random()*(i+1));
+    [singleQueue[i],singleQueue[j]]=[singleQueue[j],singleQueue[i]];
+  }
+  singleIdx = 0;
+  showScreen('single');
+  renderSingle();
+}
+
+function showScreen(id){
+  document.getElementById('home').style.display = id==='home' ? 'block' : 'none';
+  document.getElementById('single').style.display = id==='single' ? 'block' : 'none';
+  document.getElementById('full').style.display = id==='full' ? 'block' : 'none';
+}
+function backHome(){ showScreen('home'); refreshWrongCount(); }
+
+function renderPassageHTML(text, allBlankNums, activeNum, filledMap){
+  // filledMap: {num: {letter, correct}} optional
+  let html = escapeHtml(text);
+  allBlankNums.forEach(n=>{
+    const token = new RegExp('\\{'+n+'\\}','g');
+    let inner;
+    if(filledMap && filledMap[n]){
+      const cls = filledMap[n].correct ? 'filled' : 'filled wrong';
+      inner = `<span class="blank-slot ${cls}">${escapeHtml(filledMap[n].letter)}<span class="blank-num">${n}</span></span>`;
+    } else if(n === activeNum){
+      inner = `<span class="blank-slot active">___<span class="blank-num">${n}</span></span>`;
+    } else {
+      inner = `<span class="blank-slot">___<span class="blank-num">${n}</span></span>`;
+    }
+    html = html.replace(token, inner);
+  });
+  return html;
+}
+
+function renderSingle(){
+  singleAnswered = false;
+  const it = singleQueue[singleIdx];
+  const passage = PASSAGES[it.passageId];
+  const allNums = ITEMS.filter(x=>x.passageId===it.passageId).map(x=>x.blankNum);
+
+  document.getElementById('singleProgress').textContent = (singleIdx+1)+' / '+singleQueue.length;
+  document.getElementById('singleProgressFill').style.width = ((singleIdx)/singleQueue.length*100)+'%';
+  document.getElementById('singleYearTag').textContent = it.year;
+  document.getElementById('singleCatTag').textContent = it.category;
+  document.getElementById('singlePassage').innerHTML = renderPassageHTML(passage.text, allNums, it.blankNum, null);
+
+  const optsDiv = document.getElementById('singleOptions');
+  optsDiv.innerHTML = ['A','B','C','D'].filter(L=>it.options[L]).map(L=>
+    `<div class="opt" data-letter="${L}" onclick="answerSingle('${L}')">
+      <span class="letter">${L}</span><span>${escapeHtml(it.options[L])}</span><span class="mark">${L===it.answer?'✓':'✕'}</span>
+    </div>`
+  ).join('');
+  document.getElementById('singleExplain').classList.remove('show');
+  document.getElementById('singleNextBtn').style.display = 'none';
+}
+
+function answerSingle(letter){
+  if(singleAnswered) return;
+  singleAnswered = true;
+  const it = singleQueue[singleIdx];
+  const correct = letter === it.answer;
+  document.querySelectorAll('#singleOptions .opt').forEach(el=>{
+    el.classList.add('locked');
+    if(el.dataset.letter === it.answer) el.classList.add('correct');
+    else if(el.dataset.letter === letter) el.classList.add('wrong');
+  });
+  const passage = PASSAGES[it.passageId];
+  const allNums = ITEMS.filter(x=>x.passageId===it.passageId).map(x=>x.blankNum);
+  const filledMap = {}; filledMap[it.blankNum] = {letter: it.options[it.answer], correct:true};
+  document.getElementById('singlePassage').innerHTML = renderPassageHTML(passage.text, allNums, null, filledMap);
+
+  if(correct){ removeWrong(it.id); }
+  else{ addWrong(it.id); }
+
+  document.getElementById('singleNote').textContent = correct
+    ? '答對了！文法點：'+it.category
+    : '正解是 '+it.answer+'（'+it.options[it.answer]+'）－文法點：'+it.category;
+  document.getElementById('singleExplain').classList.add('show');
+  document.getElementById('singleNextBtn').style.display = '';
+}
+
+function nextSingle(){
+  singleIdx++;
+  if(singleIdx >= singleQueue.length){
+    document.getElementById('singleProgressFill').style.width = '100%';
+    alert('本輪練習完成！共 '+singleQueue.length+' 題。');
+    backHome();
+    return;
+  }
+  renderSingle();
+}
+
+/* ---------------- FULL MODE ---------------- */
+let fullPassageIds = [];
+let fullIdx = 0;
+let fullGraded = false;
+
+function startFullMode(filterFn){
+  const validItems = ITEMS.filter(filterFn);
+  fullPassageIds = Array.from(new Set(validItems.map(it=>it.passageId)));
+  if(fullPassageIds.length===0){ alert('這個篩選條件下沒有題目'); return; }
+  for(let i=fullPassageIds.length-1;i>0;i--){
+    const j = Math.floor(Math.random()*(i+1));
+    [fullPassageIds[i],fullPassageIds[j]]=[fullPassageIds[j],fullPassageIds[i]];
+  }
+  window._fullFilterFn = filterFn;
+  fullIdx = 0;
+  showScreen('full');
+  renderFull();
+}
+
+function renderFull(){
+  fullGraded = false;
+  const pid = fullPassageIds[fullIdx];
+  const passage = PASSAGES[pid];
+  const items = ITEMS.filter(it => it.passageId===pid && window._fullFilterFn(it)).sort((a,b)=>a.blankNum-b.blankNum);
+
+  document.getElementById('fullProgress').textContent = (fullIdx+1)+' / '+fullPassageIds.length;
+  document.getElementById('fullProgressFill').style.width = (fullIdx/fullPassageIds.length*100)+'%';
+  document.getElementById('fullYearTag').textContent = passage.year;
+
+  let html = escapeHtml(passage.text);
+  items.forEach(it=>{
+    const token = new RegExp('\\{'+it.blankNum+'\\}','g');
+    const opts = ['A','B','C','D'].filter(L=>it.options[L])
+      .map(L=>`<option value="${L}">${L}. ${escapeHtml(it.options[L])}</option>`).join('');
+    const sel = `<select class="full-select" id="fsel_${it.id}" data-id="${it.id}">
+      <option value="">?${it.blankNum}</option>${opts}</select>`;
+    html = html.replace(token, sel);
+  });
+  document.getElementById('fullPassage').innerHTML = html;
+  document.getElementById('fullReview').style.display = 'none';
+  document.getElementById('fullReviewList').innerHTML = '';
+  document.getElementById('fullSubmitBtn').style.display = '';
+  document.getElementById('fullNextBtn').style.display = 'none';
+  window._fullCurrentItems = items;
+}
+
+function gradeFull(){
+  if(fullGraded) return;
+  const items = window._fullCurrentItems;
+  let correctCount = 0;
+  let reviewHtml = '';
+  items.forEach(it=>{
+    const sel = document.getElementById('fsel_'+it.id);
+    const chosen = sel.value;
+    const isCorrect = chosen === it.answer;
+    if(isCorrect){ correctCount++; removeWrong(it.id); }
+    else{ addWrong(it.id); }
+    sel.classList.add('graded', isCorrect ? 'correct' : 'wrong');
+    sel.disabled = true;
+    reviewHtml += `<div class="full-review-item">
+      <span class="fn">#${it.blankNum}</span>
+      <span>${isCorrect ? '✓ 正確' : '✕ 正解 '+it.answer+'（'+escapeHtml(it.options[it.answer])+'）'}<span class="fcat">${escapeHtml(it.category)}</span></span>
+    </div>`;
+  });
+  document.getElementById('fullScore').textContent = correctCount+' / '+items.length;
+  document.getElementById('fullReviewList').innerHTML = reviewHtml;
+  document.getElementById('fullReview').style.display = '';
+  document.getElementById('fullSubmitBtn').style.display = 'none';
+  document.getElementById('fullNextBtn').style.display = '';
+  fullGraded = true;
+}
+
+function nextFullPassage(){
+  fullIdx++;
+  if(fullIdx >= fullPassageIds.length){
+    document.getElementById('fullProgressFill').style.width = '100%';
+    alert('本輪練習完成！共 '+fullPassageIds.length+' 篇文章。');
+    backHome();
+    return;
+  }
+  renderFull();
+}
+
+init();
+</script>
+</body>
+</html>
