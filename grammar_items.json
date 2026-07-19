@@ -1606,7 +1606,7 @@
     "answer": "A",
     "explanation": "【句型】indulge in 固定搭配「沉溺於/盡情享受」；dwell in（居住於）、attend to（處理/照顧）、apply to（申請/適用於）都不合。",
     "accuracyRate": 14,
-    "note": "這題答錯的學生大多不是不會 indulge in，而是誤解了 attend to——很多人看到 attend 這個字根就直接聯想到「參加」（attend the party），沒注意到後面多了 to，一整組 attend to 其實是「處理、照顧」的意思（跟 deal with 同義），詞性也不同（attend 是及物動詞「參加」，attend to 是片語動詞「處理」）。這種「看到熟悉的字根就自動腦補意思」的誤讀，才是這題答對率只有14%的真正原因。\n常考搭配：indulge in + 活動/嗜好（沉溺於…）；attend to + 事務（處理…，不是「參加…」）。",
+    "note": "這題答錯的學生大多不是不會 indulge in，而是誤解了 attend to——很多人看到 attend 這個字根就直接聯想到「參加」（attend the party），沒注意到後面多了 to，一整組 attend to 其實是「處理、照顧」的意思（跟 deal with 同義），詞性也不同（attend 是及物動詞「參加」，attend to 是片語動詞「處理」）。這種「看到熟悉的字根就自動腦補意思」的誤讀，才是這題答對率只有14%的真正原因。\n選項 B 的 dwell in 也容易混淆——dwell in 是「居住於」（字面意義，跟 live in 同義），跟大家更常聽到的 dwell on/upon（一直想著、耿耿於懷，例如 don't dwell on the past）是不同的片語，一個講「住在哪裡」，一個講「心裡一直想著什麼」，千萬不要因為看到 dwell 就直接聯想到「思考、沉溺」。\n常考搭配：indulge in + 活動/嗜好（沉溺於…）；attend to + 事務（處理…，不是「參加…」）；dwell on + 話題/念頭（一直想著…，不是 dwell in）。",
     "discrimination": -1,
     "discriminationNote": "鑑別度僅-1，非常接近0，加上本題答對率只有14%屬於難度極高的題目——大考中心官方說明本來就指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象，這題比較像是全體考生（不分程度）都容易被 attend to 這個陷阱誤導，而非題目設計本身有嚴重瑕疵。"
   },
@@ -3337,7 +3337,7 @@
     "answer": "A",
     "explanation": "【句型】at this 固定搭配「聽到這話/見此情形」（at + 指示代名詞this，表反應的觸發點）；By／For／Into 都不合。",
     "accuracyRate": 17,
-    "note": "at this 是固定搭配，意思是「聽到這話、見此情形」，this 指前面提到的話語或狀況，是描述「反應觸發點」的常見寫法。容易被 By（藉由）、For（因為）這類介系詞干擾，因為表面上看似都能接代名詞this，但只有 at this 有「聽聞此事後反應」的固定用法。\n常考搭配：At this, sb + 動詞（聽到這話，某人就…）。",
+    "note": "at 的核心概念是標出一個「點」——可以是時間點（at midnight／at noon），也可以是反應/情緒被觸發的那個瞬間（at the thought of...一想到…就…、love at first sight一見鍾情）。這裡的 at this 就是同樣的邏輯：this 指前面的話語，at this 標出「聽到這話的那一刻」，所以整體意思是「聽到這話、見此情形」。容易被 By（藉由）、For（因為）干擾，因為表面上看似都能接代名詞this，但只有 at 能表達「反應的觸發點」這個瞬間感，By/For 都是講「方式」或「原因」，語意方向不同。\n常考搭配：At this, sb + 動詞（聽到這話，某人就…）；at midnight/noon（在深夜/正午這個時間點）；at the thought of...（一想到…）；at first sight（乍見之下）。",
     "discrimination": -20,
     "discriminationNote": "鑑別度-20，數值明顯偏負，值得留意。推測原因是選項 By 對熟悉「by+推理」用法的高分群考生可能更有吸引力（誤以為 by this 也能表達「依此而言」），導致部分高分群反而選錯；低分群考生單純猜測命中正解的機率則相對持平，兩相抵銷之下就出現負鑑別度。"
   },
