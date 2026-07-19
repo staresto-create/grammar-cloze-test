@@ -264,7 +264,7 @@
   <!-- HOME -->
   <div id="home">
     <div class="status-banner">
-      <b>現況說明：</b>目前題庫涵蓋83–115年<b>學測</b>克漏字（共550題）。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！<br>
+      <b>現況說明：</b>目前題庫涵蓋83–115年<b>學測</b>克漏字（共550題），部分題目附上<b>大考中心官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！<br>
       <b>關於答對率：</b>部分題目下方會顯示大考中心公布的全體考生答對率，目前已收錄91–115年資料；83–90年因大考中心當年未公布逐題答對率，暫無此資訊，並非題目遺漏。
     </div>
     <div class="card">
@@ -782,7 +782,7 @@ function answerSingle(letter){
   if(typeof it.accuracyRate === 'number'){
     const isLow = it.accuracyRate < 35;
     accTag.innerHTML = '本題全體考生答對率：<span class="acc-num">'+it.accuracyRate+'%</span>'
-      + (isLow ? '　<span class="acc-warn">⚠ 陷阱題，連高分同學也常答錯</span>' : '');
+      + (isLow ? '　<span class="acc-warn">⚠ 陷阱題，連高分群考生也常答錯</span>' : '');
     accTag.classList.toggle('low', isLow);
     accTag.classList.add('show');
   } else {
