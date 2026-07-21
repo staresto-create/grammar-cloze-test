@@ -234,6 +234,14 @@
   .trans-word{color:inherit; font-weight:400; transition:.3s;}
   .trans-word.hint-on{color:var(--crimson); font-weight:700;}
   .hint-toggle-row{display:flex; align-items:center; gap:8px; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); cursor:pointer;}
+  .level-select-row{display:flex; align-items:center; gap:6px; margin-bottom:10px; flex-wrap:wrap;}
+  .level-caption{font-size:11.5px; color:var(--ink-soft); margin-bottom:8px; line-height:1.6;}
+  .level-label{font-size:11px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;}
+  .level-chip{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; padding:4px 10px; border-radius:12px;
+    border:1.5px solid var(--rule); cursor:pointer; background:#fff; color:var(--ink-soft);
+  }
+  .level-chip.on{border-color:var(--gold); background:#FBF6E9; color:#8a6d00; font-weight:700;}
   .hint-switch{width:32px; height:17px; background:var(--rule); border-radius:10px; position:relative; transition:.2s;}
   .hint-switch.on{background:var(--sage);}
   .hint-switch::after{content:''; position:absolute; top:2px; left:2px; width:13px; height:13px; background:#fff; border-radius:50%; transition:.2s;}
@@ -425,6 +433,13 @@
     <div class="progress-bar"><div class="progress-fill" id="fullProgressFill" style="width:0%"></div></div>
     <div class="card">
       <span class="q-tag" id="fullYearTag"></span>
+      <div class="level-caption">👇 選一個最接近你目前程度的按鈕，會自動幫你決定要不要顯示提示（下面也可以隨時手動開關）</div>
+      <div class="level-select-row">
+        <span class="level-label">我屬於：</span>
+        <div class="level-chip on" data-level="low" onclick="setStudentLevel('low',this)">低分群考生（開提示）</div>
+        <div class="level-chip" data-level="mid" onclick="setStudentLevel('mid',this)">中間群考生（開提示）</div>
+        <div class="level-chip" data-level="high" onclick="setStudentLevel('high',this)">高分群考生（關提示，模擬考場）</div>
+      </div>
       <div class="hint-toggle-row" onclick="toggleFullHint()">
         <span id="fullHintLabel">主旨句／轉折詞提示：開</span>
         <div class="hint-switch on" id="fullHintSwitch"></div>
@@ -968,11 +983,34 @@ function startFullMode(filterFn){
 }
 
 let fullHintOn = true;
-function toggleFullHint(){
-  fullHintOn = !fullHintOn;
+function applyHintStyling(){
   document.getElementById('fullHintSwitch').classList.toggle('on', fullHintOn);
   document.getElementById('fullHintLabel').textContent = '主旨句／轉折詞提示：' + (fullHintOn ? '開' : '關');
-  renderFull();
+  // 只切換已存在DOM元素的樣式class，不重新產生原文HTML，避免清空學生已選的答案
+  document.querySelectorAll('#fullPassage .topic-sent, #fullPassage .trans-word').forEach(el => {
+    el.classList.toggle('hint-on', fullHintOn);
+  });
+  const outlineBox = document.getElementById('fullOutlineBox');
+  const pid = fullPassageIds[fullIdx];
+  const passage = PASSAGES[pid];
+  if(passage && passage.outline && passage.outline.length && fullHintOn){
+    outlineBox.style.display = 'block';
+    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div><ol>' +
+      passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
+  } else {
+    outlineBox.style.display = 'none';
+    outlineBox.innerHTML = '';
+  }
+}
+function setStudentLevel(level, el){
+  document.querySelectorAll('.level-chip').forEach(c => c.classList.remove('on'));
+  el.classList.add('on');
+  fullHintOn = (level !== 'high');
+  applyHintStyling();
+}
+function toggleFullHint(){
+  fullHintOn = !fullHintOn;
+  applyHintStyling();
 }
 
 // 解析 @@主旨句@@ 和 ~~轉折詞~~ 標記，其餘文字照常 escapeHtml
