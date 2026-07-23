@@ -1606,7 +1606,7 @@
     "answer": "A",
     "explanation": "indulge in 是「盡情享受、沉溺於」，符合大學生盡情參加派對、看電影、參與各種活動的語意；dwell in（居住於）、attend to（處理、照料）、apply to（適用於、向…申請）語意都不合。",
     "accuracyRate": 14,
-    "note": "答對率僅 14%，鑑別度 −1，是全站鑑別度為負的少數題目之一——高分群考生答對率反而低於低分群，代表干擾選項對讀得懂文章的人特別有殺傷力。【你可能會這樣想】答錯的人多半不是不會 indulge in，而是誤讀了 attend to：看到 attend 就直接聯想到「參加」（attend a meeting、attend school），沒注意到後面多了一個 to。attend 當「參加、出席」時是及物動詞，直接接受詞；attend to 則是片語動詞，意思是「處理、照料」，與 deal with 同義。差一個 to，意思完全不同。【同一個字根長出兩支：attendance 與 flight attendant】attend 源自拉丁文 attendere，由 ad-（向）＋ tendere（伸展）組成，字面意思是「把心思伸向某處」——同源的 attention（注意力）就是最直接的證據。這個字後來分成兩支發展，剛好對應你最容易混淆的兩個名詞：一支是「人到場」，attend a meeting（出席會議）→ attendance（出席、出席率）；另一支是「照料、伺候」，attend to a patient（照料病人）→ attendant（服務人員），最常見的就是 flight attendant（空服員）、a parking attendant（停車場管理員）。空服員不是「去搭飛機的人」，而是「在飛機上照料乘客的人」——把這一點記住，attend 與 attend to 的差別就再也不會忘。順帶提醒：attendance 與 attendants 在一般語速下幾乎同音，寫作時要特別留意。【字義依據】劍橋詞典把 indulge in sth 單獨立為片語動詞，釋義是允許自己享有或從事某種享受，尤其是超過對自己有益的程度，例句 We took a deliberate decision to indulge in a little nostalgia.。正因為帶有「放縱、過了頭」的語感，才與本句後半的告誡 but you also have to learn how to do without certain things 前後呼應——父親要說的正是「你玩得太盡興了」。【dwell in 與 dwell on 一起記】這兩個只差一個介系詞，意思天差地遠：dwell in 是「居住於」，與 live in 同義，帶文言色彩（They dwell in a remote village.）；dwell on／upon 才是考試常出現的那一個，意思是「老想著、反覆談論某件不愉快的事」（Don't dwell on your mistakes. 別老想著自己犯的錯）。本句主詞是 college students、受詞是 parties 與 movies，兩個都套不進去。【另外兩個干擾選項】apply to 是「適用於」或「向…申請」；attend to 是「處理、照料」。這三個干擾選項放進 ___ parties, movies, and lots of activities 都講不通，只有 indulge in 說得通。【常考搭配】indulge in + 名詞（盡情享受）、indulge oneself、dwell in（居住於）、dwell on／upon（老想著）、attend to a matter（處理事情）、attend a meeting（出席會議）、attendance（出席率）、flight attendant（空服員）、pay attention to（注意）、apply to／apply for。",
+    "note": "答對率 14%，而且高分群答對率反而比低分群低——干擾選項對讀得懂文章的人特別有殺傷力。【你可能會這樣想】錯的人多半不是不會 indulge in，而是把 attend to 讀成「參加」。attend 當「參加」時直接接受詞（attend a meeting）；多一個 to 就變成片語動詞 attend to ＝ 處理、照料（＝deal with）。差一個 to，意思完全不同。【順便把 attend 這一家整理清楚】attend 來自「把心思伸向某處」，分成兩支：一支是人到場，attend a meeting → attendance（出席率）；一支是照料，attend to a patient → attendant（服務人員），最常見的就是 flight attendant。空服員不是「去搭飛機的人」，是「在飛機上照料乘客的人」——記住這個，兩者就不會再混。【dwell in 與 dwell on】也是差一個介系詞：dwell in ＝ 居住於（＝live in）；dwell on ＝ 老想著、反覆談某件不愉快的事（Don't dwell on your mistakes.）。【本題怎麼看】indulge in ＝ 盡情享受、沉溺於，帶「過了頭」的語氣，正好接上後半句的告誡 but you also have to learn how to do without certain things。【常考搭配】indulge in、indulge oneself、attend a meeting、attend to a matter、attendance、flight attendant、dwell on、apply to／for。",
     "discrimination": -1,
     "discriminationNote": "鑑別度僅-1，非常接近0，加上本題答對率只有14%屬於難度極高的題目——大考中心官方說明本來就指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象，這題比較像是全體考生（不分程度）都容易被 attend to 這個陷阱誤導，而非題目設計本身有嚴重瑕疵。",
     "contextSpan": "句內"
@@ -1645,7 +1645,7 @@
     "accuracyRate": 35,
     "discrimination": 48,
     "contextSpan": "句內",
-    "note": "答對率 35%，鑑別度 48。【你可能會這樣想】make、ends、meet 三個字你全都認得，合在一起卻完全看不懂——這正是固定用語最麻煩的地方：字面拆解幫不上忙，只能整組記。【字義與字源】劍橋詞典的釋義是「僅有足夠的錢支付所需之物」，中文版直接譯為「使收支相抵；勉強維持生計」；劍橋所附的例句 I've taken a second job in the evenings just to make ends meet.（我晚上多兼一份差，只是為了打平開銷）與本題 I used to have two part-time jobs when I was in college just to make ends meet. 結構幾乎一模一樣，連 just to 都相同。這個說法原本寫成 make both ends meet，是十七世紀從法文 joindre les deux bouts 翻譯過來的，其中的 ends 指的是「收入」與「支出」這兩端——要讓兩端碰得到，也就是收支打平。【與 111 年那題對照著記】本題庫 111 年有一格考 that's where the similarities end，那裡的 end 是動詞「走到盡頭」；本題的 ends 則是名詞「端點」。同一個字，一題考名詞、一題考動詞，兩題放在一起記，你就能抓住 end 的核心概念——「端點」以及「走到端點」。【文內驗證】前一句 If I give you a hand every time you have problems with money now, what will you do when you no longer have me to support you?（如果你每次缺錢我都伸援手，將來我不在了你怎麼辦？）已經定調：這是一封拒絕匯錢的家書。父親提起自己當年打兩份工，正是要說明「連我都得辛苦打平開銷」。下一句 So, if you need money now, you should try either finding a job or cutting down on your ___ 更是直接的行動建議。【干擾選項】catch up 是「趕上進度」；get my way 的正確說法是 get one's way（隨心所欲、得逞）；keep in touch 是「保持聯絡」。三者都與「打工賺錢」的情境無關。【常考搭配】make ends meet（收支相抵）、make both ends meet、live from hand to mouth（僅能餬口）、cut down on（減少）、give sb a hand（幫某人一把）。"
+    "note": "答對率 35%。【你可能會這樣想】make、ends、meet 三個字你全都認得，合起來卻看不懂——固定用語就是這樣，拆開理解沒用。make ends meet ＝ 使收支相抵、勉強維持生計。原本寫作 make both ends meet，那個 ends 指的是「收入」與「支出」兩端，要讓兩端碰得到，也就是打平。【怎麼判斷】這是一封拒絕匯錢的家書。前一句 If I give you a hand every time you have problems with money now, what will you do when you no longer have me to support you?已經定調；父親提自己當年打兩份工，就是要說「連我都得辛苦打平開銷」。下一句 you should try either finding a job or cutting down on your spending 更是直接的建議。【干擾選項】catch up 是趕上進度；get my way 的正確說法是 get one's way（隨心所欲）；keep in touch 是保持聯絡。三個都跟打工賺錢無關。【常考搭配】make ends meet、live from hand to mouth（僅能餬口）、cut down on、give sb a hand。"
   },
   {
     "id": "G95_20_1",
@@ -1851,7 +1851,7 @@
     "accuracyRate": 38,
     "discrimination": 37,
     "contextSpan": "句內",
-    "note": "答對率 38%，鑑別度 37。【你可能會這樣想】你一看到空格就想填動詞，卻忘了句子已經有主要動詞 come。After a spa treatment at Happy Puppy, dogs come home ___ pampered and relaxed. 的主要動詞是 come（回家），空格填進去的成分只能是補充說明，不能是第二個限定動詞。【文法依據】現在分詞可以放在動詞後面，描述主詞「在做這件事的同時所處的狀態」，也就是「一邊…一邊…」。come home feeling great（帶著愉快的心情回家）、sit reading a book（坐著看書）、lie sleeping（躺著睡）都是同一結構。本句 dogs come home feeling pampered and relaxed 就是「狗回到家時，感覺備受呵護、全身放鬆」。【判斷方法：先數動詞】一個子句只能有一個限定動詞，除非有連接詞。看到句子已有主要動詞、空格又要填動詞形式時，答案幾乎一定是非限定形式——分詞或不定詞。再看語意：若是「同時發生的狀態」就用分詞，若是「為了…」才用不定詞。【干擾選項】will feel 與 have felt 都是限定動詞，填進去會造成一句兩個動詞卻沒有連接詞；to feel 是不定詞表目的，會變成「狗回家是為了感覺被呵護」——但實際上被呵護是在寵物美容店已經發生的事，回家只是帶著那個感覺，語意不合。【接上你已經學過的東西】國中學過 He sat there watching TV.（他坐在那裡看電視），本題只是把 sit 換成 come home，原理完全一樣。【常考搭配】come home feeling…、sit／stand／lie ＋ V-ing、spend time doing、pampered（備受呵護的）、a spa treatment。"
+    "note": "答對率 38%。【你可能會這樣想】你看到空格就想填動詞，卻忘了句子已經有主要動詞 come。一個子句只能有一個限定動詞，除非有連接詞。【現在分詞當補語】動詞後面接 V-ing，用來說明主詞「同時處於什麼狀態」：come home feeling great（帶著愉快的心情回家）、sit reading a book（坐著看書）、lie sleeping（躺著睡）。國中學過的 He sat there watching TV. 就是這個結構。【干擾選項】will feel 與 have felt 都是限定動詞，會造成一句兩個動詞卻沒有連接詞；to feel 表目的，但被呵護是在美容店已經發生的事，不是回家的目的。【常考搭配】come home feeling…、sit／stand／lie + V-ing、spend time doing。"
   },
   {
     "id": "G96_17_1",
@@ -1938,7 +1938,7 @@
     "answer": "D",
     "explanation": "the rate at which 是固定結構：原句為 the country is losing size at a certain rate，介系詞 at 隨關係代名詞一起前移，成為 the rate at which…；by／in／of 都不是 rate 慣用的介系詞。",
     "accuracyRate": 15,
-    "note": "答對率 15%。【你可能會這樣想】看到 which 就自動進入「關係代名詞」模式，滿腦子想的是該不該用 that、能不能省略，完全沒意識到要填的是「介系詞」，而這個介系詞不是隨便挑的，由前面的名詞 rate 決定。【為什麼是 at：抓住「點」的感覺】at 的核心概念是標出一個「點」——空間的點（at the corner）、時間的點（at seven o'clock）、瞬間的反應（at first sight 一見鍾情、at the thought of 一想到）。凡是把某個量看成刻度上的一個定點，英文一律用 at：at a rate of 2 cm a year（以每年兩公分的速率）、at a speed of 60 km／h、at a temperature of 100°C、at the age of 18、at a price of NT$500。速率是刻度上的一點，所以搭配 at，這個道理與本篇 103 年那題的 at this 是同一個。【文法依據】「介系詞＋關係代名詞」的結構裡，介系詞是從原本的句子搬上來的：The country is losing size at a certain rate. → the rate at which the country is losing size。判斷方法很固定——把關係子句還原成一個獨立句子，看那個名詞原本搭配哪個介系詞。rate 慣用的介系詞是 at，所以這一格只能是 at which，by／in／of 都不是 rate 的搭配。【接上你已經學過的東西】國中學過 the house in which I live（＝the house I live in）、the pen with which he wrote（＝the pen he wrote with），都是把句尾的介系詞搬到關係代名詞前面，本題只是把名詞換成 rate。還原句尾介系詞，是這類題目最可靠的解法。【常考搭配】at a rate of…、the rate at which SV、at a speed of…、at the age of…、at first sight、the way in which SV、the extent to which SV（…的程度）。",
+    "note": "答對率 15%。【你可能會這樣想】看到 which 你就自動進入「關係代名詞」模式，滿腦子想的是該用 that 還是能不能省略，完全沒意識到要填的是「介系詞」，而且它由前面的名詞 rate 決定。【為什麼是 at：抓住「點」的感覺】at 的核心是標出一個點——空間的點（at the corner）、時間的點（at seven）、瞬間的反應（at first sight 一見鍾情）。凡是把某個量看成刻度上的一個定點，一律用 at：at a rate of 2 cm a year、at a speed of 60 km／h、at a temperature of 100°C、at the age of 18。速率是刻度上的一點，所以配 at。【還原句尾介系詞】把關係子句還原成獨立句子就看得出來：The country is losing size 「at」 a certain rate. → the rate 「at which」…。國中學過的 the house 「in」 which I live（＝the house I live 「in」）是同一招。【常考搭配】at a rate of、the rate at which SV、at first sight、the way in which SV、the extent to which SV。",
     "discrimination": 17,
     "contextSpan": "句內"
   },
@@ -1994,7 +1994,7 @@
     "discrimination": 17,
     "contextSpan": "跨句",
     "contextNote": "移動方向 northward 寫在前段 as it pushes northward against the Himalayas",
-    "note": "答對率 35%，鑑別度只有 17。【你可能會這樣想】-ward 是表示方向的字尾，你看到四個選項全都以 -ward 結尾，直覺以為是在比四個方向，於是憑感覺挑一個。問題是其中有一個根本不是方向詞——wayward 意思是「任性的、難以駕馭的」（a wayward child 難管教的孩子），與 way ＋ ward 的字面毫無關係，是這一題埋得最深的陷阱。【線索在前段，不在本句】本句 The Indian plate's ___ movement is not new. 自身沒有任何方向訊息，必須回到文章開頭：A new analysis of satellite-based data has given precisely the rate at which the country is losing size as it pushes northward against the Himalayas.（印度正往北推擠喜馬拉雅山）。方向早在第一段就交代了，本句只是回頭指稱同一件事。這是典型的跨句題，而且線索距離較遠，必須回頭找。【-ward 字尾整理】northward（向北）／southward（向南）／upward（向上）／downward（向下）／inward（向內）／outward（向外）／forward（向前）／backward（向後）／homeward（返家）。這一組全都是「朝某方向」，唯獨 wayward 是例外，意思是「任性的」。把例外單獨圈出來，考試時才不會被騙。【干擾選項】downward movement（向下移動）與板塊互相推擠、造成喜馬拉雅山增厚的敘述不符；outward movement（向外擴張）同樣沒有文內依據——文章說的是印度「縮小」而不是擴張。【常考搭配】move northward／southward、upward／downward trend（上升／下降趨勢）、inward／outward、a wayward child（叛逆的孩子）、push against（推擠）。"
+    "note": "答對率 35%。【你可能會這樣想】四個選項都以 -ward 結尾，你大概以為是在比四個方向。但 wayward 根本不是方向詞，它的意思是「任性的、難以駕馭的」（a wayward child 難管教的孩子）——這是埋得最深的陷阱。【線索在前段】本句自己沒有任何方向訊息，要回到文章開頭：as it pushes northward against the Himalayas（印度正往北推擠喜馬拉雅山）。【-ward 一次記齊】northward／southward／upward／downward／inward／outward／forward／backward／homeward，全是「朝某方向」；只有 wayward 是例外。【常考搭配】move northward、upward／downward trend、a wayward child。"
   },
   {
     "id": "G96_25_2",
@@ -2249,7 +2249,7 @@
     "answer": "A",
     "explanation": "escape 當及物動詞時是「躲過、免於」，後面直接接不好的事物：這些建築成功躲過了戰後重建的破壞；featured（以…為特色）、defended（防禦）、inspired（啟發）語意都不合。",
     "accuracyRate": 34,
-    "note": "答對率 34%，鑑別度 40。【你可能會這樣想】escape 你記得的大概是「逃跑」，而且直覺認為它是不及物動詞，要接受詞就得加 from（escape from prison）。看到 escaped 後面直接接 the destruction，反而覺得句子有問題。【字義依據】escape 兼具不及物與及物兩種用法，意思略有不同：接 from 時指「從某個地方或處境逃出來」（He escaped from prison this morning.）；直接接受詞時指「躲過、免於」某件不好的事，接近 avoid——劍橋詞典的例句 She was kidnapped but escaped her captors.、He longed to escape the small town where he grew up.，牛津詞典的 She was lucky to escape punishment.（她能免於處罰算是幸運）都是這一類。本句 All of them successfully escaped the destruction of postwar redevelopment 就是「這些建築全都成功躲過了戰後重建的拆除」。【一句話記住差別】escape from ＝ 從裡面逃出來（人已經在裡面）；escape ＋ 受詞 ＝ 躲過（事情根本沒發生在你身上）。【文內驗證】空格後面的 and remained unchanged（並且保持原貌）是最直接的印證——正因為躲過了拆除，才可能維持原樣。前一句 there are buildings in Romanic, Baroque, and Rococo styles that were popular hundreds of years ago 也說明這些老建築至今仍在。【干擾選項】featured 是「以…為特色」，主詞通常是地方或作品（The city features old buildings.），與 destruction 搭不上；defended 是「防禦、保衛」，後面接的應該是被保護的對象，而不是破壞本身；inspired 是「啟發」，語意無關。【常考搭配】escape punishment／death／notice（躲過處罰／死亡／注意）、escape from prison、narrowly escape（險些遭遇）、escape sb's notice（未被某人注意到）、remain unchanged。",
+    "note": "答對率 34%。【你可能會這樣想】escape 你大概認定它是「逃跑」，而且一定要接 from，所以看到 escaped 後面直接接 the destruction 覺得怪。其實 escape 有兩種用法，意思不同：escape from ＝ 從裡面逃出來（人已經在裡面，He escaped from prison.）；escape ＋ 受詞 ＝ 躲過、免於（事情根本沒發生在你身上，She was lucky to escape punishment.）。本題是後者。【怎麼判斷】空格後面的 and remained unchanged（並且保持原貌）是最直接的印證——正因為躲過了戰後重建的拆除，才可能維持原樣。【干擾選項】featured 是「以…為特色」，主詞該是地方或作品；defended 是「保衛」，後面該接被保護的對象，不是破壞本身；inspired 是「啟發」，語意無關。【常考搭配】escape punishment／death／notice、escape from prison、narrowly escape、remain unchanged。",
     "discrimination": 40,
     "contextSpan": "句內"
   },
@@ -2321,7 +2321,7 @@
     "accuracyRate": 36,
     "discrimination": 32,
     "contextSpan": "句內",
-    "note": "答對率 36%，鑑別度 32。【你可能會這樣想】要表達「想到一個點子」，你第一個想到的一定是 come up with——因為課本教得早、用得多。問題在於主詞：come up with 的主詞必須是「人」（Art Fry came up with an idea.），但本句的主詞是 an idea，受詞才是人（an idea ___ Art Fry），主客剛好顛倒，所以 come up with 放不進來。這是本題唯一的關卡。【字義依據】劍橋詞典 occur to sb 的釋義是：若某個想法或念頭 occurs to you，代表它浮現在你腦中。劍橋的部落格專文也把 occur to 列為表達「想法冒出來」最常用的說法之一，並指出常見句型是 It occurred to sb that…（某人忽然想到…），例句 It occurred to me that we could invite Sophia.。中文可譯成「某人忽然想到」。【同一組說法一起記】表達「想法浮現」還有一個常考的動詞是 strike：That was when the thought struck him.（他就是在那時想到的）——本題庫 114 年那題考的 strike suddenly 用的正是這個字的另一個面向。occur to 與 strike 的主詞都是「想法」，come up with 與 think of 的主詞則是「人」，兩組分清楚就不會錯。【文內驗證】前一句描述 Art Fry 的困擾：他用小紙片標記聖歌本的頁面，紙片老是掉滿地；下一句 He remembered a kind of glue developed by a colleague…（他想起同事研發的一種黏膠）——先有困擾、再靈光一閃、然後想起黏膠，這正是便利貼誕生的經過。【干擾選項】threw at 是「朝…扔」；looked down upon 是「瞧不起」；兩者都需要人當主詞，與 an idea 搭不上。【常考搭配】an idea occurs to sb／It occurs to sb that…（某人想到）、a thought strikes sb、come up with an idea（人想出點子）、think of、look down upon（瞧不起）。"
+    "note": "答對率 36%。【你可能會這樣想】要說「想到一個點子」，你第一個想到的一定是 come up with。但問題在主詞：come up with 的主詞必須是人（Art Fry came up with an idea.），本句的主詞卻是 an idea、受詞才是人，主客剛好顛倒。【occur to 的主詞是想法】If a thought occurs to you, it comes into your mind. 常見句型是 It occurred to me that…（我忽然想到…）。同一組的還有 strike：That was when the thought struck him.（他就是在那時想到的）。記法：occur to／strike 的主詞是「想法」；come up with／think of 的主詞是「人」。【常考搭配】an idea occurs to sb、It occurs to sb that…、a thought strikes sb、come up with an idea。"
   },
   {
     "id": "G98_18_1",
@@ -2580,7 +2580,7 @@
     "answer": "A",
     "explanation": "informed 當形容詞是「消息靈通的、掌握充分資訊的」，用來形容人；informed consumers 即「懂得做功課的消費者」。informative（提供豐富資訊的）用來形容書籍、演講等事物，informal（非正式的）、informational（資訊性的）語意都不合。",
     "accuracyRate": 15,
-    "note": "答對率 15%，鑑別度 0——這一題完全分不出程度好壞，代表連高分群也在猜。【你可能會這樣想】inform 的家族擠成一團：你記得 information、informative，卻很少把 informed 當成一個獨立的形容詞記住。它的中文是「消息靈通的」——什麼行情、什麼新品、什麼潮流都知道。兩個字的方向剛好相反：informed 是「知道很多」，形容「人」；informative 是「給出很多資訊」，形容「東西」（a book／a talk／a website）。消費者是人，只能用 informed。【字義依據】劍橋詞典 informed 的釋義是 having a lot of knowledge or information about something；informative 則是 providing a lot of useful information。一個接收、一個提供，記住這個方向就不會再混。順帶把整組字整理清楚：informed（消息靈通的）／informative（資訊豐富的）／informal（非正式的）／informational（資訊性的、與資訊有關的），四個字只有第一個能形容「人懂很多」。【線索在下一句】這一格必須往下讀一句才確定得了：There isn't a brand or a trend that these young people are not aware of.（沒有哪個品牌或潮流是這些年輕人不知道的）——這句用雙重否定表達「什麼都知道」，正是 informed 的同義改寫。看到形容詞題不確定時，往下一句找作者有沒有換個說法再講一次。【常考搭配】an informed consumer／decision／choice（明智的消費者／決定／選擇）、well-informed、keep sb informed（隨時告知某人）、an informative talk／article。",
+    "note": "答對率 15%，鑑別度 0——這題完全分不出程度好壞，代表連高分群也在猜。【你可能會這樣想】inform 的家族擠成一團，你記得 information、informative，卻很少把 informed 當形容詞記住。它的中文是「消息靈通的」——什麼行情、什麼潮流都知道。兩個字方向相反：informed ＝ 知道很多，形容「人」；informative ＝ 給出很多資訊，形容「東西」（a book／a talk／a website）。消費者是人，只能用 informed。【線索在下一句】There isn't a brand or a trend that these young people are not aware of.（沒有哪個品牌或潮流是這些年輕人不知道的）——用雙重否定表達「什麼都知道」，正是 informed 的同義改寫。形容詞題不確定時，往下一句找作者有沒有換個說法再講一次。【一次分清四個】informed（消息靈通的）／informative（資訊豐富的）／informal（非正式的）／informational（資訊性的）。【常考搭配】an informed consumer／decision、well-informed、keep sb informed、an informative talk。",
     "discrimination": 0,
     "contextSpan": "跨句",
     "contextNote": "下一句 There isn't a brand or a trend that these young people are not aware of，aware 與 informed 正反同義"
@@ -2687,7 +2687,7 @@
     "accuracyRate": 39,
     "discrimination": 34,
     "contextSpan": "句內",
-    "note": "答對率 39%，鑑別度 34。【你可能會這樣想】你對虛主詞 it 很熟——It is easy for me to answer this question.（國中就學過），但對「虛受詞」的 it 相當陌生。本句 This higher water content also makes ___ easier for them to bruise. 的結構是 make ＋ 受詞 ＋ 受詞補語，真正的受詞是後面那一長串 for them to bruise（讓它們容易碰傷這件事），因為太長，先用 it 佔住受詞的位置，真正的內容擺到後面。【接上你已經學過的東西】把兩個句型並排就一目瞭然：虛主詞——It is easier for them to bruise.（主詞位置放 it）；虛受詞——This makes it easier for them to bruise.（受詞位置放 it）。兩者的原理相同，都是「先用 it 佔位，真正的內容往後挪」，差別只在佔的是主詞還是受詞的位置。【同一句型的常見動詞】make／find／think／consider／believe 後面都可以接虛受詞：I find it hard to believe.（我覺得難以相信）、We think it necessary to act now.（我們認為現在行動有其必要）、He made it clear that he disagreed.（他把不同意講得很清楚）。這幾個動詞是考試的常客，整組記最有效率。【干擾選項】such 是「這樣的」，不能單獨佔受詞位置；much 是「許多」，語意不合；that 雖然可以當代名詞，但英文不用 make that easier for… 這種說法來表達本句的意思。【常考搭配】make it + 形容詞 + for sb + to V、find it hard／difficult to V、think it necessary to V、make it clear that…、bruise（碰傷）。"
+    "note": "答對率 39%。【你可能會這樣想】虛主詞你很熟——It is easy for me to answer this question. 但「虛受詞」大概沒學過。本句 makes ___ easier for them to bruise 的真正受詞是後面那一長串 for them to bruise，因為太長，先用 it 佔住受詞的位置。【兩個句型並排就懂了】虛主詞：It is easier for them to bruise.（it 佔主詞位置）；虛受詞：This makes it easier for them to bruise.（it 佔受詞位置）。原理相同，都是先用 it 佔位、真正內容往後挪。【同句型的常見動詞】make／find／think／consider 後面都能接虛受詞：I find it hard to believe.、We think it necessary to act now.。【常考搭配】make it + 形容詞 + for sb + to V、find it hard to V、think it necessary to V。"
   },
   {
     "id": "G99_24_2",
@@ -2772,7 +2772,7 @@
     "answer": "C",
     "explanation": "Since 在此是表原因的從屬連接詞「既然、因為」：正因為儲存與運送的資訊不易取得，瓶裝水未必比自來水更好。Although（雖然）語意方向相反，Despite 是介系詞須接名詞，So 引導結果不能放在句首帶出原因子句。",
     "accuracyRate": 34,
-    "note": "答對率 34%，鑑別度 36。【你可能會這樣想】since 你第一個想到的是「自從」（I have lived here since 2010.），而且腦中綁定現在完成式。因此看到句首的 Since 帶出一個完整子句、後面又接主要子句時，就以為時態不對而排除它。事實上 since 有三種身分：介系詞（since last month）、表時間的連接詞（自從）、以及表原因的連接詞（既然、因為）——本題考的是第三種。【文法依據】劍橋文法在「原因、理由、結果與目的」的連接詞條目中明確指出：because、as、since 三者意思非常接近，都用來連接原因與結果。因此 Since the information… is not always readily available to consumers, bottled water may not be a better alternative to tap water. 就是「既然消費者不容易取得儲存與運送的資訊，瓶裝水未必比自來水更好」。【文內驗證】前一句 Bacteria can multiply if the water is kept on the shelves for too long or if it is exposed to heat or direct sunlight.（水若在架上放太久、或曝曬於高溫與陽光下，細菌就會滋生）已經先講了風險；本句接著說消費者又無從得知這些資訊——原因層層堆疊，導出「瓶裝水未必比較好」的結論。下一句 Besides these ___ issues, bottled water has other disadvantages. 用 Besides 繼續累加缺點，全段是一條完整的論證鏈。【干擾選項】Although 是讓步（雖然），會使前後變成對比，與整段的因果推論不合；Despite 是介系詞，後面只能接名詞或動名詞，不能接完整子句；So 表結果，位置應在結果句之前，不能用來引導原因子句。【常考搭配】since／as／because ＋ 原因子句、Since you are here, let's begin.、despite ＋ 名詞、in spite of ＋ 名詞、an alternative to（…的替代選擇）。",
+    "note": "答對率 34%。【你可能會這樣想】since 你大概只想到「自從」，而且腦中綁定現在完成式，所以看到句首的 Since 帶出一個完整子句就排除了它。其實 since 有三種身分：介系詞（since last month）、表時間的連接詞（自從）、以及表原因的連接詞「既然、因為」——本題考第三種，與 because、as 意思接近：Since you are here, let's begin.（既然你來了，我們就開始吧）。【文內線索】前一句說水放太久或曝曬會滋生細菌，本句接著說消費者又無從得知這些資訊——原因層層堆疊，導出「瓶裝水未必比較好」。【干擾選項】Although 是讓步，方向相反；Despite 是介系詞，後面只能接名詞不能接子句；So 表結果，不能引導原因子句。【常考搭配】since／as／because ＋ 子句、despite ＋ 名詞、in spite of ＋ 名詞、an alternative to。",
     "discrimination": 36,
     "contextSpan": "句內"
   },
@@ -3104,7 +3104,7 @@
     "accuracyRate": 38,
     "discrimination": 50,
     "contextSpan": "句內",
-    "note": "答對率 38%，鑑別度 50。【你可能會這樣想】語意上 some of them 完全說得通——「其中有些只是突出地面的岩石」，所以很多人毫不猶豫就選 them。問題不在語意，在句子結構。【最根本的一條規則：兩個句子不能只用逗號連接】填 them 之後，句子會變成 It is surrounded by about 5,000 other islands, some of them are just rocks sticking out of the ground.——前面是一個完整句子，後面又是一個完整句子（some of them are…），中間只有一個逗號、沒有連接詞，這在英文裡不成立。中文可以一路逗號到底，英文不行，這是中英最大的差異之一，本題庫 93 年那題（To contribute…）考的也是同一條規則。【正確的做法：用關係代名詞把後半句降級】把 them 換成 which，後半句就從「獨立的句子」變成「形容詞子句」，附屬在前面的句子底下，整句只剩一個主要子句，結構才合法。some of which are just rocks 意思是「其中有些只是岩石」，which 代替的是 about 5,000 other islands。【接上你已經學過的東西】國中學過 I have two brothers, both of whom are doctors.（我有兩個兄弟，兩位都是醫生）——同一個結構，只是指人用 whom、指物用 which。同類說法還有 most of which、all of which、none of which、many of whom。【干擾選項】that 雖然也是關係代名詞，但不能用在介系詞之後（不能說 some of that）；those 是指示代名詞，無法引導子句。【常考搭配】some／most／all／none of which（whom）、both of whom、a number of which、stick out of（突出於）。"
+    "note": "答對率 38%，鑑別度 50。【你可能會這樣想】語意上 some of them 完全說得通，所以很多人毫不猶豫就選 them。問題不在語意，在結構。【英文兩個句子不能只靠逗號連接】填 them 之後會變成 …about 5,000 other islands, some of them are just rocks…，前後各是一個完整句子，中間只有逗號、沒有連接詞，這在英文裡不成立。中文可以一路逗號到底，英文不行。【怎麼救】把 them 換成 which，後半句就從獨立句子降級成形容詞子句，整句只剩一個主要子句。國中學過 I have two brothers, both of whom are doctors.——同一個結構，指人用 whom、指物用 which。【常考搭配】some／most／all／none of which（whom）、both of whom。"
   },
   {
     "id": "G101_18_1",
@@ -3737,7 +3737,7 @@
     "answer": "A",
     "explanation": "was being truthful 用 be 動詞的進行式，表示「當時（測謊進行時）是否說實話」這個一時的行為表現；would be（對未來或假設的推測）、was to be（命中注定、預定要）、would have been（與過去事實相反的假設）都與當下的實際表現無關。",
     "accuracyRate": 26,
-    "note": "答對率 26%。【你可能會這樣想】你腦中的 be 動詞只有「是」，後面接形容詞就結束了（He was truthful.）；很少人學過 be 動詞也可以用進行式。一看到 was being truthful，第一反應是「be 動詞怎麼會有進行式」，於是改去挑看起來比較眼熟的 would be 或 would have been。【文法依據】劍橋《English Grammar Today》在比較現在簡單式與現在進行式時明確指出：be 用進行式時，講的是「當下的行為表現」，而不是這個人的本質或特質。所以 He is rude.（他這人很無禮，是特質）與 He is being rude.（他現在的舉止很無禮，是一時的表現）意思完全不同。本句要判定的是「受測者在測謊當下有沒有說實話」，屬於一次性的行為表現，不是在評斷這個人一輩子誠不誠實，所以用 was being truthful。【進行式強調的就是「那當兒」】was being 的重點不在「是不是誠實的人」，而在「測謊進行的那當兒，他有沒有在說實話」——進行式把時間框限在那個當下的片刻。中文可以用「當時正…」「那當兒」來對應：He was being careful.（他當時正小心翼翼）、She was being nice to me that day.（她那天對我特別客氣）。只要題目要問的是「某個時間點上的表現」，而不是「這個人一向如何」，就要用 be being。【文內線索：兩個時間點】句首 Once the questions are finished（問題問完之後）與主要子句 the examiner analyzes the results（檢驗人員分析結果）標出兩個時間點：分析是在測謊結束之後才做的，要回頭判斷「測謊進行當時」的表現。這個時間差正是進行式的立足點。【接上你已經學過的東西】國中其實就見過這個用法：You are being silly.（你現在很幼稚）、Don't be silly.——be 動詞後面接形容詞來形容「一時的行為」，只是當時沒有特別點明。【常考搭配】be being + 形容詞（一時的表現）、tell the truth、be truthful with sb、a lie detector／polygraph test（測謊器）。",
+    "note": "答對率 26%。【你可能會這樣想】你腦中的 be 動詞只有「是」，後面接形容詞就結束了（He was truthful.）；很少人學過 be 動詞也能用進行式。看到 was being truthful，第一反應是「be 動詞怎麼會有進行式」。【be being + 形容詞 ＝ 那當兒的表現】進行式把時間框在當下那一刻，講的是行為，不是本質。He is rude.（他這人很無禮）≠ He is being rude.（他此刻的舉止很無禮）。本題要判定的是受測者「測謊當下」有沒有說實話，不是評斷他一輩子誠不誠實，所以用 was being truthful。【文內線索】Once the questions are finished（問題問完之後）與 the examiner analyzes the results（檢驗人員分析結果）標出兩個時間點：分析在測謊之後，要回頭判斷「測謊進行時」的表現——這個時間差正是進行式的立足點。【接上你已經學過的東西】You are being silly.（你現在很幼稚）、Don't be silly.——國中其實見過，只是沒特別點明。【常考搭配】be being + 形容詞、tell the truth、a lie detector／polygraph test。",
     "discrimination": 20,
     "contextSpan": "句內"
   },
@@ -3947,7 +3947,7 @@
     "answer": "D",
     "explanation": "let alone 用在否定句之後，意思是「更不用說」，表示連前面較容易的事都做不到，後面更難的事更不可能；except for（除了…之外）會使語意相反，provided with（被提供）句構不合，far from（遠非）語意不通。",
     "accuracyRate": 24,
-    "note": "答對率 24%，鑑別度 41——這是一題品質很好的難題，真正讀懂的人幾乎都答對。【你可能會這樣想】let alone 字面看起來像「讓…獨自」，照字面拆解就完全走偏。它其實是一個固定用語，意思是「更不用說」。【字義依據】劍橋詞典的說明是：用在否定敘述之後，強調某種情況有多不可能——因為連更容易發生的事都不曾發生，例句 Some people never even read a newspaper, let alone a book.（有些人連報紙都不看，更別說書了）。使用的鐵則有兩條：前面必須是否定句，而且 let alone 後面接的必須是「更難、更進一階」的那件事。【本題怎麼判斷】前半 shoes are not always readily available for people living in poverty（貧困地區的人連鞋子都不見得有）是否定句；後半 shoes that are the right size（尺寸合腳的鞋）顯然是更高的要求。連鞋都不一定有，更別說合腳的鞋——遞進關係非常清楚。【同義說法一起記：更不用說】let alone ＝ much less ＝ not to mention ＝ to say nothing of，四個說法意思相同，都是「更不用說、更別提」。Merriam-Webster 為 let alone 下的定義就直接寫成 to say nothing of : not to mention。四者的用法也一致：前面都要有否定的敘述，後面接更難、更進一階的事。He couldn't boil water, let alone cook a meal for eight.（他連水都不會煮，更別說做八人份的菜）換成 much less／not to mention／to say nothing of 都成立。寫作時輪流替換，就不會整篇只會用一種說法。【干擾選項】except for 會把語意變成「除了合腳的鞋以外都有」，剛好相反；provided with 是「被提供」，詞性與句構都不合；far from 是「遠非、一點也不」，後面接形容詞或名詞表強烈否定，接在這裡不通。【常考搭配】not…, let alone…（更不用說）、much less（同義）、to say nothing of、not to mention（更別提）、readily available（隨手可得）。",
+    "note": "答對率 24%。【你可能會這樣想】let alone 照字面像「讓…獨自」，這樣拆就完全走偏。它是固定用語，意思是「更不用說」。使用有兩條鐵則：前面必須是否定句，而且 let alone 後面接的是「更難、更進一階」的那件事。【怎麼判斷】前半 shoes are not always readily available for people living in poverty（貧困地區的人連鞋子都不見得有）是否定；後半 shoes that are the right size（合腳的鞋）顯然要求更高。連鞋都不一定有，更別說合腳的——遞進關係很清楚。【同義說法一起記】let alone ＝ much less ＝ not to mention ＝ to say nothing of，四個都是「更不用說」，用法一致。He couldn't boil water, let alone cook a meal for eight. 換成任一個都成立，寫作時可以輪流用。【干擾選項】except for 會變成「除了合腳的鞋以外都有」，剛好相反；provided with（被提供）詞性不合；far from 後面接形容詞或名詞表強烈否定。【常考搭配】not…, let alone…、much less、not to mention、to say nothing of、readily available。",
     "discrimination": 41,
     "contextSpan": "句內"
   },
@@ -4075,7 +4075,7 @@
     "accuracyRate": 36,
     "discrimination": 17,
     "contextSpan": "句內",
-    "note": "答對率 36%，鑑別度只有 17。【你可能會這樣想】as well as 你記的中文大概是「也、同樣」，這個譯法容易讓人以為它是副詞；實際上在句中它的功能等同 and，用來把兩個對等的成分接在一起，中文譯成「以及、還有」更貼切。本句 Using empirical data from laboratory experiments ___ observations of a mid-sized Japanese bank in real life 就是把兩種資料來源並列：實驗室的實證資料，以及對一家日本中型銀行的實地觀察。【判斷方法：看空格前後是不是對等】空格前是 data from laboratory experiments（名詞組），空格後是 observations of a mid-sized Japanese bank（也是名詞組），兩者詞性相同、地位相當——需要的是連接詞性質的成分，而不是表原因的介系詞片語。這是最快的判斷法：先確認空格兩邊是不是同類，若是，就找連接的字。【最重要的一點：as well as 不等於 and】兩者都能把兩樣東西接在一起，但地位完全不同。and 是對等連接詞，A 與 B 平起平坐；as well as 卻是「A 為主、B 為輔」——重心永遠落在 A 身上，B 只是附帶補充的次要訊息，常常是讀者已經知道的事。所以 A as well as B 的中文語感是「A，還有 B」，而不是「A 和 B」。比較這兩句：He studies math and science.（數學與自然兩科地位相同）／He studies math as well as science.（重點在他也修了「數學」，自然科是已知的背景）。想強調哪一個，就把它放在 as well as 前面——這是寫作時很實用的一個手法。【由此延伸出的文法規則：動詞配合 A，不配合 B】正因為 B 只是附帶說明、不是真正的主詞，當 as well as 連接兩個主詞時，動詞必須與前面那個主詞一致。用一個主從關係明顯的例子最容易看出道理：The president, as well as her assistants, is coming today.（總統以及她的助理今天要來）——動詞用 is，因為句子的主角是 the president，助理只是隨行的附帶訊息。若換成 and，兩者就變成平起平坐：The president and her assistants are coming today.（動詞改用 are）。同一句話換一個連接詞，語氣的重心與動詞的單複數就一起變了。同一組規則也適用於along with、together with、in addition to、accompanied by：它們後面帶出的成分都不改變主詞的單複數。這是學測與各類考試最愛考的陷阱之一，務必記牢。【與 and 的細微差別】as well as 與 and 都能並列，但語氣重心不同：A as well as B 的重心在 A（B 是附帶提及）。另外要注意主詞動詞一致——當 as well as 連接兩個主詞時，動詞仍配合前一個主詞，這是常考的陷阱（詳見上一段的說明）。【干擾選項】out of 是「出自、由於」；in case of 是「萬一發生…時」；due to 是「由於」。三者都表原因或來源，放進來會變成「用實驗資料因為觀察…」，語意不通。【常考搭配】A as well as B（A 以及 B）、not only A but also B、along with、together with（以上皆不改變主詞單複數）、empirical data（實證資料）。"
+    "note": "答對率 36%。【你可能會這樣想】as well as 你記的中文大概是「也」，聽起來像副詞；其實它在句中的功能等同 and，用來把兩個對等的成分接起來，譯成「以及」更準。本句把兩種資料來源並列：實驗室的實證資料，以及對一家日本中型銀行的實地觀察。【怎麼判斷】空格前是 data from laboratory experiments，空格後是 observations of a mid-sized Japanese bank，兩邊都是名詞組、地位相同，所以要找的是連接用的字，不是表原因的介系詞片語。【as well as 不等於 and】and 是兩者平起平坐；as well as 是 A 為主、B 為輔，重心在 A。由此延伸出一條常考規則：動詞跟著前面那個主詞走。The president, as well as her assistants, is coming today.（動詞用 is，主角是總統）；換成 and 就變成 The president and her assistants are coming today.（用 are）。along with、together with、in addition to 也一樣，都不改變主詞單複數。【干擾選項】out of（出自）、in case of（萬一）、due to（由於）都表原因或來源，接不起兩個並列的名詞組。【常考搭配】A as well as B、not only A but also B、along with、together with。"
   },
   {
     "id": "G106_29_3",
@@ -4180,7 +4180,7 @@
     "answer": "B",
     "explanation": "go to great lengths to V 是「不遺餘力、費盡心思去做某事」，本句指人們常費盡心思設計精巧的愚人節惡作劇；come to an end（結束）、put in service（投入使用）、hold in store（並非正確說法，應為 have in store）都不合。",
     "accuracyRate": 32,
-    "note": "答對率 32%，鑑別度只有 9。【你可能會這樣想】length 你大概只記得「長度」，看到 go to great lengths 完全無從理解，只能亂猜。這個片語的意象其實很直觀：為了達成某件事，願意「走上很長的一段路」，引申為不惜代價、費盡心思。中文最貼切的譯法是「大費周章」——既有「花了很大功夫」，也有「事情搞得很繁複」的意味，正好對應本句的 elaborate hoaxes（精心設計的惡作劇）。其他可用的譯法還有「不遺餘力、想方設法、費盡心思」。【本題怎麼判斷】句子是 Nowadays, on April Fools' Day, people often ___ to create elaborate hoaxes to fool others.（現今在愚人節，人們常常…設計精巧的惡作劇來騙人）。關鍵字是 elaborate（精心設計的）——既然惡作劇如此費工，前面需要的正是「費盡心思」。下一句 Newspapers, radio and TV stations, and websites have participated in the April 1 tradition of making fake reports 也說明連媒體都認真投入，規模不小。【干擾選項】come to an end 是「結束」，主詞是事件而非人；put in service 是「使投入使用」，用於設備或路線；hold in store 不是英文的正確說法，正確的是 have／be in store for sb（某事正等著某人）。【接上你已經學過的東西】at length 也是同一個 length 的延伸用法，有兩義：「詳盡地」（He spoke at length about his plan.）與「終於」。同一個字從具體的「長度」延伸到抽象的「程度、篇幅」，這是英文常見的引申方式。【常考搭配】go to great lengths to V（大費周章、不遺餘力）、at length（詳盡地／終於）、the length of、elaborate（精心設計的）、play a joke／prank on sb（對某人惡作劇）。",
+    "note": "答對率 32%。【你可能會這樣想】length 你大概只記得「長度」，看到 go to great lengths 完全無從理解。這個片語的意象很直觀：為了達成某件事願意「走上很長一段路」，引申為「大費周章、不遺餘力」，正好對應本句的 elaborate hoaxes（精心設計的惡作劇）。【文內線索】Nowadays, on April Fools' Day, people often ___ to create elaborate hoaxes to fool others.——惡作劇既然如此費工，前面需要的正是「費盡心思」；下一句提到連報社、電台、電視台都參一腳，規模不小。【干擾選項】come to an end（結束）主詞該是事件；put in service（使投入使用）用於設備；hold in store 不是正確說法，正確的是 have／be in store for sb（某事正等著某人）。【常考搭配】go to great lengths to V、at length（詳盡地／終於）、play a joke on sb。",
     "discrimination": 9,
     "contextSpan": "句內"
   },
@@ -4320,7 +4320,7 @@
     "accuracyRate": 35,
     "discrimination": 38,
     "contextSpan": "句內",
-    "note": "答對率 35%，鑑別度 38。【你可能會這樣想】你看到 that，腦中出現的不是關係代名詞就是指示代名詞「那個」，很少人學過 that 可以用來「代替前面提過的名詞」，以避免重複。本句完整還原是 The size of the food… is magnified while the size of their hand remains normal.——為了不把 the size 講兩次，第二次就用 that 代替。【文法依據】劍橋《English Grammar Today》在「替代（substitution）」條目中明確指出：在正式、尤其是學術語體中，我們用 that of／those of 來替代前面出現過的名詞，例句 The head has a similar shape and size to that of a mammal.（頭部的形狀與大小與哺乳類的相似）。單數用 that，複數用 those。本句正是這個用法。【接上你已經學過的東西】這與國中就練過的簡答 Do you like it?—Yes, I do.（用 do 代替 like it）是同一件事——都是為了避免重複而用一個字頂替前文。Halliday & Hasan (1976)《Cohesion in English》把這種手段稱為替代（substitution），差別只在一個替代動詞、一個替代名詞。看到 that of／those of，先回頭找它代替的是哪個名詞。【干擾選項】this 雖然也是指示代名詞，但英文不用 this of 這種結構來做比較替代；some 是「一些」，代替不了單數的 the size；other 是形容詞，後面必須接名詞。【常考搭配】that of／those of（替代前文名詞）、the same as that of、compared with that of、similar to those of、Do you like it?—Yes, I do.（動詞替代）。"
+    "note": "答對率 35%。【你可能會這樣想】that 你大概只想到關係代名詞或「那個」，不知道它可以代替前面出現過的名詞，避免重複。本句完整寫法是 …while the size of their hand remains normal.，第二次的 the size 就用 that 頂替。【怎麼用】單數用 that、複數用 those，後面接 of：The head has a similar shape and size to that of a mammal.（頭部的形狀與大小與哺乳類的相似）。這跟 Do you like it?—Yes, I do. 用 do 代替 like it 是同一件事，只是換成代替名詞。【常考搭配】that of／those of、the same as that of、compared with that of。"
   },
   {
     "id": "G108_28_3",
@@ -4373,7 +4373,7 @@
     "accuracyRate": 36,
     "discrimination": 32,
     "contextSpan": "句內",
-    "note": "答對率 36%，鑑別度 32。【你可能會這樣想】release 你最熟的兩個意思是「發行」（release a new album 發行新專輯）與「釋放」（release the prisoners 釋放囚犯），對象通常是作品或人。用在氣味、氣體、能量上時，它的意思是「散發、釋出」——這一義在科普類文章裡出現頻率極高：Plants release oxygen.（植物釋出氧氣）、The device releases a pleasant scent.。【文內驗證】前一句已經把機制講明白：The team has also developed a special device which uses scent bottles and visual trickery…（研究團隊還開發出一套結合香氛瓶與視覺障眼法的裝置）——既然裝置裡裝的是 scent bottles（香氛瓶），它能做的當然是「釋放」氣味。下一句 Recent experiments with this device showed that 80% of the participants were fooled by the smell.（近期實驗顯示八成受試者被氣味騙過）再次確認：整段談的就是氣味的釋放與效果。空格前後兩句都在講味道，答案不必猜。【干擾選項】impress 是「使人印象深刻」，受詞應該是人；bother 是「困擾」，受詞也是人；attract 是「吸引」，受詞同樣是人或注意力。三個動詞的受詞都不會是 flavor（味道），從搭配就能全部排除。【常考搭配】release a scent／gas／energy（釋出）、release a film／an album（發行）、release the prisoners、be released from（自…獲釋）、a sense of relief（如釋重負，注意 release 與 relief 詞形相近）。"
+    "note": "答對率 36%。【你可能會這樣想】release 你大概只記得「發行」（release a new album）與「釋放（人）」。用在氣味、氣體、能量上時，它是「散發、釋出」：Plants release oxygen.（植物釋出氧氣）。【線索就在前後兩句】前一句說這套裝置用的是 scent bottles（香氛瓶），下一句說 80% of the participants were fooled by the smell（八成受試者被氣味騙過）——前後都在講味道，裝置能做的當然是釋放氣味。【干擾選項】impress、bother、attract 的受詞都該是人，不會是 flavor，從搭配就能全部刪掉。【常考搭配】release a scent／gas／energy、release a film、be released from。"
   },
   {
     "id": "G109_16_1",
@@ -4426,7 +4426,7 @@
     "accuracyRate": 37,
     "discrimination": 33,
     "contextSpan": "句內",
-    "note": "答對率 37%，鑑別度 33。【你可能會這樣想】cope 是一個課本著墨不多的字，你就算看過也記不牢；再加上它幾乎一定要跟 with 連用，單看 cope 反而認不出來。cope with 的意思是「成功地應付、承受」，對象通常是困難、壓力、失落這類負面處境。【字義依據】劍橋詞典 cope with sth 的釋義是「成功處理困難的處境或難相處的人」，所附的例句 Her religious beliefs helped her to cope with the loss of her husband.（她的宗教信仰幫助她走過喪夫之痛）與本題 to help them ___ the loss of their hair after cancer treatment 幾乎是同一個句型：help sb cope with the loss of…。連 loss 這個受詞都一樣，這句話可以直接抄下來當例句。【文內驗證】本篇談的是加拿大藝術團體用指甲花在癌症患者的光頭上彩繪頭冠，讓她們重拾自信與美感。空格所在句的目的正是「幫助她們面對掉髮這件事」；下一句說這些頭冠是 amazing substitutes for the hats and wigs（帽子與假髮的絕佳替代品），再下一句提到患者覺得它 really work as a healing device（真的有療癒效果）——整段都在講「如何幫助患者度過難關」。【干擾選項】carry away 通常用被動 be carried away（得意忘形、失控）；build on 是「以…為基礎進一步發展」，受詞應該是成果或優勢；get off 是「下車、脫身」。三者都無法表達「承受痛苦」。【常考搭配】cope with stress／pressure／loss（應付壓力／失落）、deal with、handle、get carried away（忘形）、build on one's success。"
+    "note": "答對率 37%。【你可能會這樣想】cope 這個字課本著墨少，而且幾乎一定要配 with，單看 cope 認不出來。cope with ＝ 應付、承受，對象通常是困難、壓力、失落。【一個幾乎同句的例子】Her religious beliefs helped her to cope with the loss of her husband.（她的信仰幫助她走過喪夫之痛）——本題是 to help them cope with the loss of their hair，連受詞 loss 都一樣。【干擾選項】carry away 通常用被動 be carried away（得意忘形）；build on 是「以…為基礎發展」；get off 是「下車、脫身」。【常考搭配】cope with stress／pressure／loss、deal with、handle、get carried away。"
   },
   {
     "id": "G109_19_1",
@@ -4443,7 +4443,7 @@
     "answer": "D",
     "explanation": "otherwise 在此是「若非如此、本來」：既然現在有 henna 頭冠當替代品，帽子與假髮就是患者「本來會用」的東西。moreover（此外）、altogether（總共、完全）、namely（也就是）語意都不合。",
     "accuracyRate": 16,
-    "note": "答對率 16%，鑑別度 2，幾乎沒有鑑別力，是這一批裡最需要花時間講清楚的一題。【你可能會這樣想】otherwise 你大概只記得句首那個「否則」（Hurry up; otherwise you'll be late.），一看到它出現在句子中間、又夾在 would 與 use 之間，就整個亂掉。其實這兩個用法是同一個核心概念——都在講「另一種沒有發生的情況」。【先拆字，三個意思一次通】otherwise 是 other（其他）＋ -wise（方式、情況）組成的，字面就是「以另一種情況」。三個常見用法其實都從這裡長出來：一、「否則」——若不照做，就會變成另一種情況（You'd better phone home, otherwise your parents will start to worry.）；二、「本來、若非如此」——如果沒有現在這件事，情況本來會是另一個樣子；三、「除此之外」——除了剛講的那點，其他方面都如何（She was badly bruised but otherwise unhurt. 她瘀青得厲害，但其他方面沒受傷）。本題考的是第二個。【本題怎麼判斷】句中的 substitutes for（…的替代品）是觸發點：既然 henna 頭冠是「替代品」，那被替代掉的帽子與假髮，就是患者在沒有頭冠的情況下「本來會用」的東西。助動詞 would 也在配合——它標示的正是與現實相反的假設。記住這個公式：「would／might／could ＋ otherwise ＋ 原形動詞」＝「若不是現在這樣，本來會…」。【句構線索】would ___ use 是「助動詞＋空格＋原形動詞」，這個位置放的是副詞，四個選項也都是副詞，所以文法上誰都塞得進去，真正要比的是語意——這也是本題鑑別度只有 2 的原因：光靠刪去法救不了，非得讀懂語意不可。【三個同結構的例句】1. …men who provide positive role models for kids who might otherwise be out on the streets.（若沒有這些榜樣，這些孩子本來會流落街頭）2. The project had given children opportunities they would never otherwise have had.（若沒有這個計畫，孩子們本來絕不會有這些機會）3. The test helps identify problems that might otherwise go unnoticed.（若沒有這項檢測，這些問題本來不會被發現）三句都與本題一模一樣：關係子句＋would／might otherwise＋動詞。【接上你已經學過的東西】國中學過 Hurry up, or you'll be late.，這個 or 就等於 or else，也等於較正式的 otherwise。三者是同一件事的三種說法，難的不是意思，是位置。【順帶學一個高階用法】otherwise 也可以直接修飾形容詞，表示「若不是這一點，其他都…」：A tiny mark flawed the otherwise perfect silk shirt.（一個小污點毀了那件本來完美無瑕的絲質襯衫）。【干擾選項】moreover（此外）是補充、namely（也就是）是舉例說明、altogether（總共、完全）是總計，三者都無法表達「若非如此」的假設對照。【常考搭配】…; otherwise…（否則）、would／might otherwise + 原形動詞（本來會…）、an otherwise + 形容詞 + 名詞、or otherwise（或相反的情況）、unless otherwise stated（除非另有說明）、otherwise known as（又名）。",
+    "note": "答對率 16%，鑑別度只有 2——四個選項都是副詞，文法上誰都塞得進去，只能靠語意判斷，這是它難的原因。【你可能會這樣想】otherwise 你大概只會用在句首的「否則」（Hurry up; otherwise you'll be late.）。這裡它夾在 would 與 use 之間，位置陌生就慌了。其實兩種用法是同一件事：都在講「另一種沒有發生的情況」。【記一個公式】would／might／could ＋ otherwise ＋ 原形動詞 ＝「若不是現在這樣，本來會…」。三個同結構的句子念過就有感覺：kids who might otherwise be out on the streets（若沒有這些榜樣，這些孩子本來會流落街頭）／opportunities they would never otherwise have had（若沒有這計畫，本來絕不會有的機會）／problems that might otherwise go unnoticed（若沒有檢測，本來不會被發現的問題）。【本題怎麼看】句中的 substitutes for（…的替代品）是觸發點：既然頭冠是替代品，帽子與假髮就是「本來會用」的東西；would 也在配合這個假設。【接上你已經學過的東西】Hurry up, or you'll be late. 的 or ＝ or else ＝ otherwise，三者同一件事，難的是位置不是意思。【干擾選項】moreover（此外）是補充、namely（也就是）是舉例、altogether（總共）是總計，都表達不出「若非如此」。【常考搭配】…; otherwise…、would otherwise + 原形、an otherwise + 形容詞 + 名詞、unless otherwise stated。",
     "discrimination": 2,
     "contextSpan": "句內"
   },
@@ -4651,7 +4651,7 @@
     "answer": "D",
     "explanation": "without 是介系詞，後面接動名詞 encountering；would not be the same without… 意為「少了…就不一樣了」。as、though 當連接詞時後面必須接完整子句，for + V-ing 用於說明物品用途，都不合。",
     "accuracyRate": 26,
-    "note": "答對率 26%。【你可能會這樣想】空格後面是 encountering，你一看到 -ing 就想找連接詞，把 as、though 這類能引導子句的字填進去；但這裡需要的是介系詞——因為 -ing 在這裡是動名詞，不是子句。【先回到最基本的意思：without ＝ 沒有】without 就是「沒有、少了」，這個字你一定認得，難的是它後面要接什麼。without ＝ 沒有 ＋ 動名詞，整組就是「沒有做某事」。【文法依據】without 是介系詞，後面接名詞或動名詞：without encountering them（沒有遇見牠們）。as 與 though 若當連接詞，後面必須接「主詞＋動詞」的完整子句，接動名詞不成立；for 雖然也是介系詞，但劍橋文法明確指出 for + -ing 是用來說明「某物的功能或用途」（I need something for storing CDs.），語意上套不進本句。【本句在說什麼】would not be the same without… 是很常用的表達：「少了…就不一樣了」。作者要說的是：少了鴿子在噴泉裡洗澡、停在古建築上、在廣場成群飛舞的畫面，歐洲城市之旅就不對味了。這是全篇的鋪陳——先把鴿子寫成城市風景的一部分，下一句才用 In Barcelona, however 轉折，說牠們如今成了問題。【接上你已經學過的東西】國中學過 without saying a word（一句話也沒說）、Thank you for coming.、be good at swimming——介系詞後面接動名詞是最基本的規則，本題難的不是這條規則，而是要先辨認出「這個位置需要的是介系詞而不是連接詞」。【常考搭配】would not be the same without…、without doing sth、do without（沒有…也行）、go without、cannot help doing。",
+    "note": "答對率 26%。【你可能會這樣想】空格後面是 encountering，你一看到 -ing 就想找連接詞，把 as、though 填進去；但這裡的 -ing 是動名詞不是子句，需要的是介系詞。【without ＝ 沒有】without 後面接名詞或動名詞，整組就是「沒有做某事」：without encountering them（沒有遇見牠們）。國中學過的 without saying a word（一句話也沒說）、Thank you for coming. 就是介系詞接動名詞。【為什麼不是 as／though／for】as 與 though 當連接詞時後面必須接「主詞＋動詞」的完整子句；for + V-ing 是用來說明「物品的用途」（I need something for storing CDs.），語意套不進來。【這句在說什麼】would not be the same without… ＝「少了…就不一樣了」。少了鴿子在噴泉洗澡、在廣場成群飛舞的畫面，歐洲城市之旅就不對味了。【常考搭配】would not be the same without…、without doing sth、do without、cannot help doing。",
     "discrimination": 31,
     "contextSpan": "句內"
   },
@@ -4813,7 +4813,7 @@
       "url": "https://www.perfect-english-grammar.com/third-conditional.html"
     },
     "accuracyRate": 30,
-    "note": "答對率 30%。【你可能會這樣想】看到 If he was，你大概會直覺判定「這是單純的過去式條件句」，於是主要子句也想填單純的過去式。其實這句話出自口語，正式的假設語氣應寫成 If he were——口語中用 was 代替 were 非常普遍，但整句仍然是假設語氣。真正的判準不在 if 子句，而在主要子句：既然要表達「與過去事實相反」，主要子句就得用 would have + 過去分詞。【本題的事實是什麼】說話者是一位被閃電擊中過許多次的人，他說 I don't believe God is after me（我不相信上帝在找我麻煩），接著補一句「如果真是這樣，第一道雷就夠了」——言下之意是：他挨了不只一道雷，卻還活著，所以上帝並沒有要取他性命。這是與過去事實相反的推論，因此用 would have been enough。【干擾選項】was 與 had been 都不能用在 if 子句所搭配的主要子句位置；would be 指的是現在或未來的假設（If he were after me, the next bolt would be enough.），與「第一道雷」這個過去事件的時間點不合。【這是混合條件句：條件在現在，結果在過去】本題的 if 子句用 If he was（＝If he were），指的是「上帝現在是否在找我麻煩」，屬於與現在事實相反；主要子句 would have been 指的卻是「當年那第一道雷」，屬於與過去事實相反。兩個子句時間點不同，這叫混合條件句（mixed conditional），公式是 If + 過去式／were, 主詞 + would have + p.p.，用來表達「現在的假設條件 → 過去的結果」。標準例句：If I were a man, they would have given me the job.（假如我是男的，當年那份工作就會給我了）。【接上你已經學過的東西】國中學過 If I were you, I would…（與現在事實相反，結果也在現在）；本題只是把結果的時間往前挪到過去，所以主要子句改用 would have + p.p.。判斷的關鍵永遠在主要子句：結果發生在過去，就用 would have + p.p.，與 if 子句寫成什麼形式無關——這也正是本題只能填 would have been 的理由。【常考搭配】would have + p.p.（與過去事實相反）、If I were you…、be after sb（找某人麻煩、追捕某人）、be struck by lightning（被閃電擊中）。",
+    "note": "答對率 30%。【你可能會這樣想】看到 If he was，你大概會判定這是單純的過去式條件句。其實這句出自口語，正式寫法是 If he were——口語常用 was 代替 were，但整句仍是假設語氣。判準不在 if 子句，在主要子句。【這是混合條件句】if 子句 If he was（＝were）講的是「上帝現在是否在找我麻煩」，屬於與現在事實相反；主要子句 would have been 講的是「當年那第一道雷」，屬於與過去事實相反。兩個子句時間點不同，公式是 If + 過去式／were, 主詞 + would have + p.p.（現在的假設條件 → 過去的結果）。標準例句：If I were a man, they would have given me the job.（假如我是男的，當年那份工作就會給我了）。【本題的事實】說話者被閃電擊中過很多次，他說「如果上帝真要找我麻煩，第一道雷就夠了」——言下之意是他挨了不只一道卻還活著。結果落在過去，所以用 would have been。【接上你已經學過的東西】If I were you, I would…（與現在事實相反，結果也在現在）；本題只是把結果挪到過去。【常考搭配】would have + p.p.、If I were you…、be after sb（找某人麻煩）、be struck by lightning。",
     "discrimination": 26,
     "contextSpan": "句內"
   },
@@ -4832,7 +4832,7 @@
     "answer": "A",
     "explanation": "be home to sth 是固定說法，意為「是…的所在地」，本句指南美、非洲與印尼的部分山脈也有冰河與冰原；covers of、roofs over、room for 都不是與 be 動詞搭配的固定說法。",
     "accuracyRate": 28,
-    "note": "答對率 28%，鑑別度 44——這是一題品質很好的難題。【你可能會這樣想】home 在你腦中就是「家」，是一個具體的居住空間；be home to 這個說法課本少見，字面「是…的家」聽起來也怪，所以即使認得每一個字也不敢選。實際上 be home to sth 是地理、生態、人文類文章的高頻用法，意思是「是…的所在地、境內有…」：Taiwan is home to more than 400 species of butterflies.（台灣境內有四百多種蝴蝶）。【be home to 不限於地理，任何「容納者」都可以】這個說法不是只能用在國家、山脈、生態這類地理主題上——凡是「裡面有某樣東西」的容納者都可以當主詞：建築物、城市、校園、園區都行。The building is home to a museum.（這棟建築裡有一座博物館）、The campus is home to three research centers.（校園內設有三個研究中心）、Tainan is home to many historic temples.（台南有許多古廟）。判斷的關鍵不在主題是不是地理，而在句子要表達的是不是「甲之中有乙」。【與 house 當動詞是同一件事】be home to 與及物動詞 house 幾乎可以互換：The building houses a museum. ＝ The building is home to a museum.。house 當動詞讀 /haʊz/，意思是「容納、內部裝有」，文意選填 113 年那題考的正是這個用法。兩個說法一起記，寫作時就多一個選擇。【本題怎麼判斷】前一句 Glaciers are usually associated with colder climates.（冰河通常讓人聯想到寒冷氣候）先建立常識；本句 But some mountain ranges of South America, Africa, and Indonesia are also ___ glaciers and ice sheets. 用 But 與 also 一起翻轉——熱帶地區的山脈「也有」冰河。要表達「某地有某物」，最自然的正是 be home to。下一句 These tropical glaciers serve as a major source of water supply 更確認這些冰河確實存在於當地。【干擾選項】covers of、roofs over、room for 三個都不是英文的固定說法。若要表達「有空間容納」須說 have room for（There's room for one more.），不能寫成 be room for；roofs over 只在 a roof over one's head（安身之處）這個片語裡出現。【接上你已經學過的東西】home 除了「家」，還有 at home（在家、自在）、feel at home（賓至如歸）、a home for the elderly（安養院）等用法，核心概念都是「歸屬的所在」。be home to 只是把這個概念用在地理上。【常考搭配】be home to（是…的所在地）、home to over 5 million people、at home（在家／自在）、feel at home、a roof over one's head。",
+    "note": "答對率 28%。【你可能會這樣想】home 你大概只當它是「家」，所以即使認得每個字也不敢選 be home to。它的意思是「境內有、裡面有」，是地理與介紹文的高頻說法：Taiwan is home to more than 400 species of butterflies.（台灣有四百多種蝴蝶）。主詞不限於地方，建築物、校園都行：The building is home to a museum.（這棟建築裡有一座博物館）。【怎麼判斷】前一句 Glaciers are usually associated with colder climates.（冰河通常讓人想到寒帶）先建立常識，本句用 But…also 翻轉：熱帶山脈「也有」冰河。要說「某地有某物」，最自然的就是 be home to。下一句 These tropical glaciers serve as a major source of water supply 也確認冰河確實存在於當地。【干擾選項】covers of、roofs over、room for 都不是英文說法；要說「有空間容納」得用 have room for，不能寫成 be room for。【常考搭配】be home to、have room for、at home、feel at home、a roof over one's head。",
     "discrimination": 44,
     "contextSpan": "句內"
   },
@@ -4888,7 +4888,7 @@
     "discrimination": 34,
     "contextSpan": "跨句",
     "contextNote": "下一句 the ice sheets represent a sacred symbol 才排除直覺的 environmental",
-    "note": "答對率 35%，鑑別度 34。【你可能會這樣想】題目在談冰河消失，你腦中大概立刻浮現「暖化、生態、環境」，於是幾乎不假思索就選 environmental。這個聯想本身沒錯，錯在沒有讀完下一句。【關鍵字是 also】本句 The disappearance of the glaciers will also leave a significant ___ impact. 裡的 also 是最重要的訊號：它代表「除了前面已經談過的影響之外，還有另一種影響」。前文談的正是冰河面積萎縮、即將完全消失這類環境層面的事，所以這一格必須是「環境以外」的另一種衝擊——填 environmental 等於把 also 講成廢話。【線索在下一句】答案寫在緊接的下一句：For many indigenous Papuans, the ice sheets represent a sacred symbol.（對許多巴布亞原住民而言，這些冰原是神聖的象徵），下一句還進一步引述研究者的話 The mountains and valleys are the arms and legs of their god and the glaciers are the head.（山谷是神的四肢，冰河是頭）。神聖象徵、信仰、族群認同，全都屬於文化層面，所以是 cultural impact。這一格必須往下讀才判斷得出來，屬於跨句題。【判斷方法】看到 also、another、in addition 這類累加訊號，先問「前面已經講過哪一種了」，答案通常是「還沒講過的那一種」。【干擾選項】moral（道德）與 political（政治）在文中找不到任何依據；environmental 則被 also 排除。【常考搭配】have a significant impact on（對…有重大影響）、cultural／environmental／economic impact、indigenous people（原住民）、a sacred symbol（神聖象徵）。"
+    "note": "答對率 35%。【你可能會這樣想】題目在講冰河消失，你大概直覺選 environmental。但句中的 also 是關鍵——它代表「除了前面已經談過的影響，還有另一種」，前文談的正是環境層面，所以這一格必須是環境以外的。【線索在下一句】For many indigenous Papuans, the ice sheets represent a sacred symbol.（對許多巴布亞原住民而言，這些冰原是神聖的象徵），下一句還說山谷是神的四肢、冰河是神的頭——這些都屬於文化層面。【記一條判斷法】看到 also、another、in addition，先問「前面講過哪一種了」，答案通常是還沒講過的那一種。【常考搭配】have a significant impact on、cultural／environmental impact、indigenous people。"
   },
   {
     "id": "G110_30_3",
@@ -5163,7 +5163,7 @@
     "accuracyRate": 38,
     "discrimination": 62,
     "contextSpan": "句內",
-    "note": "答對率 38%，鑑別度 62——這是全站鑑別度最高的題目之一，讀懂的人幾乎都對。【你可能會這樣想】free 在你腦中是形容詞「自由的、免費的」（free time、free of charge），很少人把 free of 當成一個表示「擺脫、免於」的搭配記住。它的意思是「不受…影響、脫離…的束縛」：free of charge（免費）、free of pain（不再疼痛）、break free of tradition（掙脫傳統）。【本題怎麼判斷】同一句前半已經把答案講白了：scientists tried to overcome the force of gravity（科學家設法克服重力）——overcome the force of gravity 與 shoot free of Earth's pull 是同一件事的兩種說法，一個用 overcome，一個用 free of。後半 in order to land humans on the moon（以便將人類送上月球）也確認方向是「往外脫離地球」。空格填 free of，整句是「火箭得以掙脫地球引力射出」。【干擾選項】back to 是「回到」，方向完全相反——火箭是要離開地球，不是回來；long before 是「早在…之前」，是時間副詞，接在 shoot 後面語意不通；straight on 是「一直往前」，多用於指路（Go straight on.），無法表達「掙脫引力」。【接上你已經學過的東西】國中學過 free time、for free、free of charge，這些 free 都是「不受限制、沒有負擔」的意思。把 free of 理解成「身上沒有…這個負擔」，就能延伸到 free of gravity、free of worry。【常考搭配】free of／from（擺脫、免於）、break free of／from、free of charge（免費）、set sb free（釋放）、overcome（克服）、Earth's pull（地球引力）。"
+    "note": "答對率 38%，鑑別度 62——讀懂的人幾乎都對。【你可能會這樣想】free 你大概只當它是形容詞「自由的、免費的」，沒把 free of 當成「擺脫、不受…束縛」記住：free of charge（免費）、free of pain（不再疼痛）、break free of tradition（掙脫傳統）。【答案就在同一句前半】scientists tried to overcome the force of gravity（科學家設法克服重力）——overcome the force of gravity 與 shoot free of Earth's pull 是同一件事的兩種說法。後面的 in order to land humans on the moon 也確認方向是往外脫離地球。【常考搭配】free of／from、break free of、free of charge、set sb free。"
   },
   {
     "id": "G112_17_2",
@@ -5197,7 +5197,7 @@
     "answer": "A",
     "explanation": "主要子句需要一個限定動詞，全文以現在簡單式敘述通則，故填原形 redistribute；redistributed 若當過去式則與全篇時態不合，redistributing 與 being redistributed 都是非限定形式，不能單獨當主要動詞。",
     "accuracyRate": 22,
-    "note": "答對率 22%，鑑別度 24。【你可能會這樣想】redistribute 這個字看起來很長很難，但它其實只是 re-（重新）＋ distribute（分配），意思是「重新分佈」。真正卡住你的是句子的骨架：句首有一長串 However, with the absence of gravity in the outer space，讀完之後主詞 our body fluids 才出現，接著空格，再接一個逗號與分詞片語 shifting toward the upper body and the head——修飾成分把句子撐得很開，你因此看不出主要動詞的位置就在空格。【判斷方法：先找主要動詞】把句首的介系詞片語與句尾的分詞片語都遮掉，剩下 our body fluids ___，這一格顯然就是全句唯一的主要動詞。四個選項中，redistributing 是現在分詞、being redistributed 是被動的分詞，兩者都不能單獨當主要動詞，先刪。【時態怎麼定】剩下 redistribute 與 redistributed。前一句 When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. 用的是現在簡單式，因為整段在說明一個科學通則，不是敘述某次事件；本句承接同一個通則，所以用原形 redistribute（主詞 fluids 為複數）。【易錯提醒】redistribute 在這裡是不及物用法——體液自己重新分佈，後面不需要受詞。看到空格後面沒有受詞就懷疑動詞選錯，是常見的誤判；很多動詞（如 move、shift、spread、redistribute）都兼具及物與不及物兩種用法。【常考搭配】distribute／redistribute（分配／重新分佈）、the absence of（缺乏）、shift toward（朝…移動）、be pulled down by。",
+    "note": "答對率 22%。【你可能會這樣想】句首一長串 However, with the absence of gravity in the outer space 讀完，主詞 our body fluids 才出現，接著空格，再接一個分詞片語 shifting toward the upper body——修飾成分把句子撐得很開，你就看不出主要動詞的位置就在空格。【先找主要動詞】把句首的介系詞片語與句尾的分詞片語都遮掉，剩下 our body fluids ___，這一格顯然是全句唯一的主要動詞。redistributing 是現在分詞、being redistributed 是被動分詞，都不能單獨當主要動詞，先刪。【時態怎麼定】前一句 When on Earth, we have more fluids in our lower body… 用現在簡單式，因為整段在說明科學通則；本句承接同一個通則，所以用原形。【順帶提醒】redistribute 在這裡是不及物用法——體液自己重新分佈，後面不需要受詞。很多動詞（move、shift、spread）都兼具及物與不及物。【常考搭配】distribute／redistribute、the absence of、shift toward、be pulled down by。",
     "discrimination": 24,
     "contextSpan": "句內"
   },
@@ -5252,7 +5252,7 @@
     "answer": "A",
     "explanation": "not unlike 是雙重否定，意為「與…並無不同」——這個午後看起來與村裡任何一個下午沒兩樣，正好呼應前一句的 a usual sunny afternoon，也讓後面的 but（突然全村失去意識）有轉折的對象。like 會使語意變成「不像任何一個下午」，與前一句的 usual 牴觸；dislike 是動詞「討厭」；alike 只能置於動詞或名詞之後表「相像」，不能後接受詞。",
     "accuracyRate": 31,
-    "note": "答對率 31%。【先說明一件事】本題答案是 (A) unlike，不是 like。整句是 It seems not unlike any afternoon in the village, but all of a sudden, people and animals lose consciousness.——not 與 unlike 兩個否定相疊，意思回到肯定：「這午後看起來與村裡任何一個下午並無不同」。【你可能會這樣想】你看到 not，直覺要找一個「正面」的字來配，於是選 like，讀成「不像任何一個下午」。這樣一來就與前一句的 a usual sunny afternoon（一個平常的晴朗午後）直接牴觸，後面的 but 也失去轉折的對象——前面已經說反常，後面再說突然出事，兩句同向，but 就沒有立足點。【修辭依據：雙重否定表委婉肯定（litotes）】用「否定其反面」來表達肯定，在修辭學上稱為 litotes（曲言法）。Merriam-Webster 的用法專文指出，not 加上 un- 開頭的形容詞在英文中出現得非常頻繁，並將其定義為「以否定其相反來表達肯定的低調陳述」，所舉的例子包括 not uncommon（並不罕見，即相當常見）、not unheard of（並非沒聽過）、not unworthy（並非不配）。not unlike 就是同一組，意思是「與…頗為相似」。這種說法比直接講 like 更含蓄，也更有文學味，是小說開場鋪陳的常見筆法。【接上你已經學過的東西】國中學過雙重否定會變成肯定：No one didn't come.（沒有人沒來＝全都來了）。not unlike 只是把第二個否定藏進字首 un- 裡，原理完全相同。看到 not 後面接 un-／in-／im-／dis- 開頭的字，先把兩個否定消掉再讀。【三個干擾選項】dislike 是動詞「討厭」，前面已有 seems，不能再接一個動詞；alike 是「相像的」，只能放在動詞或名詞之後（The twins look alike.），不能像介系詞那樣後接 any afternoon；like 文法上成立，但語意與前一句衝突。【常考搭配】not unlike（與…並無不同）、not uncommon（並不罕見）、not unusual、not without reason（不無道理）、be alike（相像）、unlike（不像，介系詞）、dislike（討厭，動詞）。",
+    "note": "答對率 31%。【先說明】本題答案是 (A) unlike。整句是 It seems not unlike any afternoon in the village, but all of a sudden, people and animals lose consciousness.——not 與 unlike 兩個否定相疊，意思回到肯定：「這午後看起來與村裡任何一個下午並無不同」。【你可能會這樣想】看到 not，你大概會想找一個正面的字來配，於是選 like，讀成「不像任何一個下午」。但這樣就與前一句的 a usual sunny afternoon（一個平常的晴朗午後）牴觸，後面的 but 也失去轉折的對象——前面已說反常，後面再說突然出事，兩句同向。【雙重否定表委婉肯定】用「否定其反面」來表達肯定，是英文常見的寫法：not uncommon（並不罕見，即相當常見）、not unheard of（並非沒聽過）、not unlike（與…頗為相似）。這種說法比直接講 like 更含蓄，小說開場很愛用。【接上你已經學過的東西】國中學過雙重否定變肯定：No one didn't come.（沒有人沒來＝全都來了）。not unlike 只是把第二個否定藏進字首 un- 裡。看到 not 後面接 un-／in-／im- 開頭的字，先把兩個否定消掉再讀。【干擾選項】dislike 是動詞，前面已有 seems；alike 只能放動詞或名詞之後（The twins look alike.），不能後接 any afternoon。【常考搭配】not unlike、not uncommon、not unusual、be alike、dislike。",
     "discrimination": 28,
     "contextSpan": "跨句",
     "contextNote": "判斷依據在前一句 It is a usual sunny afternoon in the village of Midwich, England.，以及本句後半的轉折連接詞 but——先寫平淡如常，才有「突然全村失去意識」可轉折"
@@ -5340,7 +5340,7 @@
     "answer": "A",
     "explanation": "express one's belief 是「表達某人的看法」，村民開始說出他們認為孩子們共有「一個心智」的想法；wonder 後面須接 wh- 子句不接 belief，select（挑選）與 ignore（忽視）都與下文矛盾。",
     "accuracyRate": 34,
-    "note": "答對率 34%，鑑別度只有 4，代表這一題幾乎沒有鑑別力，高分群與低分群一起猜。【你可能會這樣想】express 在你腦中的第一印象往往是名詞或形容詞——快遞（express mail）、特快車（an express train）、超商的 express counter。動詞「表達」雖然課本也教過，但因為「快遞」的印象太強，掃過選項時反而想不起來。【拆字理解】express ＝ ex-（向外）＋ press（壓），字面是「把東西往外壓出來」。把想法往外壓出來，就是「表達」；把貨物快速送出去，就是「快遞」。同一個字根長出兩個看似無關的意思，用字源一串就記住了。同族的還有 expression（表達、表情）、expressive（富有表現力的）。【文內驗證】前一句 What one child learns is also known by the others instantly.（一個孩子學到的東西，其他孩子立刻也知道）描述了村民親眼看到的現象；本句 Villagers begin to ___ their belief that the children all have \"one mind.\" 是他們對這個現象的反應——先看到，才開始說出自己的看法。若填 ignore（忽視），與「開始有這種想法」自相矛盾。【干擾選項】wonder 是「納悶、想知道」，後面要接 wh- 子句或 if 子句（I wonder why…），不能直接接 their belief；select 是「挑選」，信念不是拿來挑的；ignore 是「忽視」，方向完全相反。【常考搭配】express one's belief／opinion／concern（表達看法／意見／關切）、an express train、express delivery、facial expression、wonder if／why…。",
+    "note": "答對率 34%，鑑別度只有 4，高分群與低分群一起猜。【你可能會這樣想】express 你腦中的第一印象大概是快遞（express mail）或特快車（an express train），動詞「表達」雖然學過，卻因為前者印象太強而想不起來。【拆字就通了】express ＝ ex-（向外）＋ press（壓）。把想法往外壓出來就是「表達」，把貨物快速送出去就是「快遞」。同族還有 expression（表達、表情）、expressive（富有表現力的）。【文內線索】前一句 What one child learns is also known by the others instantly.（一個孩子學到的，其他孩子立刻也知道）是村民親眼看到的現象，本句是他們的反應——先看到，才開始說出自己的看法。填 ignore（忽視）與「開始有這種想法」自相矛盾。【常考搭配】express one's belief／opinion／concern、an express train、facial expression、wonder if／why…。",
     "discrimination": 4,
     "contextSpan": "句內"
   },
@@ -5393,7 +5393,7 @@
     "answer": "D",
     "explanation": "what becomes of sb/sth 是固定句型，意為「某人／某事將會變成怎樣、下場如何」；happen 要搭配 to（what will happen to it），occur to sb 是「某人想到」，appear 語意不合。",
     "accuracyRate": 30,
-    "note": "答對率 30%，鑑別度 31。【你可能會這樣想】become 你大概只記得「變成」，而且後面直接接名詞或形容詞（become a teacher、become popular）。what becomes of… 這個句型把 become 與 of 綁在一起，字面完全看不出「變成」的影子，你因此讀不懂。它的意思是「…會落得什麼下場、會變成什麼樣子」，常用於對未知結果的憂慮或好奇：What became of that young man?（那個年輕人後來怎麼了？）【四個選項的差別全在介系詞】這一題其實是一組介系詞搭配的比較：become 「of」（下場如何）、happen 「to」（發生在…身上，What will happen to it?）、occur 「to」（某人想到，It never occurred to me that…）、appear 後面則不接這類介系詞。空格後面已經印好了 of，四個動詞中只有 become 能與 of 搭配，這是最快的判斷方式——先看空格後面的介系詞，再回頭挑動詞。【文內驗證】前半句 This situation is so strange to us that…（這個情況對我們如此陌生，以致於…）已經定調為「未知、難以預測」；下一句 Faced with this new situation, people have yet to find out how to deal with it.（面對這個新局面，人們還沒找出因應之道）同樣在講不確定。整段的語氣就是「不知道會演變成什麼樣」。【易混提醒】occur 有兩個常考用法：單獨使用是「發生」（The accident occurred at midnight.），加 to sb 則變成「某人突然想到」（An idea occurred to him.）。這兩義差很多，要一起記。【常考搭配】What becomes of…?（…會怎樣）、happen to sb（發生在某人身上）、occur to sb（某人想到）、become of、deal with（處理）。",
+    "note": "答對率 30%。【你可能會這樣想】become 你大概只記得「變成」，後面直接接名詞或形容詞（become a teacher）。what becomes of… 把 become 與 of 綁在一起，字面看不出「變成」的影子：它的意思是「…會落得什麼下場」。What became of that young man?（那個年輕人後來怎麼了？）【四個選項的差別全在介系詞】become 「of」（下場如何）／happen 「to」（發生在…身上）／occur 「to」（某人想到，An idea occurred to him.）／appear 不接這類介系詞。空格後面已經印好了 of，只有 become 配得上——「先看空格後的介系詞，再回頭挑動詞」，這是最快的解法。【常考搭配】What becomes of…?、happen to sb、occur to sb、deal with。",
     "discrimination": 31,
     "contextSpan": "句內"
   },
@@ -5412,7 +5412,7 @@
     "answer": "B",
     "explanation": "have yet to V 意為「尚未做某事」，本身即帶否定語氣，指人們面對這個新情況還沒找出因應之道；not 無法構成 have not to 這種說法，till 與 though 也接不上不定詞。",
     "accuracyRate": 32,
-    "note": "答對率 32%。【你可能會這樣想】yet 在你腦中大概只有兩個位置：句尾的 not…yet（還沒）與問句的 yet（已經）。have yet to 這個結構把 yet 夾在 have 與 to 之間，而且整句看不到 not，你因此完全讀不出否定的意思，以為句子是肯定的。【文法依據】劍橋《English Grammar Today》在 yet 條目下特別列出 have yet to 與 be yet to，說明它們用於較正式的語境，指「必然會發生、但在說話當下尚未發生的事」，例句 The price of the tickets for the concert has yet to be decided.（演唱會票價尚未決定）。關鍵在於：have yet to 本身就含否定，句中不需要、也不能再加 not。【have yet to 三個要點】第一，它自己就是否定，等於「還沒、尚未」，句中絕不能再加 not——寫成 have not yet to 是錯的。第二，它可以直接換成 still ＋ 現在完成式的否定句，意思完全相同：He has yet to find an investor. ＝ He still hasn't found an investor.（他至今還沒找到投資人）。把 have yet to 讀成「still haven't」，語感立刻就通了。第三，它帶有「這件事遲早會發生、只是還沒發生」的預期語氣，所以特別適合用在還在發展中的議題上——本篇談的正是複製人這種尚無定論的新局面。另外還有一個同義的變體 be yet to：The price of the tickets has yet to be decided.（票價尚未決定）也可寫成 The price is yet to be decided.。兩者都偏正式，常見於新聞與論說文，是寫作時很好用的句型。【本題怎麼判斷】Faced with this new situation, people have ___ to find out how to deal with it.（面對這個新局面，人們還沒找出因應之道）。前一句 This situation is so strange to us that we do not know what will become of it.（這情況對我們如此陌生，我們不知道會演變成什麼樣）已經定調——既然連結果都不知道，當然也還沒找到辦法。【干擾選項】not 放進去會變成 have not to find out，英文沒有這種說法（要說 don't have to）；till 是「直到」，後面接時間點或子句；though 是「雖然」，是連接詞，兩者都接不上不定詞 to find out。【till 與 still：最容易看錯的一組】這兩個字拼法只差一個 s，考試時很多人根本是「看成」另一個字。till ＝ until，意思是「直到」，是介系詞或連接詞，後面接時間點或子句（Wait till Monday.／Wait till I come back.）；still 是副詞「仍然」，位置在一般動詞之前、be 動詞之後（She still lives with her mother.／He is still busy.）。劍橋文法有一組例句剛好同時用到兩個字，最適合拿來對照：Elizabeth is still living in Manchester. She's not moving to London till next month.（伊莉莎白仍住在曼徹斯特，她下個月才要搬到倫敦）。順帶澄清一個常見誤解：till 不是 until 的縮寫，它反而比 until 更古老，早在九世紀就在使用，只是現代英文以 until 為標準寫法，till 較口語。【為什麼 till 填進去不通】就算你把 till 讀成 still，本題也選不了它——因為選項印的是 till，而 till 後面必須接時間點或子句，接不上不定詞 to find out，句子直接不成立。這是純結構性的排除，不必靠語感。【常考搭配】have yet to V（尚未）、be yet to be decided／announced、as yet（迄今為止，用於否定）、not yet、the best yet（迄今最好的）。",
+    "note": "答對率 32%。【你可能會這樣想】yet 你大概只會用在句尾（I haven't finished yet.）。這裡它夾在 have 與 to 中間，句子又看不到 not，所以讀不出否定的意思。【have yet to ＝ 還沒】它自己就是否定，不能再加 not。最快的理解方式是換句話說：have yet to V ＝ still haven't + p.p.。He has yet to find an investor. ＝ He still hasn't found an investor.（他至今還沒找到投資人）。本句 people have yet to find out how to deal with it ＝ 人們還沒找出因應之道，正好呼應前一句的 we do not know what will become of it。【till 與 still 差一個 s】很多人是把 till 看成 still。till ＝ until（直到），後面接時間點或子句（Wait till Monday.）；still ＝ 仍然，放一般動詞前、be 動詞後（She still lives here.）。就算你把 till 讀成 still，選項印的仍是 till，而 till 接不上不定詞 to find out，句子直接不成立。【干擾選項】have not to 不是英文；though 是連接詞，接不上不定詞。【常考搭配】have yet to V、be yet to be decided、as yet、not yet。",
     "discrimination": 28,
     "contextSpan": "句內"
   },
@@ -5618,7 +5618,7 @@
     "discrimination": 9,
     "contextSpan": "跨句",
     "contextNote": "前面第四句 It was then decided that Alan Shepard should relieve himself in his space suit 才是 still（當年的權宜做法至今沿用）的著落點",
-    "note": "答對率 35%，鑑別度只有 9。【你可能會這樣想】still 你一定認得，難在位置：本句是 Diapers are ___ used by astronauts，空格夾在 be 動詞與過去分詞之間。你熟悉的 still 多半出現在「主詞＋still＋一般動詞」（She still lives here.），對於被動語態裡的位置不熟，於是猶豫。規則其實很簡單：still 放在 be 動詞之後、一般動詞之前——are still used 正是標準位置。【線索要往前找四句】本句自身沒有時間對照，必須回到段落開頭的敘事：Alan Shepard 的飛行原本只有十五分鐘，沒有如廁的安排，後來因故延遲數小時，It was then decided that Alan Shepard should relieve himself in his space suit（於是決定讓他直接在太空衣裡解決）。這個權宜之計促使 NASA 開發出第一具太空廁所——一種改良過的尿布。本句要說的就是：這個當年的權宜做法，到今天太空人出艙時「仍然」在用。線索距離跨了三、四句，是這題最難的地方。【下一句也在對照】As the flights grew longer, a new set of two collection bags was devised…（隨著飛行時間拉長，後來又設計了兩個收集袋）——後面有更新的裝置，更凸顯尿布是「舊方法卻沿用至今」，still 的對比意味才成立。【干擾選項】rather 是「相當、頗為」，用來修飾形容詞或副詞；almost 是「幾乎」，會變成「幾乎被使用」，語意不通；ever 是「曾經」，多用於否定句、疑問句或完成式，不用在這種肯定的現在式敘述。【常考搭配】be still used（仍在使用）、still 的位置（be 動詞後、一般動詞前）、not…yet、no longer（不再）、relieve oneself（如廁）。"
+    "note": "答對率 35%，鑑別度只有 9。【你可能會這樣想】still 你一定認得，難在位置：本句是 Diapers are ___ used by astronauts，空格夾在 be 動詞與過去分詞之間。你熟悉的多半是「主詞＋still＋一般動詞」（She still lives here.）。規則其實很簡單：「still 放在 be 動詞之後、一般動詞之前」——are still used 正是標準位置。【線索要往前找四句】本句自己沒有時間對照。回到段落開頭：Alan Shepard 的飛行原本只有十五分鐘、沒有如廁安排，後來延遲數小時，It was then decided that Alan Shepard should relieve himself in his space suit（於是決定讓他直接在太空衣裡解決）。這個權宜之計促成了第一具太空廁所——一種改良過的尿布。本句要說的就是：當年的權宜做法，到今天出艙時「仍然」在用。【干擾選項】rather（相當）修飾形容詞或副詞；almost（幾乎）語意不通；ever（曾經）多用於否定、疑問或完成式。【常考搭配】be still used、still 的位置、no longer（不再）、relieve oneself。"
   },
   {
     "id": "G92_24_1",
@@ -5914,7 +5914,7 @@
     "discrimination": 56,
     "contextSpan": "跨句",
     "contextNote": "前一句 a search began for his reincarnation 才知道是「被選中的」孩子",
-    "note": "答對率 36%，鑑別度 56——全站鑑別度最高的幾題之一，讀懂前一句的人幾乎都對。【你可能會這樣想】choose 的三態變化 choose-chose-chosen 你一定背過，但大概很少把 chosen 當成一個獨立的形容詞看待——「被選中的」。它是過去分詞轉品當形容詞，帶被動意味：the chosen one（天選之人）、the chosen few（少數獲選者）。【線索在前一句】這一格必須回頭讀前一句才判斷得出來：Whenever a Dalai Lama died, a search began for his reincarnation.（每當一位達賴喇嘛圓寂，尋訪轉世靈童的行動就展開）。既然有「尋訪」的過程，接下來提到的孩子自然就是「被選中的」那一位。本句自己並沒有交代任何挑選的動作，屬於跨句題。【主動與被動要分清】searching 是現在分詞，帶主動意味，會變成「正在尋找的男孩」——但在文中，尋找的是僧侶，孩子是被找、被選的那一方，方向相反。判斷分詞當形容詞時，永遠先問：這個名詞是「做動作的」還是「被做動作的」？做動作用 -ing，被動作用 p.p.。【干擾選項】dead（死去的）與整段語意矛盾——被尋訪的是活著的轉世靈童；previous（先前的）雖然文中確實提到 his predecessor（前世），但 the previous male child 意思會變成「上一個男孩」，與尋訪新靈童的敘述不合。【常考搭配】the chosen one（天選之人）、the chosen few、be chosen as／for、a search for（尋找…）、reincarnation（轉世）。"
+    "note": "答對率 36%，鑑別度 56——讀懂前一句的人幾乎都對。【你可能會這樣想】choose-chose-chosen 你一定背過，但大概沒把 chosen 當成一個形容詞記住：「被選中的」。the chosen one 就是「天選之人」。【線索在前一句】Whenever a Dalai Lama died, a search began for his reincarnation.（每當達賴喇嘛圓寂，尋訪轉世靈童的行動就展開）。有「尋訪」，接下來提到的孩子自然是「被選中的」那一位。本句自己沒有交代挑選的動作。【順帶記一條】分詞當形容詞時先問：這個名詞是做動作的還是被做動作的？做動作用 -ing（searching 正在尋找的），被動作用 p.p.（chosen 被選中的）。【常考搭配】the chosen one、the chosen few、be chosen as／for。"
   },
   {
     "id": "G93_17_1",
@@ -6019,7 +6019,7 @@
     "answer": "B",
     "explanation": "eliminate 是「根除、消滅」，用於疾病、貧窮、問題這類抽象事物，本句指蚊帳是遏止瘧疾擴散的最大希望；expanding（擴大）語意相反，deleting（刪除，用於文字資料）、assisting（協助）都不合。",
     "accuracyRate": 32,
-    "note": "答對率 32%。【你可能會這樣想】eliminate 與 delete 的中文都可以翻成「刪除、消除」，你因此把兩個字當同義字，隨手挑一個。實際上兩者的使用對象完全不同：delete 用於文字、檔案、資料這類可以「按下刪除鍵」的東西（delete a file／a message／a paragraph）；eliminate 用於抽象事物——疾病、貧窮、危險、錯誤、對手（eliminate poverty／malaria／the risk）。瘧疾的擴散不可能用 delete。【本題怎麼判斷】These nets are recognized by medical experts as the best hope for ___ the spread of malaria（醫學專家認為這些蚊帳是…瘧疾擴散的最大希望）。既然是 the best hope（最大的希望），空格必然是正面的、對抗疾病的動作，所以是 eliminating。下一句 The CAMBODIA DAILY will distribute the nets to the most affected areas 也印證了整篇的目的就是防疫。【干擾選項】expanding 是「擴大」，會變成「擴大瘧疾擴散的最大希望」，語意完全顛倒；assisting 是「協助」，同樣站錯邊。這兩個選項一旦看懂 the best hope，就能立刻排除。【延伸用法】eliminate 在運動與競賽裡還有「淘汰」的意思，且多用被動：Our team was eliminated in the first round.（我們隊在第一輪就被淘汰）。【常考搭配】eliminate poverty／disease／the risk（根除）、be eliminated from a competition（被淘汰）、delete a file／message、the spread of（…的擴散）、the best hope for。",
+    "note": "答對率 32%。【你可能會這樣想】eliminate 與 delete 的中文都能翻成「消除」，你大概把兩個字當同義字。使用對象完全不同：delete 用於文字、檔案、資料這類能按刪除鍵的東西（delete a file／a message）；eliminate 用於抽象事物——疾病、貧窮、危險、對手（eliminate poverty／malaria）。瘧疾的擴散不可能用 delete。【文內線索】These nets are recognized… as the best hope for ___ the spread of malaria——既然是 the best hope（最大的希望），空格必然是正面的、對抗疾病的動作。expanding（擴大）剛好站錯邊。【順帶記一個用法】eliminate 在競賽裡是「淘汰」，多用被動：Our team was eliminated in the first round.。【常考搭配】eliminate poverty／disease、be eliminated from a competition、delete a file、the spread of。",
     "discrimination": 25,
     "contextSpan": "句內"
   },
@@ -6057,7 +6057,7 @@
     "answer": "A",
     "explanation": "affected 是「受影響的」，the most affected areas 指疫情最嚴重、受害最深的地區；frequent（頻繁的）、effective（有效的）、included（被包含的）語意都不合。",
     "accuracyRate": 29,
-    "note": "答對率 29%，鑑別度 37。【你可能會這樣想】affect 與 effect 是很多人一輩子的難題：affect 是動詞「影響」，effect 是名詞「影響、效果」。本題再多一層——affected 是 affect 的過去分詞轉品當形容詞，意思是「受到影響的」，用來修飾人或地區。你如果只把 affect 記成動詞，就想不到它可以變成形容詞放在名詞前面。【本題怎麼判斷】the most ___ areas of the country 是「最…的地區」，前一句才剛說這些蚊帳是對抗瘧疾（Cambodia's most deadly disease）的最大希望，所以要送到「疫情最嚴重、受害最深」的地區——the most affected areas，這是新聞與公益文案的高頻說法。【干擾選項】frequent 是「頻繁的」，修飾事件不修飾地區；effective 是「有效的」，地區不會「有效」；included 是「被包含的」，語意空泛。三個都與「受災」無關。【affect 與 effect 難在拼字，不在意思】這兩個字的意思其實不難分，難的是拼字：整個字只差第一個字母 a 與 e，其餘 -ffect 完全相同，而且發音也極為接近（affect 讀 /əˈfekt/、effect 讀 /ɪˈfekt/，字首都是輕讀的弱音節），聽寫時幾乎分不出來。因此正確的做法不是靠發音判斷，而是靠位置判斷詞性：空格前若有 a／an／the 或形容詞，那個位置要放名詞，就是 effect（a bad effect、the greenhouse effect）；空格若在主詞之後、且後面還接受詞，那個位置要放動詞，就是 affect（Smoking affects your health.）。先看句子結構，再決定拼哪一個。【一次辨清 affect 與 effect】affect（動詞）＝影響：Smoking affects your health.；effect（名詞）＝影響、效果：Smoking has a bad effect on your health.。記法：a-ffect 是 action（動作、動詞），e-ffect 是 end result（結果、名詞）。另外 effect 偶爾當動詞用是「實現、促成」（effect a change），屬進階用法。【常考搭配】the most affected areas／the worst-affected regions、be affected by、have an effect on、side effects（副作用）、take effect（生效）。",
+    "note": "答對率 29%。【你可能會這樣想】affect 與 effect 的意思不難分，難在拼字——整個字只差第一個字母，而且發音極接近（affect /əˈfekt/、effect /ɪˈfekt/，字首都是輕讀），聽寫時幾乎分不出來。【靠位置判斷，不要靠發音】前面有 a／an／the 或形容詞 → 要名詞 → effect（a bad effect、the greenhouse effect）；在主詞之後、後面還接受詞 → 要動詞 → affect（Smoking affects your health.）。輔助記法：a-ffect 是 action（動詞），e-ffect 是 end result（名詞）。【本題】the most ___ areas 是「最…的地區」，前一句才說蚊帳是對抗瘧疾的最大希望，所以是「受害最深」的地區——affected 是過去分詞當形容詞，「受到影響的」。【常考搭配】the most affected areas、be affected by、have an effect on、side effects、take effect。",
     "discrimination": 37,
     "contextSpan": "句內"
   },
@@ -6076,7 +6076,7 @@
     "answer": "C",
     "explanation": "句首的 To contribute… and save… 是不定詞片語表目的，修飾後面的祈使句 send your donation to…；Contribute 會造成兩個祈使句相連而句構斷裂，Contributing 當主詞則無動詞可配，For contributing 用於說明物品用途，都不合。",
     "accuracyRate": 25,
-    "note": "答對率 25%。【你可能會這樣想】這是一則募款廣告，主要子句 send your donation to… 是祈使句、句首沒有主詞。你看到句首要填動詞形式，第一個念頭是「祈使句用原形動詞開頭」，於是選了 Contribute——但這樣前後就變成兩個祈使句用逗號連在一起，句子結構會斷掉。【最根本的一條規則：兩個句子不能只用逗號連接】英文裡兩個完整的句子（各自有主詞與動詞）不能只靠一個逗號黏在一起，中間一定要有連接詞，或者改用分號、句號分開。如果這一格填 Contribute，句子就變成 Contribute to this campaign and save three lives for only $5, send your donation to…——前面是一個完整的祈使句、後面又是一個完整的祈使句，中間只有逗號、沒有連接詞，這在英文裡是不合格的句子（中文可以一路逗號到底，英文不行，這是中英最大的差異之一）。要讓句子成立，前半就必須降級成「修飾語」，而不是另一個句子——這正是不定詞片語的功能。【文法依據】句首的 To contribute to this campaign and save three lives for only $5 是「不定詞片語表目的」，放在句首當副詞用，修飾後面的主要子句：為了對這項活動盡一份心力、只花五美元就救三條命，請把捐款寄到…。也就是「目的在前、動作在後」。另外要注意 and 連接的是 To contribute 與 (to) save 兩個不定詞，第二個 to 依慣例省略。【判斷方法】句首若有一個成分、後面又跟著一個完整的祈使句或主要子句，這個成分多半是修飾語（不定詞表目的、分詞構句或介系詞片語），不會是另一個祈使句。【干擾選項】Contributing 是動名詞，放句首會成為主詞，但後面接的是祈使句，找不到動詞與它搭配；For contributing 雖然 for 也帶有目的意味，但劍橋文法明確指出 for + -ing 是用來說明「某物的功能或用途」（I need something for storing CDs.），而人做某事的目的要用 to + 原形動詞，不能用 for + V-ing。【接上你已經學過的東西】國中學過 To pass the exam, you must study hard.（為了通過考試，你必須用功），本題只是把主要子句換成祈使句而已。【常考搭配】To V…, 祈使句（為了…，請…）、in order to V、so as to V、for + V-ing（說明用途）、make a donation to（捐款給）。",
+    "note": "答對率 25%。【你可能會這樣想】主要子句 send your donation to… 是祈使句，你看到句首要填動詞，直覺挑原形 Contribute。但這樣一來前後就變成兩個完整的祈使句用逗號黏在一起——「英文兩個句子不能只靠逗號連接」，中間必須有連接詞，或改用分號、句號。中文可以一路逗號到底，英文不行，這是中英最大的差異之一。【怎麼判斷】要讓句子成立，前半就得降級成修飾語。To contribute to this campaign and save three lives for only $5 是不定詞片語表目的：為了盡一份心力、只花五美元救三條命，請把捐款寄到…。目的在前、動作在後。and 連接的是 To contribute 與 (to) save 兩個不定詞，第二個 to 依慣例省略。【干擾選項】Contributing 放句首會變成主詞，但後面接的是祈使句，沒有動詞配它；For contributing 的 for + V-ing 是用來說明「物品的用途」（I need something for storing CDs.），人做某事的目的要用 to + 原形。【常考搭配】To V…, 祈使句、in order to V、so as to V、for + V-ing（用途）、make a donation to。",
     "discrimination": 20,
     "contextSpan": "句內"
   },
@@ -6199,7 +6199,7 @@
     "accuracyRate": 39,
     "discrimination": 41,
     "contextSpan": "句內",
-    "note": "答對率 39%，鑑別度 41。【你可能會這樣想】pride 你記得的大概是名詞「驕傲」，也知道形容詞 proud（be proud of），卻常常沒把 take pride in 這個片語一起記起來。它與 be proud of 意思相同，都是「以…為傲」，只是一個用名詞、一個用形容詞：He is proud of his work. ＝ He takes pride in his work.。【字義依據】劍橋詞典 take pride in sth／sb 的釋義是：對某個與自己密切相關的人或事感到非常高興、滿意，例句 We take pride in the high quality of our food.（我們以食物的高品質為傲）、The whole community takes pride in the school.（整個社區都以這所學校為榮）。【文內驗證】本句是 To be creative, you must dare to be different, and courageously express your own outlook and ___ what makes you unique.（要有創造力，你必須勇於與眾不同，勇敢表達自己的看法，並…自身的獨特之處）。前面兩個動作 dare to be different 與 courageously express 都是正面而積極的，用 and 並列的第三個動作自然也要是正面的——以自己的獨特為傲。前一句 Experts say that creativity by definition means going against the tradition and breaking the rules.（專家說創造力就定義而言意味著違反傳統、打破規則）也是同一個基調。【干擾選項】fall short of 是「未達到（標準）」，語氣負面；get out of 是「擺脫、逃避」，會變成「擺脫自己的獨特之處」，與全文鼓勵創造力的立場相反；keep up with 是「跟上」，後面接的應該是別人或潮流，與「自己的獨特」搭不上。【常考搭配】take pride in（以…為傲）、be proud of、pride oneself on、take pride in one's work、fall short of expectations（不如預期）、keep up with the times（跟上時代）。"
+    "note": "答對率 39%。【你可能會這樣想】你認得 be proud of，卻沒把 take pride in 一起記——兩個意思一樣，都是「以…為傲」，只差一個用形容詞、一個用名詞：He is proud of his work. ＝ He takes pride in his work.。【怎麼判斷】空格前面兩個動作 dare to be different、courageously express your own outlook 都是正面的，用 and 接的第三個動作也得是正面的——以自己的獨特為傲。【干擾選項】fall short of（未達到）語氣負面；get out of（擺脫）等於要你甩掉自己的獨特，方向相反；keep up with（跟上）後面該接別人或潮流，不會接自己的特點。【常考搭配】take pride in、be proud of、pride oneself on、fall short of、keep up with。"
   },
   {
     "id": "G94_18_1",
@@ -6252,7 +6252,7 @@
     "accuracyRate": 36,
     "discrimination": 44,
     "contextSpan": "句內",
-    "note": "答對率 36%，鑑別度 44。【你可能會這樣想】re- 開頭的四個選項長得極像——react、relieve、relax、rely——你在時間壓力下常常只看前三個字母就下筆。這一題考的正是這種字形相近詞的辨析。react 是「反應、回應」，後面接 to sb／sth 表示對什麼作出反應，接 with 則表示以什麼方式反應。【本題怎麼判斷】空格後面是 with a scoff（帶著一聲嗤笑），再往後是冒號與引號 \"What is all this nonsense?!\"（這都在胡搞些什麼？！）——引號裡的話就是那個「反應」的具體內容。父親原本期望兒子讀到博士當教授，聽到兒子要拍電影，於是嗤之以鼻。空格填 reacted，整句才通。【一次辨清四個 re- 開頭的字】react（反應）＋to／with；relieve（使寬慰、減輕）是及物動詞，常用被動 be relieved（感到寬慰）；relax（放鬆）；rely 必須接 on／upon（rely on sb 依賴某人）。四個字的句型都不同，把「後面接什麼」一起記，比只記中文有效。【文內驗證】下一句 But it later turned out that it was exactly his courage to \"rebel\" and to express his own ideas that marks his films with distinct creativity.（但後來證明，正是他敢於「叛逆」、勇於表達自己想法的膽識，使他的電影別具創意）——用 But 轉折，回頭確認前面父親的反應是負面的。【常考搭配】react to sth（對…反應）、react with anger／a scoff、a reaction to、be relieved（鬆一口氣）、rely on（依賴）、scoff at（嘲笑）。"
+    "note": "答對率 36%。【你可能會這樣想】四個選項 react／relieve／relax／rely 前三個字母都一樣，趕時間時很容易只看開頭就下筆。【一次辨清，關鍵在後面接什麼】react to sth（對…反應）／react with（以…方式反應）；relieve 是及物動詞，常用被動 be relieved（鬆一口氣）；relax（放鬆）；rely 一定要接 on（rely on sb 依賴某人）。四個字的句型都不同，把「後面接什麼」一起記最有效。【本題】空格後是 with a scoff（帶著一聲嗤笑），再接冒號與引號裡的 \"What is all this nonsense?!\"——引號裡的話就是那個反應本身。【常考搭配】react to sth、a reaction to、be relieved、rely on、scoff at（嘲笑）。"
   },
   {
     "id": "G94_21_2",
@@ -7546,7 +7546,7 @@
     "accuracyRate": 38,
     "discrimination": 14,
     "contextSpan": "句內",
-    "note": "答對率 38%，鑑別度只有 14。【你可能會這樣想】assign 你記得的大概是「指派任務」（The teacher assigned us a lot of homework.），對象是工作或作業；用在「分配號碼、座位、房間」上時就陌生了。其實只要是「由上而下分派某樣東西給某人」，都可以用 assign：be assigned a seat（被分配到座位）、be assigned a room、be assigned an area code。【句型是雙受詞的被動】assign 可以接兩個受詞：assign sb sth（分配某物給某人）。改成被動時，人當主詞、物留在動詞後面：New York was assigned the 212 area code.（紐約被分配到 212 這組區碼）。你看到被動語態後面還跟著一個名詞會覺得奇怪，其實那是原本的第二個受詞。同類的動詞還有 give、offer、send、award：He was given a prize.、She was offered a job.。【文內驗證】前一句 Cities and areas with higher populations would have a smaller first and third digit（人口較多的城市，第一與第三個數字較小）說明區碼是「依規則分派」出來的；本句 New York, being the largest city in the United States, was ___ the 212 area code, followed by Los Angeles at 213.（紐約身為全美最大城，分到 212，接著是洛杉磯的 213）——有先後順序，正是「分配」。【干擾選項】reserved 是「保留」，須說 be reserved for（The seat is reserved for you.）；represented 是「代表」，紐約不是「被代表」212；assembled 是「組裝、集合」，語意無關。【常考搭配】be assigned sth（被分配到）、assign sb to do sth、an assignment（作業、任務）、be reserved for、be awarded a prize。"
+    "note": "答對率 38%。【你可能會這樣想】assign 你大概只記得「指派作業」，對象是工作；用在分配號碼、座位、房間上就陌生了。只要是「由上而下分派某樣東西給某人」都能用：be assigned a seat、be assigned an area code。【句型是雙受詞的被動】assign sb sth（分配某物給某人），改被動時人當主詞、物留在動詞後面：New York was assigned the 212 area code.被動後面還跟著一個名詞會覺得怪，其實那是原本的第二個受詞。give、offer、send、award 都一樣：He was given a prize.。【怎麼判斷】前一句說區碼是依人口規則分派的，本句接著說紐約分到 212、洛杉磯 213——有先後順序，正是「分配」。【干擾選項】reserved 要說 be reserved for；represented 是「代表」；assembled 是「組裝、集合」。【常考搭配】be assigned sth、be given／offered／awarded sth、be reserved for、an assignment。"
   },
   {
     "id": "G102_20_1",
@@ -7670,7 +7670,7 @@
     "accuracyRate": 38,
     "discrimination": 22,
     "contextSpan": "句內",
-    "note": "答對率 38%，鑑別度 22。【你可能會這樣想】normal 是一個再簡單不過的字，簡單到你看到它反而懷疑「這麼容易不可能是答案」，於是去挑看起來比較「高級」的 contrary 或 mutual。這是考試心理造成的失分，與字彙量無關。遇到選項中有一個特別簡單的字時，不要因為它簡單就先排除，要回到句子的邏輯判斷。【本題怎麼判斷】關鍵在 rather than 這組對比連接詞：He was interested in the workings of the ___ mind rather than the nature of mental illness.（他感興趣的是…心智的運作，而不是精神疾病的本質）。rather than 前後必須是一對相對的概念——後面是 mental illness（精神疾病），前面自然就是「正常」的心智。這種「A rather than B」的結構，只要看懂 B，A 幾乎就自動決定了。【文內驗證】句首 French psychologist Alfred Binet took a different approach from most other psychologists of his day（比奈採取了與當時多數心理學家不同的取徑）已經先鋪陳：別人研究病態，他研究常態。下一句 He wanted to find a way to measure the ability to think and reason（他想找出測量思考與推理能力的方法）也確認他的研究對象是一般人的心智，這正是後來智力測驗的起點。【干擾選項】contrary 是「相反的」，the contrary mind 不是英文的說法；detective 是「偵探的」；mutual 是「相互的」。三者與 mental illness 都構不成對照。【常考搭配】A rather than B（是 A 而不是 B）、instead of、the workings of（…的運作方式）、normal／abnormal、mental illness。"
+    "note": "答對率 38%。【你可能會這樣想】normal 太簡單，你可能因為「這麼容易不可能是答案」而去挑看起來高級的 contrary 或 mutual。這是考試心理造成的失分，與字彙量無關——選項裡出現特別簡單的字時，不要因為它簡單就先排除。【線索是 rather than】He was interested in the workings of the ___ mind rather than the nature of mental illness.（他感興趣的是…心智的運作，而不是精神疾病的本質）。rather than 前後必須是一對相對的概念，後面是精神疾病，前面自然是「正常」的心智。看懂 B，A 幾乎就自動決定了。【常考搭配】A rather than B、instead of、the workings of、normal／abnormal。"
   },
   {
     "id": "G102_27_3",
@@ -7880,7 +7880,7 @@
     "accuracyRate": 36,
     "discrimination": 24,
     "contextSpan": "句內",
-    "note": "答對率 36%。【你可能會這樣想】看到空格前面的 to，你可能反射性地認定「後面要接原形動詞」，於是選了 approach——這是本題最主要的陷阱。關鍵在於：這個 to 不是不定詞的 to，而是片語 alert sb to sth 裡的介系詞。alert 當動詞時的固定句型是 alert somebody 「to」 something（提醒某人注意某事），to 後面接的是名詞或動名詞。【判斷方法：先確認 to 的身分】遇到空格前有 to 時，先看它前面那個動詞的固定搭配是什麼。若動詞本身要求接介系詞 to（如 alert sb to、look forward to、be used to、object to、devote oneself to、lead to），那麼 to 就是介系詞，後面要接名詞或 V-ing；否則才是不定詞。【接上你已經學過的東西】國中學過 look forward to seeing you（期待見到你）、be used to getting up early（習慣早起）——這兩個經典例子的 to 都是介系詞，所以後面要用動名詞。本題只是把同一個判斷用在 alert sb to 上。【本題的句構】完整句是 the great many \"eyes\" on its feathers are said to alert it to ___ evil（羽毛上眾多的「眼睛」據說能提醒牠注意逼近的邪祟）。to 之後的名詞是 evil，空格夾在 to 與 evil 之間，需要的是修飾 evil 的形容詞——現在分詞 approaching（正在逼近的）正好符合，帶主動意味：邪祟自己在靠近。【干擾選項】approached 是過去分詞，帶被動意味（被接近的），語意不合；be approaching 是動詞片語，不能放在介系詞後面當修飾語。【常考搭配】alert sb to sth（提醒某人注意）、look forward to + V-ing、be used to + V-ing、object to、devote oneself to、an approaching storm（逼近的暴風雨）。"
+    "note": "答對率 36%。【你可能會這樣想】看到空格前面的 to，你大概直覺要接原形動詞，於是選 approach。但這個 to 不是不定詞，是片語 alert sb to sth（提醒某人注意某事）自帶的介系詞——後面要接名詞。【判斷方法】遇到空格前有 to，先看前面那個動詞的固定搭配。若動詞本身要求接 to（alert sb to、look forward to、be used to、object to、devote oneself to），那個 to 就是介系詞，後面接名詞或 V-ing。國中學過的 look forward to seeing you、be used to getting up early 就是這條規則。【本題】to 後面的名詞是 evil，空格夾在中間，要填修飾 evil 的形容詞——approaching（正在逼近的）。【常考搭配】alert sb to sth、look forward to + V-ing、be used to + V-ing、an approaching storm。"
   },
   {
     "id": "G104_24_2",
@@ -8089,7 +8089,7 @@
     "answer": "D",
     "explanation": "venture beyond 意為「冒險走出…的範圍」，本句指許多突破來自於人們敢於跨出慣常的做事方式與專業領域；into（進入）語意方向相反，without（沒有）、under（在…之下）都不合。",
     "accuracyRate": 32,
-    "note": "答對率 32%，鑑別度 38。【你可能會這樣想】beyond 你記得的大概是「在…那一邊、超過」，多用在具體距離或時間（beyond the mountains、beyond midnight），較少用在抽象範圍上。這裡的 beyond 是「超出…的界線之外」，搭配 venture（冒險前往）就是「冒險跨出既有的範圍」。【本題怎麼判斷】前一句 Another way to increase creativity is to take risks.（增進創造力的另一個方法是冒險）已經定調，本句 This is because many breakthroughs come up when people venture ___ their usual routines or areas of expertise 就是在解釋為什麼——突破來自於「走出」慣常的做事方式與專業領域，而不是「走進」。填 into 語意剛好相反：走進自己的老習慣裡不會有突破。下一句 This can be done by, for example, learning new skills or traveling to new countries.（例如學新技能、去沒去過的國家）更是直接印證「往外走」。【接上你已經學過的東西】國中學過 go beyond（超出）、beyond one's reach（構不著），核心概念都是「越過那條線」。把 beyond 想成一條界線的另一側，抽象用法就通了。【干擾選項】without 是「沒有」，語意不通；under 是「在…之下」，與 venture 不搭。【常考搭配】venture beyond／into、go beyond、beyond one's control／reach／expectations、beyond doubt（無庸置疑）、step out of one's comfort zone（走出舒適圈）、areas of expertise（專業領域）。",
+    "note": "答對率 32%。【你可能會這樣想】beyond 你大概只用在具體的距離或時間（beyond the mountains），較少用在抽象範圍上。把 beyond 想成「越過那條界線」，抽象用法就通了：go beyond（超出）、beyond one's reach（構不著）、beyond doubt（無庸置疑）。【方向是往外不是往內】前一句 Another way to increase creativity is to take risks. 已經定調；本句說突破來自「走出」慣常的做事方式與專業領域。填 into 語意剛好相反——走進自己的老習慣裡不會有突破。下一句 learning new skills or traveling to new countries（學新技能、去沒去過的國家）也是往外走。【常考搭配】venture beyond／into、go beyond、beyond one's control／reach、step out of one's comfort zone。",
     "discrimination": 38,
     "contextSpan": "句內"
   },
@@ -8312,7 +8312,7 @@
     "answer": "C",
     "explanation": "that's where the similarities end 是固定說法，意為「相似之處就到此為止」，呼應下一句各書鎮各有特色；form（形成）方向相反，count（計算、重要）、matter（重要）都無法與 that's where 構成這個說法。",
     "accuracyRate": 20,
-    "note": "答對率 20%，鑑別度 25。【你可能會這樣想】end 你大概只記得「結束」，而且腦中的畫面是時間或事件的結束（the end of the movie、the school year ends）。這裡的 end 卻是抽象的「到此為止、界線在此」——相似之處只到這裡，再往下就都不一樣了。that's where… ends 是英文比較與對比時的高頻說法，中文對應「共同點就這麼多」「相像的地方也就僅止於此」。【先確認詞性：這一格填的是動詞】句子是 that's where the similarities ___.——that's where 引導的子句裡，the similarities 是主詞，空格就是這個主詞的動詞，句子才算完整。所以本題考的是 end 的「動詞」用法：（相似之處）到此為止、就到這裡。四個選項 form／count／end／matter 也全是動詞，比的是哪一個動詞語意對。下面談 end 的名詞義，只是用來幫助理解這個字的核心概念，不要因此誤以為本題考名詞。【end 的核心是「端點」，這題考的是它的動詞用法】你最熟悉的 end 是名詞「末端、端點」：both ends of the rope（繩子的兩端）、the other end of the line（電話另一頭）。本題庫 95 年那題的 make (both) ends meet 用的正是這個名詞義——字面是「讓兩端碰在一起」，指收入與支出這兩端接得上，引申為「收支平衡、勉強維持生計」。本題的 end 卻是動詞：走到那個端點、到此為止。同一個字，名詞指「端點在哪裡」，動詞指「走到端點」，兩題一起記，這個字的核心概念一次就通。【還有一層：這裡結束的是「相似」，不是時間】一般用到動詞 end，結束的多半是時間或事件（The meeting ended at five.）；本句結束的卻是 the similarities（相似之處）——句子講的是「兩者像到哪裡為止，再往下就是差異」。把 end 從時間軸挪到「異同的分界線」上，是這一格真正的難處。【決定性線索：下一句的 unique】這一格真正的關鍵字是下一句的 unique——Each of these towns shows unique features of its own.（每個書鎮都展現出自己獨特的樣貌）。unique 是「獨一無二的」，語意與 similarities（相似之處）正好相反；作者用一個反義詞，把「共同點」與「差異點」的界線畫得清清楚楚。既然下一句要開始談「各自獨特」，上一句自然是宣告「相似到此為止」，所以動詞只能是 end。做這類題目時，往下讀一句、找一個與空格所在句「語意相反」的字，往往就直接鎖定答案。【文內驗證：前後兩句把答案夾住】本句以 Although all book towns have a great number of bookshops 開頭，讓步子句先承認「共同點是書店多」；下一句 Each of these towns shows unique features of its own.（每個書鎮都有自己獨特的樣貌）緊接著講差異。前面說共同點、後面說差異，中間這一格就是分界線——非 end 不可。【順帶複習 where 的抽象用法】這裡的 where 不是指真實的地點，而是指「相似之處延伸到的那個界線」。同一份題庫 107 年那題 the mind turns inward, where it can subconsciously puzzle over subtle meanings 也是同樣的抽象用法，兩題可以一起記：where 的先行詞可以是情境、界線、狀態，不必是實體場所。【干擾選項】form（形成）方向完全相反——若填 form，會變成「相似之處從這裡開始形成」，與下一句的差異敘述矛盾；count 與 matter 都是「重要」，that's where the similarities matter 語意不成立。【常考搭配】That's where…ends（到此為止）、come to an end、in the end（最後）、end up（最終落得）、have a lot in common（有許多共同點）。",
+    "note": "答對率 20%。【你可能會這樣想】end 你大概只記得「結束」，腦中畫面是時間或事件（The meeting ended at five.）。這裡結束的卻是 the similarities——講的是「兩者像到哪裡為止」。【先看詞性】that's where the similarities ___：similarities 是主詞，空格是它的動詞。四個選項都是動詞，比的是語意。【關鍵線索在下一句】Each of these towns shows unique features of its own.——unique 與 similarities 語意相反，作者用它畫出界線：相似到此為止，再往下都是差異。【end 的兩種身分】名詞是「端點」，95 年那題的 make ends meet 就是讓收入與支出兩端碰在一起；本題是動詞：走到端點。【干擾選項】form（形成）方向相反；count 與 matter 都是「重要」，語意不合。【常考搭配】That's where…ends、come to an end、end up、have a lot in common。",
     "discrimination": 25,
     "contextSpan": "句內"
   },
@@ -8401,7 +8401,7 @@
     "answer": "D",
     "explanation": "intensify 是「加劇、增強」，本句指飛機飛得愈高、內外壓力差愈大，問題就愈嚴重；disguised（被掩飾）、understood（被理解）、confronted（面對，被動須用 be confronted with）語意都不合。",
     "accuracyRate": 32,
-    "note": "答對率 32%，鑑別度 30。【你可能會這樣想】你認得形容詞 intense（強烈的）與名詞 intensity（強度），卻很少把動詞 intensify 記起來，再加上這裡用的是被動 is intensified，字形一變就認不出來。intensify 的意思很單純：使變得更強、更嚴重。【文內驗證：同句後半就是答案】空格後面接的是 when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress——increases（增加）與 added stress（額外的壓力）兩個訊息都指向「更嚴重」，語意方向清清楚楚。空格填進去之後，整句是「飛得愈高，機艙內外壓力差愈大，問題就愈嚴重」。【干擾選項】disguised 是「被掩飾、被偽裝」，問題不會因為飛高就被藏起來；understood 是「被理解」，語意突兀；confronted 的問題在句型——confront 要說 be confronted with a problem（面臨問題），主詞是人，本句主詞是 the problem，位置剛好顛倒。【字族一起記】intense（形容詞．強烈的）／intensity（名詞．強度）／intensify（動詞．加劇）／intensive（形容詞．密集的，如 intensive care 加護病房、an intensive course 密集課程）。四個字長得像，詞性與用法各不相同，一起整理才不會混。【常考搭配】the problem is intensified／aggravated／worsened（問題加劇）、intensify one's efforts（加緊努力）、intensive care、at high altitudes（在高空）。",
+    "note": "答對率 32%。【你可能會這樣想】你認得形容詞 intense（強烈的）與名詞 intensity（強度），卻很少把動詞 intensify（加劇）記起來，再加上這裡用的是被動 is intensified，字形一變就認不出來。【答案就在同一句後半】when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress——increases 與 added stress 兩個訊息都指向「更嚴重」。【字族一次記齊】intense（強烈的）／intensity（強度）／intensify（加劇）／intensive（密集的，intensive care 加護病房）。【干擾選項】confronted 的問題在句型：要說 be confronted with a problem（主詞是人），本句主詞是 the problem，位置剛好顛倒。【常考搭配】the problem is intensified／aggravated、intensify one's efforts、intensive care、at high altitudes。",
     "discrimination": 30,
     "contextSpan": "句內"
   },
@@ -8505,7 +8505,7 @@
     "answer": "A",
     "explanation": "difficult 形容人時是「難相處的、難搞的」，a difficult customer 即「奧客」，與後面的分詞構句 arguing with a salesperson without a good reason 完全吻合；potential（潛在的）、constant（持續不斷的）、anonymous（匿名的）都不合。",
     "accuracyRate": 25,
-    "note": "答對率 25%。【你可能會這樣想】difficult 你大概只記得「困難的」，用來形容事情（a difficult question、a difficult decision）；卻不知道它形容「人」時意思會轉彎，變成「難相處的、難搞的」。a difficult customer 就是中文說的「奧客」，a difficult child 是「難帶的孩子」。這是熟字的另一義，也是本題唯一的關卡。【文內驗證：逗號後的分詞構句就是定義】空格後面緊接著 arguing with a salesperson without a good reason（無緣無故就跟店員起爭執），這個分詞構句正是在解釋「difficult 的顧客」長什麼樣——作者等於自己附上了註解。遇到空格後面接逗號加分詞或同位語時，先讀那一段，答案往往就藏在裡面。【干擾選項】potential customers 是「潛在顧客」，但潛在顧客不會跑去跟店員吵架；constant 是「持續不斷的」，常客的英文是 regular customers，不是 constant customers；anonymous 是「匿名的」，與吵架的行為無關。【接上你已經學過的東西】同一類「形容事」與「形容人」語意會轉彎的形容詞還有：easy（容易的／隨和的，an easy person to work with）、hard（困難的／嚴厲的，be hard on sb）、tough（艱難的／強悍的）、mean（吝嗇的、刻薄的）。看到熟悉的形容詞去修飾「人」，先想想它有沒有第二個意思。【常考搭配】a difficult customer／child／situation、a regular customer（常客）、a potential customer（潛在顧客）、mystery shopper（神祕客）、argue with sb（與某人爭執）。",
+    "note": "答對率 25%。【你可能會這樣想】difficult 你只記得「困難的」，用來形容事情（a difficult question）；形容「人」時它會轉彎，變成「難相處的、難搞的」——a difficult customer 就是「奧客」，a difficult child 是「難帶的孩子」。【答案寫在逗號後面】空格後緊接 arguing with a salesperson without a good reason（無緣無故就跟店員起爭執），這個分詞構句正是在解釋「difficult 的顧客」長什麼樣。「看到空格後接逗號加分詞或同位語，先讀那一段，答案常常就在裡面。」【同類會轉彎的形容詞】easy（容易的／隨和的，an easy person to work with）、hard（困難的／嚴厲的，be hard on sb）、tough（艱難的／強悍的）、mean（吝嗇的、刻薄的）。看到熟悉的形容詞去修飾人，先想它有沒有第二個意思。【常考搭配】a difficult customer／child、a regular customer（常客）、a potential customer、mystery shopper（神祕客）。",
     "discrimination": 26,
     "contextSpan": "句內"
   },
@@ -8597,7 +8597,7 @@
     "accuracyRate": 35,
     "discrimination": 42,
     "contextSpan": "句內",
-    "note": "答對率 35%，鑑別度 42。【你可能會這樣想】decline 你最熟的意思是「婉拒」（decline an invitation 婉拒邀請），這一義在課本與考題中出現得早、印象深。但 decline 還有一個同樣常考的意思——當不及物動詞時是「衰退、減少、走下坡」，用在人口、銷量、產業、健康上：Sales have declined sharply.（銷量急遽下滑）。兩個意思差很多，靠句型分辨：接受詞的是「婉拒」，不接受詞的是「衰退」。本句空格後面沒有受詞，直接接 as 引導的副詞子句，所以是「衰退」。【文內驗證：讓步與原因夾擊】句首 While the practice continued in some parts of the country until the 1970s（雖然這個行業在部分地區一直持續到一九七○年代）是讓步——「雖然還撐了一陣子」；空格後 as alarm clocks became more widespread and affordable（隨著鬧鐘愈來愈普及、愈來愈便宜）是原因。有讓步、有原因，中間的主要子句必然是「走下坡」。下一句 Today, beeping alarm clocks and smartphones… are surely simpler and more convenient 也確認了這個趨勢。【干擾選項】remained 是「維持不變」，與句首 While 的讓步完全矛盾——既然說「雖然持續到一九七○年代」，後面就不可能是「一直維持著」；dismissed 是「解僱、駁回」，及物動詞，且主詞應為做決定的人；revised 是「修訂」，用於文件、計畫。【常考搭配】decline（衰退，不及物）、a decline in（…的下降）、on the decline／in decline（走下坡）、decline an invitation／offer（婉拒），以及對照組 refuse、turn down。"
+    "note": "答對率 35%。【你可能會這樣想】decline 你大概只記得「婉拒」（decline an invitation）。它還有一個同樣常考的意思：當不及物動詞時是「衰退、走下坡」，用在人口、銷量、產業上：Sales have declined sharply.（銷量急遽下滑）。靠句型分辨——「接受詞的是婉拒，不接受詞的是衰退」。本句空格後面沒有受詞。【線索前後夾擊】句首 While the practice continued… until the 1970s（雖然撐到七○年代）是讓步，空格後 as alarm clocks became more widespread and affordable（隨著鬧鐘普及又便宜）是原因。有讓步、有原因，中間必然是「走下坡」。【常考搭配】decline（衰退）、a decline in、on the decline、decline an invitation／offer。"
   },
   {
     "id": "G113_20_2",
@@ -9012,7 +9012,7 @@
     "accuracyRate": 37,
     "discrimination": 21,
     "contextSpan": "句內",
-    "note": "答對率 37%。【你可能會這樣想】mean 在你腦中就是「意思是」，被動的 be meant to 幾乎沒學過，於是四個選項看起來都很陌生，只能亂猜。be meant to 的意思是「原本就是要、被設計成、應該要」，語氣接近 be supposed to。【文法依據】劍橋《English Grammar Today》在 mean 條目中明確指出：被動的 be meant to 用來表達「應該、被認為要如何」，語意與 be supposed to 相近，例句 Why are you watching TV? You're meant to be working.（你怎麼在看電視？你應該在工作才對）。本句 It is meant to be an enjoyable dining experience that can span hours. 就是「它本來就該是一場可以持續數小時的愉快用餐經驗」——強調飲茶的本意不在填飽肚子，而在那段慢慢享受的時光。【文內驗證】前一句 Dim sum is more than just an example of Chinese cuisine.（飲茶不只是中式料理的一個例子）用 more than just 先否定一個較小的定義；本句緊接著給出更大的定義。「不只是 A，而是 B」的行文節奏，正需要 be meant to be 這種帶有「本意、設計如此」意味的說法。下一句 The small portions were designed to merely \"touch the heart\"（小分量的設計只是為了「點心」）裡的 were designed to 更是與 be meant to be 遙相呼應——兩者都在講「當初的用意」。【干擾選項】passed on to 是「傳給（某人）」，後面接的應該是接受者；brought up as 是「被當作…養育」，主詞須是人；thought to have 後面必須接過去分詞（thought to have originated in…），句型不完整。【常考搭配】be meant to（本來應該）、be supposed to、be designed to、mean to V（打算）、mean V-ing（意味著）、more than just（不只是）。"
+    "note": "答對率 37%。【你可能會這樣想】mean 你大概只記得「意思是」，被動的 be meant to 沒學過，四個選項就都很陌生。be meant to ＝ 原本就是要、應該要，語氣接近 be supposed to：Why are you watching TV? You're meant to be working.（你應該在工作才對）。【怎麼判斷】前一句 Dim sum is more than just an example of Chinese cuisine.（飲茶不只是中式料理的一個例子）先否定一個較小的定義；本句要給出更大的定義——它「本來就該是」一場可以持續數小時的愉快用餐經驗。下一句的 were designed to（設計成…）也在講同一件事：當初的用意。【干擾選項】passed on to 後面該接接受者；brought up as 的主詞須是人；thought to have 後面必須接過去分詞，句型不完整。【常考搭配】be meant to、be supposed to、be designed to、mean to V（打算）、more than just。"
   },
   {
     "id": "G115_19_2",
@@ -9029,7 +9029,7 @@
     "answer": "B",
     "explanation": "as such 在此意為「正因為如此、基於這樣的性質」，承接前面「分量小、只為touch the heart」的說明，帶出「因此最早是當點心吃的」；if so（如果是這樣）、by then（到那時）、in that（在於…這一點）語意都不合。",
     "accuracyRate": 31,
-    "note": "答對率 31%，鑑別度 −7——高分群考生的答對率反而低於低分群，是本站少數的負鑑別度題目。【你可能會這樣想】as such 這個說法課本少見，你如果照字面拆成「像這樣」就會走偏；程度好的人反而容易想太多，被 in that（因為）吸引——它同樣能表示原因，語氣又比 because 正式，看起來很像答案，這正是它把高分群拉下來的地方。【字義依據】as such 有兩個意思：一是「就其本身而言、嚴格說來」（The book is not a novel as such.（嚴格說來這本書不算小說）），二是「正因為如此、據此」，用來承接前面已經說明的性質，帶出由這個性質導出的結果。本句取的是第二義。【本題怎麼判斷】前半 The small portions were designed to merely \"touch the heart,\" as the name literally means（這些小分量的餐點設計上只是要「點心」，正如這個名稱的字面意思）已經把性質講清楚——分量小、目的只是略微滿足；因此後半 ___ were first enjoyed as snacks（最早是被當作點心享用的）是由這個性質直接推出的結果，用 as such 承接最自然。【與另一題對照】這個 such 與 99 年那題的 must behave himself as such 是同一個字：such 都是回頭指代前面剛講過的內容，只是一個指「身分」，一個指「性質」。看到 such，先問「它指的是前面哪一句」。【干擾選項】if so 是「如果是這樣」，本句陳述的是既定事實，不是假設；by then 是「到那時候為止」，本句沒有時間先後可比；in that 就是「因為」，等於 because，但語氣正式得多，幾乎只出現在書面語與論說文中，後面必須接一個完整子句（It is a good plan in that it saves money. 這計畫很好，因為它能省錢／He is fortunate in that he has many friends. 他很幸運，因為他朋友很多）。本句空格後面直接接動詞 were，沒有主詞，子句不完整，in that 根本放不進去——這是最快排除它的方法。順帶一提，in that 常被誤讀成「在那裡」或「在那方面」，其實它是一個完整的連接詞片語，功能等同 because，寫作時想讓語氣正式一點就可以派上用場。【常考搭配】as such（正因為如此／嚴格說來）、in that + 子句（因為，等於 because 但更正式）、if so（如果是這樣）、by then（到那時）、dim sum（點心）。",
+    "note": "答對率 31%，而且高分群答對率反而比低分群低。【你可能會這樣想】as such 課本少見，照字面讀成「像這樣」就走偏了；程度好的人反而容易被 in that 拉走。as such 在這裡是「正因為如此」，承接前面已經講過的性質，帶出由它導出的結果。【怎麼判斷】前半 The small portions were designed to merely \"touch the heart\"（小分量的設計只是要「點心」）先講性質；後半「最早是當點心吃的」就是由這個性質推出來的結果，用 as such 接最自然。【in that 就是「因為」】等於 because 但正式得多，關鍵是後面必須接完整子句：It is a good plan in that it saves money.（這計畫很好，因為能省錢）。本句空格後直接接動詞 were、沒有主詞，子句不完整，in that 根本放不進去——這是最快的排除法，不必靠語感。【干擾選項】if so（如果是這樣）用於假設，本句是既定事實；by then（到那時）需要時間先後可比。【常考搭配】as such、in that + 子句、if so、by then。",
     "discrimination": -7,
     "discriminationNote": "as such 是需要死背的固定用法，不是靠邏輯推理能夠推導出來的，高分群考生擅長的「文法邏輯分析」在這種純粹仰賴背誦的題目上發揮不出優勢，因此鑑別度偏低甚至略為負值，這類題目較適合當作「有背就會、沒背就不會」的內容來看待。",
     "contextSpan": "句內"
@@ -9103,7 +9103,7 @@
     "discrimination": 17,
     "contextSpan": "跨句",
     "contextNote": "above all 用來把本句排在前面數句所列優點之上",
-    "note": "答對率 38%，鑑別度只有 17。【你可能會這樣想】above 在你腦中是「在…上方」的空間介系詞（above the clouds），above all 這個片語則常被誤讀成「在全部之上」而不知如何運用。它其實是一個表示「最重要的是」的轉承語，用來從前面列舉的若干項目中，把最關鍵的那一項推到最前面。【先講清楚：above all 是固定片語，不能拆開理解】這一格考的不是介系詞 above 的用法，而是 above all 這個「整組」的片語。它的意思是「最重要的是、尤其是」，功能是轉承語，用來從前面列舉的若干項目中把最關鍵的那一項標示出來。你如果試著從字面拆成 above（在…之上）＋ all（全部）去推敲，反而容易卡住——固定片語就是要整組背，字面拆解幫不上忙。【把 all 的片語整組一起記】這一族的固定片語在考試中反覆出現，一次記齊最有效率：above all（最重要的是）、first of all（首先）、after all（畢竟、終究）、all in all（總的來說）、in all（總共）、at all（完全，多用於否定句：not at all）、all of a sudden（突然）。這幾個片語的共同點是都以 all 為核心，但意思彼此無關，只能靠整組記憶與例句累積。【線索在前面數句】這一格必須回頭看前文才判斷得出來，屬於跨句題。本段前面已經列了盧安達的種種好處：治安改善、風景、And being a tiny country, everything in Rwanda is reachable in a few hours and the interesting spots can be explored comfortably in a couple of weeks.（國土小，幾小時就能到達任何地方，兩週就能悠閒逛完景點）。本句以 But ___ 起頭，接著說 Rwanda is a symbol of the triumph of the human spirit over evil.（盧安達是人類精神戰勝邪惡的象徵）——這是分量最重的一點，所以用 above all 把它抬到所有優點之上。【判斷方法】看到 But 或 However 之後還跟著一個空格，先想這是不是「壓軸」的訊號；再回頭數一數前面列了幾項，若已經列了好幾項，答案通常就是 above all、most importantly 這類把重點往上推的詞。【干擾選項】worst of all 是「最糟的是」，語氣負面，與後面的正面陳述矛盾；for that matter 是「就此而言、其實」，用來補充一個相關的說法；at most 是「至多、頂多」，用於數量。三者都無法表達「最重要的是」。【常考搭配】above all（最重要的是）、first of all（首先）、after all（畢竟）、all in all（總的來說）、most importantly、the triumph of A over B（A 戰勝 B）。"
+    "note": "答對率 38%。【你可能會這樣想】above 你大概只當它是「在…上方」，所以看到 above all 不知怎麼用。它是一個固定片語，意思是「最重要的是」，用來把最關鍵的那一項從前面列的東西裡挑出來——拆成 above ＋ all 去推反而會卡住。【怎麼判斷】前面已經列了盧安達的好處：治安、風景、國土小到幾小時就能到處跑。本句用 But ___ 起頭，接著說它是「人類精神戰勝邪惡的象徵」——這是分量最重的一點，所以要用 above all 把它抬到所有優點之上。看到 But 後面跟著空格、前面又列了好幾項，先想 above all 這一類把重點往上推的詞。【把 all 的片語一次記齊】above all（最重要的是）、first of all（首先）、after all（畢竟）、all in all（總的來說）、in all（總共）、at all（完全，用於否定）、all of a sudden（突然）。意思彼此無關，只能整組背。【干擾選項】worst of all（最糟的是）語氣負面；for that matter（就此而言）是補充；at most（至多）用於數量。【常考搭配】above all、first of all、after all、all in all、at all。"
   },
   {
     "id": "G96_30_3",
@@ -9120,7 +9120,7 @@
     "answer": "A",
     "explanation": "survive 是及物動詞，直接接所經歷的災難，survive the mass killing 意為「從大屠殺中存活下來」；recover 需要接 from，transformed（轉變）、endangered（危及）語意也不合。",
     "accuracyRate": 27,
-    "note": "答對率 27%。【你可能會這樣想】survive 你記的大概是「生存、活下來」，而且直覺以為它是不及物動詞，要說「從某場災難中活下來」就寫成 survive from the disaster——這是最常見的錯誤。survive 是及物動詞，後面直接接那場災難，不加任何介系詞。【字義依據】劍橋詞典的例句 The front passengers were lucky to survive the accident.（前座乘客能在車禍中生還算是幸運）、Only two buildings survived the earthquake.（只有兩棟建築在地震中留存下來）；牛津詞典的用法標示也直接寫成 survive something。本句 Rwanda has survived the mass killing 就是「盧安達挺過了那場大屠殺」。【與 recover 對照著記】真正需要 from 的是 recover——recover from an illness（從疾病中康復）、recover from the shock。兩個字都在講「劫後」，但一個及物、一個要接 from，這組對比是本題的核心。順帶一提，recover 若當及物動詞，意思會變成「尋回、取回」（recover the stolen goods），與本句語意不合。【文內線索】句首 Though it was once known to the world for the 1994 tribal conflict that resulted in about one million deaths 是讓步子句，先講最黑暗的過去；下一句 Now it is healing and prospering and greets visitors with open arms（如今正在復原、繁榮，張開雙臂歡迎旅客）則是最直接的印證——挺過來了，才談得上復原與繁榮。【常考搭配】survive the war／accident／earthquake（及物，不加介系詞）、survive on（靠…維生）、recover from（從…康復）、be survived by（遺有…在世）。",
+    "note": "答對率 27%。【你可能會這樣想】survive 你大概認定它是不及物動詞，要說「從災難中活下來」就寫成 survive from——這是最常見的錯誤。它是及物動詞，後面直接接那場災難，不加介系詞：The front passengers were lucky to survive the accident.（前座乘客能在車禍中生還算是幸運）。【與 recover 對照著記】真正需要 from 的是 recover：recover from an illness（從疾病中康復）。兩個字都在講「劫後」，一個及物、一個接 from。【文內線索】句首 Though it was once known… for the 1994 tribal conflict（雖然曾以一九九四年的部族衝突聞名）是讓步；下一句 Now it is healing and prospering（如今正在復原、繁榮）是最直接的印證——挺過來了才談得上復原。【常考搭配】survive the war／accident（及物）、survive on、recover from、be survived by。",
     "discrimination": 20,
     "contextSpan": "句內"
   },
