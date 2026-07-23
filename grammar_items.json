@@ -4,7 +4,7 @@
     "year": "83年",
     "passageId": "83_1",
     "blankNum": 11,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "have had",
       "B": "had",
@@ -34,7 +34,7 @@
     "year": "83年",
     "passageId": "83_1",
     "blankNum": 13,
-    "category": "助動詞",
+    "category": "句型結構",
     "options": {
       "A": "would",
       "B": "could",
@@ -169,7 +169,7 @@
     "year": "83年",
     "passageId": "83_2",
     "blankNum": 22,
-    "category": "主詞與動詞一致",
+    "category": "句型結構",
     "options": {
       "A": "have",
       "B": "having",
@@ -739,7 +739,7 @@
     "year": "85年",
     "passageId": "85_1",
     "blankNum": 30,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "needed",
       "B": "need",
@@ -1039,7 +1039,7 @@
     "year": "87年",
     "passageId": "87_1",
     "blankNum": 30,
-    "category": "倒裝句",
+    "category": "句型結構",
     "options": {
       "A": "lay",
       "B": "laid",
@@ -1099,7 +1099,7 @@
     "year": "87年",
     "passageId": "87_2",
     "blankNum": 34,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "has been decreasing",
       "B": "was decreasing",
@@ -1174,7 +1174,7 @@
     "year": "87年",
     "passageId": "87_2",
     "blankNum": 39,
-    "category": "文法（虛主詞/there be句型）",
+    "category": "句型結構",
     "options": {
       "A": "It",
       "B": "There",
@@ -1219,7 +1219,7 @@
     "year": "88年",
     "passageId": "88_1",
     "blankNum": 17,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "happens",
       "B": "is happening",
@@ -1264,7 +1264,7 @@
     "year": "88年",
     "passageId": "88_1",
     "blankNum": 20,
-    "category": "助動詞",
+    "category": "句型結構",
     "options": {
       "A": "could",
       "B": "do",
@@ -1608,7 +1608,8 @@
     "accuracyRate": 14,
     "note": "這題答錯的學生大多不是不會 indulge in，而是誤解了 attend to——很多人看到 attend 這個字根就直接聯想到「參加」（attend the party），沒注意到後面多了 to，一整組 attend to 其實是「處理、照顧」的意思（跟 deal with 同義），詞性也不同（attend 是及物動詞「參加」，attend to 是片語動詞「處理」）。這種「看到熟悉的字根就自動腦補意思」的誤讀，才是這題答對率只有14%的真正原因。\n選項 B 的 dwell in 也容易混淆——dwell in 是「居住於」（字面意義，跟 live in 同義），跟大家更常聽到的 dwell on/upon（一直想著、耿耿於懷，例如 don't dwell on the past）是不同的片語，一個講「住在哪裡」，一個講「心裡一直想著什麼」，千萬不要因為看到 dwell 就直接聯想到「思考、沉溺」。\n常考搭配：indulge in + 活動/嗜好（沉溺於…）；attend to + 事務（處理…，不是「參加…」）；dwell on + 話題/念頭（一直想著…，不是 dwell in）。",
     "discrimination": -1,
-    "discriminationNote": "鑑別度僅-1，非常接近0，加上本題答對率只有14%屬於難度極高的題目——大考中心官方說明本來就指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象，這題比較像是全體考生（不分程度）都容易被 attend to 這個陷阱誤導，而非題目設計本身有嚴重瑕疵。"
+    "discriminationNote": "鑑別度僅-1，非常接近0，加上本題答對率只有14%屬於難度極高的題目——大考中心官方說明本來就指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象，這題比較像是全體考生（不分程度）都容易被 attend to 這個陷阱誤導，而非題目設計本身有嚴重瑕疵。",
+    "contextSpan": "句內"
   },
   {
     "id": "G95_18_1",
@@ -1642,7 +1643,8 @@
     "answer": "D",
     "explanation": "【句型】make ends meet 固定片語「使收支平衡/勉強維持生計」；catch up（趕上）、get my way（為所欲為）、keep in touch（保持聯絡）都不合。",
     "accuracyRate": 35,
-    "discrimination": 48
+    "discrimination": 48,
+    "contextSpan": "句內"
   },
   {
     "id": "G95_20_1",
@@ -1846,7 +1848,8 @@
     "answer": "D",
     "explanation": "現在分詞片語 feeling，補充說明狗狗回家時的狀態「感覺被寵愛且放鬆」；will feel（未來式，不合這個補充說明的分詞結構）、to feel（不定式）、have felt（現在完成式）都不合。",
     "accuracyRate": 38,
-    "discrimination": 37
+    "discrimination": 37,
+    "contextSpan": "句內"
   },
   {
     "id": "G96_17_1",
@@ -1864,7 +1867,8 @@
     "explanation": "【句型】be followed by 固定搭配「接著是」，表示「他們的放鬆沐浴後面接著是……」；counted on（依賴）、turned into（變成）、started with（以……開始，方向不合，應該是「接著」不是「開始」）都不合。",
     "accuracyRate": 27,
     "note": "be followed by 是固定搭配，意思是「接著是」，用來描述動作/事件的先後順序。容易跟 started with（以…開始）混淆，兩者都跟「順序」有關但方向相反——followed by 是「之後接著」，started with 是「一開始就是」，這裡的沐浴應該是先發生的事，後面才接吹乾梳理。\n常考搭配：A be followed by B（A之後接著是B）。",
-    "discrimination": 21
+    "discrimination": 21,
+    "contextSpan": "句內"
   },
   {
     "id": "G96_18_1",
@@ -1933,7 +1937,8 @@
     "explanation": "【句型】the rate at which 固定搭配「以……的速率」（描述關係子句結構）；by／in／of 都不是這裡rate常見的搭配介詞。",
     "accuracyRate": 15,
     "note": "the rate at which 是固定搭配，rate 後面接關係代名詞子句時習慣用 at which，表示「以…的速率」。學生容易忽略 rate 這個名詞本身固定搭配的介系詞是 at，而直覺選擇語意上看似合理的 by/of。\n常考搭配：the rate at which SV（…的速率）。",
-    "discrimination": 17
+    "discrimination": 17,
+    "contextSpan": "句內"
   },
   {
     "id": "G96_22_2",
@@ -1984,7 +1989,9 @@
     "answer": "C",
     "explanation": "前文提到印度板塊「向北推擠」，northward（向北的）呼應這個方向；wayward（任性的）、downward（向下的）、outward（向外的）都不合。",
     "accuracyRate": 35,
-    "discrimination": 17
+    "discrimination": 17,
+    "contextSpan": "跨句",
+    "contextNote": "移動方向 northward 寫在前段 as it pushes northward against the Himalayas"
   },
   {
     "id": "G96_25_2",
@@ -2025,7 +2032,7 @@
     "year": "97年",
     "passageId": "97_1",
     "blankNum": 16,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "would use",
       "B": "are using",
@@ -2144,7 +2151,7 @@
     "year": "97年",
     "passageId": "97_2",
     "blankNum": 23,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "had",
       "B": "had had",
@@ -2240,7 +2247,8 @@
     "explanation": "語意「它們都成功地『躲過』了戰後重建的破壞」，escaped（躲過/逃過）符合這種「倖免於難」的語境；featured（以……為特色）、defended（防禦，不太符合這種被動躲避的語境）、inspired（啟發）都不合。",
     "accuracyRate": 34,
     "note": "escaped 意思是「躲過、逃過」，這裡指建築物「躲過」戰後重建的破壞而得以保存，是描述「倖免於難」的常見用字。容易跟 defended（防禦，語氣較主動，不合「被動倖免」的語境）搞混，這題需要抓住「這些建築物本身是被動地逃過一劫」而非「主動防禦」的邏輯。\n常考搭配：escape + 破壞/災難（躲過…的破壞）。",
-    "discrimination": 40
+    "discrimination": 40,
+    "contextSpan": "句內"
   },
   {
     "id": "G97_29_3",
@@ -2308,14 +2316,15 @@
     "answer": "B",
     "explanation": "【句型】an idea occurred to sb 固定搭配「某人突然想到一個點子」；threw at（丟向）、looked down upon（看不起）、came up with（某人想出主意，但這個搭配是「人 came up with 主意」，跟這裡「主意」是主詞的結構主客體相反）都不合。",
     "accuracyRate": 36,
-    "discrimination": 32
+    "discrimination": 32,
+    "contextSpan": "句內"
   },
   {
     "id": "G98_18_1",
     "year": "98年",
     "passageId": "98_1",
     "blankNum": 18,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "is",
       "B": "was",
@@ -2445,7 +2454,8 @@
     "explanation": "語意「這種疾病經常困擾長途航行的水手」，bothered（困擾）符合；contacted（聯繫，疾病不會「聯繫」水手）、suffered（受苦，通常是人「suffered from疾病」，這裡主客體會顛倒）、wounded（使受傷，通常指外傷不是疾病）都不合。",
     "accuracyRate": 28,
     "note": "bothered 意思是「困擾」，這裡疾病是主詞，bothered sailors 表示「疾病困擾了水手」。容易跟 suffered（受苦，通常是「人 suffer from 疾病」，主客體順序相反）搞混，這題陷阱在於句子的主詞是疾病不是人，選項要能配合這個主客關係。\n常考搭配：A disease bothers/afflicts + 人（疾病困擾某人）。",
-    "discrimination": 36
+    "discrimination": 36,
+    "contextSpan": "句內"
   },
   {
     "id": "G98_26_3",
@@ -2463,7 +2473,8 @@
     "explanation": "語意「把不同身障群體聚在一起『進行』運動競賽的想法誕生了」，for（為了/用於）符合這個目的語境；with／as／on 都不合。",
     "accuracyRate": 26,
     "note": "for 在這裡表示目的，「為了…而聚集不同身障群體」，介系詞 for 常用來表達行為的目的/用途。容易跟 with（跟…一起，較偏「伴隨」而非「目的」）搞混，需要抓住句子的核心語意是「為了辦運動賽事」而非單純「伴隨」。\n常考搭配：put together A for B（把A聚集起來是為了B）。",
-    "discrimination": 10
+    "discrimination": 10,
+    "contextSpan": "句內"
   },
   {
     "id": "G98_27_3",
@@ -2566,7 +2577,9 @@
     "explanation": "informed 在此作形容詞，指「消息靈通的、掌握充足資訊而能做出明智決定的」，informed consumers 即「精明、懂得做功課的消費者」；informative（意為「提供豐富資訊的」，通常用來修飾事物如an informative book，而非形容消費者本身）、informal（非正式的）、informational（資訊性的）都不合。",
     "accuracyRate": 15,
     "note": "informed 當形容詞用，指「消息靈通的、掌握充分資訊的」，常見搭配 informed consumers/decision。容易跟字形很像的 informative（形容事物「提供豐富資訊的」，如 an informative book）搞混——關鍵差異是 informed 形容「人」，informative 形容「事物」。\n常考搭配：informed consumers/decision（消息靈通的消費者／決定）。",
-    "discrimination": 0
+    "discrimination": 0,
+    "contextSpan": "跨句",
+    "contextNote": "下一句 There isn't a brand or a trend that these young people are not aware of，aware 與 informed 正反同義"
   },
   {
     "id": "G99_18_1",
@@ -2668,7 +2681,8 @@
     "answer": "D",
     "explanation": "【句型】make it + adj + for sb/sth to V 固定虛受詞句型，it 代替後面的 to bruise（使它們更容易碰傷）；such／much／that 都不能這樣作虛受詞使用。",
     "accuracyRate": 39,
-    "discrimination": 34
+    "discrimination": 34,
+    "contextSpan": "句內"
   },
   {
     "id": "G99_24_2",
@@ -2754,7 +2768,8 @@
     "explanation": "因果關係：「由於關於儲存和運送的資訊並非總是能讓消費者取得，所以瓶裝水可能不是更好的選擇」，Since（由於）符合這個因果邏輯；Although（雖然，轉折）、Despite（儘管，且後面通常接名詞不接完整子句）、So（所以，通常放在結果句前不放在原因子句前）都不合。",
     "accuracyRate": 34,
     "note": "Since 在這裡表示「由於」，引導原因子句，Since...not always readily available..., bottled water may not be...（由於資訊不易取得，所以瓶裝水可能不是更好選擇），是因果邏輯的常見連接詞。容易跟 Although（雖然，轉折邏輯而非因果）、Despite（儘管，且後面通常接名詞不接完整子句）搞混，這題陷阱在於要判斷前後句是因果關係還是轉折關係。\n常考重點：Since + 原因子句, 結果子句（由於…，所以…）。",
-    "discrimination": 36
+    "discrimination": 36,
+    "contextSpan": "句內"
   },
   {
     "id": "G99_29_3",
@@ -3082,7 +3097,8 @@
     "answer": "D",
     "explanation": "關係代名詞 which，「some of which」是固定用法，代替前面的islands（其中一些）；them（不是關係代名詞，不能這樣接在of後面）、that（不能接在介系詞of後面這樣使用）、those（指示代名詞，不是關係代名詞）都不合。",
     "accuracyRate": 38,
-    "discrimination": 50
+    "discrimination": 50,
+    "contextSpan": "句內"
   },
   {
     "id": "G101_18_1",
@@ -3242,7 +3258,7 @@
     "year": "101年",
     "passageId": "101_3",
     "blankNum": 27,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "is",
       "B": "has been",
@@ -3339,7 +3355,9 @@
     "accuracyRate": 17,
     "note": "at 的核心概念是標出一個「點」——可以是時間點（at midnight／at noon），也可以是反應/情緒被觸發的那個瞬間（at the thought of...一想到…就…、love at first sight一見鍾情）。這裡的 at this 就是同樣的邏輯：this 指前面的話語，at this 標出「聽到這話的那一刻」，所以整體意思是「聽到這話、見此情形」。容易被 By（藉由）、For（因為）干擾，因為表面上看似都能接代名詞this，但只有 at 能表達「反應的觸發點」這個瞬間感，By/For 都是講「方式」或「原因」，語意方向不同。\n常考搭配：At this, sb + 動詞（聽到這話，某人就…）；at midnight/noon（在深夜/正午這個時間點）；at the thought of...（一想到…）；at first sight（乍見之下）。",
     "discrimination": -20,
-    "discriminationNote": "鑑別度-20，數值明顯偏負，值得留意。推測原因是選項 By 對熟悉「by+推理」用法的高分群考生可能更有吸引力（誤以為 by this 也能表達「依此而言」），導致部分高分群反而選錯；低分群考生單純猜測命中正解的機率則相對持平，兩相抵銷之下就出現負鑑別度。"
+    "discriminationNote": "鑑別度-20，數值明顯偏負，值得留意。推測原因是選項 By 對熟悉「by+推理」用法的高分群考生可能更有吸引力（誤以為 by this 也能表達「依此而言」），導致部分高分群反而選錯；低分群考生單純猜測命中正解的機率則相對持平，兩相抵銷之下就出現負鑑別度。",
+    "contextSpan": "跨句",
+    "contextNote": "this 指前一句旅人所說的話"
   },
   {
     "id": "G103_18_1",
@@ -3714,7 +3732,8 @@
     "explanation": "was being 表示在測驗當下「正處於」誠實的狀態，強調測驗那個當下的判定；would be（條件式）、was to be（表計畫/命運的過去式）、would have been（過去完成條件式）都不合這個「當下狀態」的語境。",
     "accuracyRate": 26,
     "note": "was being 表示「當下正處於（誠實的）狀態」，強調測驗那個時間點的判定過程，是進行式表「當下狀態」的用法。容易跟 would be（條件式，暗示假設情境而非實際判定過程）混淆，這裡沒有假設語氣，是在描述測驗當下實際發生的判定。\n常考重點：was being + 形容詞，強調「當下正處於某狀態」。",
-    "discrimination": 20
+    "discrimination": 20,
+    "contextSpan": "句內"
   },
   {
     "id": "G105_25_2",
@@ -3738,7 +3757,7 @@
     "year": "105年",
     "passageId": "105_3",
     "blankNum": 26,
-    "category": "文法（虛主詞/there be句型）",
+    "category": "句型結構",
     "options": {
       "A": "them",
       "B": "such",
@@ -3817,7 +3836,8 @@
     "explanation": "【句型】driving force 固定搭配「驅動力/推動力」；pulling（拉）、riding（騎）、bringing（帶來）都不合。",
     "accuracyRate": 30,
     "note": "driving force 是固定搭配，意思是「驅動力、推動力」，常用來描述某因素是趨勢/現象背後的主要動力。容易跟 pulling（拉）搞混，因為 driving 和 pulling 都跟「移動」有關的動詞，但只有 driving force 是英文中真正的固定搭配。\n常考搭配：a driving force for/behind + 現象（…的驅動力）。",
-    "discrimination": 31
+    "discrimination": 31,
+    "contextSpan": "句內"
   },
   {
     "id": "G106_16_1",
@@ -3903,7 +3923,8 @@
     "explanation": "【句型】press against 固定搭配「按壓在……上」，表示把溫毛巾按壓在眼皮上；among（在……之中）、about（關於）、after（之後）都不合。",
     "accuracyRate": 28,
     "note": "press against 是固定搭配，意思是「按壓在…上」，against 表示「貼靠、抵住」的方向感。容易跟 among（在…之中，用於三者以上的群體）搞混，這兩個介系詞外型都不長但語意功能完全不同。\n常考搭配：press A against B（把A按壓在B上）。",
-    "discrimination": 29
+    "discrimination": 29,
+    "contextSpan": "句內"
   },
   {
     "id": "G106_21_2",
@@ -3921,7 +3942,8 @@
     "explanation": "【句型】let alone 固定搭配「更不用說」，表示「窮困地區的人連鞋子都不一定買得到，更不用說合腳的鞋子了」；except for（除了）、provided with（被提供）、far from（遠非）都不合。",
     "accuracyRate": 24,
     "note": "let alone 是固定片語，意思是「更不用說」，用於加強語氣：連基本的都不一定有了，更別提更進階的要求。容易跟 except for（除了）搞混，兩者句型結構有點像，但 let alone 專門用在「連A都沒有，B就更不用說」的遞進語氣。\n常考搭配：連A都沒有，let alone B（更不用說B）。",
-    "discrimination": 41
+    "discrimination": 41,
+    "contextSpan": "句內"
   },
   {
     "id": "G106_22_2",
@@ -3939,7 +3961,8 @@
     "explanation": "【句型】make do with 固定搭配「將就使用」；get done（完成）、get lost（迷路）、make believe（假裝）都不合。",
     "accuracyRate": 21,
     "note": "make do with 是固定片語，意思是「將就使用、湊合著用」，常用於資源不足時的妥協情境。容易跟 get done（完成）搞混，兩者字形都含 do，但 make do with 是固定片語整體才有「將就」的意思，不能拆開理解。\n常考搭配：make do with + 不夠理想的東西（將就使用…）。",
-    "discrimination": 9
+    "discrimination": 9,
+    "contextSpan": "句內"
   },
   {
     "id": "G106_23_2",
@@ -4025,7 +4048,9 @@
     "explanation": "語意「這些信念與天氣對工作表現的實際影響之間存在顯著的『落差』」，gap（落差/差距）符合，暗示人們的信念跟實際情況不一致；link（連結，語意相反）、clue（線索）、ratio（比率）都不合。",
     "accuracyRate": 28,
     "note": "gap 意思是「落差、差距」，這裡指「信念與實際情況之間的落差」，是描述認知與現實不一致的常見用字。容易跟 link（連結，語意方向相反——句子強調的是「不一致」不是「有關聯」）搞混，是語意方向相反型的陷阱。\n常考搭配：a gap between A and B（A與B之間的落差）。",
-    "discrimination": 25
+    "discrimination": 25,
+    "contextSpan": "跨句",
+    "contextNote": "however 與 such beliefs 都指向前一句 many people believe that bad weather can reduce productivity；gap 與 link 之爭全靠這個對比決定"
   },
   {
     "id": "G106_28_3",
@@ -4042,7 +4067,8 @@
     "answer": "B",
     "explanation": "【句型】as well as 固定搭配「以及/同樣」，表示「使用實驗室實驗的經驗數據，以及對一家日本中型銀行的觀察數據」；out of（從……中）、in case of（萬一）、due to（由於）都不合。",
     "accuracyRate": 36,
-    "discrimination": 17
+    "discrimination": 17,
+    "contextSpan": "句內"
   },
   {
     "id": "G106_29_3",
@@ -4111,7 +4137,9 @@
     "explanation": "過去式 continued，配合整段過去式敘事，「許多人繼續在四月一日慶祝新年」；continue（原形動詞，不合過去式敘事）、continuing（現在分詞，不能單獨作主要動詞）、to continue（不定式，句子需要限定動詞）都不合。",
     "accuracyRate": 29,
     "note": "continued 是過去式，配合整段過去式敘事語境（許多人「繼續」在四月一日慶祝新年）。容易跟 continue（原形動詞，不合過去式語境）、continuing（現在分詞，不能單獨作主要動詞）搞混，這是分詞/動狀詞 vs. 限定動詞的常見考點。\n常考重點：主要動詞需配合全文時態（此篇為過去式敘事）。",
-    "discrimination": 25
+    "discrimination": 25,
+    "contextSpan": "跨句",
+    "contextNote": "選 continued 而非 continue 的時態依據在前一句 In 1582, Pope Gregory XIII ordered a new calendar；本句自身沒有任何時間標記"
   },
   {
     "id": "G108_18_1",
@@ -4146,7 +4174,8 @@
     "explanation": "【句型】go to great lengths 固定搭配「不遺餘力/煞費苦心」；come to an end（結束）、put in service（投入使用）、hold in store（儲存/準備）都不合。",
     "accuracyRate": 32,
     "note": "go to great lengths 是固定片語，意思是「不遺餘力、煞費苦心」，常搭配 to + 原形動詞使用，描述為達目的而付出極大努力。容易跟 come to an end（結束）搞混，兩者都是「go/come to」開頭的片語，外型相似但語意完全不同。\n常考搭配：go to great lengths to + V（煞費苦心去做…）。",
-    "discrimination": 9
+    "discrimination": 9,
+    "contextSpan": "句內"
   },
   {
     "id": "G108_20_1",
@@ -4282,7 +4311,8 @@
     "answer": "B",
     "explanation": "that 代替前面的 the size（避免重複），that of their hand＝「他們手的大小」；this（指較近的事物，不適合這裡代替前面提到的名詞）、some（一些）、other（其他的）都不合。",
     "accuracyRate": 35,
-    "discrimination": 38
+    "discrimination": 38,
+    "contextSpan": "句內"
   },
   {
     "id": "G108_28_3",
@@ -4333,7 +4363,8 @@
     "answer": "B",
     "explanation": "語意「這個裝置可以被設定來『釋放』某人最愛的味道」，release（釋放）符合香氣瓶噴發氣味的功能；impress（給人印象）、bother（打擾）、attract（吸引，不太合「釋放氣味」這個具體動作）都不合。",
     "accuracyRate": 36,
-    "discrimination": 32
+    "discrimination": 32,
+    "contextSpan": "句內"
   },
   {
     "id": "G109_16_1",
@@ -4384,7 +4415,8 @@
     "answer": "C",
     "explanation": "【句型】cope with 固定片語「應對/處理」，表示幫助她們應對癌症治療後掉髮的問題；carry away（帶走）、build on（以……為基礎）、get off（下車/離開）都不合。",
     "accuracyRate": 37,
-    "discrimination": 33
+    "discrimination": 33,
+    "contextSpan": "句內"
   },
   {
     "id": "G109_19_1",
@@ -4402,7 +4434,8 @@
     "explanation": "otherwise（否則）暗示「如果沒有henna crown這個替代方案的話」，癌症患者原本會用帽子和假髮遮蓋頭部，符合這種假設性對照；moreover（此外）、altogether（總共）、namely（即）都不合。",
     "accuracyRate": 16,
     "note": "otherwise 意思是「否則、不然的話」，這裡用來對照「如果沒有這個替代方案，原本會怎樣」的假設情境，是轉折/對照類轉承語常考重點。容易跟 moreover（此外，用於補充）、namely（即，用於舉例說明）混淆，這幾個字都是常見轉承語但邏輯功能不同。\n常考搭配：otherwise + 動詞（否則就會…）。",
-    "discrimination": 2
+    "discrimination": 2,
+    "contextSpan": "句內"
   },
   {
     "id": "G109_20_1",
@@ -4590,7 +4623,8 @@
     "explanation": "【句型】break down 固定片語「分解/簡化」，表示「這個概念把一個複雜的憂鬱議題簡化成簡單易懂的東西」；mixes up（混淆）、tears off（撕下）、results in（導致）都不合。",
     "accuracyRate": 20,
     "note": "break down 在這裡是「簡化、分解」的意思（把複雜概念拆解成簡單易懂的東西），跟 break down 常見的「故障、崩潰」意思不同，是一詞多義的陷阱。容易跟 results in（導致，語意方向不合，句子不是在講「造成」而是「簡化」這個動作本身）混淆。\n常考搭配：break down + 複雜概念（把…簡化）。",
-    "discrimination": 11
+    "discrimination": 11,
+    "contextSpan": "句內"
   },
   {
     "id": "G110_16_1",
@@ -4608,7 +4642,8 @@
     "explanation": "語意「沒有遇到牠們，（拜訪歐洲城市）就不會是同樣的體驗」，without（沒有）符合這種假設性條件；as（當……時候）、for（因為）、though（雖然）都不合。",
     "accuracyRate": 26,
     "note": "without 在這裡表示「沒有」，就不會是同樣的體驗（a visit...would not be the same without encountering them），是假設性條件的常見寫法。容易跟 though（雖然，轉折）混淆，因為句子語氣有對比意味，但這裡是「缺少某條件」而非單純的轉折讓步。\n常考搭配：would not be the same without + N/V-ing（沒有…就不會一樣）。",
-    "discrimination": 31
+    "discrimination": 31,
+    "contextSpan": "句內"
   },
   {
     "id": "G110_17_1",
@@ -4626,7 +4661,8 @@
     "explanation": "【句型】take over 固定片語「佔據/接管」，表示鴿子威脅要「佔據」歷史中心；set up（建立）、hang on（堅持）、break down（故障）都不合。",
     "accuracyRate": 31,
     "note": "take over 是固定片語，意思是「佔據、接管」，常用於描述某群體/勢力逐漸掌控某地區的語境。容易跟 set up（建立）搞混，兩者都可能出現在「城市」相關的句子裡，但 take over 強調「強勢佔據」的負面語氣，跟句子裡鴿子造成困擾的語境相符。\n常考搭配：take over + 地點（佔據/接管…）。",
-    "discrimination": 18
+    "discrimination": 18,
+    "contextSpan": "句內"
   },
   {
     "id": "G110_18_1",
@@ -4752,7 +4788,7 @@
     "year": "110年",
     "passageId": "110_2",
     "blankNum": 25,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "was",
       "B": "had been",
@@ -4768,7 +4804,8 @@
     },
     "accuracyRate": 30,
     "note": "would have been 是第三型假設語氣（與過去事實相反）的固定句型，表示「當初應該已經足夠了（但事實並非如此）」。容易跟 was（直述句過去式，不合假設語氣）搞混，這題陷阱在於前面的 If he was 已經暗示這是假設語氣的From子句，後面主要子句要對應用 would have + p.p.。\n常考重點：If S + 過去式..., S + would have + p.p.（第三型假設語氣，注意這裡是簡化版without if的倒裝或省略結構，需配合上下文判斷）。",
-    "discrimination": 26
+    "discrimination": 26,
+    "contextSpan": "句內"
   },
   {
     "id": "G110_26_3",
@@ -4786,7 +4823,8 @@
     "explanation": "【句型】home to 固定搭配「……的所在地/棲息地」，表示這些山脈也是冰川和冰原的所在地；covers of（封面）、roofs over（屋頂）、room for（……的空間）都不合。",
     "accuracyRate": 28,
     "note": "home to 是固定搭配，意思是「…的所在地、棲息地」，常用於描述某地區是特定物種/文化的發源地。容易跟 covers of（封面）、roofs over（屋頂）這類看似合理但其實不是英文常見搭配的選項混淆，這題屬於「假搭配詞」陷阱，需要熟悉真正的固定用法。\n常考搭配：be home to + 物種/文化（是…的所在地）。",
-    "discrimination": 44
+    "discrimination": 44,
+    "contextSpan": "句內"
   },
   {
     "id": "G110_27_3",
@@ -4837,7 +4875,9 @@
     "answer": "A",
     "explanation": "語意「冰川的消失也會留下重大的『文化』衝擊」，cultural（文化的）符合，呼應後文「冰川對當地原住民而言是神聖的象徵」；moral（道德的）、political（政治的）、environmental（環境的，前面已經講過環境衝擊，這裡明確講的是文化意義）都不合。",
     "accuracyRate": 35,
-    "discrimination": 34
+    "discrimination": 34,
+    "contextSpan": "跨句",
+    "contextNote": "下一句 the ice sheets represent a sacred symbol 才排除直覺的 environmental"
   },
   {
     "id": "G110_30_3",
@@ -4855,7 +4895,8 @@
     "explanation": "【句型】left unchecked 固定搭配「不受控制/放任不管」，表示「如果溫室氣體被放任不管」；kept balanced（語意方向不合，應該是「失控」不是「平衡」）、made released、seen dismissed（都不是標準搭配）都不合。",
     "accuracyRate": 17,
     "note": "left unchecked 是固定搭配，意思是「放任不管、不受控制」，常用於描述問題持續惡化的假設情境（if...are left unchecked）。容易跟 kept balanced（保持平衡，語意方向相反）混淆，考生容易只看到句子語氣負面卻選了正面意涵的字。\n常考搭配：be left unchecked（被放任不管）。",
-    "discrimination": 10
+    "discrimination": 10,
+    "contextSpan": "句內"
   },
   {
     "id": "G110試辦考試_11_1",
@@ -5023,7 +5064,8 @@
     "explanation": "語意「幾乎、但又不完全地碰到鄰近的樹」，but not quite（但又不完全）修飾almost，表示這種「幾乎接觸卻又保持距離」的微妙狀態；in no time（立刻）、by all means（當然/務必）、and pretty much（而且相當，不合這種精確語意）都不合。",
     "accuracyRate": 29,
     "note": "but not quite 是固定片語，修飾前面的 almost，表示「幾乎、但又不完全」的微妙狀態，常用來描述「差一點點就達成」的精確語感。容易跟 and pretty much（而且相當）搞混，兩者都在 almost 後面出現，但只有 but not quite 能表達「幾乎卻又保留一點差距」的語意。\n常考搭配：almost, but not quite（幾乎，但又不完全）。",
-    "discrimination": 25
+    "discrimination": 25,
+    "contextSpan": "句內"
   },
   {
     "id": "G112_12_1",
@@ -5108,7 +5150,8 @@
     "answer": "B",
     "explanation": "【句型】free of 固定搭配「擺脫」，表示火箭能夠「擺脫」地球引力的束縛發射升空；back to（回到）、long before（很久以前）、straight on（直直向前）都不合。",
     "accuracyRate": 38,
-    "discrimination": 62
+    "discrimination": 62,
+    "contextSpan": "句內"
   },
   {
     "id": "G112_17_2",
@@ -5132,7 +5175,7 @@
     "year": "112年",
     "passageId": "112_2",
     "blankNum": 18,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "redistribute",
       "B": "redistributed",
@@ -5143,7 +5186,8 @@
     "explanation": "主要子句需要限定動詞作句子的主要動詞，redistribute 是原形動詞（現在式，描述通則現象），our body fluids redistribute（我們的體液重新分佈）；redistributed（過去式，不合現在式描述通則的語境）、redistributing（現在分詞，不能單獨作主要動詞）、being redistributed（被動進行式，同樣不能單獨作主要動詞）都不合。",
     "accuracyRate": 22,
     "note": "這題考的是主詞動詞一致與時態，our body fluids 是複數主詞，句子需要限定動詞（現在式描述通則現象）作主要動詞，所以選原形 redistribute。容易被 redistributing、being redistributed 這類分詞形式干擾——分詞不能單獨當句子的主要動詞，這是這類「動狀詞 vs. 限定動詞」考點的經典陷阱。\n常考重點：主要子句一定要有限定動詞（不能只用分詞）。",
-    "discrimination": 24
+    "discrimination": 24,
+    "contextSpan": "句內"
   },
   {
     "id": "G112_19_2",
@@ -5178,7 +5222,8 @@
     "explanation": "【句型】accompanied by 固定搭配「伴隨著」，表示這個效應常常「伴隨著」太空暈動症、頭痛和噁心；varied with（隨……而變化）、brought about（被引起）、transferred from（從……轉移）都不合。",
     "accuracyRate": 33,
     "note": "accompanied by 是固定搭配，意思是「伴隨著」，常用來描述某效應/症狀同時伴隨其他症狀出現。容易跟 brought about（被引起，語意方向較偏「因果」而非「伴隨」）搞混，這兩者都可能用被動語態呈現，但邏輯功能不同。\n常考搭配：be accompanied by + 其他症狀/現象（伴隨著…）。",
-    "discrimination": 38
+    "discrimination": 38,
+    "contextSpan": "句內"
   },
   {
     "id": "G91_21_1",
@@ -5196,7 +5241,9 @@
     "explanation": "【句型】seem like 固定搭配「看起來像」，這裡否定式 seems not like any [other] afternoon 表示「看起來不像其他任何一個下午」（暗示這天特別）；unlike（不像，通常作介系詞/形容詞，不這樣接seem）、dislike（討厭，動詞不合）、alike（相似的，通常作表語不接受詞位置）都不合。",
     "accuracyRate": 31,
     "note": "seem like 是固定搭配，意思是「看起來像」，這裡以否定式 seems not like any [other] afternoon 表示「看起來不像其他任何一個下午」，暗示這天特別。容易跟 unlike（不像，通常作介系詞/形容詞使用，不會直接接在seem後面構成這個句型）搞混。\n常考搭配：seem like + 名詞（看起來像…）。",
-    "discrimination": 28
+    "discrimination": 28,
+    "contextSpan": "跨句",
+    "contextNote": "前一句 It is a usual sunny afternoon 是判斷依據"
   },
   {
     "id": "G91_22_1",
@@ -5282,7 +5329,8 @@
     "explanation": "語意「村民開始表達他們的信念」，express（表達）符合；wonder（想知道，不接這種直接受詞）、select（選擇）、ignore（忽略，語意相反）都不合。",
     "accuracyRate": 34,
     "note": "express 意思是「表達」，這裡指村民「表達」他們的信念，是描述想法/感受被說出來的常見用字。容易跟 wonder（想知道，通常接疑問詞子句，不接這種直接受詞形式）搞混，這題需要注意動詞後面接的受詞形式是否合乎該動詞的常見用法。\n常考搭配：express + belief/opinion（表達信念/意見）。",
-    "discrimination": 4
+    "discrimination": 4,
+    "contextSpan": "句內"
   },
   {
     "id": "G91_27_1",
@@ -5334,7 +5382,8 @@
     "explanation": "【句型】what will become of... 固定句型「……的下場會怎樣」；happen／occur／appear 都不能這樣接 of 構成這個固定疑問句型。",
     "accuracyRate": 30,
     "note": "become of 是固定句型 what will become of... 的一部分，意思是「…的下場會怎樣」，常用於表達對某情況未來發展的疑惑/擔憂。容易跟 happen、occur（都是「發生」的意思，但不能像 become 這樣接 of + 受詞構成這個固定疑問句型）搞混。\n常考搭配：what will become of + 人/事（…會有什麼下場）。",
-    "discrimination": 31
+    "discrimination": 31,
+    "contextSpan": "句內"
   },
   {
     "id": "G91_30_1",
@@ -5352,7 +5401,8 @@
     "explanation": "【句型】have yet to 固定搭配「尚未」；not（不能這樣單獨用在have後面構成此意）、till（直到）、though（雖然）都不合。",
     "accuracyRate": 32,
     "note": "have yet to 是固定搭配，意思是「尚未」，常用來表達「到目前為止還沒有發生/完成」的語氣。容易跟 not（不能單獨這樣接在have後面構成「尚未」的意思）搞混，這題陷阱在於 have yet to 整體才是固定用法，不能拆解理解。\n常考搭配：have yet to + V（尚未做…）。",
-    "discrimination": 28
+    "discrimination": 28,
+    "contextSpan": "句內"
   },
   {
     "id": "G91補考_21_1",
@@ -5553,7 +5603,9 @@
     "answer": "D",
     "explanation": "語意「太空人在艙外活動時，尿布『仍然』被使用」，still（仍然）符合，表示改良尿布的解決方案發展出來後至今依然沿用；rather（相當）、almost（幾乎，語意矛盾）、ever（曾經，通常用於疑問/否定句）都不合。",
     "accuracyRate": 35,
-    "discrimination": 9
+    "discrimination": 9,
+    "contextSpan": "跨句",
+    "contextNote": "前面第四句 It was then decided that Alan Shepard should relieve himself in his space suit 才是 still（當年的權宜做法至今沿用）的著落點"
   },
   {
     "id": "G92_24_1",
@@ -5605,7 +5657,8 @@
     "explanation": "【句型】one another 固定用法「彼此」（用於三者以上），指所有動物之間彼此移動交流；another（不能這樣單獨作受詞表達「彼此」）、other（需要接名詞不能單獨這樣用）、the other（通常用於兩者中的另一個）都不合。",
     "accuracyRate": 14,
     "note": "one another 是固定用法，表示「彼此」（三者以上時使用），常見於 move/interact/communicate with one another 這類句型。容易跟 another（需接單數名詞，不能單獨作「彼此」）、other（需接名詞）混淆，這幾個字外型相近但文法功能完全不同。\n常考搭配：V + with one another（互相…）。",
-    "discrimination": 8
+    "discrimination": 8,
+    "contextSpan": "句內"
   },
   {
     "id": "G92_27_2",
@@ -5623,14 +5676,15 @@
     "explanation": "what 引導名詞子句作 became 的主詞，「後來變成南美洲、非洲……的東西」；which／that 都需要明確先行詞，這裡沒有；where 是地方關係副詞不合。",
     "accuracyRate": 23,
     "note": "what 在這裡引導名詞子句，作後面 became 的主詞，表示「後來變成…的東西」，這種先行詞不明確、需要「what=the thing which」的用法是關代考點常見陷阱。容易誤選 which/that，但這兩者都需要有明確的先行詞才能使用，這裡並沒有先行詞可以指代。\n常考重點：what 可視為「the thing that」，用於沒有明確先行詞的情境。",
-    "discrimination": 15
+    "discrimination": 15,
+    "contextSpan": "句內"
   },
   {
     "id": "G92_28_2",
     "year": "92年",
     "passageId": "92_2",
     "blankNum": 28,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "is isolated",
       "B": "had isolated",
@@ -5675,7 +5729,9 @@
     "explanation": "【句型】nowhere else 固定搭配「世界上其他任何地方都沒有」，表示這些動物是澳洲獨有的；somewhere else（語意不合）、everywhere else（語意相反）、anywhere else（通常用於否定句/疑問句中，這裡的直述句需要 nowhere 表達完整否定）都不合。",
     "accuracyRate": 33,
     "note": "nowhere else 是固定搭配，意思是「世界上其他任何地方都沒有」，用來強調某物種是特定地區獨有的（found nowhere else in the world）。容易跟 anywhere else（通常用於否定句/疑問句中，這裡是直述句需要 nowhere 本身表達完整否定）搞混，是雙重否定邏輯的常見陷阱。\n常考搭配：found nowhere else in the world（世界其他地方都找不到）。",
-    "discrimination": 53
+    "discrimination": 53,
+    "contextSpan": "跨句",
+    "contextNote": "As a result 承接前一句 They evolved separately，才知道是「別處都沒有」"
   },
   {
     "id": "G92補考_21_1",
@@ -5842,7 +5898,9 @@
     "answer": "A",
     "explanation": "語意「被選中的男孩」，chosen（被選中的，過去分詞作形容詞）符合後文接著說明他需要具備什麼特質才能被選中；searching（正在搜尋的，語意方向不合）、dead（死的）、previous（先前的）都不合。",
     "accuracyRate": 36,
-    "discrimination": 56
+    "discrimination": 56,
+    "contextSpan": "跨句",
+    "contextNote": "前一句 a search began for his reincarnation 才知道是「被選中的」孩子"
   },
   {
     "id": "G93_17_1",
@@ -5860,7 +5918,9 @@
     "explanation": "語意「其中一項（特質）是能夠辨認出前世遺物的能力」，One（其中一項）承接前文 certain qualities（某些特質）中的一項；It（不特指「其中一項」）、All（全部，這裡只講一項）、This（不太符合「其中之一」的列舉語氣）都不合。",
     "accuracyRate": 32,
     "note": "One 在這裡是代名詞，指「（前述多項特質中的）其中一項」，承接前文提到的 certain qualities（某些特質）。容易跟 It（不特指「其中之一」）、This（不太符合「列舉其中一項」的語氣）搞混，這題屬於代名詞指涉邏輯的考點，需要往前文找出 One 所指代的複數先行詞。\n常考重點：One 用來承接前文複數名詞，表示「其中一項/一個」。",
-    "discrimination": 41
+    "discrimination": 41,
+    "contextSpan": "跨句",
+    "contextNote": "前一句 certain qualities 為複數，才能用 One…；下一句 Another requirement 構成 One–Another 的呼應鏈"
   },
   {
     "id": "G93_18_1",
@@ -5946,7 +6006,8 @@
     "explanation": "語意「消滅瘧疾傳播的最佳希望」，eliminating（消滅）符合；expanding（擴大，語意相反）、deleting（刪除，通常用於文字/資料）、assisting（協助）都不合。",
     "accuracyRate": 32,
     "note": "eliminating 意思是「消滅」，這裡指「消滅瘧疾傳播」的防治行動，常搭配 best hope for + V-ing。容易跟 expanding（擴大，語意方向完全相反）搞混，是語意方向相反型的陷阱，需要抓住句子整體「防治疾病」的正面語境。\n常考搭配：the best hope for eliminating + 疾病/問題（消滅…的最佳希望）。",
-    "discrimination": 25
+    "discrimination": 25,
+    "contextSpan": "句內"
   },
   {
     "id": "G93_23_2",
@@ -5964,7 +6025,8 @@
     "explanation": "【句型】in conjunction with 固定搭配「與……合作/聯合」；In view of（鑑於）、In spite of（儘管）、In case of（萬一）都不合。",
     "accuracyRate": 26,
     "note": "in conjunction with 是固定搭配，意思是「與…合作、聯合」，常用於機構/單位共同執行某計畫的語境。容易跟 In view of（鑑於，表原因）搞混，兩者都是常見的正式片語開頭，但語意功能完全不同（一個講合作對象，一個講原因）。\n常考搭配：in conjunction with + 合作對象。",
-    "discrimination": 27
+    "discrimination": 27,
+    "contextSpan": "句內"
   },
   {
     "id": "G93_24_2",
@@ -5982,7 +6044,8 @@
     "explanation": "語意「分配到國內受影響最嚴重的地區」，affected（受影響的）符合疫情語境；frequent（頻繁的）、effective（有效的）、included（被包含的）都不合。",
     "accuracyRate": 29,
     "note": "affected 當形容詞用，指「受影響的」，the most affected areas 是描述疫情/災害中受創最深地區的常見搭配。容易跟 effective（有效的，字形相近但語意完全不同）搞混，這是拼字相近詞的經典陷阱。\n常考搭配：the most affected areas（受影響最深的地區）。",
-    "discrimination": 37
+    "discrimination": 37,
+    "contextSpan": "句內"
   },
   {
     "id": "G93_25_2",
@@ -6000,7 +6063,8 @@
     "explanation": "句首不定式 To contribute 表目的，修飾整句主句：「為了對這個活動做出貢獻並用五美元拯救三條生命，請將您的捐款寄至……」，是廣告文宣中常見的表目的用法；Contribute（原形動詞）放在句首雖然是祈使句的標準用法，但後半句已經有主要動詞 send（send your donation to...），若選Contribute會變成兩個祈使句缺乏連接詞、句型打架，結構不通；Contributing、For contributing 都不如 To contribute 自然。",
     "accuracyRate": 25,
     "note": "句首 To contribute 是不定詞表目的的用法，修飾整句主要動詞 send，「為了做出貢獻，請寄送捐款」。容易誤選原形動詞 Contribute，因為看起來像祈使句，但後面已經有 send 這個主要動詞，若前面也用原形動詞會變成兩個祈使句黏在一起、缺乏連接詞，文法不通。\n常考搭配：To + 原形動詞, 祈使句（為了做…，請做…）。",
-    "discrimination": 20
+    "discrimination": 20,
+    "contextSpan": "句內"
   },
   {
     "id": "G93_26_3",
@@ -6119,7 +6183,8 @@
     "answer": "A",
     "explanation": "【句型】take pride in 固定片語「以……為榮」，表示「以讓自己與眾不同的特質為榮」；fall short of（不足）、get out of（擺脫）、keep up with（跟上）都不符合這個語境。",
     "accuracyRate": 39,
-    "discrimination": 41
+    "discrimination": 41,
+    "contextSpan": "句內"
   },
   {
     "id": "G94_18_1",
@@ -6170,7 +6235,8 @@
     "answer": "D",
     "explanation": "語意「他父親嗤之以鼻地回應」，reacted（反應）符合，reacted with a scoff＝帶著嘲笑的反應；relieved（感到寬慰的）、relaxed（放鬆的）、relied（依賴，不及物動詞用法且語意不合）都不合。",
     "accuracyRate": 36,
-    "discrimination": 44
+    "discrimination": 44,
+    "contextSpan": "句內"
   },
   {
     "id": "G94_21_2",
@@ -6222,7 +6288,8 @@
     "explanation": "語意「導致想戒菸的吸菸者增加44%」，increase（增加）符合這種成功宣導帶來的正面效果；change（改變，不夠具體）、portion（部分）、drop（下降，語意相反，宣導成功應該是想戒菸的人「增加」）都不合。",
     "accuracyRate": 32,
     "note": "increase 意思是「增加」，這裡指宣導成功後想戒菸人數的增加，呼應前文「非常成功」的正面語境。容易跟 drop（下降，語意方向相反）搞混，這題陷阱在於要抓住「宣導成功」這個正面前提，才能判斷後面應該是「增加」還是「下降」。\n常考搭配：a...% increase in + 名詞（…百分比的增加）。",
-    "discrimination": 24
+    "discrimination": 24,
+    "contextSpan": "句內"
   },
   {
     "id": "G94_24_2",
@@ -6408,7 +6475,7 @@
     "year": "86年",
     "passageId": "86_1",
     "blankNum": 25,
-    "category": "助動詞",
+    "category": "句型結構",
     "options": {
       "A": "can",
       "B": "shall",
@@ -6618,7 +6685,7 @@
     "year": "86年",
     "passageId": "86_3",
     "blankNum": 39,
-    "category": "主詞與動詞一致",
+    "category": "句型結構",
     "options": {
       "A": "is related to",
       "B": "has an impact on",
@@ -6648,7 +6715,7 @@
     "year": "89年",
     "passageId": "89_1",
     "blankNum": 16,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "finish",
       "B": "finished",
@@ -6693,7 +6760,7 @@
     "year": "89年",
     "passageId": "89_1",
     "blankNum": 19,
-    "category": "助動詞",
+    "category": "句型結構",
     "options": {
       "A": "Mustn’t",
       "B": "Needn’t",
@@ -6708,7 +6775,7 @@
     "year": "89年",
     "passageId": "89_1",
     "blankNum": 20,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "told",
       "B": "was told",
@@ -6873,7 +6940,7 @@
     "year": "89年",
     "passageId": "89_3",
     "blankNum": 31,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "It's a small world.",
       "B": "And you?",
@@ -6888,7 +6955,7 @@
     "year": "89年",
     "passageId": "89_3",
     "blankNum": 32,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "I look forward to seeing her again.",
       "B": "What a shame!",
@@ -6903,7 +6970,7 @@
     "year": "89年",
     "passageId": "89_3",
     "blankNum": 33,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "I got no clue.",
       "B": "Well done.",
@@ -6918,7 +6985,7 @@
     "year": "89年",
     "passageId": "89_3",
     "blankNum": 34,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "What have you done?",
       "B": "What would you have done?",
@@ -6933,7 +7000,7 @@
     "year": "89年",
     "passageId": "89_3",
     "blankNum": 35,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "No way.",
       "B": "Sure.",
@@ -6948,7 +7015,7 @@
     "year": "89年",
     "passageId": "89_4",
     "blankNum": 36,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "I would drive them home",
       "B": "I would take them with me",
@@ -6963,7 +7030,7 @@
     "year": "89年",
     "passageId": "89_4",
     "blankNum": 37,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "and the girls were sitting there",
       "B": "and the girls had gone home",
@@ -6993,7 +7060,7 @@
     "year": "89年",
     "passageId": "89_4",
     "blankNum": 39,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "they had seen my car",
       "B": "there was a shop nearby",
@@ -7008,7 +7075,7 @@
     "year": "89年",
     "passageId": "89_4",
     "blankNum": 40,
-    "category": "對話應答邏輯",
+    "category": "語意連貫",
     "options": {
       "A": "were two scared and shivering little girls",
       "B": "were two red-faced and excited children",
@@ -7038,7 +7105,7 @@
     "year": "90年",
     "passageId": "90_1",
     "blankNum": 17,
-    "category": "倒裝句",
+    "category": "句型結構",
     "options": {
       "A": "it",
       "B": "here",
@@ -7443,7 +7510,8 @@
     "explanation": "【句型】in the format of 固定搭配「以……的格式」；for／as／by 都不合。",
     "accuracyRate": 28,
     "note": "in the format of 是固定搭配，意思是「以…的格式」，常用於描述資料/文件的呈現方式。容易跟 by（藉由）搞混，這兩者都是常見介系詞，但只有 in the format of 整體才有「格式」的固定意涵。\n常考搭配：in the format of + 格式描述。",
-    "discrimination": 18
+    "discrimination": 18,
+    "contextSpan": "句內"
   },
   {
     "id": "G102_19_1",
@@ -7460,7 +7528,8 @@
     "answer": "B",
     "explanation": "【句型】be assigned 固定搭配「被分配到」，表示紐約被分配到212這個區碼；reserved（保留）、represented（代表）、assembled（組裝）都不合。",
     "accuracyRate": 38,
-    "discrimination": 14
+    "discrimination": 14,
+    "contextSpan": "句內"
   },
   {
     "id": "G102_20_1",
@@ -7478,7 +7547,9 @@
     "explanation": "語意「區碼通常決定了通話的『費用』」，cost（費用）符合，呼應後文「同區碼內通話費率較低」；format（格式）、quality（品質）、distance（距離，雖有點關聯但下文明確講的是收費rate不是距離）都不合。",
     "accuracyRate": 31,
     "note": "cost 意思是「費用」，這裡指區碼決定了通話的費用高低，呼應後文提到的收費標準。這題屬於單純語意判斷（無固定搭配），容易被 distance（距離）這個表面上也合理的選項干擾——雖然距離常影響費用，但句子明確講的是「收費」本身，不是「距離」。",
-    "discrimination": 44
+    "discrimination": 44,
+    "contextSpan": "跨句",
+    "contextNote": "下一句 charged at a lower rate 才排除 distance／format"
   },
   {
     "id": "G102_21_2",
@@ -7580,7 +7651,8 @@
     "answer": "B",
     "explanation": "語意「他對『正常』心智的運作感興趣，而非精神疾病的本質」（跟後文rather than the nature of mental illness對比），normal（正常的）符合這個對比；contrary（相反的）、detective（偵探的）、mutual（相互的）都不合。",
     "accuracyRate": 38,
-    "discrimination": 22
+    "discrimination": 22,
+    "contextSpan": "句內"
   },
   {
     "id": "G102_27_3",
@@ -7632,7 +7704,8 @@
     "explanation": "語意「那麼在測驗上的『成功』就代表8歲兒童的智力水準」，success（成功）符合，呼應前文「如果70%的8歲兒童能通過某個測驗」；objection（反對）、agreement（同意）、discovery（發現）都不合。",
     "accuracyRate": 24,
     "note": "success 在這裡當名詞，指「（測驗上的）成功、通過」，呼應前文「70%的孩子能通過測驗」的假設情境。這題屬於單純語意判斷（無固定搭配），容易因為選項都是常見名詞而只憑直覺猜，需要回頭確認前後文的因果邏輯（測驗通過=成功）。",
-    "discrimination": 6
+    "discrimination": 6,
+    "contextSpan": "句內"
   },
   {
     "id": "G102_30_3",
@@ -7701,7 +7774,8 @@
     "explanation": "主詞是複數 These movements，動詞用複數 allow；allows（單數動詞，不合複數主詞）、allowed（過去式，不合現在式描述通則的語境）、allowing（現在分詞，不能單獨作句子主要動詞）都不合。",
     "accuracyRate": 33,
     "note": "這題考主詞動詞一致，主詞 These movements 是複數，動詞需用原形 allow（現在式複數動詞不加s）。容易被 allows（單數動詞，跟複數主詞不一致）、allowed（過去式，不合現在式描述通則的語境）搞混，是主詞動詞一致的經典陷阱，關鍵在於先確認主詞的單複數。\n常考重點：複數主詞 + 原形動詞（不加三單s）。",
-    "discrimination": 45
+    "discrimination": 45,
+    "contextSpan": "句內"
   },
   {
     "id": "G104_19_1",
@@ -7786,7 +7860,8 @@
     "answer": "B",
     "explanation": "現在分詞 approaching 作形容詞修飾 evil，表示「逼近的邪惡」（羽毛上的眼睛能警示牠即將到來的危險）；approach（原形動詞，不能這樣修飾名詞）、approached（過去分詞，被動語意方向不合，應該是主動「逼近的」）、be approaching（不是限定動詞格式）都不合。",
     "accuracyRate": 36,
-    "discrimination": 24
+    "discrimination": 24,
+    "contextSpan": "句內"
   },
   {
     "id": "G104_24_2",
@@ -7923,7 +7998,9 @@
     "explanation": "【句型】less A than B 比較句型「與其說是A，不如說是B」，表示「創造力與其說是罕見天才的象徵，不如說是人類天生的潛能」；more（語意方向相反，會跟後文「因此可以被培養」矛盾）、better、worse 都不合這個比較結構。",
     "accuracyRate": 31,
     "note": "less A than B 是比較句型，意思是「與其說是A，不如說是B」，用來翻轉一般人對某事物的既定印象。容易跟 more（語意方向相反，會導致跟後文邏輯矛盾）搞混，這題陷阱在於要判斷整段文意的邏輯方向（創造力其實不是天才專屬，而是人人皆有的潛能）。\n常考搭配：less A than B（與其說是A，不如說是B）。",
-    "discrimination": 35
+    "discrimination": 35,
+    "contextSpan": "跨句",
+    "contextNote": "more 與 less 在句內同樣合文法，是前一句 It has long been assumed that creativity is some unusual trait enjoyed by the few 加上 However 才決定方向"
   },
   {
     "id": "G107_17_1",
@@ -7975,7 +8052,8 @@
     "explanation": "關係副詞 where，turns inward, where it can...，表示「心智轉向內在，在那裡它能夠潛意識地思考」；if（如果）、but（但是）、which（不能這樣接完整句子作地方狀語）都不合。",
     "accuracyRate": 28,
     "note": "where 在這裡是關係副詞，引導地方狀語子句，it turns inward, where it can... 表示「轉向內在，在那裡它能夠…」。容易跟 which（需接完整句子作受詞或主詞，這裡turns inward已經是完整的獨立子句，接續的部分需要副詞性質的連接詞）搞混，是關係副詞 vs. 關係代名詞的經典陷阱。\n常考重點：where 可用於抽象「地方/狀態」的延伸用法，不限於實體地點。",
-    "discrimination": 36
+    "discrimination": 36,
+    "contextSpan": "句內"
   },
   {
     "id": "G107_20_1",
@@ -7993,7 +8071,8 @@
     "explanation": "【句型】venture beyond 固定搭配「冒險超越/跳脫……」，表示「當人們冒險跳脫日常慣例時」；into（語意方向不合，應該是「跳脫」不是「進入」）、without（沒有）、under（在……之下）都不合。",
     "accuracyRate": 32,
     "note": "venture beyond 是固定搭配，意思是「冒險超越、跳脫」，常用於描述人們突破常規/舒適圈的語境。容易跟 into（進入，語意方向相反——句子講的是「跳脫」慣例而非「進入」慣例）搞混，是語意方向相反型的陷阱。\n常考搭配：venture beyond + 慣例/專業領域（冒險跳脫…）。",
-    "discrimination": 38
+    "discrimination": 38,
+    "contextSpan": "句內"
   },
   {
     "id": "G107_21_2",
@@ -8187,7 +8266,7 @@
     "year": "111年",
     "passageId": "111_1",
     "blankNum": 12,
-    "category": "時態",
+    "category": "時態／語態",
     "options": {
       "A": "spring",
       "B": "sprang",
@@ -8215,7 +8294,8 @@
     "explanation": "end 固定用法，where the similarities end 表示「相似之處就到此為止」；form（形成）、count（計算）、matter（重要）都不合。",
     "accuracyRate": 20,
     "note": "end 在這裡當動詞用，where the similarities end 意思是「相似之處就到此為止」，是「界線/範圍終止」的固定用法。容易跟 count（重要、算數）搞混，因為 that's where...count 也是常見句型，但語意方向不同（count強調重要性，不是「終止」）。\n常考搭配：that's where sth ends（…就到此為止）。",
-    "discrimination": 25
+    "discrimination": 25,
+    "contextSpan": "句內"
   },
   {
     "id": "G111_14_1",
@@ -8267,7 +8347,8 @@
     "explanation": "【句型】other than 在此作介系詞，表示「除了……之外」（相當於except for/apart from），reasons other than aesthetics 意為「美觀以外的理由」，句意是「它們實際上是基於美觀以外的原因而設計的」，後文接著展開解釋實用與安全的物理考量；contrary to（與……相反）、except for（語意接近但不如other than常見於此表達）、more of（更多的）都不合。",
     "accuracyRate": 21,
     "note": "other than 在此作介系詞，意思是「除了…之外」（相當於 except for），reasons other than aesthetics 即「美觀以外的理由」。容易跟語意接近的 except for 混淆——雖然中文翻譯類似，但 other than 更常見於「除了X以外還有其他原因」這種列舉語境。\n常考搭配：reasons other than + 名詞（…以外的理由）。",
-    "discrimination": 13
+    "discrimination": 13,
+    "contextSpan": "句內"
   },
   {
     "id": "G111_17_2",
@@ -8302,7 +8383,8 @@
     "explanation": "語意「當飛機飛得更高時，這個問題會被『加劇』」，intensified（加劇）符合，呼應後文解釋高海拔時內外壓力差增加導致更大壓力；disguised（偽裝）、understood（被理解）、confronted（面對）都不合。",
     "accuracyRate": 32,
     "note": "intensified 意思是「加劇」，這裡描述問題在高海拔時變得更嚴重，呼應後文解釋壓力差增加的原因。容易跟 disguised（偽裝）、understood（被理解）混淆，這幾個都是常見的過去分詞形容詞用法，但只有 intensified 符合「問題變得更嚴重」的邏輯。\n常考搭配：the problem is intensified（問題被加劇）。",
-    "discrimination": 30
+    "discrimination": 30,
+    "contextSpan": "句內"
   },
   {
     "id": "G111_19_2",
@@ -8405,7 +8487,8 @@
     "explanation": "語意「假裝成『難搞』的顧客，無理由地跟銷售員爭論」，difficult（難搞的）符合這種刁難情境；potential（潛在的）、constant（持續的）、anonymous（匿名的）都不合。",
     "accuracyRate": 25,
     "note": "difficult 在這裡指「難搞的、刁鑽的」，形容顧客類型，是 difficult customer 這個常見搭配用法。容易跟 potential（潛在的）混淆，因為兩者都是常見形容詞，但只有 difficult 能表達「刻意刁難」的語意。\n常考搭配：a difficult customer（難搞的顧客）。",
-    "discrimination": 26
+    "discrimination": 26,
+    "contextSpan": "句內"
   },
   {
     "id": "G113_15_1",
@@ -8429,7 +8512,7 @@
     "year": "113年",
     "passageId": "113_2",
     "blankNum": 16,
-    "category": "助動詞",
+    "category": "句型結構",
     "options": {
       "A": "must be using",
       "B": "could have used",
@@ -8440,7 +8523,9 @@
     "explanation": "could have used 表示過去的能力/可能性（本可以使用），暗示雖然可調式鬧鐘在19世紀中期已經發明，人們理論上「本可以使用」，但後文說明新裝置仍然昂貴不可靠，實際上很少使用，這種「技術上可行但實際少用」的語氣最符合could have used；must be using（現在推測進行式，時態不合）、had hardly used、were mostly using（跟後文的讓步邏輯不合）都不合。",
     "accuracyRate": 29,
     "note": "could have used 表示「過去本可以使用（但實際上沒有普遍使用）」，強調「技術上可行、但實際少用」的語氣，常見於「雖然發明了，但因為某些限制而少被採用」的敘事邏輯。容易跟 must be using（現在推測進行式，時態方向不合）搞混，這題陷阱在於要判斷整段文意的因果/讓步邏輯，而不只是看單句文法。\n常考重點：could have + p.p. 表示「過去本可以，但實際未必如此」的語氣。",
-    "discrimination": 20
+    "discrimination": 20,
+    "contextSpan": "跨句",
+    "contextNote": "下一句 But the new device was still relatively expensive and unreliable 才逼出「本來可以用卻沒用」的假設語氣"
   },
   {
     "id": "G113_17_2",
@@ -8491,7 +8576,8 @@
     "answer": "D",
     "explanation": "語意「隨著鬧鐘變得更普及、更便宜，這個行業（敲窗人）『衰退』了」，declined（衰退）符合這種行業被取代的語境；remained（維持，語意相反）、dismissed（被解僱，主詞是這個行業慣例不是人）、revised（被修訂）都不合。",
     "accuracyRate": 35,
-    "discrimination": 42
+    "discrimination": 42,
+    "contextSpan": "句內"
   },
   {
     "id": "G113_20_2",
@@ -8509,7 +8595,9 @@
     "explanation": "match 固定用法「比得上/媲美」，表示現代鬧鐘無法「比得上」敲窗人帶來的個人化關懷；forget（忘記）、change（改變）、regret（後悔）都不合。",
     "accuracyRate": 22,
     "note": "match 在這裡是「比得上、媲美」的意思，cannot match... 表示「無法比得上…」，常用於新舊事物比較的語境。容易跟 change（改變）搞混，因為兩者都是及物動詞，但 change 沒有「相比之下較不足」的比較意涵。\n常考搭配：cannot match + 被比較的對象（比不上…）。",
-    "discrimination": 17
+    "discrimination": 17,
+    "contextSpan": "跨句",
+    "contextNote": "前一句 alarm clocks are surely simpler and more convenient 建立讓步對比"
   },
   {
     "id": "G114_11_1",
@@ -8561,7 +8649,8 @@
     "explanation": "語意「讓見解和想法能夠『流通』並深化」，circulate（流通）符合這種換桌交流想法的情境；emphasize（強調）、recover（恢復）、preserve（保存）都不合。",
     "accuracyRate": 29,
     "note": "circulate 意思是「流通、傳播」，常用於描述想法、資訊在群體中流動的語境（如換桌交流促進想法流通）。容易跟 recover（恢復）、preserve（保存）搞混，這幾個動詞都跟「維持/延續」有點關聯，但只有 circulate 有「流通、擴散」的動態意涵。\n常考搭配：ideas/insights circulate（想法流通）。",
-    "discrimination": 33
+    "discrimination": 33,
+    "contextSpan": "句內"
   },
   {
     "id": "G114_14_1",
@@ -8613,7 +8702,8 @@
     "explanation": "strike 固定用法「突然發作/侵襲」，表示暈車症狀可能「突然發作」；crash（墜毀）、flush（沖水/臉紅）、burst（爆裂，不太合症狀「發作」這個語境）都不合。",
     "accuracyRate": 31,
     "note": "strike 在這裡當動詞，意思是「突然發作、侵襲」，常用於描述症狀/疾病突然出現的語境（It can strike suddenly）。容易跟 burst（爆裂）搞混，兩者都帶有「突然」的意味，但 strike 專門用於症狀/災難「突然降臨」，burst 則是「物體爆開」的具體動作。\n常考搭配：symptoms/illness strike suddenly（症狀/疾病突然發作）。",
-    "discrimination": 14
+    "discrimination": 14,
+    "contextSpan": "句內"
   },
   {
     "id": "G114_17_2",
@@ -8688,7 +8778,7 @@
     "year": "111年學測英文參考試卷",
     "passageId": "111學測英文參考試卷_1",
     "blankNum": 16,
-    "category": "倒裝句",
+    "category": "句型結構",
     "options": {
       "A": "was",
       "B": "being",
@@ -8779,7 +8869,9 @@
     "explanation": "插入語 it turns out（結果是/原來），表示「白犀牛，『結果』也做同樣的事」，符合這種意外發現的語氣；what is more（此外）、in other words（換句話說）、all in all（總而言之）都不合。",
     "accuracyRate": 29,
     "note": "it turns out 是插入語，意思是「結果是、原來」，常用來表達「意外發現某件事其實也是如此」的語氣。容易跟 in other words（換句話說，用於重新表述前文）搞混，兩者都是常見插入語但功能不同——一個是「意外發現」，一個是「換句話說」。\n常考搭配：..., it turns out, ...（結果/原來…，插入句中表意外發現）。",
-    "discrimination": 16
+    "discrimination": 16,
+    "contextSpan": "跨句",
+    "contextNote": "do the same thing 指前一句人類聚集分享消息，才知道這是新發現而非換句話說"
   },
   {
     "id": "G115_12_1",
@@ -8898,7 +8990,8 @@
     "answer": "D",
     "explanation": "【句型】meant to be 固定搭配「意味著/旨在成為」，表示點心「意在成為」一種可以持續數小時的愉快用餐體驗；passed on to（傳遞給）、brought up as（被養育成）、thought to have（被認為擁有）都不合。",
     "accuracyRate": 37,
-    "discrimination": 21
+    "discrimination": 21,
+    "contextSpan": "句內"
   },
   {
     "id": "G115_19_2",
@@ -8917,7 +9010,8 @@
     "accuracyRate": 31,
     "note": "as such 是固定搭配，意思是「因此、就此而言」，用來承接前文說明的邏輯結果。容易跟 if so（如果是這樣，語氣較假設性）、by then（到那時，時間副詞）搞混，這幾個都是常見轉承語但邏輯功能不同。\n常考搭配：..., and as such, ...（因此，就此而言…）。",
     "discrimination": -7,
-    "discriminationNote": "as such 是需要死背的固定用法，不是靠邏輯推理能夠推導出來的，高分群考生擅長的「文法邏輯分析」在這種純粹仰賴背誦的題目上發揮不出優勢，因此鑑別度偏低甚至略為負值，這類題目較適合當作「有背就會、沒背就不會」的內容來看待。"
+    "discriminationNote": "as such 是需要死背的固定用法，不是靠邏輯推理能夠推導出來的，高分群考生擅長的「文法邏輯分析」在這種純粹仰賴背誦的題目上發揮不出優勢，因此鑑別度偏低甚至略為負值，這類題目較適合當作「有背就會、沒背就不會」的內容來看待。",
+    "contextSpan": "句內"
   },
   {
     "id": "G115_20_2",
@@ -8985,7 +9079,9 @@
     "answer": "C",
     "explanation": "【句型】above all 固定片語「最重要的是」，在提到盧安達的種種特點之後，強調它最重要的意義是象徵人類精神戰勝邪惡；worst of all（最糟的是，語意不合，這是正面陳述）、for that matter（就此而言）、at most（至多）都不合。",
     "accuracyRate": 38,
-    "discrimination": 17
+    "discrimination": 17,
+    "contextSpan": "跨句",
+    "contextNote": "above all 用來把本句排在前面數句所列優點之上"
   },
   {
     "id": "G96_30_3",
@@ -9003,7 +9099,8 @@
     "explanation": "語意「盧安達已經『挺過』那場大屠殺」，survived（倖存/挺過）符合這個從創傷中恢復的語境，強調「活下來」的核心意涵；transformed（轉變）、recovered（恢復，通常接from）都不如survived精確，endangered（瀕危的）語意完全相反。",
     "accuracyRate": 27,
     "note": "survived 意思是「挺過、倖存」，強調「從創傷中活下來」的核心語意，是描述國家/地區走出重大災難的常用字。容易跟 recovered（恢復，通常接 from，且較強調「復原」而非單純「活下來」）混淆，這兩個字語意相近但強調的重點不同。\n常考搭配：survive + 重大事件/災難（挺過…）。",
-    "discrimination": 20
+    "discrimination": 20,
+    "contextSpan": "句內"
   },
   {
     "id": "GRef_16_1",
