@@ -69,6 +69,14 @@
     color:var(--crimson); text-transform:uppercase; margin: 22px 0 10px; display:flex; align-items:center; gap:8px;
   }
   .sec-title::after{content:""; flex:1; height:1px; background:var(--rule);}
+
+  .stats-box{display:flex; gap:10px; flex-wrap:wrap; margin-bottom:16px;}
+  .stat-pill{flex:1; min-width:100px; background:#fff; border:1px solid var(--rule); border-radius:4px; padding:12px; text-align:center;}
+  .stat-pill .num{font-family:'Noto Serif TC',serif; font-weight:900; font-size:22px; color:var(--crimson);}
+  .stat-pill .lbl{font-size:11px; color:var(--ink-soft); margin-top:2px;}
+  .stats-actions{display:flex; gap:8px; margin-bottom:6px; flex-wrap:wrap;}
+  .link-btn{font-size:11.5px; color:var(--ink-soft); text-decoration:underline; cursor:pointer; background:none; border:none; padding:0;}
+  .link-btn:hover{color:var(--crimson);}
   .cat-grid{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:6px;}
   .cat-chip{
     font-family:'IBM Plex Mono',monospace; font-size:12px; padding:6px 12px; border-radius:14px;
@@ -389,17 +397,18 @@
     </div>
 
     <div class="card">
-      <div class="home-lead">錯題本</div>
-      <div class="stat-line"><span>目前累積錯題</span><span class="stat-badge" id="wrongCount">0</span></div>
-      <button class="ghost-btn" id="reviewBtn" onclick="startWrongReview()" style="margin-top:12px;">複習錯題 →</button>
-      <button class="ghost-btn" style="margin-top:8px; width:100%;" onclick="if(confirm('確定要清除錯題本嗎？此動作無法復原（學習歷程統計不會被清除）。')){localStorage.removeItem(WRONG_KEY);refreshWrongCount();}">清除錯題本</button>
-    </div>
-
-    <div class="card">
-      <div class="home-lead">學習歷程</div>
-      <div class="stat-line"><span>累積作答題數</span><span class="stat-badge" id="homeTotalCount">0</span></div>
-      <div class="stat-line"><span>整體正確率</span><span class="stat-badge" id="homeAccuracy">0%</span></div>
-      <button class="ghost-btn" onclick="showScreen('history'); renderHistory();" style="margin-top:12px;">查看詳細記錄 →</button>
+      <div class="home-lead">我的學習歷程</div>
+      <div class="stats-box">
+        <div class="stat-pill"><div class="num" id="homeTotalCount">0</div><div class="lbl">累積作答題數</div></div>
+        <div class="stat-pill"><div class="num" id="homeAccuracy">0%</div><div class="lbl">整體正確率</div></div>
+        <div class="stat-pill"><div class="num" id="wrongCount">0</div><div class="lbl">錯題本題數</div></div>
+      </div>
+      <div class="stats-actions">
+        <button class="link-btn" id="reviewBtn" onclick="startWrongReview()">📕 複習錯題</button>
+        <button class="link-btn" onclick="showScreen('history'); renderHistory();">📊 查看詳細記錄</button>
+        <button class="link-btn" onclick="if(confirm('確定要清除學習歷程統計嗎？此動作無法復原（錯題本不會被清除）。')){clearHistory();}">清除學習歷程統計</button>
+        <button class="link-btn" onclick="if(confirm('確定要清除錯題本嗎？此動作無法復原（學習歷程統計不會被清除）。')){localStorage.removeItem(WRONG_KEY);refreshWrongCount();}">清除錯題本</button>
+      </div>
     </div>
   </div>
 
