@@ -8275,7 +8275,8 @@
     "explanation": "語意「人們主要為了健康益處而『練習』太極」，practice（練習）符合這種武術/運動的固定搭配；consult（諮詢）、display（展示）、manage（管理）都不合。",
     "accuracyRate": 70,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】practice 你腦中的畫面多半是「練琴、練英文」，而且帶著「還不夠熟所以要多練」的味道。可是這句講的是「人們練太極主要是為了健康」，不是在加強熟練度，於是有人覺得語感不對而繞去別的選項。practice 其實有一個更廣的用法：長期、規律地從事某項技藝、運動或修行，中文說「習練、修習」。順帶記一個常考的延伸義：practice medicine 是「行醫」、practice law 是「執業當律師」，跟「練習」完全無關。【怎麼判斷】把主詞和受詞先框出來：主詞是 People（人們），受詞是 Tai Chi（太極拳，一種武術）。接著把四個選項逐一代進去讀完整句，這是字彙選義題最實在的驗算方式。consult（諮詢、請教；查閱）後面接的是人或資料，consult a doctor（看醫生）、consult a dictionary（查字典），接不了一項運動。display（展示）是把東西擺出來給人看，人不會「展示太極拳來獲得健康益處」。manage（管理；設法做到）接的是事務或組織。只有 practice 能直接接一項技藝或運動。下一句也回頭確認：This centuries-old Chinese mind-body exercise（這項有數百年歷史的中國身心運動）直接把太極定位成一種 exercise，運動就是拿來 practice 的。【干擾選項】consult 常見的是 consult sb about sth（就某事請教某人）。display 常見於 display goods（陳列商品）、display emotions（表露情緒）。manage 除了「管理」，還有「設法做到」的意思，manage to finish on time（設法準時完成），兩義都套不進本句。【常考字詞搭配】practice Tai Chi（練太極拳）、practice yoga（練瑜伽）、practice medicine（行醫）、practice law（執業當律師）、consult a doctor（看醫生）、consult a dictionary（查字典）、health benefits（健康益處）、gain popularity（逐漸受歡迎）。"
   },
   {
     "id": "G104_17_1",
@@ -8293,7 +8294,8 @@
     "explanation": "介系詞 like 在此表示「例如/像……一樣」，相當於such as，引導後面兩個具體招式名稱（「白鶴亮翅」「雲手」）作為 poetic names（詩意名稱）的舉例說明；from（來自）在這裡文法語意都不通，會變成「名稱來自於這些名稱」，邏輯矛盾；between（在……之間）、regarding（關於）都不合。",
     "accuracyRate": 63,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】like 在你腦中排第一的是動詞「喜歡」，排第二的是「像……一樣」的比較。比較少人注意到 like 當介系詞時可以直接拿來「舉例」，等於 such as。更麻煩的是這一句後面剛好又出現一個 like（wave hands like clouds，雲手），前後兩個 like 意思不同，很容易讀亂。柯林斯詞典在 like 條下就明講：like 可用來引出你剛提到的那一類人事物當中的一個例子，例句是 large cities like New York（像紐約這樣的大城市）。【怎麼判斷】看空格前後各是什麼。空格前是 poetic names（富有詩意的名稱），是一個上位的統稱；空格後是兩個用引號括起來的實際名稱。「先給一個統稱，再舉底下的具體例子」，中間要填的就是「例如」。驗算方式：把 like 換成 such as 讀一次，意思完全不變 —— poetic names such as “dragons stirring up the wind” and “wave hands like clouds.” 換得動，就對了。這裡可以掛回你早就會的句子：I like sports like basketball and baseball.（我喜歡籃球、棒球這類運動。）同一句裡兩個 like，前面是動詞「喜歡」，後面是介系詞「例如」。本題考的就是後面那個。【干擾選項】from（來自）會變成「這些名稱來自這些名稱」，邏輯打結。between（在……之間）雖然後面確實接了兩個東西，但語意會變成「介於兩個名稱之間的名稱」，講不通；between 要用在真的有「兩端」的情境，例 between Taipei and Kaohsiung（在台北和高雄之間）。regarding（關於）等於 about，多用在公文書信，例 regarding your application（關於你的申請），填進去是「關於這兩個名稱的名稱」，也不合。【常考字詞搭配】like（像；例如）、such as（例如）、for example（舉例來說）、a series of（一連串的）、be familiar with sth（熟悉某事物）、be familiar to sb（為某人所熟悉）、stir up（激起、攪動）。"
   },
   {
     "id": "G104_18_1",
@@ -8330,7 +8332,8 @@
     "explanation": "【句型】not only...but also... 固定搭配，「不僅是身體上的，也是『心理上』的運動」，mental（心理的）呼應後文 Psychologically；formal（正式的）、social（社交的）、global（全球的）都不合。",
     "accuracyRate": 71,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】social 在這一格特別容易被挑走，因為下一句白紙黑字寫著 deal with other people more effectively（更有效地與他人相處），看起來就是在講「社交」。這是本題設計得最精巧的地方。【怎麼判斷】先看句型：not only a physical but also a {19} exercise。not only A but also B 要求 A 和 B 詞性相同、地位對等，所以空格必須是一個能跟 physical（身體的）站在同一個對比軸上的形容詞。physical 在英文裡的天然對照是 mental（心理的），physical and mental health（身心健康）是成組出現的說法。更硬的證據在下一句的第一個字：Psychologically（從心理層面來看）。作者用這個副詞開頭，就是要把上一句的 mental 展開來說明；如果答案是 social，下一句照理應該用 Socially 開頭。這種「上一句下結論、下一句用同一個意思領域的副詞展開」的寫法，是克漏字最愛埋線索的地方 —— 看到句首副詞就要往回對上一句。至於 deal with other people，那是心理效果帶來的結果，不是這一句的對比軸；整句的骨架是「不只是身體的運動，也是心理的運動」，身對心，不是身對社交。【干擾選項】formal（正式的）—— 文章沒有在談場合正不正式。social（社交的）—— 如上所述，方向被下一句的 Psychologically 否決。global（全球的）—— 前面雖提到太極在美國流行，但那是在講傳播範圍，不是這一句的對比。【常考字詞搭配】not only A but also B（不僅 A 而且 B）、physical and mental health（身心健康）、mental（心理的、精神的）、psychologically（從心理層面來說）、deal with（處理；應付）、a mind-body exercise（身心運動）、communication between A and B（A 與 B 之間的溝通）。"
   },
   {
     "id": "G104_20_1",
@@ -8348,7 +8351,8 @@
     "explanation": "語意「它『減少』壓力，創造平靜與自信」，reduces（減少）符合正面效果的描述；imposes（施加，語意相反）、offends（冒犯）、disturbs（干擾，語意相反）都不合。",
     "accuracyRate": 74,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】這一格多數人能對，但有一個陷阱值得提醒：impose 很常跟 stress、pressure 一起出現（impose pressure on sb，對某人施壓），所以背過 impose 的人反而可能因為「看到熟悉的搭配」被拉走。背搭配不能只背「哪兩個字常一起出現」，還要記住方向。【怎麼判斷】靠 and 後面那半句定方向，這是很好用的一招。整句是 It {20} stress and creates calmness and confidence.，and 連接兩個並列的動作，方向必須一致。後半的 creates calmness and confidence（帶來平靜與自信）明顯是正面的，所以前半對 stress 做的事也必須是正面的 —— 對壓力做正面的事，只能是「減少」。連接詞兩邊同向，一邊讀不懂就看另一邊，這個技巧在克漏字非常好用。再往下一句確認：Relaxation and a feeling of joy are among the first noticeable differences（放鬆與愉悅感是最早能察覺到的改變），整段都在鋪陳正面效果。【干擾選項】imposes（強加、施加）方向是「加上去」，例 impose a tax on imports（對進口品課稅）、impose one's views on others（把自己的看法強加於人），與後半的 creates calmness 直接打架。offends（冒犯）受詞要是人，例 offend the audience（冒犯觀眾）。disturbs（打擾、擾亂）方向也是負面，例 disturb the peace（擾亂安寧）。三個干擾選項有兩個是負面動詞，把 and 兩邊的方向對齊，就能一次刷掉。【常考字詞搭配】reduce stress（減輕壓力）、relieve stress（紓解壓力）、under stress（在壓力之下）、impose A on B（把 A 強加於 B）、build confidence（建立自信）、be among the first to V（是最早……的其中之一）、noticeable（明顯的、看得出來的）。"
   },
   {
     "id": "G104_21_2",
@@ -8367,7 +8371,8 @@
     "accuracyRate": 53,
     "discrimination": 55,
     "contextSpan": "跨句",
-    "contextNote": "Similarly 與前一句藍鳥的象徵意義並列"
+    "contextNote": "Similarly 與前一句藍鳥的象徵意義並列",
+    "note": "【你可能會這樣想】很多人一看到空格在句首、後面接逗號，就直覺認定「一定是轉折」，於是挑 Nevertheless（然而）。這是本題答對率只有 53% 的主因。連接副詞不是只有轉折一種功能，它也可以表示「並列、追加同類」，看到句首空格不能先入為主，一定要往回讀一句再決定。【怎麼判斷】前一句：the bluebird is considered a very lucky sign in most cultures（藍鳥在大多數文化中被視為非常幸運的象徵）。空格這一句：a woodpecker, when seen near the home, is regarded as a good sign（啄木鳥若在住家附近出現，被視為吉兆）。兩句都是「某種鳥是吉兆」，方向完全相同，是同類追加，所以用 Similarly（同樣地）。再往下讀一句，證據更明確：In contrast, the peacock is not {22} seen as lucky.（相較之下，孔雀就不一定被視為吉祥。）真正的轉折是靠 In contrast 在第三句才登場的 —— 作者的鋪陳是「先並列兩種吉祥的鳥，再把孔雀拉出來對比」。如果第 21 格填了 Nevertheless，等於在同一段連轉兩次，段落邏輯會亂掉。後文已經有現成的轉承詞時，要拿它來反推前面那一格不該重複同一種功能，這一招在克漏字很值得練。順帶把這兩句的被動說法一起記起來：be considered 後面可以直接接名詞（considered a lucky sign，不加 as），而 be regarded 一定要加 as（regarded as a good sign）。這一段剛好兩種都出現，是難得的對照機會。【干擾選項】Therefore（因此）表因果 —— 藍鳥吉利並不會「導致」啄木鳥吉利。Nevertheless（然而、儘管如此）表讓步轉折，方向錯。Roughly（大約、粗略地）是程度副詞，例 roughly 200 people（大約兩百人），本身沒有連接前後句的功能。【常考字詞搭配】similarly（同樣地）、likewise（同樣地）、in contrast（相較之下）、nevertheless（然而、儘管如此）、be considered + 名詞（被認為是……）、be regarded as（被視為……）、a good sign（好兆頭）、particularly（特別是、尤其）。"
   },
   {
     "id": "G104_22_2",
@@ -8385,7 +8390,8 @@
     "explanation": "語意「孔雀並非『普遍』被視為幸運的」，universally（普遍地）符合，呼應後文說明不同地方對孔雀看法不同（印度中國覺得幸運，但西方覺得不吉利）；officially（正式地）、mutually（相互地）、eventually（最終）都不合。",
     "accuracyRate": 57,
     "discrimination": 53,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】universal 你背的是「宇宙的、全世界的」，所以看到 universally 會先想到地理範圍，覺得用在這一句語氣太大。其實 universally 的核心不在「範圍多廣」，而在「無一例外、所有情況都如此」，中文譯成「普遍地」。這個理解上的偏差，是答對率只有 57% 的原因。【怎麼判斷】關鍵在 not 和 universally 的先後順序。not universally 是部分否定，意思是「並非在所有情況下都……」，而不是「完全不……」。這個判斷會直接決定整段怎麼讀：空格後面兩句先說印度、中國、日本覺得孔雀吉利，再用 However 說世界其他地方輕視孔雀 —— 有的地方覺得吉利、有的不覺得，這正是「不普遍」。如果把它讀成「完全不被視為吉祥」，接下來印度那幾句就會自相矛盾。部分否定這一組請整組記起來，是學測長年的考點：not all（並非全部）、not always（並非總是）、not necessarily（未必）、not everyone（不是每個人都）。not universally 是同一家。【干擾選項】officially（正式地、官方地）—— 吉不吉利是民間信仰，沒有官方認定這回事。mutually（相互地）要有雙方互相的動作，例 mutually beneficial（互惠的）。eventually（最終、終於）是時間副詞，例 He eventually agreed.（他最後同意了。）與「普不普遍」無關。這三個副詞的字尾都是 -ly、長度也差不多，掃過去很像，但意思領域完全不同 —— 副詞題不能靠形狀，要靠字義代入。【常考字詞搭配】universally（普遍地、無一例外地）、a universal truth（普世的真理）、not necessarily（未必、不一定）、not always（並非總是）、be seen as（被視為）、mutually beneficial（互惠互利的）、eventually（最終、終於）。"
   },
   {
     "id": "G104_23_2",
@@ -8422,7 +8428,8 @@
     "explanation": "語意「作為象徵被統治家族飼養，用來『代表』他們的地位與財富」，represent（代表）符合；replace（取代）、disguise（偽裝）、distinguish（區別）都不合。",
     "accuracyRate": 64,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】represent 你最熟的是「代表某人或某單位出面」—— He represented our school in the contest.（他代表學校參加比賽。）主詞是人。這裡是另一個同樣常考的意思：「象徵、表示」，主詞是物。同一個字換一種主詞就換一種中文，這是字彙選義題很愛切入的角度。【怎麼判斷】答案其實藏在空格前面：kept as symbols by the ruling families（被統治家族當作象徵飼養）。symbol（象徵）這個名詞對應的動詞就是 represent（象徵、代表）。整句還原：孔雀被統治家族當成象徵養著，目的是「象徵」他們的地位與財富；to represent 是表目的的不定詞（為了……）。distinguish 是本題最容易被挑走的干擾，因為中文「彰顯身分地位」聽起來很像「與眾不同」。但 distinguish 的意思是「區別、分辨」，句型是 distinguish A from B（把 A 和 B 區分開來），受詞必須是被分辨的對象；直接接 their status and wealth 會變成「分辨他們的地位與財富」，講不通。看到中文譯法接近就選，是字彙題最常見的失分原因，動詞一定要連句型一起檢查。【干擾選項】replace（取代）例 replace the old system（取代舊制度）。disguise（偽裝、掩飾）例 disguise one's feelings（掩飾情緒），方向剛好相反 —— 統治家族是要把地位「秀出來」，不是藏起來。distinguish（區別、分辨）如上所述，句型對不上。【常考字詞搭配】represent（代表；象徵）、a symbol of（……的象徵）、stand for（代表、象徵）、distinguish A from B（分辨 A 與 B）、be kept as（被當作……留著）、status and wealth（地位與財富）、be highly valued（備受重視）。"
   },
   {
     "id": "G104_25_2",
@@ -8440,7 +8447,8 @@
     "explanation": "語意「孔雀的羽毛被認為是這種鳥身上最『不吉利』的部位」，unlucky（不吉利的）符合，呼應後文associated with evil eyes（與邪眼有關）；illogical（不合邏輯的）、impossible（不可能的）、unnecessary（不必要的）都不合。",
     "accuracyRate": 76,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是否定字首開頭 —— un-、il-、im-、un-，形狀非常接近，讀快一點容易眼花，看到「都是否定的」就隨便挑一個。這種一整排同型選項的題目，反而要放慢速度，逐一確認「它們各自是用來修飾什麼東西的」。【怎麼判斷】先看被修飾的是什麼：the most {25} part of the bird（這種鳥身上最……的部位）。一個「部位」可以不吉利，但不會「不合邏輯」「不可能」「不必要」——光是確認被修飾的名詞，就能刷掉三個。再看空格後面緊接著的原因子句：because the eye-shaped markings on them are associated with “evil eyes.”（因為羽毛上眼睛狀的花紋讓人聯想到「邪眼」。）evil（邪惡的）就是答案的同義提示。最後一句再補一刀：To bring the evil eye into the home is thus believed to invite trouble and sorrow.（因此人們相信把邪眼帶進家門會招來麻煩與不幸。）整段的關鍵字是「不祥」，答案只能是 unlucky。另外值得注意的是全篇的骨架：開頭 a very lucky sign、中間 not universally seen as lucky、這裡 the most unlucky part —— 同一個字反覆出現時，空格通常就是它的同義詞或反義詞，讀克漏字時把重複出現的字圈起來，常常空格就自己浮出來了。【干擾選項】illogical（不合邏輯的）修飾的是想法或論證，例 an illogical argument（不合邏輯的論點）。impossible（不可能的）修飾的是事情或任務。unnecessary（不必要的）修飾的是行為或花費，例 unnecessary expenses（不必要的開銷）。【常考字詞搭配】unlucky（不吉利的、倒楣的）、a lucky sign（吉兆）、be associated with（與……有關聯、使人聯想到）、invite trouble（招惹麻煩）、eye-shaped（眼睛形狀的）、receive scorn（受到輕視）、bring sth into the home（把某物帶進家中）。"
   },
   {
     "id": "G104_26_3",
@@ -8458,14 +8466,15 @@
     "explanation": "【句型】gathering fruits and nuts為動名詞片語，與後文the first cultivation of important trees（名詞片語）構成from X to Y的對等平行結構，兩者皆作介系詞from的受詞，表示「從早期人類採集水果與堅果的階段，到栽培重要樹種的階段」；to gather（不定詞）、gather（原形動詞）皆不符合此處對等平行的名詞性結構；gathered（過去分詞，語意方向不合，應為人類「主動」採集，而非人類「被採集」）亦不合。",
     "accuracyRate": 53,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 from … to … 你想到的是「從 A 到 B」的距離或時間，很少人會停下來檢查一件事：from 後面和 to 後面接的東西，必須是同一種性質的東西。這一格考的就是這個平行結構，而且四個選項都是同一個動詞的變化形，等於直接問你「這個位置該放哪一種形式」。【怎麼判斷】先把 from 和 to 各自帶的內容框起來對齊看：from early humans ___ fruits and nuts ／ to the first cultivation of important trees。to 後面是 the first cultivation（名詞片語），而且它指的是一件「事」—— 人類最早開始栽培樹木這個階段。from 是介系詞，後面也必須是名詞性質，而且要跟「一件事」對得起來。這一步是本題最關鍵的判斷，也是最容易做歪的地方：如果把 gathering 讀成修飾 early humans 的形容詞（「採集水果堅果的早期人類」），from 後面就變成「一群人」，to 後面卻是「一件事」—— 人對事，兩端不對等，平行結構立刻垮掉。正確的讀法是：gathering 是動名詞，early humans 是它意義上的主詞，整包 early humans gathering fruits and nuts 是一個名詞性的單位，意思是「早期人類採集水果與堅果這件事」，這樣才跟 the first cultivation of important trees（最早栽培重要樹種這件事）站在同一個層次。整句要說的是：樹木產物在人類飲食中的重要性，從「早期人類採集果實堅果」一路延續到「人類最早開始栽培芒果、蘋果這類重要果樹」。from … to … 拉的是時間軸上的兩個階段，兩端當然都得是「階段」。【動名詞前面可以帶一個意義上的主詞】這個結構你在課本上見過：Do you mind my opening the window?（你介意我開窗嗎？）—— 被介意的不是「我」，是「我開窗」這件事，my 是動名詞 opening 意義上的主詞。本題的 early humans gathering … 是同一個道理，只是主詞用原形名詞而不是所有格；正式文體會寫成所有格，現代英文直接用名詞更常見，兩種都看得到。最後用主動被動再確認一次：採集的動作是人類做的，是主動，所以用 -ing 的 gathering；若換成過去分詞 gathered 就變成被動，語意講不通。【干擾選項】to gather（不定詞）不能當介系詞 from 的受詞 —— 介系詞後面接名詞或動名詞，不接不定詞，這是很硬的規則，例 be good at cooking（擅長烹飪），不能寫成 be good at to cook。gather（原形動詞）會讓句子在沒有連接詞的情況下多出一個動詞，結構直接崩掉。gathered（過去分詞）方向錯，如上所述。【常考字詞搭配】from A to B（從 A 到 B，兩端性質須對等）、mind sb doing sth（介意某人做某事）、be good at + V-ing（擅長做……）、gather fruits and nuts（採集水果與堅果）、cultivation（栽培、耕作）、such as（例如）、be an important part of（是……的重要一環）、for thousands of years（數千年來）。"
   },
   {
     "id": "G104_27_3",
     "year": "104年",
     "passageId": "104_3",
     "blankNum": 27,
-    "category": "字彙選義",
+    "category": "句型結構",
     "options": {
       "A": "all",
       "B": "with",
@@ -8476,7 +8485,8 @@
     "explanation": "with 獨立分詞構句（with+受詞+補語，表附帶狀況），「擁有超過7000個品種存在」；all／around／still 都不合這個句型位置。",
     "accuracyRate": 51,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】with 你最熟的是「和……一起」和「用……工具」。這裡是第三種用法：帶出主要動作發生時的「附帶狀態」，中文常翻成「有著……」「在……的情況下」。這個句型沒認出來就完全無從下手，所以答對率只有 51%。【怎麼判斷】先數一數逗號後面那一串缺什麼。逗號前 The apple is one of the world's most cultivated fruit trees 已經是一個完整的句子；逗號後是 ___ over 7,000 different kinds in existence —— 裡面有名詞 over 7,000 different kinds，也有補語 in existence（存在著），就是沒有動詞。一串沒有動詞的東西要掛到主句上，前面必須有一個介系詞把它整包帶進來，這正是 with 的工作：with + 受詞 + 受詞補語。還原成兩個獨立句子驗算最清楚：The apple is one of the world's most cultivated fruit trees. There are over 7,000 different kinds in existence.（蘋果是全世界栽培最廣的果樹之一。現存的品種超過七千種。）合併時把第二句壓成 with 帶出的附帶說明，就成了原句。這個句型你在課本上見過最典型的例子是 He was sitting there with his eyes closed.（他坐在那裡，眼睛閉著。）那是 with + 受詞 + 過去分詞當受詞補語；本題的受詞補語是介系詞片語，受詞補語的形式不同，但骨架完全一樣 —— with 後面永遠是「一個名詞，加上說明它狀態的東西」。【干擾選項】all、around、still 分別是限定詞或副詞，本身都沒有「把一整包名詞帶進句子」的能力。填進去之後，over 7,000 different kinds in existence 這一串會懸在句子外面，沒有任何東西把它接回主句，句子就散掉了。遇到這種「逗號後面一串沒有動詞」的結構，先想有沒有介系詞可以填，往往就是答案。【常考字詞搭配】with + 受詞 + 受詞補語（表附帶狀態）、with one's eyes closed（閉著眼睛）、with a book in hand（手裡拿著一本書）、in existence（現存的、存在的）、one of the most + 形容詞 + 複數名詞（最……的之一）。"
   },
   {
     "id": "G104_28_3",
@@ -8494,14 +8504,15 @@
     "explanation": "語意「儘管品種『多樣』，大多數家化蘋果卻可以追溯到共同祖先」，variety（多樣性）呼應前文提到的7000種蘋果；harvest（收成）、condition（狀況）、discovery（發現）都不合。",
     "accuracyRate": 64,
     "discrimination": 69,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】variety 你最熟的是片語 a variety of（各式各樣的），習慣把它當成一個整體記，反而對 variety 單獨當名詞時的意思沒把握。這裡前面是 their great，指的是「它們龐大的多樣性」。順帶把另一個常考義一起收進來：variety 也可以指「品種」，且是可數的，例 a new variety of rice（一個水稻新品種）—— 這一義跟本文的 7,000 different kinds 正好呼應。【怎麼判斷】Despite（儘管）表讓步，讓步句的兩邊必須「表面上互相矛盾」，所以只要看清楚後半句在說什麼，前面該填什麼就被鎖死了。後半句是 most domesticated apples can be traced back to a common ancestor（大多數人工栽培的蘋果都能追溯到同一個祖先），講的是「同一個源頭」。能跟「同源」形成反差的，只有「種類很多」。一多一少的張力，就是答案。再往回讀一句更確定：over 7,000 different kinds in existence（現存超過七千個品種）—— 空格是在把上一句的細節用一個抽象名詞收攏起來。這種「上一句舉細節、下一句用抽象名詞概括」的手法是學測克漏字的常客，看到 their、this、such 這類指示詞，就要往回找它到底指什麼。【干擾選項】harvest（收成、收穫量）—— 這一句沒有在談產量；產量的數字要到全文最後一句才出現，而且那是在講今日的產業規模，不是這裡讓步的對象。condition（狀況、條件）—— their great condition 是「狀況良好」，跟「同源」構不成矛盾。discovery（發現）—— 文中沒有提到任何發現的過程。【常考字詞搭配】variety（多樣性；品種）、a variety of（各式各樣的）、a wide variety of（種類繁多的）、despite + 名詞（儘管……）、be traced back to（追溯到）、a common ancestor（共同祖先）、domesticated（馴化的、人工栽培的）。"
   },
   {
     "id": "G104_29_3",
     "year": "104年",
     "passageId": "104_3",
     "blankNum": 29,
-    "category": "慣用語／片語",
+    "category": "時態／語態",
     "options": {
       "A": "bring",
       "B": "have brought",
@@ -8512,7 +8523,8 @@
     "explanation": "被動語態過去式 were brought，「被歐洲殖民者帶到北美」，17th century是明確過去時間點，用簡單過去式被動；bring（原形動詞）、have brought（現在完成主動，方向不合，應該是蘋果「被帶去」）、have been brought（現在完成被動，時態不合，明確過去時間點應用簡單過去式）都不合。",
     "accuracyRate": 45,
     "discrimination": 44,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】前半句是 have been grown（現在完成式被動），看到 and 就直覺認為「後面要跟前面同一個時態」，於是挑 have been brought。這是本題最大的陷阱，答對率只有 45%。and 連接的是兩個動作，但兩個動作各自配的時間副詞不同時，時態本來就可以不同。【怎麼判斷】兩個判斷點，缺一不可，順序建議先語態、後時態。第一，語態：by European colonists（由歐洲殖民者）這個 by 片語就是被動語態的招牌 —— 蘋果是「被」殖民者帶過去的，不是蘋果自己去帶。所以主動的 bring 和 have brought 先出局。第二，時態：in the 17th century（在十七世紀）是一個明確而且已經結束的過去時間點。現在完成式不能跟明確的過去時間點連用 —— 你不會說 I have seen him yesterday.，只能說 I saw him yesterday.。同樣的道理，have been brought 配不上 in the 17th century，只能用簡單過去式的被動 were brought。那前半句為什麼可以用 have been grown？因為它配的是 for thousands of years（數千年來），是一段從過去延續到現在的期間，正是現在完成式的地盤。同一個句子裡前後時態不同，不是矛盾，而是因為兩邊的時間副詞不同 —— 這正是本題設計的用意。最後確認主詞：Apples 是複數，be 動詞用 were 不是 was。【干擾選項】bring（原形動詞）沒有時態也沒有語態，接不上 and 前面的結構。have brought 是主動，會變成「蘋果把某物帶到北美」，方向顛倒。have been brought 語態對了，但時態撞上 in the 17th century。三個干擾選項剛好對應三種不同的錯誤，這種題目一定要把語態和時態分開檢查，不要一次判斷。【常考字詞搭配】be brought to（被帶到……）、bring A to B（把 A 帶到 B）、for thousands of years（數千年來，搭配現在完成式）、in the 17th century（在十七世紀，搭配過去式）、be grown（被種植）、colonist（殖民者）、be cultivated（被栽培）。"
   },
   {
     "id": "G104_30_3",
@@ -8530,7 +8542,8 @@
     "explanation": "語意「蘋果在世界各地『經常性』被食用」，regularly（經常性地）符合這種廣泛食用的描述；particularly（特別地）、permanently（永久地）、barely（幾乎不，語意相反）都不合。",
     "accuracyRate": 40,
     "discrimination": 34,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】regularly 你背的是「規律地、定期地」（exercise regularly，規律運動），所以看到 are regularly eaten，腦中翻成「被定期食用」就覺得很怪，反而不敢選。這一格答對率只有 40%，是整份考卷最難的一題，卡住的正是這個字義落差。劍橋詞典把 regularly 的第一義直接列為 often（經常），標示 B1，例句 Accidents occur regularly on this stretch of the road.（這一段路經常發生事故。）—— 這裡講的是頻率高、成為常態，不必真的照時間表。【怎麼判斷】are regularly eaten the world over 就是「在世界各地被經常食用」。文內前後都在講規模：同一句後半 form the basis for multi-million dollar industries（構成價值數百萬美元的產業基礎），下一句 In 2005, at least 55 million tons of apples were grown worldwide（2005 年全球至少種植五千五百萬噸蘋果）。要撐起這種產量與產業規模，食用頻率必須是「經常」。把 barely（幾乎不）代進去，跟後面的數字直接打架，一秒淘汰。至於為什麼連高分群考生也會在這一格失手（本題鑑別度只有 D 值 34，是這份考卷最低）：問題出在這一格幾乎沒有「推」的空間。四個副詞擺進 are ___ eaten，文法上都通；前後文提供的線索只能刷掉方向明顯相反的 barely，卻刷不掉 particularly —— 「蘋果在全世界特別受食用」讀起來甚至頗順。要分辨 particularly 和 regularly，靠的不是邏輯推理，而是兩件事：知不知道 regularly 有「經常」這一義，以及知不知道 particularly 是「（相較之下）尤其、特別是」，需要有一個被比較的對象。本句沒有拿蘋果跟別的水果比，particularly 就沒有立足點。字義本身沒累積到，程度再好也推不出來，這就是這一格鑑別度偏低的原因。【干擾選項】particularly（特別是、尤其）用來從一群裡面挑出特例，例 I like fruit, particularly apples.（我喜歡水果，尤其是蘋果。）本句沒有這種比較框架。permanently（永久地）指狀態不再改變，例 permanently closed（永久歇業），不用來講頻率。barely（幾乎不）是否定副詞，例 I can barely hear you.（我幾乎聽不見你說話。）方向完全相反。【常考字詞搭配】regularly（經常地；規律地）、on a regular basis（定期地、經常地）、particularly（特別是、尤其）、barely（幾乎不）、the world over（全世界各地）、form the basis for（構成……的基礎）、multi-million dollar（數百萬美元的）。"
   },
   {
     "id": "G107_16_1",
