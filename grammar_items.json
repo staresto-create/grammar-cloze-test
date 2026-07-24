@@ -2458,7 +2458,8 @@
     "explanation": "語意「用小紙片標記聖歌本的頁面」，marked（標記）符合這個「用紙片做記號」的行為；tore（撕）、served（服務）、took（拿）都不符合這個語境。",
     "accuracyRate": 50,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】mark 這個字，你腦中第一個浮現的多半是名詞「分數、記號」，或是 marker（麥克筆）。所以看到空格後面接的是 his pages in the hymn book with small bits of paper，你會很想挑一個動作感更強的字，這一格只有五成的人答對，卡點就在沒把 mark 當動詞用。mark 當及物動詞是「做記號、標示」，最常用的句型是 mark A with B（用 B 在 A 上做記號）。【怎麼判斷】還原成完整句子：after he marked his pages in the hymn book with small bits of paper（他用小紙片在聖歌本的頁面上做記號之後）。判斷關鍵是 with small bits of paper 這個介系詞片語，它交代的是「用什麼工具」，前面的動詞就必須是「拿工具去做某件事」的動作。同一篇後面出現的 a good bookmark（很好的書籤）是最直接的篇內對照：bookmark ＝ book ＋ mark，書籤的功能正是在書上做記號，作者前後是刻意呼應的。【干擾選項】tore 是 tear（撕）的過去式，「撕書頁」與後文不合——掉滿地的是 the small pieces（那些小紙片），不是被撕破的書頁。served 的受詞通常是人或食物（serve customers 服務顧客、serve dinner 上菜），接 pages 不通。took 只是「拿」，take his pages with small bits of paper 說不出「標記」的意思。【常考字詞搭配】mark A with B（用 B 在 A 上做記號）、a bookmark（書籤）、bits of paper（小紙片、紙屑）、fall out（掉出來、脫落）、all over the floor（掉得滿地都是）、tear a page out of a book（把一頁從書裡撕下來）"
   },
   {
     "id": "G98_17_1",
@@ -2495,7 +2496,8 @@
     "explanation": "過去式 was，配合整篇故事的過去式敘事，「大家都認為這（膠水）是失敗品」，是回憶過去的看法；is（現在式）、will be（未來式）、has been（現在完成式）都不符合過去式敘事語境。",
     "accuracyRate": 60,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】讀到 that everyone thought ___ a failure，你很自然會把 that 當成 thought 的受詞（「大家所認為的那件事」），這樣一來空格前面就沒有主詞了，於是四個選項怎麼填都覺得怪。實際上 that 是空格這個動詞的主詞，everyone thought 只是插進來的插入語。【怎麼判斷】先把插入語遮起來，句子剩下 a kind of glue ... that ___ a failure，還原成完整子句就是 The glue was a failure.（這種膠水是失敗品），everyone thought 是外加的「大家認為」。這個遮蓋動作，和 104 年第 18 題把 forming an exercise system 括起來、108 年第 17 題把兩個逗號之間的成分遮掉，是同一個閱讀動作。骨架清楚之後就只剩時態：同一句的 did not stick、前一句的 remembered、後一句的 coated 與 found 全是過去式，整篇在講一段已經結束的往事，所以用 was。【干擾選項】is 是現在式，會變成「大家現在認為它是失敗品」，但這款膠水後來做成了 Post-it，語意剛好相反。will be 是未來式，與回憶敘事不合。has been 是現在完成式，強調「到現在為止一直都是」，同樣與後來翻案成功的結局牴觸——這四個選項其實是在測你有沒有讀懂整篇故事的時間軸。【常考字詞搭配】a failure（失敗的人或事物）、turn out to be a failure（結果以失敗收場）、stick well（黏得牢）、develop a product（研發產品）、a colleague of mine（我的一位同事）、think of A as B（把 A 看作 B）"
   },
   {
     "id": "G98_19_1",
@@ -2513,7 +2515,8 @@
     "explanation": "【句型】as long as 固定搭配「只要」，表示「只要你想要，它就會一直黏在原地」；despite that（儘管）、rather than（而不是）、no matter what（無論什麼，這裡是條件「只要」不是讓步）都不合。",
     "accuracyRate": 49,
     "discrimination": 41,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】as long as 你最熟的意思是「和……一樣長」，跟 as tall as、as far as 擺在同一組，所以看到它夾在兩個子句中間會愣一下，這一格答對率不到五成。as long as 除了比長度，更常見的用法是引導條件：只要……就……，意思等於 provided that（劍橋 English Grammar Today 的「As long as and so long as」條目）。【怎麼判斷】先讀語意：It would stay in place ___ you wanted it to.——「只要你要它待在那裡，它就會一直待在原地」，這是條件關係，不是讓步，也不是對比。再用句法驗算 no matter what：what 進到子句裡一定要當主詞或受詞，但 you wanted it to 的主詞是 you、受詞的位置由 it 佔走了，沒有空位留給 what，句法上直接出局。順帶看句尾那個 to：後面的 stay in place 被省略了，這就是國中學過的 Would you like to join us?—I'd love to. 的 to，不是介系詞。【干擾選項】despite that 表讓步（儘管如此），可是本句前後並沒有互相衝突的兩件事。rather than 用來對比兩個對等的成分（tea rather than coffee），後面不接完整子句來表達條件。no matter what 除了上面說的句法問題，語意是「無論如何」，與「只要你要」的條件關係也不同。【常考字詞搭配】as long as（只要，表條件）、so long as（只要，與 as long as 同義）、stay in place（留在原地不動）、hold sth in place（把某物固定住）、as far as I know（就我所知）、despite the fact that（儘管）"
   },
   {
     "id": "G98_20_1",
@@ -2531,7 +2534,8 @@
     "explanation": "【句型】without damage 固定搭配「不會造成損害」，表示移除時不會傷害到書頁；into／out of／within 都不合這個語境。",
     "accuracyRate": 63,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】damage 你腦中多半是動詞「損害」，於是讀 remove it ___ damage 時會去找有方向感的介系詞，想像「把它移出來」。這裡的 damage 是不可數名詞（損傷、破損），空格要填的是一個後面能接名詞、又能表達「在沒有……的情況下」的介系詞，答案是 without。【怎麼判斷】without ＋ 名詞的整包等於一個副詞，用來修飾前面的動作。還原成完整說法：you could remove it and it would not cause any damage（你可以把它撕下來，而且不會造成任何損傷）。這正是便利貼的賣點，也和前一句 It would stay in place 形成「該黏的時候黏得住、要撕的時候撕得下」的一組對照。這一格的鑑別度高達 60，分開的是「只看空格前後幾個字硬套介系詞」和「把整段產品特色讀完再回頭填」這兩種讀法。【干擾選項】into 表示進入某個範圍，remove it into damage 語意不成立。out of 是「從……裡面出來」，但 remove 本身已經含有「移出」的意思，再加 out of 會重複，而且 damage 不是一個可以「出來」的地方。within 是「在……範圍之內」，damage 同樣不是範圍。這三個選項都把 damage 誤當成地點或方向的終點了。【常考字詞搭配】without damage（不造成損傷）、without difficulty（毫不費力地）、without permission（未經許可）、do damage to（對……造成損害）、cause damage（造成損害）、remove A from B（把 A 從 B 移除）"
   },
   {
     "id": "G98_21_2",
@@ -2550,7 +2554,8 @@
     "accuracyRate": 84,
     "discrimination": 39,
     "contextSpan": "跨句",
-    "contextNote": "In fact 修正前一句「鳳梨並非原生植物」的說法"
+    "contextNote": "In fact 修正前一句「鳳梨並非原生植物」的說法",
+    "note": "【你可能會這樣想】In fact 你背的是「事實上」，用來補充事實。但四個選項代進去好像都讀得通，這時要看的不是中文翻譯，而是前後兩句的關係。前一句說鳳梨並不是夏威夷的原生植物，空格句說鳳梨直到 1813 年才出現在那裡——後句沒有換話題，而是把前句講得更具體、把話說得更重，這正是 in fact 的功能：承接前句，再給出更強的說法。【怎麼判斷】這一格必須回頭讀前一句，屬於跨句題。判斷的步驟是先問「後句和前句是什麼關係」：舉例、因果、加強，還是逐步變化的過程？答案是加強，所以填 In fact。同一篇稍後的 From there（從那裡起）也是同一類銜接詞，都在替讀者標示下一句要往哪個方向走，可以一起記。【干擾選項】For example 要求後句是前句的其中一個例子，但這一段從頭到尾只講鳳梨一種植物，沒有「其中一例」可言。As a result 要求前因後果，可是「不是原生種」與「1813 年才出現」是同一件事的兩種說法，不是誰造成誰。Little by little（漸漸地）講的是一個持續變化的過程，本句給的卻是一個確切年份。【常考字詞搭配】in fact（事實上）、as a matter of fact（事實上，與 in fact 同義）、not…until（直到……才）、a symbol of（……的象徵）、a native plant（原生植物）、little by little（漸漸地）"
   },
   {
     "id": "G98_22_2",
@@ -2568,7 +2573,8 @@
     "explanation": "語意「鳳梨『最初』是在巴拉圭和巴西南部被發現的」，originally（最初）符合這個溯源語境；nearly（幾乎）、recently（最近，這是講歷史起源不是近期）、shortly（不久）都不合。",
     "accuracyRate": 75,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 originally，你腦中跳出來的通常是 original「原創的、原版的」（an original song 原唱、the original version 原版），整個和「創意」綁在一起。但副詞 originally 講的是時間，意思是「最初、本來」，指的是一件事最早的狀態或起點。【怎麼判斷】這一段是一條清楚的時間線：先在南美洲被發現，接著原住民種到中南美洲與加勒比海一帶，然後哥倫布把它帶回歐洲，再傳到世界各地，最後才落腳夏威夷。空格這一句是這條線的起點，需要的正是「最初」。把四個選項各代進去一次，再看它與時間線的位置合不合，答案就只剩一個。【干擾選項】nearly（幾乎）拿來修飾 found 會變成「幾乎被發現」，語意不通。recently（最近）與前一句的 1813 年、後文的哥倫布年代直接衝突。shortly（不久後）看起來最像，但它需要一個時間基準點才用得上，像 shortly after the war（戰後不久），本句並沒有給任何基準點，單獨用 shortly 會沒有著落。【常考字詞搭配】originally（最初、本來）、be found in（產於、在……被發現）、the southern part of（……的南部）、shortly after（……之後不久）、the original version（原版）、nearly all（幾乎全部）"
   },
   {
     "id": "G98_23_2",
@@ -2586,7 +2592,8 @@
     "explanation": "關係副詞 where 引導地方子句，「在……那裡哥倫布首次發現了它」；that／what／which 都不能這樣引導子句來表達「在某地」的地點語意。",
     "accuracyRate": 69,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】where 你最熟的身分是疑問詞「在哪裡」，所以看到它出現在逗號後面會覺得陌生。這裡的 where 是關係副詞，前面那一整片加勒比海地區就是它的先行詞，整個子句在補充說明「哥倫布就是在那裡第一次見到鳳梨的」。【怎麼判斷】用最可靠的一招：數一數空格後面的子句缺不缺成分。Christopher Columbus first found it 的主詞、動詞、受詞都齊了，一個名詞位置都不缺；而 that、which、what 都是關係代名詞，進到子句裡一定要當主詞或受詞，這裡沒有空位給它們，所以只能填不佔名詞位置的關係副詞 where。還原成兩句話驗算：Natives planted the fruit in the Caribbean region. ＋ Columbus first found it there.——there 就是 where 的來源。where 也可以寫成 in which，兩種說法指的是同一件事。這一格鑑別度 60，分開的正是「有沒有動手數子句成分」這個習慣。【干擾選項】that 還多一個問題：它不能用在逗號後面的補充說明子句（劍橋 English Grammar Today 的關係子句條目）。which 若要用，必須補上介系詞成為 in which。what 自己帶著先行詞（＝ the thing that），不能再回頭修飾前面的名詞。101 年第 22 題也考 where，但那一題空格前沒有先行詞，著力點與本題正好相反，兩題可以對著看。【常考字詞搭配】the place where（……的那個地方）、the reason why（……的原因）、the day when（……的那一天）、in which（＝ where，在其中）、the Caribbean region（加勒比海地區）、plant a crop（種植作物）"
   },
   {
     "id": "G98_24_2",
@@ -2604,7 +2611,8 @@
     "explanation": "過去式 spread（動詞原形跟過去式同形），配合整段過去式敘事，「這種美味的水果傳播到文明世界的其他地方」；to spread（不定詞，句子需要限定動詞）、should spread（情態動詞，不需要建議語氣）、will spread（未來式，不合過去式敘事）都不合。",
     "accuracyRate": 65,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】spread 三態同形（spread-spread-spread），填進去以後看起來就像原形動詞，於是你會想「主詞 the tasty fruit 是單數，動詞不是應該加 s 嗎」，反而不敢選它。這正好是本題的關鍵：如果這裡是現在式，就必須寫成 spreads；既然沒有 s，就代表它是過去式。國中背過的 put-put-put、cut-cut-cut、cost-cost-cost 都是同一組三態同形的動詞（唯一要另外留意的是 read：三態拼法雖然一樣，過去式與過去分詞的發音卻要改成和 red 同音；spread 沒有這個變化，三個形式發音都相同）。【怎麼判斷】兩步。第一步，這個子句沒有別的限定動詞，空格必須是主要動詞，to spread 是不定詞，不能單獨擔任主要動詞，先刪掉。第二步看時態：前一句 Columbus brought it ... back to Europe、後面的 It was carried on sailing ships、句末的 came to Hawaii 全是過去式，這一段從頭到尾在講一段已經結束的歷史。同一份考卷第一篇的第 18 題也是靠「整篇過去式敘事」來定時態，兩題可以對照著看。【干擾選項】should spread 帶有「應該要傳播」的建議意味，但這裡是在陳述已經發生的事實。will spread 是未來式，與整段歷史敘述矛盾。to spread 除了不能當主要動詞，也有人把它誤讀成表目的的「為了傳播」，可是句首已經有 From there 交代起點，句子缺的是動詞，不是目的。【常考字詞搭配】spread throughout（傳遍……各處）、spread to（傳播到）、spread the word（把消息傳出去）、from there（從那裡起）、be carried on ships（用船運送）、other parts of the world（世界其他地方）"
   },
   {
     "id": "G98_25_2",
@@ -2660,7 +2668,8 @@
     "explanation": "【句型】instead of 固定搭配「而不是」，表示「強調參賽者的運動成就，而不是他們的身體障礙」；in terms of（就……而言）、at the risk of（冒著……的風險）、at the cost of（以……為代價）都不合。",
     "accuracyRate": 58,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】instead of 你最熟的畫面是「代替」（I'll go instead of you. 我代替你去），所以看到它夾在兩個名詞片語中間，一時會轉不過來。其實「代替」和「而不是」是同一個概念的兩面：選了 A，就等於沒選 B。劍橋詞典把 instead of 解釋成 in place of（取代某人或某物的位置），本句就是「要看的是運動成就，而不是身體障礙」。【怎麼判斷】先看空格前後的詞性：前面是 the participants' athletic achievements（名詞片語），後面是 their physical disability（名詞片語），空格要填的是能把兩個名詞片語接起來、又能表達「要 A 不要 B」的成分。再看語意方向：整段一直在說帕運看的是運動員的成就，不是他們的障礙，所以是取捨關係。順帶記清楚：instead 是副詞，單獨使用時放句首或句尾；instead of 是介系詞片語，後面一定要接名詞或動名詞。【干擾選項】in terms of（就……而言）會變成「從身體障礙的角度來看他們的運動成就」，與帕運的宗旨相反。at the risk of（冒著……的風險）後面要接不好的後果，而「強調成就」不會冒任何風險。at the cost of（以……為代價）會讀成「以他們的身體障礙為代價換來成就」，語意荒謬。三個干擾選項都是「of ＋ 名詞」的形狀，形狀對、語意全錯，這正是這一格要考的。【常考字詞搭配】instead of ＋ 名詞或動名詞（而不是……）、rather than（而不是）、in terms of（就……而言）、at the risk of（冒著……的風險）、at the cost of（以……為代價）、emphasize the importance of（強調……的重要性）"
   },
   {
     "id": "G98_28_3",
@@ -2678,7 +2687,8 @@
     "explanation": "現在分詞片語 participating in... 作後位修飾語，修飾前面的複數名詞 athletes，表示「參與帕運的運動員（人數）」；participate 是不及物動詞，運動員與「參與」這個動作是主動關係，所以用現在分詞修飾；to participate（不定詞）帶有尚未發生、未來要去做的語感，不適合描述本句這種已經發生、記錄在歷史統計數據裡的「參賽運動員人數」；participate（原形動詞）、participated（過去分詞被動）都不合。",
     "accuracyRate": 51,
     "discrimination": 43,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】讀到 The number of athletes ___ in the Summer Paralympic Games has increased...，你可能以為空格就是句子的主要動詞，於是在 participate 和 participated 之間猶豫，這一格只有五成一的人答對。真正的主要動詞在後面：has increased（人數增加了），主詞是 The number（數量）；空格填的是修飾 athletes 的後位修飾語。【怎麼判斷】先找主要動詞，再回頭看空格。句子已經有 has increased，如果空格再填一個限定動詞，整句就會出現兩個動詞卻沒有連接詞，所以空格只能是分詞或不定詞。接著判斷主動還是被動：還原成關係子句是 athletes who participate in the Games（參加帕運的運動員），運動員是自己去參加，屬於主動，所以用現在分詞 participating。國中學過的 a barking dog（＝ a dog that barks）正是同一個結構。【干擾選項】participate 是原形動詞，填進去會讓句子出現兩個主要動詞。participated 是過去分詞，過去分詞作後位修飾表示被動（a broken window ＝ a window that is broken），但 participate 是不及物動詞，本來就沒有被動式，這個選項在文法上就站不住。to participate 作後位修飾帶有「將要、有待去做」的意味，多半搭配序數或最高級（the first athlete to participate 第一位參賽的選手），與本句在報數字、講已經完成的歷史統計不合。【常考字詞搭配】participate in（參加）、take part in（參加，與 participate in 同義）、the number of ＋ 複數名詞（……的數量）、a number of ＋ 複數名詞（許多……）、increase from A to B（從 A 增加到 B）、grow in size（規模擴大）"
   },
   {
     "id": "G98_29_3",
@@ -2696,7 +2706,8 @@
     "explanation": "【句型】take place 固定片語「舉行/發生」，表示「帕運也在跟奧運相同的城市舉行」；taken turns（輪流）、taken off（起飛/脫下）、taken over（接管）都不合。",
     "accuracyRate": 73,
     "discrimination": 45,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】take place 你背過「舉行、發生」，真正麻煩的是它旁邊那一串長得很像的片語：take one's place（就座、就定位）、take the place of（取代）、take turns（輪流），看到四個都以 taken 開頭的選項，記憶很容易互相干擾。另外提醒一件常錯的事：take place 沒有被動式，不能寫成 was taken place，因為它本身就等於 happen。【怎麼判斷】線索在前一句：The Paralympic Games have always been held in the same year as the Olympic Games（帕運一直與奧運在同一年舉行）。空格句用 also 承接，把「同一年」升級成「同一個城市」，需要的動詞正是「舉行」——前一句的 held 就是最直接的同義提示。再者主詞 they 指的是帕運這項賽事，賽事本身只能「舉行、發生」，這也把選項縮到只剩 take place。【干擾選項】taken turns（輪流）與「在同一個城市」正好相反，而且 take turns 後面通常接 V-ing 或 to V（They take turns driving. 他們輪流開車）。taken off 是「起飛、脫下、突然大受歡迎」，主詞是飛機、衣物或某個事物，與 in the same city 搭不上。taken over 是「接管」，後面需要一個被接管的對象，句子裡並沒有。【常考字詞搭配】take place（舉行、發生）、be held（被舉辦）、take turns（輪流）、take over（接管）、take off（起飛；脫下）、in the same year as（與……同一年）"
   },
   {
     "id": "G98_30_3",
@@ -2714,7 +2725,8 @@
     "explanation": "語意「保持這個做法/慣例在未來繼續下去」，指帕運和奧運在同一城市舉辦這件事，practice（做法/慣例）符合這個語境；piece／deadline／date 都不符合這裡「維持一個慣例」的語意。",
     "accuracyRate": 41,
     "discrimination": 38,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】practice 你腦中就是「練習」，還帶著「不夠熟所以要多練」的味道，所以 keep this practice 讀起來會很卡，這一格答對率只有 41%。practice 還有一個常考的名詞義：長期沿用下來的「做法、慣例」（劍橋詞典：something that is usually or regularly done, often as a custom）。104 年第 16 題考的是它的動詞義「習練、修習」（practice Tai Chi），本題考的是名詞義，同一個字的兩個方向都要記。【怎麼判斷】先確定 this 指什麼。空格所在的句子說國際奧會與國際帕拉林匹克委員會簽了協議，而前一句說自 1988 年首爾帕運起，帕運也開始在與奧運相同的城市舉辦——this 指的就是「在同一個城市舉辦」這個做法。所以空格要填的是一個能被 keep（維持）下去的抽象名詞，指一種持續沿用的安排。最後一句 From the 2012 bid onwards, the city chosen to host the Olympic Games will also host the Paralympics 更把這個做法寫成了往後的通則，是最強的文內佐證。【干擾選項】date（日期）最誘人，因為前後出現了 2001 年 6 月 19 日和 2012 年這些數字，但協議要維持的是「在哪裡辦」，不是某個日期；何況上文已說兩項賽事本來就在同一年舉行，年份不是爭點。deadline（截止期限）是最後期限，協議並不是在訂期限。piece（一片、一件）需要先有一個被切分的整體才說得通，這裡沒有。【常考字詞搭配】a common practice（常見的做法）、in practice（實際上、實務上）、put sth into practice（把……付諸實行）、practice makes perfect（熟能生巧）、sign an agreement（簽署協議）、host the Games（主辦賽事）"
   },
   {
     "id": "G99_16_1",
