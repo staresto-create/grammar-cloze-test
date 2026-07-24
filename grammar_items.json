@@ -2021,7 +2021,8 @@
     "explanation": "現在分詞 including 表示「其中包括」，舉例列出所供應的物品；concerning（關於）、showing（展示）、relating（有關，通常relating to才是固定搭配）都不合。",
     "accuracyRate": 82,
     "discrimination": 47,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是 -ing 結尾，你大概會先想「哪一個翻成中文最順」。concerning 和 relating 中文都是「關於、有關」，念起來好像都行；relating 尤其誘人，因為 relate 這個字太熟了。落差就在這裡：你腦中的 relating 是「有關的」這個意思，但 relate 這個動詞後面一定要有 to 才站得住（relate to），空格後面直接就是 waist-high tubs，to 根本沒出現，光是這個缺口就先出局。這一招和 97 年第 25 題一模一樣：那題的 off record 少了 the，也是還沒進到語意就先被文法刷掉。片語題先數一數冠詞和介系詞有沒有缺，常常一眼就能砍掉一個選項。\n【怎麼判斷】先看空格前後兩邊是什麼關係。前面是 everything（我們供應的一切），後面是 waist-high tubs, shampoo, and towels（浴缸、洗毛精、毛巾）。後面三樣不是「everything 所談論的主題」，而是 everything 裡面的成員 —— 這是「整體對部分」的關係。英文專門用來從整體裡舉出部分成員的字就是 including，劍橋詞典把它收在介系詞（preposition）底下，後面直接接名詞，不需要任何介系詞來牽。國中就見過這個句型：Everyone came to the party, including my brother.（大家都來了，包括我弟弟。）everyone 是整體，my brother 是其中一員，和本題的骨架完全相同。順帶把同一份考卷的第 27 題擺在一起看：那題考 ranging，兩題都是「這個 -ing 字後面該接什麼是固定的」—— including 後面直接接名詞，ranging 後面一定接 from...to...，形態像、規矩不同。這裡再往外拉一層，對你長期讀英文很有用。including 雖然長得像分詞，其實早就整個變成介系詞了（Greenbaum 與 Whitcut「Guide to English Usage」把這一批字列為已經轉成介系詞或連接詞的字）。這一類字分三個層次處理最省力。第一層是 according to、owing to、regardless of 這種已經黏成一組的，直接當介系詞片語整組背下來，完全不必回頭分析它的分詞來源 —— 109 年第 29 題考的 owing to 就是這一層。第二層是 given、regarding、concerning 這種單獨一個字就當介系詞用的，同樣是認得這個字就夠了；given 和 considering 後面還可以接 that 子句，那時它就當連接詞用。90 年第 16 題考 given that Christmas is just a few weeks away（既然聖誕節再過幾個星期就到了），95 年第 18 題考 Regarding the extra money you want...（關於你這個月想多要的那筆錢），兩題的四個選項都故意排成分詞的各種形態嚇人，實際上只是在問你認不認得這個字 —— 這正是大量閱讀的人在這類題目上佔便宜的地方。第三層要小心，它是真的得靠文法：including 和 included 意思相同、位置相反 —— including 擺在名詞前面，included 擺在名詞後面。劍橋詞典 included 詞條的例句 The fee covers everything, babysitter included.（費用包含一切，保母費也算在內）和本題的 We supply everything, including waist-high tubs... 說的是同一件事，只是前後對調。85 年第 25 題的四個選項是 including／included／being included／was included，考的正是這個位置判準：空格在名詞前面，就只能用 including。【干擾選項】concerning（關於）：劍橋詞典也收它當介系詞，意思等於 about，所以它文法上確實可以直接接名詞，不能用「缺介系詞」刷掉，得靠語意。它接的名詞是「所談論的主題」，例如 information concerning the case（與此案有關的資訊）；本句後面三樣是 everything 的內容清單，不是主題，套不進去。showing（展示）：分詞的意義主詞會變成 we，還原成 and we show waist-high tubs...，變成「我們供應一切，並且展示浴缸」兩件事並排，everything 和那三樣東西之間的包含關係就沒人交代了。relating（有關的）：見上面，少了 to。\n【常考字詞搭配】including tax（含稅）、not including（不包含）、relating to（與……有關）、concerning（關於、有關）、supply somebody with something（提供某人某物）、normal operating hours（正常營業時間）"
   },
   {
     "id": "G96_19_1",
@@ -2039,7 +2040,8 @@
     "explanation": "語意轉折：「雖然Happy Puppy是相對較新的服務，我們卻受益於……多年經驗」，Although（雖然）符合這個讓步轉折；Because（因為）、Once（一旦）、Until（直到）都不合。",
     "accuracyRate": 67,
     "discrimination": 47,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】Because 通常是這一題最多人選的答案，因為「我們受益於二十多年的養狗經驗」聽起來就是一句好話，好話前面擺個「因為」很順手。真正的問題是你可能沒看出來這兩個子句是對立的：a relatively new service（店是相對新開的）對 more than 20 years of experience（二十多年的經驗）—— 店新、人卻不新，這是一組刻意寫出來的矛盾。這個矛盾一旦沒讀出來，四個連接詞填進去都像可以，只好用語感猜。\n【怎麼判斷】先把兩個子句的意思各量一次：子句一是「Happy Puppy 是相對新的服務」，子句二是「我們有二十多年的經驗」。甲成立、乙照樣成立，而且乙聽起來和甲相衝 —— 這種關係就是讓步，英文用 Although。驗算方式很簡單：把它改寫成國中最熟的 but 句型 —— Happy Puppy is a relatively new service, but we benefit from more than 20 years of experience.（Happy Puppy 是相對新的服務，但我們有二十多年的經驗。）語意通，代表讓步關係成立。這裡順便把國中教過的規矩複習一次：中文可以說「雖然……但是……」，英文的 although 和 but 只能留一個，不可以同時出現。另外，同一份考卷的第 23 題答案是 If（條件），而 Though 是那一題的干擾選項；本題答案是 Although（讓步），If 在這裡也填不進去。兩題正好把「讓步」和「條件」拆開來各考一次，對照著看最清楚。\n【干擾選項】Because（因為）：填進去變成「因為 Happy Puppy 是新服務，所以我們有二十多年經驗」，新開的店推不出二十年的資歷，因果接不上，反過來也接不上。Once（一旦、一……就）：劍橋 English Grammar Today 說明 once 引導的子句指的是一個完成的事件或動作，主要子句才接著發生；is a relatively new service 是一個狀態，不是可以「完成」的事件，語意在這一步就卡住了。Until（直到）：until 標的是某件事持續到什麼時候為止，主要子句得是一個會被終止的動作；we benefit from... 並沒有要在某個時間點停下來。\n【常考字詞搭配】a relatively new service（相對新的服務）、benefit from（從……受益）、more than 20 years of experience（二十多年的經驗）、care for（照顧）、once in a while（偶爾）、not until（直到……才）"
   },
   {
     "id": "G96_20_1",
@@ -2057,7 +2059,8 @@
     "explanation": "【句型】devoted to 固定搭配「致力於/奉獻給」；determined（下定決心的，通常接動詞不定詞而非這種介系詞用法）、delighted（高興的）、directed（被指導的）都不合這個「致力於」的語境。",
     "accuracyRate": 43,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】這題答對率只有 43%，四個選項都是 de- 或 di- 開頭的過去分詞當形容詞，長得幾乎一樣，而最誘人的是 determined —— 「我們完全下定決心要幫助狗狗享受充實而活躍的生活」，中文順到不行。落差在於：be determined 後面接的是不定詞 to V（be determined to help），而本題空格後面是 to helping，多了 -ing。同一個 to，在 be devoted to 裡是介系詞，在 be determined to 裡是不定詞符號 —— 身分不同，後面能接的東西就不同。這和你早就踩過的 used to V（以前常常）對 be used to V-ing（習慣於）是同一個大分類的陷阱。\n【怎麼判斷】決定性的線索不在空格，在空格後面的 helping。先分兩堆：to 是介系詞的，後面接名詞或動名詞 —— be devoted to V-ing、be used to V-ing、look forward to V-ing、object to V-ing；to 是不定詞符號的，後面接原形動詞 —— be determined to V、be delighted to V。空格後面是 helping 不是 help，第一刀就把 determined 和 delighted 一起砍掉。國中背過的 I look forward to seeing you.（我期待見到你。）就是這一組最好的掛鉤，那個 to 後面接 V-ing 從國中就是這樣。再往下追一層，就知道 devoted 的 to 為什麼是介系詞：它來自及物動詞用法 devote something to something（把某物奉獻給某事，劍橋詞典 devote 詞條），例如 She devoted her life to helping others.；把受詞拉到主詞位置變成被動，就成了 She is devoted to helping others.，to 後面本來就是介系詞受詞的位置，當然接動名詞。這樣還原一次，就不必死背哪個接 V-ing、哪個接原形。「空格前後的 to 到底是哪一種身分」是這個題庫反覆出現的考點，而且愈早期的考卷愈愛考：104 年第 23 題的 alert it to ___ evil，那個 to 來自片語 alert somebody to something，是介系詞，所以空格要填修飾 evil 的 approaching；99 年第 16 題更乾脆，把四種一次擺出來對打 —— gave up、ended up、took to 後面都接動名詞，只有 used to 接原形，光看選項就知道它在考 to 的身分。往後只要空格前後看得到 to，第一件事都是先確認它前面那個字要求接什麼。\n【干擾選項】determined（下定決心的）：搭配是 be determined to V（劍橋詞典），後面要原形 help。而且程度副詞也不搭，決心通常說 firmly determined，不說 completely determined。delighted（高興的）：be delighted to V（很高興做某事）、be delighted with something（對某事感到高興），to 後面同樣要原形。directed（被指示的、被導向的）：direct something to somebody 是把某物寄給或指向某人，be directed to 多半解成「被指示去做某事」，但本句主詞 We 是自己投入的一方，不是被誰指派的，語氣整個反了。\n【常考字詞搭配】be devoted to V-ing（致力於做某事）、devote oneself to something（投身於……）、be determined to V（決心做某事）、be delighted to V（很高興做某事）、be dedicated to V-ing（致力於做某事）、a full and active life（充實而活躍的生活）"
   },
   {
     "id": "G96_21_2",
@@ -2094,7 +2097,8 @@
     "explanation": "語意「印度南北端之間的『距離』每年縮短2公分」，distance（距離）符合；height（高度）、geography（地理）、landscape（地貌）都不合。",
     "accuracyRate": 52,
     "discrimination": 44,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】這題答對率只有 52%，一半的人沒拿到。height 是最大的陷阱：整篇都在講喜馬拉雅山，下一句又寫 the thickness of the Himalayas increases（喜馬拉雅山的厚度增加），滿腦子都是「高」，看到 height 就想勾。落差在於 shrink 這個動詞：你可能把它讀成「縮水、變矮」，但本句 shrink 的對象是 the ___ between India's southern and northern tips —— 南端到北端量的是地表上橫過去的一段長度，不是往上的高度。印度在變短，不是在變矮。\n【怎麼判斷】關鍵在空格後面緊接著的 between India's southern and northern tips。between A and B 給的是「兩點之間」，能被「兩點之間」修飾、又能 shrink by 2 cm 的名詞只有 distance。還原成國中就見過的句型：the distance between the two cities（兩座城市之間的距離），骨架完全一樣。再用單位驗算一次：shrinks by 2 cm 給的是一個長度數值，geography 和 landscape 都是抽象概念，量不出 2 公分。這裡順便把 by 記牢：shrink by 2 cm 是「縮短了 2 公分」講變化量，shrink to 2 cm 才是「縮短到 2 公分」講結果值，國中的 Prices rose by 10%.（價格上漲了一成。）就是同一個 by。最後看篇內對照，作者是刻意把兩句寫成對稱的：the distance between India's tips shrinks by 2 cm 對 the thickness of the Himalayas increases —— 一個變短、一個變厚，兩句都是「可以量的維度名詞 ＋ 變化動詞」。distance 和 thickness 站在同一個位置上，這個對稱就是最強的佐證。\n【干擾選項】height（高度）：量的是垂直方向。文章裡走垂直方向的是喜馬拉雅山的 thickness，不是印度的南北兩端。geography（地理、地理環境）：指一地的地理條件或這門學科，不可數，也沒有「兩端之間」這種量測概念。landscape（地貌、景觀）：指眼睛看得到的地表樣貌，同樣不是一個可以每年減少 2 公分的長度。\n【常考字詞搭配】the distance between A and B（A 與 B 之間的距離）、within walking distance（步行可到的距離內）、keep one's distance（保持距離）、at a distance（在一段距離外）、shrink by（縮短……的幅度）、a long-distance call（長途電話）"
   },
   {
     "id": "G96_23_2",
@@ -2112,7 +2116,8 @@
     "explanation": "條件句「如果收縮持續下去，印度將在兩億年後消失」，If 引導條件子句；For（因為）、Unless（除非，語意相反，應該是「如果持續」不是「除非持續」）、Though（雖然）都不合。",
     "accuracyRate": 61,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】Unless 是這題最漂亮的陷阱，因為你腦中的 unless 只剩「除非」兩個字，而中文的「除非」在口語裡用得很鬆 ——「除非這個縮小繼續下去，印度會消失」念起來竟然有點像話。落差在於 unless 真正的意思是 if...not（如果不……），劍橋 English Grammar Today 直接把它解釋成 except if。只要把這個換算做出來，語意馬上垮。這題鑑別度高達 59，分開的正是「有沒有真的把 unless 換算成否定」這一個動作 —— 停在中文「除非」的人會覺得通，動手還原的人一秒就發現矛盾。\n【怎麼判斷】兩個選項都能搭條件句公式，就把兩個都還原一次，看哪一個講得通：If the shrinking continues 是「如果縮小持續下去，印度會消失」，成立；Unless the shrinking continues 等於 If the shrinking does not continue，是「如果縮小不再持續，印度反而會消失」，縮小停了卻消失，自己打自己，出局。另外還有一個形式線索可以先把範圍縮到兩個：主要子句是 India will disappear，用 will ＋ 原形，配的就是國中背過的條件句公式 —— If ＋ 現在式，主要子句 will ＋ 原形，像 If it rains tomorrow, I will stay home.。四個選項裡只有 If 和 Unless 走這個公式，先留下這兩個，再用上面的還原把 Unless 刷掉，答案就定了。同一份考卷的第 19 題答案是 Although（讓步），而 Though 正是本題的干擾選項；兩題把「讓步」與「條件」分在兩邊考，擺在一起看，兩種關係的差別最清楚。\n【干擾選項】For（因為）：for 表示原因時是對等連接詞，一律擺在兩個子句中間，不能放句首（劍橋詞典），光是位置就錯了。Unless（除非）：見上面的還原。補一個語感：unless 通常搭「不做某事就會有壞結果」，像 You'll be late unless you hurry.（你不快點就會遲到。）Though（雖然）：讓步要求前後有衝突，但「縮小持續下去」和「印度會消失」是同一個方向的因果，順順地走下去，沒有可以讓步的地方。\n【常考字詞搭配】unless（除非，等於 if...not）、as long as（只要）、in case（以防、萬一）、on condition that（條件是……）、in 200 million years（兩億年後，in ＋ 時間表示「……之後」）、continue to V／continue V-ing（繼續做某事）"
   },
   {
     "id": "G96_24_2",
@@ -2150,7 +2155,8 @@
     "explanation": "語意「甚至只是幾毫米的移動，都是可能發生地震的徵兆」，even（甚至）加強語氣，強調小幅度移動的重要性；yet（然而）、rather（相當）、indeed（的確）都不合。",
     "accuracyRate": 53,
     "discrimination": 52,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個都是很常見的副詞，中文一翻好像都能塞。indeed 最容易被放行，因為「的確」是個萬用詞，讀過去不太會卡；rather 也很誘人，因為它長得像國中背過的 quite a few（相當多），你可能會下意識覺得 rather a few 也是「相當多」。落差有兩層：第一，rather a few 不是標準說法；第二，本句要講的是「量很小」，不是「量很多」，方向剛好相反。這題鑑別度 52，分開的就是有沒有讀出「小量卻有大意義」這個語氣 —— 讀出來的人直接鎖定 even，沒讀出來的人只能比較四個中文翻譯。\n【怎麼判斷】先把本句的邏輯量一遍：前面是 a movement of ___ a few millimeters（地殼只移動幾公釐，量很小），後面是 is a sign of possible earthquakes（是可能地震的徵兆，意義很大）。「小到這種程度，竟然都算數」，這種「連……都」的語氣，英文用 even。劍橋 English Grammar Today 把 even 歸在聚焦副詞（focusing adverb）底下，功能是標出「超出你預期」的那一項，位置就擺在它要強調的那一項前面 —— 這裡要強調的是 a few millimeters，所以 even 就緊貼在它前面，位置完全吻合。還原驗算：把 even 讀成「連……都」再走一次 ——「地殼連幾公釐的移動都是可能地震的徵兆」，通。篇內對照更直接：同一段的 this cannot be treated as a trivial finding in science（這在科學上不能被當成無關緊要的發現），trivial 就是「微不足道的」，作者一路在鋪「量小、但別小看」，even 正好接在這條線上。\n【干擾選項】yet（然而；還沒）：當副詞表示「尚未」時擺在否定句或疑問句的句尾，像 He hasn't arrived yet.；表示轉折時站在兩個子句之間，不會插進 of 和 a few 的中間。rather（相當；寧可）：修飾形容詞或副詞（rather cold 相當冷），或者用在 would rather V（寧願做某事），它的工作不是標「連……都」。indeed（的確、確實）：用來加強已經說出口的話，多半擺句尾或句首，像 It was cold indeed.；它加強的是已經說出口的那句斷言，不是「小到超乎預期」的量。\n【常考字詞搭配】even if／even though（即使／雖然）、even so（即使如此）、a sign of（……的徵兆）、would rather V（寧願做某事）、not yet（尚未）、quite a few（相當多）"
   },
   {
     "id": "G96_26_3",
@@ -2168,7 +2174,8 @@
     "explanation": "with 表示「有著……特徵的」（goats and cows with enormous horns＝長著巨大犄角的山羊和牛）；into／for／from 都不合這個修飾用法。",
     "accuracyRate": 54,
     "discrimination": 46,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】with 在你腦中大概只有兩個意思：「和……一起」和「用……工具」。這兩個意思套進 Herds of goats and cows ___ enormous horns 都不通，於是你反而會去找別的選項，把真正的答案跳過去。落差就在這裡：with 還有一個從國中就學過、但很少被說破的用法 —— 表示「具有某項特徵」，劍橋詞典直接把這個義項解釋成 having。97 年第 26 題也考過 with，不過那一題是 with ＋ 受詞 ＋ 受詞補語（表附帶狀態），骨架比較長；本題是最單純的 with ＋ 名詞，兩題可以擺在一起，把 with 的兩種考法一次分清楚。\n【怎麼判斷】先數句子成分，這一步就能定案。Herds of goats and cows ___ enormous horns graze the lush green fields. 主詞是 Herds of goats and cows，動詞是 graze，受詞是 the lush green fields —— 主要成分已經齊了。既然齊了，___ enormous horns 這一段就只能是修飾語，而且緊貼在主詞後面，是在後位修飾主詞。能後位修飾名詞、又表示「具有某特徵」的介系詞就是 with。還原成關係子句驗算：cows with enormous horns 等於 cows that have enormous horns（有著巨大犄角的牛）。這個「with 等於 having」的還原做過一次，國中的兩個老例句就全部串起來了 —— the girl with long hair（長頭髮的女孩）、a house with a red roof（有紅屋頂的房子），骨架和本題一模一樣，只是換成牛和角。\n【干擾選項】into（進入）：表示方向或轉變，像 walk into the room（走進房間）、turn into a butterfly（變成蝴蝶）；牛「進入巨大犄角」不成話。for（為了、給）：表示目的或對象，cows for enormous horns 會被讀成「為了取角而養的牛」，可是這一段是在寫眼前的風景（成群的牛羊在青翠草地上吃草），不是在講用途。from（從……來）：表示來源或出處，cows from enormous horns（來自巨大犄角的牛）語意不通。\n【常考字詞搭配】the girl with long hair（長頭髮的女孩）、herds of cattle（成群的牛）、graze the fields（在田野上吃草）、run into somebody（偶然遇見某人）、be famous for（以……聞名）、lush green（蒼翠繁茂的）"
   },
   {
     "id": "G97_16_1",
@@ -9789,7 +9796,8 @@
     "explanation": "【句型】ranging from...to... 固定分詞片語「範圍從……到……」；differing（不搭配from...to...這個固定範圍表達）、wandering（漫遊）、climbing（攀爬）都不合。",
     "accuracyRate": 51,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】這題答對率只有 51%。climbing 是最強的干擾，因為整句都在講山，climb 又剛好是「攀登」，「從 1,500 公尺爬升到 2,500 公尺」中文順得不得了。落差在於分詞的意義主詞是誰：這裡被形容的是 Rwanda's thousand hills（那一千座山丘本身），山丘不會自己往上爬。而且句子要說的是「這些山丘的高度分布在 1,500 到 2,500 公尺之間」—— 同一時間、各座山各有各的高度，不是同一座山一路往上升。這題鑑別度 56，分開的就是有沒有把 from...to... 當成一整組線索去找搭配的動詞，還是只把 from 讀成一般的「從……」。\n【怎麼判斷】兩個逗號夾住的 ___ from 1,500 m to 2,500 m in height 是插進來補充說明前面名詞的分詞片語，第一步永遠是還原成完整子句：Rwanda's thousand hills range from 1,500 m to 2,500 m in height.（盧安達的千座山丘高度從 1,500 公尺到 2,500 公尺不等。）主詞和動詞搭不搭，一還原就看得出來。第二步看 from...to... 這一組：range 的詞典詞條就是 range from A to B（在 A 到 B 之間變動，劍橋詞典 range 詞條），它給的是一組數值的上下限，正好搭上句尾的 in height（在高度這個項目上）。這裡也可以順手複習 from X to Y 的平行原則 ——X 和 Y 必須是同性質的東西，本題兩邊都是高度數值，對得整整齊齊。同一份考卷的第 18 題考 including，和本題一樣是「-ing 形態的字，後面接什麼是有規矩的」：including 後面直接接名詞，ranging 後面一定接 from...to...，兩題可以一起記。\n【干擾選項】differing（不同的）：differ 的搭配是 differ from（與……不同）或 differ in（在某方面不同），沒有 differ from A to B 這種表範圍的用法。如果真要說「高度各有不同」，英文會寫 differing in height，不會拉出 from...to...。看到 from 後面跟著 to，就要去找能配成一整組的動詞，這一招和片語題先檢查介系詞是同一個道理。wandering（漫遊、閒晃）：wander 的主詞要能自己移動，像 wander around the town（在鎮上閒晃）；山丘不會漫遊。climbing（攀爬；上升）：climb 確實可以表示數值上升，像 The plane climbed from 5,000 to 30,000 feet.（飛機從 5,000 英尺爬升到 30,000 英尺。）所以它錯不在片語不通，而在意義主詞不對 —— 飛機是真的在升高，一千座山丘不是。\n【常考字詞搭配】range from A to B（範圍從 A 到 B 不等）、a wide range of（各式各樣的）、differ from（與……不同）、wander around（四處閒晃）、in height（在高度上）、all year around（一年到頭）"
   },
   {
     "id": "G96_28_3",
@@ -9807,7 +9815,8 @@
     "explanation": "【句型】within reach 固定片語「觸手可及的/在可及範圍內」，表示「盧安達的一切在幾小時內都能到達」；off the record（非正式的/不公開的）、beyond doubt（無庸置疑）、in touch（保持聯絡）都不合。",
     "accuracyRate": 40,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】這題答對率只有 40%，in touch 拿走了不少人。原因是你把 touch 讀成「碰到、接觸到」，於是 everything in Rwanda is in touch in a few hours 被腦補成「盧安達的一切幾小時內都接觸得到」。落差在於 in touch 講的是人與人之間的音訊往來 —— keep in touch with somebody（與某人保持聯絡）、get in touch with somebody（與某人聯繫），和「到不到得了某個地方」無關。另外提醒一件事：97 年第 25 題考過 off record，那一題少了 the，光靠「冠詞漏掉」就能刷掉；本題選項 A 的 off the record 冠詞是齊的，同一招用不上，必須改用語意判斷。\n【怎麼判斷】先把整句的邏輯量一次。開頭是 And being a tiny country（而且因為是個很小的國家），所以 everything in Rwanda is ___ in a few hours。國家小 ＋ 幾小時，講的一定是「距離近、很快就到得了」。後半句把這個意思說得更白：the interesting spots can be explored comfortably in a couple of weeks（有趣的景點兩三個星期就能從容走完）—— 前後兩半都在講「範圍小、跑得完」，這個篇內對照就把語意鎖死了。再看 within reach 這個片語，它不必死背，拆開就懂：within 是「在……範圍內」，reach 是「手能構到的距離」，合起來就是「近得構得著」，劍橋詞典也收了 within easy reach of（離……很近）這個說法。國中教過的 Keep medicine out of children's reach.（藥品要放在小孩拿不到的地方。）就是它的反面，一正一反擺在一起最好記。這句話還有一個和答題無關、但值得知道的地方：And being a tiny country 的意義主詞是盧安達，可是主要子句的主詞卻是 everything in Rwanda，兩邊對不起來 —— 這就是文法書說的垂懸分詞（dangling participle），劍橋詞典舉的例子是 Arriving home, the door was open.（回到家的是人，不是門）。把主詞補回去就合法了：And Rwanda being a tiny country, everything is within reach...，或者還原成副詞子句 And because Rwanda is a tiny country, ...。要提醒的是，這種寫法在英文裡由來已久，不是近年才鬆綁：Merriam-Webster's Dictionary of English Usage 說垂懸修飾語在英國文學裡根深柢固，莎士比亞「哈姆雷特」就寫過 Sleeping in mine orchard, a serpent stung me.（睡在果園裡的是我，不是蛇）；把它訂成錯誤的是二十世紀的規範文法，像 Strunk 與 White「The Elements of Style」就明文要求句首的分詞片語必須指向主要子句的主詞。所以拿捏的方式是：自己寫作文時務必把主詞對齊，但讀到母語人士這樣寫的時候，不必懷疑自己看錯。順帶把這裡的 being 和同一份考卷第 18 題的 including 對著看：including 已經升格成介系詞，用起來不必管意義主詞是誰；這裡的 being 還是不折不扣的分詞，主詞就得對齊。同樣是 -ing 結尾，身分不同，規矩就不同。\n【干擾選項】off the record（不公開的、非正式的）：指說出來的話不列入正式紀錄，像 This is off the record.（這段話別寫進報導。）和距離遠近完全無關。beyond doubt（無庸置疑）：beyond 表示「超出……的範圍」，beyond doubt 就是「超出可懷疑的範圍」。它修飾的是一件事有多確定，不是有多近。順便把 beyond 和 within 對著看：beyond reach（構不到）正好是 within reach 的反面。in touch（有聯絡）：見上面。\n【常考字詞搭配】within reach（在可及的範圍內）、out of reach（構不到、拿不到）、within easy reach of（離……很近）、keep in touch with（與……保持聯絡）、off the record（不公開地、非正式地）、beyond doubt（無庸置疑）"
   },
   {
     "id": "G96_29_3",
