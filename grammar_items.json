@@ -6450,7 +6450,8 @@
     "explanation": "that 引導名詞子句作表語，說明「另一項要求是他應該有大耳朵」；what（不能這樣引導完整的表語子句）、whether（是否，語意不合，這裡不是不確定性而是明確要求）、why（為什麼）都不合。",
     "accuracyRate": 60,
     "discrimination": 41,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】what 在你腦中大概只有疑問詞「什麼」這一個身分，所以看到 was 後面要接一個子句，就在 what 與 that 之間憑語感二選一，唸起來順就填哪一個。這一格不必靠語感，把子句的成分數一遍就有答案。【怎麼判斷】四個選項都是能帶出名詞子句的字，可見這一格考的是「這個子句缺不缺成分」。先把空格後面整串讀完：he should have large ears, upward-slanting eyes and eyebrows——主詞是 he，動詞是 should have，受詞是 large ears, upward-slanting eyes and eyebrows，三樣齊全，一個空位都沒有。that 的工作只是把整個子句掛到 was 後面去當主詞補語，它自己不佔子句裡的任何位置，所以只有它填得進去。掛鉤用國中就見過的 The problem is that he is too young.（問題是他年紀太小。）：be 動詞後面接一個 that 子句來說明主詞是什麼，本句的 Another requirement was that... 是同一個骨架。這一題的鑑別度 41，分開的就是有沒有真的動手數成分，憑語感的人在這裡拿不到分。【干擾選項】what：它自己就是一個名詞，進到子句裡一定要佔一個位置，而這個子句三個位置都滿了，它站不進去。whether：意思是「是否」，用在兩種可能性還沒有定案的時候（I don’t know whether he will come. 我不知道他會不會來。），這裡卻是一條講明白的條件，不是懸而未決的選擇。why：意思是「為什麼」，填進去會變成「另一項要求是為什麼他該有大耳朵」，語意接不起來。【what 的兩種身分，別跟間接問句混在一起】what 進到名詞子句裡有兩種身分，都不是疑問詞「什麼」那麼單純。第一種是複合關係代名詞，意思等於 the thing(s) that，劍橋 English Grammar Today 的 what 條目舉的例句是 What we need to do is make a list of useful phone numbers.（我們該做的事，是列一張常用電話號碼的清單。）。第二種才是間接問句的疑問詞，像 I don’t know what he wants.（我不知道他想要什麼。）。分辨方法：換成 the thing that 讀得通就是第一種，非得換成「什麼」才通順就是第二種。兩種身分有一個共同點，也就是這一格真正的判準——what 一定要在子句裡佔一個位置（當主詞、受詞，或介系詞的受詞），因為它自己就是那個名詞。劍橋還講明另一件事：what 不能當一般的關係代名詞，前面若已經有名詞先行詞就得改用 which 或 that（This is the book which the lecturer mentioned. 這是那位講者提到的那本書；不能寫成 the book what...），所以空格前面只要站著一個名詞，what 也先出局。題庫裡有一組題可以擺在一起看：95 年第 24 題 but ___ they are willing to do for others，do 後面缺受詞，填 what；100 年第 29 題 the scarcity of goods is ___ causes humans to attribute value，causes 前面缺主詞，填 what；107 年第 26 題 ___ they are dreaming of，of 後面缺受詞，也填 what。本題的子句一個洞都沒有，這才是它非 that 不可的理由。【常考字詞搭配】meet a requirement（符合要求）、the requirement that…（……的這項要求）、The point is that…（重點在於……）、The reason is that…（原因在於……）、The problem is that…（問題在於……）、What matters is that…（重要的是……）。"
   },
   {
     "id": "G93_19_1",
@@ -6468,7 +6469,8 @@
     "explanation": "【句型】aged + 數字 是固定的後位形容詞片語「……歲的」（aged two or three＝兩三歲大的）；having aged（不是這個固定表達年齡的用法）、aging（語意方向不合，不是「正在老化」而是「……歲」）、to age（不定詞）都不合。",
     "accuracyRate": 40,
     "discrimination": 28,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】aged 一進眼睛，浮出來的多半是「年老的」——the aged（老年人）、an aged man（一位老人）。這一格講的卻是兩三歲的幼童，方向剛好相反，於是你會覺得 aged 一定不對，轉頭去挑看起來比較有文法的 having aged 或 aging。答對率只有四成，卡點大半在這個印象上。這一題的鑑別度也只有 28，代表高分群考生在這裡並沒有佔到便宜：答案完全落在「見過沒見過 aged 加數字」這個用法上，前後文再讀幾遍也推不出來，反而是文法練得越熟的人越容易吃虧——四個分詞形態排在一起，會忍不住去分析主動被動、完成與否，繞一大圈還是回到原點。同型的低鑑別度見 94 年第 29 題：線索完全在認不認得，不必回頭讀上下文，自然分不出閱讀的程度。【怎麼判斷】四個選項都是同一個動詞 age 的不同形態，可見這一格考的是形態。不過這一題不必推理，關鍵在認不認得 aged 的另一個意思：劍橋詞典的 aged 詞條把它分成兩個詞義，一個是「年老的」，另一個是「年齡為……的」，後面直接接數字（aged 20 二十歲的）。這裡的 aged two or three 走的是後者，整串補充說明前面的 the successful candidate。還原成完整子句就一目了然：The successful candidate, who was usually aged two or three, was then removed from his family...（那名獲選的男童通常年約兩三歲，接著就被帶離家人身邊……）。把說明擺到名詞後面（這種擺法叫後位修飾），跟國中的 a boy called Tom（一個叫湯姆的男孩）是同一種。兩個詞義連唸法都不一樣：「年老的」的 -ed 要唸成獨立的一個音節，跟 wicked、naked 同一掛；「年齡為……的」則不另外成音節，就是 age 後面加一個 d 的音。唸得出差別，意思也就不會混。【干擾選項】having aged：完成式的分詞，強調「已經變老了」這個先發生的動作，跟兩三歲的幼童對不起來。aging：現在分詞「正在老化」，方向與兩三歲正好相反。to age：不定詞「去變老」，接在 usually 後面也接不上去。三個選項的毛病其實是同一個——都把 age 讀成動詞「變老」，只有 aged 走的是「年齡為……」這條路。【順便把 age 與 aged 分清楚】講年齡時，除了 aged 加數字，美式報刊也常直接把名詞 age 或 ages 擺在同一個位置：children age 6 through 12、children ages 6 through 12、children aged 6 through 12，這三種寫法韋氏詞典都收，並說明三者都是通行的英語慣用法。差別在詞性：age 與 ages 是名詞，韋氏把 his oldest daughter, age 16 還原成 his oldest daughter, who is of the age 16（他最大的女兒，十六歲）；aged 才是過去分詞轉成的形容詞，還原成 children who are aged 6 through 12（六歲到十二歲的孩子）。所以 aged 不是「名詞加 -ed 就變形容詞」的產物，它是動詞 age 的過去分詞，跟 talented（有才華的）、gifted（有天賦的）那一類真的由名詞加 -ed 造出來的字不同路。位置也跟著分家：單獨一個 aged 擺在名詞前面時走的是「年老的」那個義（an aged man 一位老人）；要說某人幾歲，aged 一定帶著數字擺到名詞後面做後位修飾（a man aged 35 一名三十五歲的男子），也就是本題 The successful candidate, usually aged two or three 的擺法。至於 middle-aged、school-aged 這種用連字號黏起來的複合字是另一回事，它們走年齡義卻擺在名詞前面，整組當一個形容詞記就好。韋氏另外提到，aged 這個用法是三者裡最常被挑剔的——有人主張 aged 只該用在橡木桶裡的酒或乳酪上，不該拿來連結人和年齡——但它在英語裡其實用得非常穩固。【常考字詞搭配】aged 20（二十歲的）、children aged 6 to 12（六到十二歲的孩子）、middle-aged（中年的）、school-aged children（學齡兒童）、the aged（老年人）、at the age of（在……歲時）。"
   },
   {
     "id": "G93_20_1",
@@ -6486,7 +6488,8 @@
     "explanation": "依照文意（發現的繼承者總是出身卑微家庭，而不是貴族家庭），加上下一句「這是為了確保沒有強大的貴族家庭能奪取頭銜」的因果印證，語意上是對比「而不是貴族家庭」，rather than（而不是）符合這個邏輯；as a result of（由於……的緣故）會讓因果關係變得不通順。",
     "accuracyRate": 52,
     "discrimination": 46,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是好幾個字組成的一組，長得都很像介系詞片語，於是你很容易一個一個代進去唸唸看哪個順，唸到 as a result of 覺得「因為貴族家庭」好像也講得通，就停在那裡。答對率只有五成出頭，多半是這樣丟掉的。其實這一格有一個看得見的信號，不必靠語感。【怎麼判斷】四個選項都能直接接名詞，可見這一格考的不是文法而是「兩邊的語意關係」：是對比、排除，還是因果。信號就在空格兩側——前面是 lowly families（出身低微的家庭），後面是 noble ones（顯貴的家庭），lowly 與 noble 是一組反義詞，而 ones 是代替 families 的替代詞（掛鉤是國中的 I have two pens. One is red; the other is blue.）。同一個名詞、相反的形容詞擺在空格兩邊，這一格要的就是「是前者，不是後者」，rather than（而不是）正是做這件事的。再用下一句驗算：This was to ensure that no single and powerful noble family could seize the title（這是為了確保沒有哪個有權有勢的貴族家庭能奪走這個頭銜），整段的用意就是把貴族排除在外，與 rather than 完全同向。這一題的鑑別度有 46，分開的就是有沒有看出 lowly 與 noble 這一組對立。【干擾選項】as a result of（由於……）：填進去會變成「因為貴族家庭而被發現在平民家庭裡」，因果講不通，下一句的用意還正好相反。relative to（相對於）：用在拿一個基準去衡量比例或程度（The house is cheap relative to our income. 相對於我們的收入，這房子算便宜。），不是二選一的排除。with regard to（關於）：用來帶出要談的主題（with regard to your question 關於你的問題），後面接的是話題，不是被排除的對象，本身完全沒有對比的意思。【常考字詞搭配】A rather than B（是 A 而不是 B）、would rather V than V（寧願……而不願……）、rather than V-ing（而不是做……）、as a result of（由於……）、with regard to（關於）、relative to（相對於）。"
   },
   {
     "id": "G93_21_2",
@@ -6504,7 +6507,8 @@
     "explanation": "【句型】go towards 固定搭配「用於/有助於」（描述金錢的用途）；against（反對）、down（向下）、over（超過）都不合。",
     "accuracyRate": 41,
     "discrimination": 36,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】towards 在課本裡幾乎都跟走路綁在一起——walk towards the door（朝門口走去）、run towards the finish line（朝終點線跑去），是一個講方向的字。這一句的主詞卻是 every dollar（每一塊錢），錢不會走路，於是 towards 第一輪就被你排掉了。答對率只有四成，卡點多半在這裡。【怎麼判斷】四個選項都是接在 go 後面的字，可見這一格考的是 go 和哪一個搭起來才符合這句話的意思。先把主詞和後面接的東西看清楚：主詞是 every dollar you contribute（你捐出的每一塊錢），空格後面是 the purchase of family-sized insecticide-treated mosquito nets（購買經殺蟲劑處理的家庭號蚊帳這件事），所以這一格要說的是「這筆錢會被拿去做什麼用」。劍橋 English Grammar Today 的 towards or toward 條目說得很清楚：toward(s) 可以表示「為了買到或達成某件事」，例句是 Would you like to make a contribution towards our new children’s playground?（你願意為我們的新兒童遊戲場捐一點錢嗎？）。牛津高階詞典的例句更接近本句：The money will go towards a new school building.（這筆錢將用於興建新校舍。）。把課本教的方向義往抽象推一步就通了：走路的 towards 是人朝著一個目標移動，這裡是錢朝著一個目標流過去，箭頭方向一模一樣，只是換成看不見的東西在動。【干擾選項】against：go against 是「違背、與……相牴觸」（go against the rules 違反規定），語意完全相反。down：go down 是「下降、往下走」，講的是量或位置的變化，跟用途無關。over：go over 是「仔細檢查、複習」（go over the notes 複習筆記），也可以是「走過去」，但都接不上「購買蚊帳」這個用途。三個干擾選項都是常見的 go 加介系詞或副詞的組合，各自都有明確的意思，只是沒有一個能表示「錢用在哪裡」。【常考字詞搭配】go towards（用於支付……的費用）、make a contribution towards（為……出一份錢）、count towards（可計入……）、an attitude towards（對……的態度）、go against（違背）、go over（複習、仔細檢查）。"
   },
   {
     "id": "G93_22_2",
@@ -6598,7 +6602,8 @@
     "explanation": "後文接著討論 boys and girls 在感官學習風格上的差異，所以這裡指的是「性別」差異，gender 符合；cultural（文化的）、racial（種族的）、age（年齡）都不合這個上下文脈絡。",
     "accuracyRate": 45,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項擺進去都成句：cultural differences（文化差異）、racial differences（種族差異）、age differences（年齡差異）、gender differences（性別差異）都是常見的組合，文法上一個也刷不掉。只讀空格所在的這一句，你會發現怎麼選都對，於是憑印象挑一個最眼熟的。答對率四成五，多半就是這樣掉的——問題不在難，在於停在原地找答案。【怎麼判斷】四個選項是四個不同的名詞或形容詞，文法上全都放得進去，可見這一格考的是語意，而語意的依據不在這一句裡，一定要往上下文找。往下讀一句就有了：For example, one study found various differences ___ boys and girls in sensory learning styles.（舉例來說，一項研究發現男孩與女孩在感官學習風格上有各種差異。）——下一句用 For example 開頭，代表它是上一句的例子，而這個例子舉的是 boys and girls，那麼上一句所說的差異當然就是性別的差異，填 gender。這一題的鑑別度高達 65，是本篇最高的一題，分開的就是有沒有先往下讀一句再回頭填。順帶記住這個習慣：看到 For example、In other words、That is 這類字開頭的句子，它一定在替前一句服務，前一句填不出來時就往下看。【干擾選項】cultural（文化的）、racial（種族的）：全篇從頭到尾沒有提到任何國家、族群或文化背景，沒有東西能撐起這兩個選項。age（年齡的）：兩個名詞並排時，前面那個當形容詞用（跟 94 年第 22 題的 picture warnings 是同一個結構），所以 age differences（年齡差異）文法上完全正確，但下一句比的是男孩和女孩，不是不同年齡的人；這個選項唯一的破綻在上下文，不在文法。【常考字詞搭配】gender differences（性別差異）、gender equality（性別平等）、the gender gap（性別差距）、racial discrimination（種族歧視）、cultural background（文化背景）、learning style（學習風格）。"
   },
   {
     "id": "G93_27_3",
@@ -6616,7 +6621,8 @@
     "explanation": "【句型】differences between 固定搭配「……之間的差異」；for／within／into 都不是 differences 常見的搭配介系詞。",
     "accuracyRate": 82,
     "discrimination": 37,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】difference 的中文是「差異」，你大概不會特別去想它後面該接哪一個介系詞，反正「在……方面的差異」聽起來 for 或 within 好像也不是不行。這一格其實有一個一眼就看得到的信號。【怎麼判斷】四個選項都是介系詞，可見這一格考的是 differences 跟誰搭配。信號在空格後面：boys and girls 是用 and 連起來的「兩方」，而 between 的本義就是「在兩者之間」，difference between A and B（A 與 B 之間的差異）是國中就背過的組合，掛鉤直接用 What’s the difference between A and B?（A 和 B 有什麼不同？）。看到 and 把兩個對象並排在空格後面，between 幾乎是自動的。順便把範圍分清楚：兩者用 between，三者以上用 among（among the three countries 在這三個國家之中）。【干擾選項】within（在……內部）：講的是一個範圍之內的情況（differences within a group 一個群體內部的差異），這裡要比的是男孩與女孩兩邊，不是某一群人的內部。for：differences 不搭 for，for 帶出的是對象或目的。into：go into、turn into 那一類「進入、轉變成」的動作才用 into，與差異無關。【常考字詞搭配】the difference between A and B（A 與 B 之間的差異）、tell the difference（分辨出差別）、make a difference（造成影響、帶來改變）、make no difference（沒有差別、無關緊要）、among the three（在三者之中）、a difference in style（風格上的差異）。"
   },
   {
     "id": "G93_28_3",
@@ -6634,7 +6640,8 @@
     "explanation": "【句型】both...and... 固定句型，這裡 both more sensitive...and more skillful 表示女孩「既……又……」（對聲音更敏感，也更擅長精細動作）；very（非常，不合這個並列結構）、still（仍然）、thus（因此）都不合。",
     "accuracyRate": 44,
     "discrimination": 34,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】very 大概是你最熟的加強語氣的字，very sensitive（非常敏感）幾乎是反射動作。眼睛掃到空格後面的 sensitive，手就先填了 very，沒注意到中間還卡著一個 more。答對率四成四、鑑別度只有 34，連高分群考生也大量失手，原因就在這個反射太快——對 very 加形容詞越熟的人，越容易把中間的 more 直接跳過去。【怎麼判斷】四個選項的詞性各不相同，文法上刷不掉，那就先把句子的骨架拉出來：Girls were ___ more sensitive to sounds and more skillful at fine motor performance than boys.——were 後面掛著兩串並列的比較級，一串是 more sensitive to sounds，另一串是 more skillful at fine motor performance，中間用 and 連起來。看到 and 把兩個對等的東西串在一起，空格就該去找那個跟 and 呼應的字，both...and...（既……又……）正是這一組，掛鉤是國中的 Both Tom and Mary are good at math.（湯姆和瑪莉數學都很好。）。填進去讀一次：女孩既對聲音更敏感，精細動作也更靈巧，兩件事並列，完全成立。【干擾選項】very：這是本題最強的干擾，但它有硬傷——very 修飾的是原級形容詞（very sensitive 非常敏感），要加強比較級得換人。劍橋 English Grammar Today 列出可以用來加強比較級的字是 much、a lot、far、even、rather（This food is much better than the food we had yesterday. 這頓飯比我們昨天吃的好太多了。），very 不在其中，所以 very more sensitive 本身就不成立。still（仍然）：語意上要有一個「照理說不該如此、卻還是如此」的前提才用得上，而前一句只是在說研究發現了性別差異，沒有任何讓步的語境。thus（因此）：表因果，可是前一句沒有任何原因能推出這個結果。【常考字詞搭配】both A and B（既 A 又 B）、not only A but also B（不但 A 而且 B）、be sensitive to（對……敏感）、be skillful at（擅長於）、fine motor skills（精細動作能力）、much more ＋ 形容詞（……得多）。"
   },
   {
     "id": "G93_29_3",
@@ -6653,7 +6660,8 @@
     "accuracyRate": 47,
     "discrimination": 49,
     "contextSpan": "跨句",
-    "contextNote": "in contrast 與前一句女嬰的表現相對照"
+    "contextNote": "in contrast 與前一句女嬰的表現相對照",
+    "note": "【你可能會這樣想】整段從頭到尾都在講 differences（差異），於是你讀到這一句時腦子裡跑的是「這裡同樣也是在講差異」，手就伸向 similarly（同樣地）。這是本題最漂亮的陷阱：主題是「差異」，但這一句與前一句的關係不是「同樣」，而是「相反」。答對率四成七，多半掉在這裡。【怎麼判斷】四個選項都是轉承語，可見這一格考的是前後兩句之間的邏輯關係，那就把兩句話擺在一起看：前一句說女孩對聲音更敏感、精細動作更靈巧（強項在聽覺與小肌肉），這一句說 Boys ___ showed an early visual superiority to girls（男孩較早展現出視覺上的優勢）。兩句講的是同一件事的兩邊——一邊強在這裡，另一邊強在那裡，是把兩者並排比較，正是 in contrast 的工作。劍橋 English Grammar Today 的 Contrasts 條目把分工講得很清楚：in contrast 與 by contrast 用來把兩個人或兩件事並排比較、指出它們不一樣；on the contrary 則是用來否定前面那句話，強調事實正好相反。本句要的是前者。這一題的鑑別度有 49，分開的就是有沒有讀出前後兩句是「各有各的強項」，而不是「同樣都有差異」。順便注意轉承語的位置：這裡它夾在主詞 Boys 與動詞 showed 之間，兩邊各有一個逗號，這是轉承語很常見的擺法（同型：101 年第 18 題、102 年第 17 題、97 年第 30 題、105 年第 16 題）。【干擾選項】similarly（同樣地）：要求前後兩句講的是同一個方向的事，例如「女孩對聲音敏感，男孩同樣對聲音敏感」，可是本句講的是男孩強在別的地方，方向相反。moreover（此外、而且）：同向累加，用在往同一個方向再加一筆，這裡沒有在加碼。in consequence（因此、結果）：表因果，前一句不是這一句的原因。【常考字詞搭配】in contrast（相較之下）、in contrast to（與……相對照）、by contrast（相形之下）、on the contrary（正好相反）、be superior to（優於……）、show an early superiority to（較早展現出勝過……的優勢）。"
   },
   {
     "id": "G93_30_3",
@@ -6671,7 +6679,8 @@
     "explanation": "【句型】such as 固定搭配「例如」，舉例說明 detailed activity 是什麼（排列珠子）；according to（根據）、next to（在……旁邊）、because of（因為）都不合。",
     "accuracyRate": 56,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是兩三個字組成的一組，代進去唸都不太卡，because of（因為）尤其誘人——「因為排珠子而表現不好」聽起來甚至有點道理。但這一句的重點不在因果，在於後面那串字跟前面那個名詞是什麼關係。【怎麼判斷】四個選項都是介系詞片語，後面都能接動名詞，文法上一個也刷不掉，可見這一格考的是語意關係。關鍵在空格前後兩個東西的層級：前面是 a detailed activity（一項精細的活動），是一個籠統的上位說法；後面是 arranging a row of beads（把一排珠子排好），是一件具體的事。籠統的說法後面接一個具體的例子，用的就是 such as（例如），掛鉤是國中的 I like fruits such as apples and bananas.（我喜歡蘋果、香蕉之類的水果。）。填進去讀一次：他們在像「把珠子排成一排」這種精細的活動上表現不好，語意完全順。【干擾選項】because of（因為）：表原因，但「排珠子」不是「表現不好」的原因，它就是那項活動本身。according to（根據）：後面接的是消息或判斷的來源（according to the report 根據那份報告），這裡沒有來源可言。next to（在……旁邊）：講的是位置，跟活動的內容無關。【常考字詞搭配】such as（例如）、for example（舉例來說）、perform poorly at（在……方面表現不佳）、a row of（一排……）、according to（根據）、be good at（擅長）。"
   },
   {
     "id": "G94_16_1",
