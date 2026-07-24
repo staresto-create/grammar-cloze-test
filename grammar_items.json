@@ -3555,7 +3555,8 @@
     "explanation": "現在分詞片語作插入語，描述說話時的表情動作「微笑著回答」；Amazing（令人驚訝的，是形容詞不是描述動作的分詞）、Deciding（正在決定，這裡沒有要做決定的情節）、Praying（祈禱）都不合。",
     "accuracyRate": 67,
     "discrimination": 52,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格後面是逗號接 the man answered，你直覺想找一個副詞，結果四個選項全是 -ing 結尾，一時不知道該用什麼標準挑，只好比較哪個字義唸起來順，或者選了最眼熟的 Amazing。【怎麼判斷】這是分詞構句，還原成完整子句就清楚了：Smiling, the man answered... 等於 The man smiled and answered...，也可以還原成 As he smiled, the man answered...。分詞在意義上的主詞必須是主要子句的主詞，也就是 the man，所以把四個選項代進 The man ______. 檢驗最快：the man smiled 說得通。更關鍵的線索在同一篇後半段，出題者用完全相同的句構寫第二位旅人：But frowning, the man answered, ...（那人皺著眉回答）。frowning 對 Smiling，一個皺眉一個微笑，兩位旅人一負一正，結構完全對稱。讀到後面那句回頭看，這一格填的是表情動作就沒有懸念了。語意上也合：這位旅人接著說家鄉的人 friendly, generous, and warm-hearted，講的全是好話，配的自然是微笑。【干擾選項】Amazing 是主動形式，意思是「令人驚訝的」，主詞要是引起驚訝的那個事物；人做主詞得用 Amazed（感到驚訝的）。這與國中學過的 interesting 對 interested、boring 對 bored 是同一組道理。何況這裡沒有任何人被嚇到。Deciding：decide 後面要接受詞或 to 加原形動詞，這位旅人沒有在做什麼決定。Praying（祈禱）與情境無關。【常考字詞搭配】smile at somebody（對某人微笑）、frown at somebody（對某人皺眉）、warm-hearted（熱心的、親切的）、be generous with（在…方面大方）、be amazed at（對…感到驚訝）、amazing（令人驚訝的）。"
   },
   {
     "id": "G103_17_1",
@@ -3594,7 +3595,8 @@
     "explanation": "語意「幾小時後，『另一位』旅人沿路而來」，another（另一位，不特指的另一個）符合；a（不太符合「再一個」的強調語意）、the（定冠詞，這是新出現的人物不是特指）、other（需要接複數名詞，不能直接接單數traveler）都不合。",
     "accuracyRate": 68,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】你多半覺得 a traveler 也通——「幾小時後，一位旅人沿路而來」，中文唸起來完全沒問題，於是選了 a。這是本題最大的陷阱：a 在文法上不算錯，卻漏掉了「又來了一個」這層意思。另一種可能是看到「其他的」就直接抓 other。【怎麼判斷】先用文法刷掉一半。other 後面要接複數名詞或不可數名詞（other travelers、other information），要接單數可數名詞就必須用 another（an 與 other 合起來）或 the other。題目裡的 traveler 是單數，other 直接出局。這是國中就學過的：I have two pens. One is red; the other is blue.（兩支中的另一支，特指）對照 I don't like this one. Show me another.（許多之中的另一個，不特指）。再從語境決定要 a 還是 another。前面已經出現過第一位旅人（a traveler asked him...），現在來的是同類型的第二位，屬於「再一個」，這正是 another 的功能。「重複」是整篇的骨架：這位旅人 asked Aesop the same question、伊索 made the same request，下一格填的又是 Again，全篇都在講同一件事再上演一次。用 a 只是單純引介一個新人物，接不上這條線。the 更不行：the 表示雙方都知道指的是哪一位，這位旅人第一次出場，讀的人無從指認。【干擾選項】a：文法通但語意弱，讀不出「又一位」的重複感。the：定冠詞用於已知或特指的對象，此處是新登場的人物。other：後面不能直接接單數可數名詞。【常考字詞搭配】another（再一個、另一個，後面接單數名詞）、the other（兩者中的另一個）、the others（其餘的全部）、one after another（一個接一個）、another two weeks（再兩個星期）、one another（彼此、互相）。"
   },
   {
     "id": "G103_19_1",
@@ -3612,7 +3614,8 @@
     "explanation": "語意「再一次，伊索提出了同樣的要求」，Again（再次）符合這種重複情節的語境；Indeed（的確）、Together（一起）、Moreover（此外）都不合。",
     "accuracyRate": 74,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是副詞，都可以放句首再加逗號，文法上沒有一個能被刷掉，只剩語意可比。這時候容易挑 Moreover，因為它在考卷與範文裡出現得最多，看起來最像「用來承接上下文的正式用語」。【怎麼判斷】這一格與前一格是同一組線索，往前後各看一句就有答案。前一句：He too stopped and asked Aesop the same question.（他也停下來問了同樣的問題）——too 與 the same 兩個訊號都在講重複。本句：______, Aesop made the same request.（伊索提出了同樣的要求）又出現一次 the same。整段的重點是「同一件事再發生一次」，填 Again（再一次）最貼。判斷這類副詞不能只問「它能不能連接上下文」，要問「它標示的是哪一種關係」：Moreover 標示追加一個新的論點，Indeed 標示強化或確認前面說過的話，Together 標示兩個以上的人共同行動。本句沒有新論點、沒有需要被確認的主張，提出要求的也只有伊索一個人，三個都對不上。【干擾選項】Indeed（的確、確實）：用來確認或強化前一句的說法，前一句只是敘述動作，沒有主張要確認。Together（一起）：要有兩個以上的人共同做同一件事。Moreover（此外）：追加新資訊用，本句不是新資訊而是舊情節重演。【常考字詞搭配】again and again（一次又一次）、once again（再一次）、make a request（提出要求）、what is more（此外、而且）、the same as（與…相同）、time and again（屢次、再三）。"
   },
   {
     "id": "G103_20_1",
@@ -3630,7 +3633,8 @@
     "explanation": "並列形容詞，「不友善、刻薄、且惡毒」，mean（刻薄的）符合這種負面性格描述的並列；brave（勇敢的，正面詞跟其他負面詞不搭）、lonely（孤獨的，不太符合「人很糟糕」的描述語境）、skinny（瘦的，外貌描述跟性格描述不搭）都不合。",
     "accuracyRate": 48,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】mean 在你腦中幾乎只有動詞的「意思是」（What do you mean?），突然要它站在形容詞的位置，第一反應是「這裡怎麼會放一個動詞」，於是跳過正解，改去挑一個看得懂的形容詞。答對率只有 48%，將近一半的人在這裡失手，主因就是這個字義落差，不是題目繞。【怎麼判斷】先看結構：unfriendly, ______, and vicious 是三個並列的補語，用逗號與 and 串成 A、B、and C 的形式。空格要填的必然是形容詞，而且必須與另外兩個同一類。unfriendly（不友善的）與 vicious（惡毒的）都是負面性格，中間那個也只能是負面性格。碰到並列結構，就用「另外兩項是什麼性質」反推空格，這是最省力的解法。mean 當形容詞是「刻薄的、惡劣的」，劍橋詞典的釋義是 unkind or unpleasant，日常口語極常見：Don't be so mean to your sister.（別對你妹妹那麼刻薄）。放進 unfriendly 與 vicious 中間，語意強度還剛好遞增。再往下讀一句可以完全確認：They're thieves and murderers, all of them.（他們全都是小偷和殺人犯）——整段在把家鄉的人講到最壞，只有負面性格詞說得通。【干擾選項】brave（勇敢的）：正面詞，夾在兩個負面詞中間前後矛盾。lonely（孤單的）：講的是自己的心理狀態，不是「對別人不好」，也解釋不了下一句的小偷與殺人犯。skinny（骨瘦如柴的）：外貌描述，與性格描述不同類，並列不起來。【常考字詞搭配】be mean to somebody（對某人刻薄）、mean well（出於好意）、by no means（絕不、一點也不）、by means of（藉由、以…方式）、a vicious circle（惡性循環）、mean to do（打算做…）。"
   },
   {
     "id": "G103_21_2",
@@ -3648,7 +3652,8 @@
     "explanation": "語意「被這位美國作家對千年冰川的『描述』所吸引」，descriptions（描述）符合，呼應海明威的文學作品描寫；situations（情況）、translations（翻譯）、calculations（計算）都不合。",
     "accuracyRate": 76,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 the American writer's ______ of...，你可能沒細看結構就直接掃選項，挑一個「跟作家有關」的。translations 也跟文字工作有關，於是在它和正解之間猶豫。【怎麼判斷】先把結構看懂：X's 加名詞再加 of Y，是名詞化的說法，所有格 the American writer's 是動作的發出者，of the millennia-old glaciers 是動作的對象。還原成句子就是 The American writer described the millennia-old glaciers.（這位美國作家描寫了那片千年冰河）。碰到這種名詞化的結構，一律還原成「誰對什麼做了什麼」，語意馬上浮出來。線索其實在上一句就給了：tourists visit Mount Kilimanjaro... to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro（遊客前來親眼看看海明威「吉力馬札羅的雪」裡所描繪的景象）。depict 就是「描繪」，descriptions 正是它換個說法。空格解不出來時，先回頭找上一句有沒有同義字被換過說法，這是克漏字最常見的線索安排方式。【干擾選項】situations（情況）：作家的「情況」與冰河搭不上，X's situation of Y 這種說法也不成立。translations（翻譯）：海明威用英文創作，而且人翻譯的是文字，不是冰河。calculations（計算）：小說家不做冰河的數據計算，這是科學報告才有的動作。【常考字詞搭配】be attracted by（被…吸引）、give a description of（描述…）、beyond description（無法形容）、centuries-old（有數百年歷史的）、depict somebody as（把某人描繪成…）、witness a change（見證一項改變）。"
   },
   {
     "id": "G103_22_2",
@@ -3666,7 +3671,8 @@
     "explanation": "語意「這個觀光景點很快就會『消失』」，vanish（消失）符合後文冰川融化的主題；operate（運作）、expand（擴大，語意相反）、recover（恢復）都不合。",
     "accuracyRate": 62,
     "discrimination": 75,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】vanish 你大概只在魔術或故事裡見過（The rabbit vanished.），一時不確定它能不能用在 tourist attraction 這種抽象的東西上，於是退而求其次，挑比較眼熟的 recover 或 expand。【怎麼判斷】兩個線索，一個往前看，一個往後看。往前看轉折詞：句首的 However 標示語意反轉。前一句說遊客被冰河的描寫吸引（正面、興盛），However 之後必然轉向負面。operate、expand、recover 三個不是正面就是維持現狀，只有 vanish 是負面。單憑一個 However 就能刷掉三個選項。往後看兩句：Mount Kilimanjaro's snows and glaciers are melting and are likely to disappear by 2020（積雪與冰河正在融化，很可能在 2020 年前消失）。disappear 就是 vanish 的同義字，作者先用 vanish 一句話概括，再用 disappear 具體說明。另外注意主詞 this tourist attraction 指的是「這項觀光吸引力」這件事，不是一棟建築或一部機器，所以更不可能 operate。【干擾選項】operate（運作、營運、動手術）：這個字有三個常見意思——機器或系統「運作」、公司或事業「營運」、醫生「動手術」。營運那一個意思最容易讓人猶豫，因為觀光景點聽起來像是可以「開始營運」的地方；但這座山每年已有數萬遊客造訪，早就在營運了，談不上「即將開始營運」，而且 However 要求語意轉負，營運是中性偏正面，方向也不對。expand（擴大、擴張）：方向與 However 的轉折相反。recover（恢復、康復）：要先受到損害才談得上恢復，這裡損害還沒發生，時間順序不對。【常考字詞搭配】vanish into thin air（憑空消失）、tourist attraction（觀光景點、觀光賣點）、recover from an illness（病癒）、operate on a patient（為病人動手術）、expand into（擴展到…）、melt away（融化消失）。"
   },
   {
     "id": "G103_23_2",
@@ -3684,7 +3690,8 @@
     "explanation": "【句型】likely to 固定搭配「有可能……」；capable（有能力的，通常接of不接to）、ready（準備好的）、horrible（可怕的）都不合。",
     "accuracyRate": 55,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】be ready to 你很熟（準備好要做某事），代進去唸起來也順，於是選了 ready。問題在 ready 帶有「主動準備、有意願」的味道，而冰河不會準備做什麼。另一個常見狀況是把 capable 與 able 混在一起，忘了它們後面接的東西不一樣。【怎麼判斷】用兩層去篩：第一，這個形容詞後面能不能接 to 加原形動詞；第二，主詞是不是有意志的東西。be likely to 加原形動詞表示「很可能會…」，是對可能性的推測，主詞可以是無生命的事物——It is likely to rain.（可能會下雨）。本句在推測冰河消失的時程（by 2020），正是這個用法。be capable of 後面接名詞或動名詞，接的是 of 不是 to，光看介系詞就出局了。這組形容詞與介系詞的字詞搭配要成對記：be able to do 對照 be capable of doing。be ready to 加原形動詞在文法上可以，語意卻不合：ready 表示主詞已做好準備、隨時可以行動，用在冰河上等於說冰河「打算」消失。horrible 是純粹的形容詞，沒有 be horrible to do 表可能性這種句型（be horrible to somebody 是「對某人很惡劣」，意思差得遠）。還可以從時態確認：句子前半 are melting 是正在發生的事實，後半接的是預測，推測語氣的 likely 最合。【干擾選項】capable：後面搭配的是 of，而且指「有能力做某事」，冰河沒有能力可言。ready：帶主動意願，主詞必須能做準備。horrible：可怕的，接不出「有可能…」的意思。【常考字詞搭配】be likely to（很可能…）、be capable of（有能力…）、be able to（能夠…）、be ready to（準備好…）、be bound to（必定…）、be about to（即將…）。"
   },
   {
     "id": "G103_24_2",
@@ -3702,7 +3709,8 @@
     "explanation": "語意「沒有覆蓋山頂的積雪，就不會有足夠的水分」，Without（沒有）符合這個假設性條件；Among（在……之中）、Besides（此外）、Inside（在……裡面）都不合。",
     "accuracyRate": 77,
     "discrimination": 53,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】前一句剛講完積雪消失會破壞生態，你可能直接抓 Besides 來承接上一句，因為它看起來就是個銜接用的字。但這裡 Besides 後面接的是名詞片語 the snow covering the peak，整個變成「除了覆蓋山頂的積雪之外」，與後半句的「水分不夠」接不起來。【怎麼判斷】還原成完整子句最清楚：Without the snow covering the peak 等於 If there were no snow covering the peak，也等於 If the snow did not cover the peak。這是用 without 加名詞來代替條件子句的寫法，主要子句配 there will not be，形成「沒有 A，就不會有 B」的假設因果。語意方向也對得上：前一句說 the disappearance of the snows will also cause major damage to the ecosystem（積雪消失還會嚴重破壞生態），本句正是在說明怎麼個破壞法——沒有雪，就沒有足夠的水分滋養山下的動植物。順帶把 the snow covering the peak 的結構看清楚：covering the peak 是現在分詞片語，擺在名詞後面修飾 the snow，等於一個省略的關係子句 the snow which covers the peak，意思是「覆蓋著山頂的那片積雪」。這一點掛在國中學過的 a barking dog（正在吠的狗）上就好：分詞可以擺名詞前面當形容詞，帶著自己的受詞時就擺到名詞後面去。【干擾選項】Among（在…之中）：後面要接三者以上的複數名詞或群體，the snow 是不可數的單一事物。Besides（除…之外還有）：語意是「追加」，會變成「除了積雪還有別的」，與後半句不通。Inside（在…裡面）：純粹的位置關係，說不通「在積雪裡面就沒有水分」。【常考字詞搭配】without a doubt（毫無疑問）、do without（沒有…也行、將就）、It goes without saying that（不用說也知道…）、apart from（除…之外）、nourish the soil（滋養土壤）、moisture in the air（空氣中的水分）。"
   },
   {
     "id": "G103_25_2",
@@ -3721,7 +3729,8 @@
     "accuracyRate": 49,
     "discrimination": 43,
     "contextSpan": "跨句",
-    "contextNote": "thus 承接前一句「沒有積雪就缺水」的結果"
+    "contextNote": "thus 承接前一句「沒有積雪就缺水」的結果",
+    "note": "【你可能會這樣想】空格夾在逗號之後、動詞 threaten 之前，你會覺得「這個位置該放修飾動詞的副詞吧，thus 這種銜接用的詞怎麼會插在句子中間」，於是改選看起來比較像一般副詞的 just。答對率只有 49%，位置造成的誤判是主因之一。【怎麼判斷】第一步先把句子主幹抓出來。Rising temperatures, an effect of global warming, ______ threaten the ecosystem...，中間那段 an effect of global warming 是同位語，用兩個逗號夾住，拿掉完全不影響句構。主詞是 Rising temperatures（複數），動詞是原形的 threaten，空格正好落在主詞與動詞之間。thus、therefore、however 這一類詞歸在「連接副詞」（linking adjunct）底下，可以出現在副詞能出現的任何位置：句首、主詞與動詞之間、助動詞之後，甚至句尾（劍橋 English Grammar Today）。所以 thus 站在主詞與動詞中間是完全正常的位置，不是印錯也不是特例。這一點記起來，往後在句子中間看到 however、therefore 就不會慌。第二步看邏輯關係。前面兩句已經鋪好一條因果鏈：積雪消失，於是沒有足夠的水分滋養動植物。本句的主詞 Rising temperatures 正是造成融雪的源頭，thus（因此）把「暖化升溫」與「威脅生態」串成結論，銜接得上。【干擾選項】just（只是、僅僅）：會把語氣削弱成「只是威脅一下而已」，與整段強調事態嚴重的語氣相反。instead（取而代之、反而）：要先有一個被取代的對象或被推翻的做法，前文沒有。otherwise（否則、不然）：要先有一個假設或條件才談得上「否則」，前一句是陳述事實。【常考字詞搭配】and thus（因而）、as a result（因此、結果）、an effect of（…所造成的影響）、have an effect on（對…有影響）、result in（導致…）、result from（起因於…）。"
   },
   {
     "id": "G103_26_3",
@@ -3739,7 +3748,8 @@
     "explanation": "語意「他們有多徹底地『檢視』過所有重要因素」，examined（檢視）符合這種審慎評估的語境；conveyed（傳達）、solved（解決）、implied（暗示）都不合。",
     "accuracyRate": 40,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】examine 在你腦中大概綁在 exam（考試）上，第一個念頭是「考試、測驗」，於是覺得「考試所有重要因素」講不通，就把它放掉了。答對率只有 40%，這個字義落差是主因。examine 的核心意思其實是「仔細檢查、審視」，醫生 examine a patient（為病人做檢查）用的就是這個意思；「考試」那層意思反而是從「檢驗程度」引申出來的。【怎麼判斷】先看句子在問什麼。how thoroughly（多麼徹底地）這個副詞已經把答案框住了：能被 thoroughly 修飾的動詞，必須是可以「做得徹不徹底」的動作，也就是要花時間逐項檢視的動作。再看受詞：all the important factors involved（所有相關的重要因素）。跟 factors 搭配的動詞，慣用的是 examine、consider、weigh 這一類「檢視、考量、權衡」，而不是 solve。下一句直接把答案講出來：The answer is: not very thoroughly（答案是：並不怎麼徹底）。作者說的是人們沒有把因素看得夠仔細，指的正是「檢視」這個動作。整篇的主旨句也擺在第一行：Most human beings actually decide before they think.（大多數人其實是先做決定才思考）——沒有仔細檢視就下判斷，是本文從頭到尾在講的事。順帶注意 involved 的位置：the important factors involved 意思是「相關的重要因素」，involved 擺在名詞後面，等於 that are involved；擺在名詞前面的 involved parents 是「積極參與的父母」，意思不一樣。【干擾選項】conveyed（傳達）：convey an idea 是把想法傳給別人，句中沒有傳達的對象。solved（解決）：因素不是問題，不會被「解決」；能被 solve 的是 problem、puzzle、mystery。implied（暗示）：暗示是說話的人不把話講明，與考慮得周不周全無關。【常考字詞搭配】take a close look at（仔細檢視…）、weigh the pros and cons（權衡利弊）、the factors involved（相關的因素）、convey a message（傳達訊息）、solve a problem（解決問題）、imply that（暗示…）。"
   },
   {
     "id": "G103_27_3",
@@ -3757,7 +3767,8 @@
     "explanation": "【句型】whether...or... 固定搭配「不論是……還是……」，表示「不論他們是主管、專家、或一般人」；whoever（無論是誰，不太符合這個並列結構）、because（因為）、rather（而不是）都不合。",
     "accuracyRate": 40,
     "discrimination": 38,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到後面有 or，你可能想到 whether... or... 這組，但也可能因為 whoever 帶有「無論是誰」的味道，覺得它更貼「不論主管、專家還是路人」的語意。答對率只有 40%，whoever 就是主要的失分去處。這一題比的不是語意像不像，而是文法角色對不對。【怎麼判斷】用一個很乾淨的檢驗法：先數空格後面的子句缺不缺主詞。whoever 是複合關係代名詞，它自己必須在子句裡當主詞或受詞——Whoever comes first will get the prize.（誰先到誰得獎），whoever 就是 comes 的主詞。本題空格後面是 they are executives, specialized experts, or ordinary people in the street，主詞 they 已經在了，再放一個 whoever 進去就多出一個主詞，句子直接壞掉。whether 是連接詞，後面接完整子句，引導的是讓步：「不論是…還是…」，正好與句中的 or 呼應成 whether they are A, B, or C。語意也對得起來：前面說「答案是：並沒有很徹底」，接著要補一句「不管哪一種人都一樣」，正是讓步。再補一個常被混淆的點：whether 有兩種身分，一是引導名詞子句的「是否」（I don't know whether he will come.），二是本題這種讓步的「不論是…還是…」。看到 whether，先確認它引導的子句在整句裡扮演什麼角色，兩種用法就分得開。【干擾選項】whoever：本身要當子句的主詞，後面不能再出現 they。because（因為）：整句沒有在解釋原因，而且 because 沒辦法與後面的 or 串起三種身分。rather（相當地、寧可）：是副詞，不能引導子句；要表達「而不是」得用 rather than，而且 rather than 後面接的是對等的成分，不是一個完整子句。【常考字詞搭配】whether A or B（不論是 A 還是 B）、whether or not（不論是否）、rather than（而不是）、would rather do（寧願做…）、specialize in（專攻、專門從事）、in the street（在街上）。"
   },
   {
     "id": "G103_28_3",
@@ -3775,7 +3786,8 @@
     "explanation": "【句型】take into account 固定片語「將……納入考慮」；set out（出發/著手）、turn out（結果是）、put into practice（付諸實行）都不合。",
     "accuracyRate": 45,
     "discrimination": 44,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】take into account 你八成看過，但可能記成 take account of，或是不確定 into 後面能不能直接接一長串受詞。加上 put into practice 的形狀跟它幾乎一樣（動詞加 into 加名詞），兩個擺在一起就分不出來。答對率 45%，多數人失手在 put into practice。【怎麼判斷】先確認受詞是什麼：all the possibilities or outcomes of a policy or a course of action（一項政策或行動方案的所有可能性與結果）。這些是還沒發生、拿來評估的東西，不是可以拿去執行的東西。take ... into account 是「把…列入考慮」，受詞正是要被評估的因素，完全吻合。put ... into practice 是「把…付諸實行」，受詞必須是可以實行的計畫、理論或方法（put the plan into practice）。「把所有可能性付諸實行」語意不通。再看語境確認：前一句在問人們有沒有徹底檢視所有因素，本句說「很少有人能在短時間內把所有可能性都列入考慮」，講的是思考的侷限，不是執行力。語序要特別留意：這個片語有兩種擺法。受詞短的時候把受詞放中間——take all the factors into account；受詞很長的時候就把 into account 提到前面——take into account all the possibilities or outcomes of...。本題受詞長，用的是後者。以後看到 take into account 後面直接接一長串名詞，不要以為是印錯。同義的說法還有 take ... into consideration。順帶處理句中的 no matter how intelligent or experienced：這是省略的讓步子句，還原成完整子句是 no matter how intelligent or experienced they may be。這種省略在正式文章裡很常見，還原的方法就是把主詞與 be 動詞補回去，與國中學過的 While (he was) walking home 是同一回事。【干擾選項】set out（出發、著手進行）：後面接 to 加原形動詞（set out to solve the problem），不能直接接一長串名詞當受詞。turn out（結果是、原來是）：不及物，常見的是 It turned out that... 或 turn out to be...，不接受詞。put into practice（付諸實行）：受詞必須是可執行的計畫或理論。【常考字詞搭配】take into account（把…列入考慮）、take into consideration（把…列入考量）、put into practice（付諸實行）、set out to do（著手做…）、turn out to be（結果是…）、a course of action（行動方案）。"
   },
   {
     "id": "G103_29_3",
@@ -3794,7 +3806,8 @@
     "accuracyRate": 63,
     "discrimination": 15,
     "contextSpan": "跨句",
-    "contextNote": "However 轉折前一句「果決的人會盡量考慮周全」"
+    "contextNote": "However 轉折前一句「果決的人會盡量考慮周全」",
+    "note": "【你可能會這樣想】However 這個字你國中就會了，看到題目大概覺得穩了。但這一題的鑑別度只有 15，低得反常——答對的人裡面，程度好的與程度普通的比例幾乎一樣，高分群考生並沒有在這一格拉開差距。原因不在 however 本身，而在後半句你有沒有真的讀懂。【怎麼判斷】關鍵在 before they have the time to do so 的 do so。do so 是替代用法，用來代替前面出現過的整個動詞片語，避免重複。這件事你國中就學過：Do you like it?—Yes, I do.（do 替代 like it）、Do in Rome as the Romans do.（後面的 do 替代前面的動作）。本題的 do so 替代的是前一句的 consider all the factors beforehand（事先考慮所有因素）。把它還原出來再讀一次：前一句 Those who take pride in being decisive often try their best to consider all the factors beforehand.（以果斷自豪的人往往盡力事先考慮所有因素）；本句還原後是 it is not unusual for them to come up with a decision before they have the time to consider all the factors beforehand.（他們常常還來不及考慮所有因素，就已經做出決定了）。還原之後，兩句的反差立刻浮出來：想要考慮周全，卻根本來不及考慮就決定。這是清清楚楚的轉折，只有 However 接得上。沒有把 do so 還原的人，讀到 before they have the time to do so 只有一個模糊的「在他們有時間之前」，抓不到反差；這時 Furthermore 看起來也能接受。這正是鑑別度被拉低的原因：讀懂與沒讀懂的人在這一格看到的句子不一樣，而沒讀懂的人並不會發覺自己沒讀懂，於是憑語感選，選對選錯都成了隨機。再補一層確認：主旨句就在第一行 Most human beings actually decide before they think.（大多數人其實是先做決定才思考）。本句是這個主旨的再一次印證，而印證的方式正是「本來想周全、結果沒做到」的反差。【干擾選項】Furthermore（此外）：用來追加同一個方向的新論點，本句與前句方向相反，不是追加。Conditionally（有條件地）：副詞，意思是「附帶條件地」，沒有銜接兩句邏輯的功能，語意也對不上。Similarly（同樣地）：用來標示兩件事情況相似，本題前後句正好相反。【常考字詞搭配】take pride in（以…為傲）、try one's best to do（盡力做…）、come up with（想出、提出）、do so（這麼做，替代前面提過的動作）、It is not unusual for somebody to do（某人常常…並不稀奇）、beforehand（事先、預先）。"
   },
   {
     "id": "G103_30_3",
@@ -3812,7 +3825,8 @@
     "explanation": "連接詞 once 表示「一旦……就……」，語意為「而一旦意見形成，他們隨後大部分的思考就只是在為這個意見尋找支持的證據」，呼應整段文章批評人類「先決定後思考」的心理現象；unless（除非）、even（甚至，不能這樣單獨作連接詞）都不合；though（雖然）會讓語意變成「雖然意見形成了，卻只是在找支持證據」，轉折邏輯反而不如once的時間先後因果關係自然。",
     "accuracyRate": 47,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】once 在你腦中多半只有兩個意思：「一次」（once a week）與「曾經」（I once lived there）。這兩個都是副詞，突然要它當連接詞帶一整個子句，感覺很陌生，於是就放掉了。答對率 47%，這個字性上的落差是主因。【怎麼判斷】先看句構。空格後面是 an opinion is formed，是一個完整子句；逗號後面又是一個完整子句 most of their thinking then is simply trying to find support for it。兩個完整子句要接在一起，空格非放連接詞不可。even 是副詞，不能單獨連接子句，要當連接詞得寫成 even if 或 even though，字性上直接出局。先問「這個字能不能單獨當連接詞」，是這一題最快的刷法。剩下三個都是連接詞，就改比語意。once 當連接詞是「一旦…就…」，強調前後的時間先後與必然結果，而且副詞子句習慣用現在式代替未來式或表通則，句中的 an opinion is formed 正是現在式的被動。語意也完全吻合：意見一旦形成，後續的思考就只剩下替它找理由。though（雖然）表讓步，會變成「雖然意見形成了，他們的思考卻只是在找支持」——但這兩件事之間並不互相牴觸，讓步關係根本不成立。unless（除非）等於 if... not，會變成「除非意見形成，否則思考只是在找支持」，語意剛好顛倒。最後回頭對主旨：第一句 Most human beings actually decide before they think. 講的就是先有結論、再補理由。填 once，整篇的邏輯才收得起來。順帶注意句中的 then（那時、接下來）：它與 once 前後呼應，標示的正是「意見形成之後」那個時間點，也是 once 的旁證。【干擾選項】though（雖然）：讓步關係不成立，前後兩件事並不衝突。unless（除非）：等於 if not，代進去語意與全篇相反。even（甚至）：副詞，不能單獨連接兩個子句。【常考字詞搭配】once（一旦…就…）、as soon as（一…就…）、even if（即使）、even though（儘管、雖然）、form an opinion（形成看法）、find support for（為…找到支持）。"
   },
   {
     "id": "G105_16_1",
