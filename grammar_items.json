@@ -4967,7 +4967,8 @@
     "explanation": "語意「市議會原本提議透過聚集並射殺鴿子來『減少』鴿子數量」，reducing（減少）符合，跟後文槍殺鴿子的手段呼應；counting（計算）、displaying（展示）、maintaining（維持，語意相反）都不合。",
     "accuracyRate": 70,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是動名詞，接在 proposed 後面文法上都成立，所以只能比語意。你可能被 counting（計算）吸引，因為後面提到 gathering the birds（把鳥聚集起來），聽起來像要清點數量。【怎麼判斷】關鍵在 gathering 後面接的那個動詞：and shooting them（然後射殺牠們）。聚集起來是為了射殺，射殺的目的當然是減少數量，不是清點。 再往後看最後一句 there would be a decrease of 20 percent in the pigeon population（鴿子數量會減少兩成），decrease 這個字直接印證整段的目標就是 reduce。【干擾選項】counting（計算）與射殺這個手段搭不起來；displaying（展示）語意不通；maintaining（維持）方向相反，市議會要的是減少不是維持現狀。【常考字詞搭配】reduce the population（減少數量）、a decrease of 20 percent in（……減少兩成）、propose Ving（提議做……）、birth control（節育）、maintain（維持）、animal rights group（動物權益團體）。"
   },
   {
     "id": "G110_19_1",
@@ -4986,7 +4987,8 @@
     "accuracyRate": 48,
     "discrimination": 33,
     "contextSpan": "跨句",
-    "contextNote": "similarly 與前一句被否決的做法相比，指「同樣有效的另一個方法」"
+    "contextNote": "similarly 與前一句被否決的做法相比，指「同樣有效的另一個方法」",
+    "note": "【你可能會這樣想】another ___ effective method，四個副詞都能修飾 effective，讀起來都不奇怪，所以容易憑語感隨手挑。這一格的線索不在這句話裡——要判斷的是新方法和舊方法之間的關係，而舊方法寫在前面兩句。【怎麼判斷】往前找舊方法：gathering the birds and shooting them（聚集後射殺），接著 that idea led to strong protests from numerous animal rights groups（引發動保團體強烈抗議）。所以政府換方法的理由是「不人道」，不是「沒效」。既然舊方法本身有效，新方法就要說成「一樣有效」，這就是 similarly effective。 空格前的 another（另一個）也在暗示：這是同一類（同樣有效）之中的另一個選擇。【干擾選項】nearly effective（幾乎有效）暗示新方法效果打了折扣，但最後一段預測四五年內減少七到八成，效果很好；shortly（不久）是時間副詞，不能拿來修飾 effective 的程度；precisely（精確地）用來修飾數字或描述，修飾 effective 語意不通。【常考字詞搭配】similarly（同樣地）、be similar to（與……相似）、equally effective（同樣有效）、lead to（導致）、an effective method（有效的方法）、protest against（抗議……）。"
   },
   {
     "id": "G110_20_1",
@@ -5004,7 +5006,8 @@
     "explanation": "過去分詞 installed 作後位形容詞修飾 feeders，表示「安裝在城市各處的鳥類餵食器」；installing（現在分詞，主動語意方向不合，應該是餵食器「被安裝」）、to install（不定詞）、having installed（完成分詞，不合這個被動語境）都不合。",
     "accuracyRate": 50,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 40 bird feeders ___ throughout the city，你會想「這裡缺一個動詞」，於是挑了 to install 或 installing。但這句話的主要動詞已經有了——the pills were placed in 40 bird feeders。空格要填的不是主要動詞，而是修飾 feeders 的形容詞成分。【怎麼判斷】還原成完整的關係子句最清楚：40 bird feeders that were installed throughout the city（安裝在城市各處的 40 個餵食器）。把 that were 拿掉，剩下的就是過去分詞 installed，這叫簡化關係子句——你在 the book written by him（他寫的書）、the money stolen yesterday（昨天被偷的錢）都見過同一個結構。要決定用哪個分詞，只要問一句：餵食器是「安裝別人」還是「被安裝」？ 被安裝，所以用過去分詞。【干擾選項】installing 是現在分詞，表主動，會變成「餵食器在安裝東西」；to install 是不定詞，表目的或未來，語意變成「為了安裝而準備的餵食器」；having installed 是完成分詞的主動形式，同樣把餵食器當成動作的執行者。【常考字詞搭配】install（安裝）、installation（安裝、裝置）、be placed in（被放置在……）、throughout the city（遍及全市）、the book written by sb（某人寫的書）、the money stolen（被偷的錢）。"
   },
   {
     "id": "G110_21_2",
@@ -5022,7 +5025,8 @@
     "explanation": "【句型】not to mention 固定搭配「更不用說」，表示「機率是三千分之一，更不用說被擊中七次的機率」；if it isn't、as you can see（如你所見）、with regard to（關於）都不合。",
     "accuracyRate": 50,
     "discrimination": 70,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】not to mention 拆開看是「不要提到」，很容易誤讀成「別說了」。它其實是一個固定片語，意思正好相反：更不用說、更別提，用來追加一件比前面更誇張的事，語氣是「前面那個已經夠驚人了，後面這個還更誇張」。【怎麼判斷】前半句給了一個數字：the odds of being hit by lightning are 1 in 3,000（被閃電擊中的機率是三千分之一）。空格後接 the probability of being struck seven different times（被擊中七次的機率）。一次就已經很罕見，七次當然更罕見——這正是 not to mention 的語氣。而且它後面接名詞片語、不接完整句子，本句 the probability of... 剛好是名詞片語，句構也吻合。【干擾選項】if it isn't 在此語意與句構都不成立；as you can see（如你所見）用來提醒對方注意眼前的事物，本句是在陳述數據，沒有東西可以「看」；with regard to（關於）只是帶出話題，讀起來變成「關於被擊中七次的機率」，接不上前面的數字，也失去了對比的力道。【常考字詞搭配】not to mention ＋ 名詞（更不用說……）、let alone（更別提，多用於否定句之後）、the odds of（……的機率）、1 in 3,000（三千分之一）、the probability of（……的可能性）、with regard to（關於）。"
   },
   {
     "id": "G110_22_2",
@@ -5040,7 +5044,8 @@
     "explanation": "語意「蘇利文被閃電擊中七次——而且每次都『倖存』下來」，survived（倖存）符合這個驚人的故事情節；piloted（駕駛）、rejected（拒絕）、tracked（追蹤）都不合。",
     "accuracyRate": 69,
     "discrimination": 62,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】survive 你最熟的是不及物用法「活下來」（He survived.），所以看到後面直接接受詞 each shock 會遲疑。survive 也可以及物：survive ＋ 受詞 ＝ 在（某災難、事故）中倖存下來，例如 survive the crash（在墜機中生還）、survive the war（熬過戰爭）。注意中文說「在……中倖存」有個「在」，英文卻不加介系詞，這是常錯的地方。【怎麼判斷】句子是 Sullivan was struck by lightning seven times—and ___ each shock!（蘇利文被閃電擊中七次——而且 ___ 每一次電擊！）破折號加驚嘆號，是在強調不可思議。後面整段一路寫他第五次、第六次、第七次被擊中，還能繼續巡邏、繼續說話，表示他每次都活下來了。【干擾選項】piloted（駕駛）、rejected（拒絕）、tracked（追蹤）三個的受詞都不可能是 shock；而且從破折號後的驚嘆語氣看，要接的是一個令人驚訝的轉折，只有「倖存」說得通。【常考字詞搭配】survive sth（在……中倖存）、survive the crash／the war（在墜機／戰爭中生還）、survivor（生還者）、be struck by lightning（被閃電擊中）、park ranger（巡山員、國家公園管理員）。"
   },
   {
     "id": "G110_23_2",
@@ -5058,7 +5063,8 @@
     "explanation": "【句型】fearful of 固定搭配「害怕」，表示蘇利文變得害怕死亡並開始採取預防措施；critical of（批評）、doubtful about（懷疑）、positive about（對……正面，語意不合）都不合。",
     "accuracyRate": 54,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是「形容詞＋介系詞」。這種題型的第一步通常是先檢查介系詞對不對，但這一題比較特別——fearful of、critical of、doubtful about、positive about 四組搭配本身都成立，一個都刪不掉，只能純比語意。【怎麼判斷】看後半句：and took precautions during lightning strikes（並且在打雷時採取預防措施）。會採取預防措施，是因為害怕。 再看前一句 Strikes one, two, and three were pure bad luck, he thought（前三次他覺得純屬倒楣）——「本來以為只是運氣不好，第四次之後就……」，這個轉折需要一個心態變化，從不在意變成害怕。【干擾選項】critical of death（批評死亡）語意不通，死亡不是可以批評的對象；doubtful about death（懷疑死亡）同樣說不通；positive about death（對死亡持正面態度）與「採取預防措施」直接矛盾——真的看得開就不必防了。【常考字詞搭配】be fearful of（害怕……）、fear for sb's safety（擔心某人的安全）、be critical of（批評……）、be doubtful about（對……存疑）、be positive about（對……樂觀）、take precautions（採取預防措施）。"
   },
   {
     "id": "G110_24_2",
@@ -5076,7 +5082,8 @@
     "explanation": "【句型】come after 固定片語「追趕」，表示他感覺一朵雲正在「追趕」他；getting over（克服）、holding on to（抓住不放）、watching out for（注意/提防，這裡需要的是雲「追趕」他不是他「提防」雲）都不合。",
     "accuracyRate": 58,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】come after 拆開看是「在……之後來」，所以容易理解成時間先後（B comes after A ＝ B 排在 A 後面）。它還有一個常考語意：追趕、追捕（某人），帶有威脅感——想像一個東西緊跟在你後面不放，就是這個畫面。【怎麼判斷】線索在前一句和本句。前一句寫第五次被擊中時 A storm cloud \"chased\" him until he was struck（一朵烏雲「追」著他，直到他被擊中），作者還特地給 chased 加了引號。本句 felt that a cloud was ___ him, and tried all he could to run（覺得一朵雲正在 ___ 他，於是拼命想跑）。前面用 chased、後面用 run，中間的空格只能是「追」。【干擾選項】getting over（克服；從病中康復）的受詞應該是困難或疾病；holding on to（緊抓不放）雖然也有不放手的意味，但那是抓住東西不鬆手，不是在後面追；watching out for（提防、留意）方向反了——句子的主詞是 a cloud，雲不會提防人。【常考字詞搭配】come after sb（追趕、追捕某人）、go after sb／sth（追求、追捕）、chase（追逐）、get over（克服；康復）、hold on to（緊抓不放）、watch out for（提防、留意）。"
   },
   {
     "id": "G110_25_2",
@@ -5137,7 +5144,8 @@
     "explanation": "語意「氣溫上升對最後的熱帶冰川構成『立即』的威脅」，immediate（立即的）符合這種緊迫性；occasional（偶爾的）、elaborate（精心製作的）、offensive（冒犯的）都不合。",
     "accuracyRate": 56,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】immediate 你最熟的是「立刻的」，多半配時間用（immediately 馬上）。放進 an ___ threat 裡，你可能覺得威脅怎麼會「立刻」，於是改挑別的。an immediate threat 是固定說法，指迫在眉睫、不能再拖的威脅，強調的是急迫性。【怎麼判斷】後面兩句把急迫感寫得很滿：The ice sheets... are thinning over five times as quickly compared to a few years ago（融化速度是幾年前的五倍以上）、will completely disappear within a decade（十年內就會完全消失）。「五倍速」加上「十年內消失」，這就是急迫。【干擾選項】occasional（偶爾的）與「持續加速融化」矛盾；elaborate（精心製作的）用來形容計畫或設計，威脅不會「精心製作」；offensive（冒犯的；攻擊性的）用在言語或軍事行動上，氣候變遷並不是刻意冒犯誰。【常考字詞搭配】an immediate threat（迫在眉睫的威脅）、pose a threat to（對……構成威脅）、take immediate action（立刻採取行動）、immediate family（直系親屬）、an elaborate plan（精心設計的計畫）、ice sheet（冰層、冰原）。"
   },
   {
     "id": "G110_28_3",
@@ -5155,7 +5163,8 @@
     "explanation": "完成式分詞構句 Having already shrunk，表示「已經萎縮了85%」（在主要子句動作之前發生），補充說明前提狀況，帶出主要子句的推論；Have（原形動詞，不能這樣作分詞構句開頭）、Had（過去式，分詞構句應該用Having）、Having been（被動完成分詞，方向不合，這裡是冰川「自己萎縮」是主動語態）都不合。",
     "accuracyRate": 41,
     "discrimination": 30,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】句首要填一個字接 already shrunk，你可能直覺想成「這是完成式，那就用 Have 或 Had」。但關鍵在位置：句子開頭如果是分詞構句，就不能用有時態的動詞。 Have 和 Had 都是有時態的形式，放句首會讓整句出現兩個主要動詞（後面已經有 Papua's glaciers will disappear）。分詞構句要用 -ing 形式，而完成式的分詞就是 Having ＋ 過去分詞。【怎麼判斷】還原成完整子句最快：Having already shrunk by 85%, Papua's glaciers will completely disappear ＝ Because they have already shrunk by 85%, Papua's glaciers will completely disappear（因為已經萎縮了 85%，巴布亞的冰川將會完全消失）。用 Having 而不是單純的 Shrinking，是因為「萎縮 85%」發生在「將會消失」之前——Having ＋ 過去分詞就是用來標示「這件事更早發生」。【干擾選項】Have 是原形、Had 是過去式，兩者都帶時態，不能當分詞構句的開頭。Having been 是被動的完成分詞，但冰川是自己縮小，不是被誰弄縮的——shrink 在這裡是不及物動詞，沒有動作的施予者，這種用法不會有被動式。判斷主動或被動，問一句「主詞是自己做，還是被別人做」就好。【常考字詞搭配】Having ＋ 過去分詞（分詞構句，表更早發生）、Having finished his homework, he...（做完功課後，他……）、shrink by 85%（萎縮 85%）、shrink from A to B（從 A 縮減到 B）、within a decade（十年之內）、indigenous（原住民的）。"
   },
   {
     "id": "G110_29_3",
@@ -8768,7 +8777,8 @@
     "explanation": "語意「這個概念是由理查布斯『發起』的」，initiated（發起）符合，呼應後文他開了第一家二手書店；represented（代表）、acknowledged（承認）、manipulated（操縱）都不合。",
     "accuracyRate": 52,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】initiate 這個動詞你可能沒什麼印象，但它的親戚你天天在用——initial（最初的）、initials（姓名的第一個字母）。這一家字共用同一個核心概念：開頭。initiate 就是「開創、發起」，把一件原本不存在的事情啟動起來。【怎麼判斷】句子是 The concept was ___ by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961。關係子句裡的 the first（第一家）和 1961 這個年份，已經把「最早、開端」講得很清楚。再看下一句 Following him, many local people opened their own bookshops（跟著他，許多當地人也開了自己的書店）——有人在前面帶頭，後面才有人跟進，這就是「發起」。【干擾選項】represented（代表）：被代表的通常是一群人或一種立場，一個「概念」不會由某個人來代表；acknowledged（承認、認可）講的是概念後來被大家接受，時間點在後，跟「開第一家店」的起點對不上；manipulated（操縱）帶明顯負面色彩，與全文對布斯的正面敘述矛盾。【常考字詞搭配】initiate a project／program（發起計畫）、initiative（主動、倡議）、take the initiative（採取主動、率先行動）、acknowledge a mistake（承認錯誤）、manipulate public opinion（操縱輿論）、second-hand bookshop（二手書店）。"
   },
   {
     "id": "G111_12_1",
@@ -8786,7 +8796,8 @@
     "explanation": "現在完成進行式 have been springing，配合 Since the 1970s（自從1970年代起，持續到現在），spring up 表示「湧現/興起」；spring（現在式，不符合持續性）、sprang（過去式）、had sprung（過去完成式，沒有更早的過去參照點）都不合。",
     "accuracyRate": 56,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】你看到 Since the 1970s 就知道要用完成式，但選項裡有 sprang（過去簡單式）、had sprung（過去完成式）、have been springing（現在完成進行式），三個都跟「過去」有關，一時分不出來。關鍵在 since：since ＋ 過去時間點，時間軸一定是從那個點一路連到現在，所以只能配現在完成式或現在完成進行式。【怎麼判斷】句意是「自 1970 年代以來，像海伊鎮這樣的書鎮在世界各地不斷冒出來」——這件事從 1970 年代開始，到現在還在發生，而且強調「不斷、持續」，所以用現在完成進行式 have been springing。動詞片語 spring up 是「如雨後春筍般湧現、興起」。【干擾選項】spring 是現在簡單式，只講常態，接不上 since 帶出的時間跨度；sprang 是過去簡單式，會把整件事關在過去、與現在無關，正好和 since 衝突；had sprung 是過去完成式，必須有「另一個更早的過去時間點」當參照，本句沒有這個參照點。看到 since ＋ 過去時間，先把純過去式和過去完成式刪掉，選項通常就只剩一兩個。【常考字詞搭配】spring up（如雨後春筍般湧現）、since ＋ 過去時間點（自從……以來）、have been Ving（現在完成進行式，一直在……）、for ＋ 一段時間（達……之久）、pop up（突然冒出來）、sustainable development（永續發展）。"
   },
   {
     "id": "G111_13_1",
@@ -8823,7 +8834,8 @@
     "explanation": "語意「邀請作家討論他們最新的『發行作品』」，releases（發行作品，指新書）符合這個書籍主題語境；trends（趨勢）、agendas（議程）、announcements（公告）都不合。",
     "accuracyRate": 52,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】release 你最熟的是動詞「釋放」（release a prisoner 釋放囚犯），所以看到名詞複數 releases 很難連到「新書」。release 當名詞指的是（新）發行的作品——新書、新專輯、新電影都算，中文常說「新作」。【怎麼判斷】整句是 Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest ___（澳洲的 Clunes 每月舉辦書籍座談，邀請作家討論他們最新的 ___）。主詞是 authors（作家），修飾語是 latest（最新的）——作家會被請上台討論的「最新的東西」，在一篇通篇談書的文章裡只能是新書。【干擾選項】trends（趨勢）是市場或潮流的走向，不是作家個人的產出；agendas（議程）是會議要討論的項目清單，不是作品；announcements（公告）是對外發布的通知，作家不會在座談上討論自己最新的公告。【常考字詞搭配】a new release（新發行的作品）、release a book／an album（發行新書／新專輯）、the latest release（最新作品）、press release（新聞稿，向媒體發布的書面聲明）、host a talk（主持座談）、annual book festival（年度書展）。"
   },
   {
     "id": "G111_15_1",
@@ -8841,7 +8853,8 @@
     "explanation": "語意「像海伊鎮這樣的書鎮對『讓紙本文字保持存續』特別重要」，keep the printed word alive 符合，呼應後文強調保存實體書的重要性；get their worldwide fame（獲得世界性名聲）、conform to the new mode（順應新模式，語意方向不合）、make their visitors satisfied（讓訪客滿意）都不合。",
     "accuracyRate": 52,
     "discrimination": 53,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是完整的動詞片語，放進句子讀起來都通順，你可能挑一個聽起來最正面的，例如 make their visitors satisfied。這一格考的是整篇文章的主旨，不是哪一句話好聽。【怎麼判斷】空格前一句 As digital reading is changing our traditional way of reading（數位閱讀正在改變我們傳統的閱讀方式），已經拉出「數位對紙本」的對立。空格後那一長串更是直接把答案講白：The feel of a book, the smell, the weight...（書的觸感、氣味、重量）、preserving the physical book as a complement to technology（保存實體書，作為科技的補充）。preserve the physical book 就是 keep the printed word alive 的同義說法。【干擾選項】get their worldwide fame（獲得國際名聲）：文章談的是書鎮存在的價值，不是知名度；conform to the new mode（順應新模式）方向剛好相反，書鎮的意義正在於數位浪潮中守住紙本；make their visitors satisfied（讓訪客滿意）雖然文章提過觀光，但那是第一段的背景，不是結論段的重點。【常考字詞搭配】keep sth alive（讓……延續下去、不致消失）、the printed word（紙本文字、印刷品）、conform to（順應、遵從）、a complement to（……的補充）、preserve（保存）、physical book（實體書）。"
   },
   {
     "id": "G111_16_2",
@@ -8878,7 +8891,8 @@
     "explanation": "【句型】used to be 固定搭配「過去曾經是」，表示「早期飛機窗戶『曾經』是方形的」（現在不是了）；were to be（表計畫/命運）、would have been（過去完成條件式）、must have been（過去推測，這裡是明確的歷史事實不是推測）都不合。",
     "accuracyRate": 73,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】used to 很容易和另外兩個長得像的說法混在一起。一次分清楚：used to ＋ 原形動詞 ＝ 過去曾經（現在不是了）；be／get used to ＋ 名詞或動名詞 ＝ 習慣於；be used to ＋ 原形動詞 ＝ 被用來做……。 本題是第一個。【怎麼判斷】句子是 In the early days of aviation, plane windows ___ square in shape（在航空業早期，飛機窗戶 ___ 方形的）。時間副詞 In the early days 已經定調是過去；而文章第一句就說 all plane windows have rounded edges（現在所有飛機窗戶都是圓角）。過去是方的、現在是圓的，這種今昔對比正是 used to 的核心語意——它不只講過去，還暗示「現在已經不是了」。【干擾選項】were to be 表示「按計畫或註定要……」，放進來變成「窗戶註定要是方的」，語意不通；would have been 是與過去事實相反的假設；must have been 是對過去的推測（一定是……吧），但方形窗是文章明確陳述的歷史事實，不是猜測。【常考字詞搭配】used to V（過去曾經……，現在不是了）、be／get used to Ving（習慣於做……）、be used to V（被用來做……）、in the early days of（在……的早期）、be square／round in shape（形狀是方的／圓的）。"
   },
   {
     "id": "G111_18_2",
@@ -8915,7 +8929,8 @@
     "explanation": "【句型】spell disaster 固定搭配「意味著災難/導致嚴重後果」，表示方形窗戶的四個角可能會「導致災難」（破裂）；cause conflict（引起衝突）、rebuild strength（重建力量）、endure shock（承受衝擊，語意方向不合）都不合。",
     "accuracyRate": 41,
     "discrimination": 44,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】spell 你只認得「拼字」，所以 spell disaster 看起來像「拼出災難」，完全對不上。spell 當動詞另有一個常考語意：招致、意味著（不好的結果），後面固定接負面的名詞——spell disaster（後果不堪設想）、spell trouble（要出事了）、spell the end of（宣告……的終結）。【怎麼判斷】先看整段鋪的因果：sharp corners are natural weak spots where stress concentrates（尖角是應力集中的天然弱點）→ the difference between the inside and outside pressure increases, causing added stress（內外壓力差變大，壓力增加）→ When subjected to repeated pressurization high in the sky, the four corners on a square window may ___。前面鋪的全是「危險累積」，而文章一開頭就講過 three planes mysteriously broke apart in midair（三架飛機在空中離奇解體）。空格要填的正是這條危險線的終點。【干擾選項】cause conflict（引起衝突）用在人與人或立場之間，不是物理結構；rebuild strength（重建強度）方向完全相反，尖角是弱點不會愈撐愈強；endure shock（承受衝擊）同樣是相反的——四個角如果撐得住，飛機就不會解體了。這一題答對率只有 41%，多半就是把 endure shock 讀成了正確方向。【常考字詞搭配】spell disaster／trouble（意味著災難／麻煩）、spell the end of sth（宣告……的終結）、be subjected to（遭受、承受）、weak spot（弱點）、break apart（解體）、stress concentrates（應力集中）。"
   },
   {
     "id": "G111_20_2",
@@ -8933,7 +8948,8 @@
     "explanation": "語意「圓形形狀能夠『承受』極端的壓力差異」，tolerate（承受/容忍）符合；improve（改善）、justify（證明合理）、obtain（獲得）都不合。",
     "accuracyRate": 54,
     "discrimination": 72,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】tolerate 你背的多半是「容忍（別人的行為）」，帶著人際互動的味道，所以用在「圓形能 tolerate 壓力差」會覺得怪怪的。tolerate 也可以用在物體上，指承受得住、耐得住（高溫、壓力、惡劣環境），這是科普文章裡很常見的用法。【怎麼判斷】同一句的前半已經給了同方向的鋪陳：Circular shapes are also stronger and resist deformation（圓形也比較堅固、能抵抗變形）。and therefore 把前後綁成因果——既然堅固、能抗變形，接下來自然是「承受得住」極端的壓力差。resist 和 tolerate 在這裡是同一個方向的兩個字。【干擾選項】improve（改善）：圓窗不會讓壓力差變小，只是撐得住；justify（證明……正當）的受詞通常是說法、決定或行為；obtain（獲得）方向不對，壓力差不是要去取得的東西。【常考字詞搭配】tolerate（承受、耐得住；容忍）、tolerance（耐受度、容忍）、be tolerant of（容忍……）、resist deformation（抵抗變形）、withstand pressure（承受壓力）、structural integrity（結構完整性）。"
   },
   {
     "id": "G113_11_1",
