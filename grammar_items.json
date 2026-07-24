@@ -3831,7 +3831,8 @@
     "accuracyRate": 83,
     "discrimination": 42,
     "contextSpan": "跨句",
-    "contextNote": "However 轉折前一句綁匪的計畫"
+    "contextNote": "However 轉折前一句綁匪的計畫",
+    "note": "【你可能會這樣想】However 你早就背過「然而」，這一格對多數人不難，但仍有一群人會挑 Accordingly，原因是前一句剛講完綁匪「藏好人、開價 $2,000 要贖金」，讀起來像一連串動作正往下推，於是順手填了「於是、因此」。空格在句首、後面接逗號，這個位置放的是連接副詞（linking adjunct），它唯一的工作就是標示「這一句和前一句是什麼關係」（劍橋 English Grammar Today），所以判斷的依據不在這一句裡面，一定要往回讀一句。【怎麼判斷】把前後兩句並排看：前一句是綁匪的「計畫」（藏人、開價 $2,000 要贖金），後一句是 their plan quickly got out of control（他們的計畫很快就失控了）。計畫周全 vs 立刻失控，是「本來以為會這樣、結果卻那樣」的對比，要用轉折。驗算方式很簡單：試著用 but 把兩句接起來 — They asked for a ransom, but their plan quickly got out of control. 接得起來，就填 however。這裡可以接上你國中就學過的 but：but 是連接詞，把兩個子句接成一句；however 是副詞，前面要用句號或分號斷開，自己後面再加逗號。意思幾乎一樣，標點卻不一樣，這是寫作時最常被扣分的地方。【干擾選項】Accordingly（因此、於是）是順接因果，填進去會變成「因為他們開價要贖金，所以計畫就失控了」— 但開價本身不會導致失控，真正的原因（小孩太皮）要到下一句才登場，因果對不上。Otherwise（否則、不然）需要一個「不這麼做就會如何」的條件，前一句沒有這種假設。Furthermore（此外、而且）是再補一項同方向的訊息，但「計畫失控」不是綁架步驟的追加說明，方向相反。【常考字詞搭配】however（然而）、otherwise（否則、不然）、furthermore（此外、而且）、accordingly（因此、據此）、get out of control（失控）、ask for a ransom（索討贖金）、hold sb for ransom（挾持某人勒贖）、compensate for（彌補……）。"
   },
   {
     "id": "G105_17_1",
@@ -3849,7 +3850,8 @@
     "explanation": "【句型】turn out to be 固定搭配「結果是」，表示「他們年輕的人質『結果』是個調皮搗蛋的男孩」；made believe（假裝）、got along（相處）、felt like（感覺想要）都不合。",
     "accuracyRate": 69,
     "discrimination": 47,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】turn out 在你腦中最熟的多半是「關燈」（turn out the lights）或「出席、到場」（Thousands of people turned out to welcome them.），比較少人第一時間想到它還有「結果是、原來是」這一義。另外 felt like 也很吸引人，因為你背過「想要」；但 feel like 後面接名詞或 V-ing，接不了 to be。【怎麼判斷】關鍵全在空格後面那兩個字 to be。四個選項裡只有 turn out 能接 to V — 劍橋詞典把 turn out 標為 B2，其中一義是「最後被發現是（往往出乎意料）」，句型就是 turn out to be + 名詞或形容詞。整句還原：Their young captive turned out to be a mischievous boy.（他們年幼的人質原來是個調皮搗蛋的孩子。）這個句型還有一個等值說法可以一起記，改寫題很好用：It turned out that their young captive was a mischievous boy. 也就是 turn out to be ＝ It turns out that…，兩種說法並存，意思相同。文意也支持：後面兩句 He viewed the kidnapping as a wonderful camping trip.（他把綁架當成一趟美好的露營之旅。）以及 He demanded that his kidnappers play tiring games with him.（他要求綁匪陪他玩累人的遊戲。）都在證明事情的發展出乎綁匪意料，這正是 turn out 的語感。順帶注意 demanded 後面的 play 沒有加 s，因為 demand、suggest、insist 這類表示「要求、建議」的動詞，帶出的 that 子句要用原形動詞。【干擾選項】make believe（假裝）後面接 that 子句（that 常省略），例 The children made believe they were pirates.（孩子們假裝自己是海盜。）get along（相處融洽）是不及物用法，要接對象時寫成 get along with sb，也接不了 to be。feel like（想要）後面只接名詞或 V-ing，例 I feel like going home.（我想回家。）【常考字詞搭配】turn out to be（結果是、原來是）、It turns out that…（結果發現……）、turn out the lights（關燈）、turn out（出席、到場）、make believe（假裝）、get along with（與……相處融洽）、feel like + V-ing（想要做……）、demand that + 主詞 + 原形動詞（要求……）、view A as B（把 A 視為 B）。"
   },
   {
     "id": "G105_18_1",
@@ -3867,7 +3869,8 @@
     "explanation": "【句型】get rid of 固定片語「擺脫」；hold on to（抓住不放，語意相反）、make fun of（嘲笑）、take advantage of（利用）都不合。",
     "accuracyRate": 66,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】卡住這一題的常常不是選項，而是受詞 the little terror。terror 你背的是「恐怖、驚駭」，看到 the little terror 翻不出來，整句讀不懂，只好硬猜。先把這個字處理掉：劍橋詞典在 terror 底下另收一個非正式用法，指「行為頑劣、難以管教的人（尤指小孩）」，例句就是 My brother is a little terror.（我弟弟是個小魔王。）所以 the little terror 指的就是前面那個 mischievous boy，中文說「那個小麻煩精」。【怎麼判斷】把這一句和下一句連起來看：Bill and Sam were soon desperate and decided to {18} the little terror. They lowered the price to $1,500.（比爾和山姆很快就束手無策，決定要對這個小麻煩精做某件事。他們把價錢降到 $1,500。）「降價」這個動作就是答案的保證 — 會降價，是因為急著把人脫手，所以空格要填「擺脫、除掉」，也就是 get rid of。反過來用 hold on to 檢驗更清楚：如果綁匪想把人「緊抓不放」，就沒有降價的道理，前後矛盾，直接淘汰。【干擾選項】hold on to（緊抓不放、保留）例 Hold on to your ticket.（票要收好。）語意與本題相反。make fun of（取笑、嘲弄）— 文中被整慘的是綁匪，被取笑的對象方向不對，而且接不上下一句的降價。take advantage of（利用；佔……的便宜）例 take advantage of the opportunity（把握機會）。這三個和答案一樣，都是「動詞 + 介副詞 + 介系詞」的三字片語動詞，中間不能拆開，受詞一律擺在最後 — 這一組四個一次背齊最划算。【常考字詞搭配】get rid of（除掉、擺脫）、hold on to（緊抓不放、保留）、make fun of（取笑、嘲弄）、take advantage of（利用；佔……的便宜）、be desperate（走投無路的、不顧一切的）、lower the price（降價）、hide sb in a cave（把某人藏在山洞裡）。"
   },
   {
     "id": "G105_19_1",
@@ -3885,7 +3888,8 @@
     "explanation": "【句型】what a + 形容詞 + 名詞 固定感嘆句結構，what a troublemaker his son was（他兒子是多麼一個麻煩製造者），作 knowing 的受詞子句；how（通常接形容詞/副詞本身，不接這種名詞結構）、that、why 都不合。",
     "accuracyRate": 52,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 knowing perfectly well 後面接空格，直覺會填 that，因為「知道……這件事」平常就是 know that。也有很多人挑 how，因為中文說「知道他兒子有多麻煩」，那個「多」讓人反射性想到 how。這一格答對率只有 52%，兩個直覺各拉走一票。【怎麼判斷】判斷點只有一個：空格後面緊跟著 a troublemaker，是「冠詞 + 名詞」的名詞片語。感嘆句（exclamative）只有兩種開頭，劍橋 English Grammar Today 的「Exclamations」條寫得很清楚：what 後面接名詞片語（What an amazing car!），how 後面接形容詞或副詞（How interesting it was to hear her story!）。這裡後面是名詞，就只能用 what。把句子還原一次會更踏實：直述句是 His son was a real troublemaker.（他兒子真是個麻煩精。）改成感嘆句就是 What a troublemaker his son was!（他兒子是多大的一個麻煩精啊！）本題只是把這整個感嘆句放進 knowing 後面當受詞，所以主詞動詞維持 his son was 的正常順序，不倒裝。想用 how 也不是不行，但整句必須改寫成 knowing perfectly well how troublesome his son was — 名詞 troublemaker 得換成形容詞 troublesome，how 才站得住。what a + 名詞 對上 how + 形容詞，這一組互換請一起記。【干擾選項】that 帶出的名詞子句必須是完整的直述句，也就是 knowing perfectly well that his son was a troublemaker — 文法沒錯，但語序和空格後面的 a troublemaker his son was 對不上，代進去讀就會發現多出一個 a troublemaker。why（為什麼）會變成「知道他兒子為什麼是個麻煩精」，文章沒有在追究原因。how 如上所述，後面得接形容詞或副詞。【常考字詞搭配】What a/an + 形容詞 + 名詞 + 主詞 + 動詞（多麼……啊）、How + 形容詞或副詞 + 主詞 + 動詞（多麼……啊）、know perfectly well（心知肚明、非常清楚）、a troublemaker（麻煩製造者）、refuse to V（拒絕做……）、give sb money（給某人錢）。"
   },
   {
     "id": "G105_20_1",
@@ -3904,7 +3908,8 @@
     "accuracyRate": 74,
     "discrimination": 56,
     "contextSpan": "跨句",
-    "contextNote": "Instead 與前一句父親的反應相對照"
+    "contextNote": "Instead 與前一句父親的反應相對照",
+    "note": "【你可能會這樣想】instead 你最熟的形狀是 instead of，而 instead of 後面一定要接名詞或 V-ing。這一題空格後面是逗號加一個完整句子，沒有 of，很多人因此覺得「instead 單獨用怪怪的」而放掉它。其實 instead 本身就是副詞，意思是「取而代之、反倒」，放句首加逗號或放句尾都是標準用法（劍橋詞典 instead：in place of someone or something else，取代某人或某物）。【怎麼判斷】空格在句首、後面接逗號，又是一題靠前後句關係決定的題目，所以要往回讀一句。前一句 the father refused to give them any money（父親拒絕付他們任何錢）是「不做 A」；空格這一句 he asked the kidnappers to pay him $250 to take the boy back（他反過來要求綁匪付他 $250，他才願意把男孩帶回去）是「改做 B」。「不做 A，反而做 B」正是 instead 的功能：它替換掉前一句被否決的那個動作。驗算方式是把省略的部分補回去：Instead of giving them money, he asked the kidnappers to pay him $250. 兩句意思一樣，補回去之後你就看得出來，句首那個光溜溜的 instead 其實是 instead of that 省略掉 of that 的結果 — of 後面的內容前一句已經講過，不必重複。這種「舊訊息省略掉」的手法你其實很熟：Do you like it? — Yes, I do.（do 代替 like it）用的是同一個道理。【干擾選項】Namely（也就是、即）用來把前面提過的東西點名說清楚，例 Two people were absent, namely Tom and Amy.（有兩個人缺席，就是湯姆和艾咪。）父親要錢並不是在說明「拒絕」的內容。Altogether（總共；完全地）是計數或程度副詞，例 That comes to $50 altogether.（總共是 50 美元。）Simply（僅僅、只是）語氣輕描淡寫，撐不起這裡的反轉。要注意的是，四個選項擺在句首讀起來都通順，文法完全幫不上忙 — 這種題目只能靠前後句的邏輯關係決定。【常考字詞搭配】instead（取而代之、反倒）、instead of + 名詞或 V-ing（而不是……）、namely（也就是、即）、altogether（總共；完全地）、refuse to V（拒絕做……）、take sb back（把某人接回去）、persuade sb to V（說服某人做……）。"
   },
   {
     "id": "G105_21_2",
@@ -3922,7 +3927,8 @@
     "explanation": "語意「用來測量一個人的身體對問題『如何』反應」，how（如何）符合；what／when／why 都不合這個描述反應方式的語境。",
     "accuracyRate": 50,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 measure（測量）就想到「測量什麼」，直覺填 what — 這是本題最大的陷阱，答對率只有 50%，等於一半的人栽在這裡。【怎麼判斷】選 wh- 詞最可靠的方法是「數成分」：先把空格後面的部分單獨拿出來，看它缺不缺東西。a person's body reacts to questions — 主詞 a person's body 有了，動詞 reacts 有了，to questions 這個介系詞片語把 react 補滿了，這是一個成分完整的句子。既然一樣都不缺，就不能用 what；what 進到子句裡一定要當主詞或受詞，會在句中留下一個空位。反向驗算最能看出差別：如果要用 what，句子得寫成 measure what a person's body reacts to（測量一個人的身體對什麼有反應）— 注意結尾的 to 後面空著，那個空位就是留給 what 去填的。原句的 to questions 已經填滿了，what 沒有位置可站。剩下 when、how、why 都是副詞性質，加進去不佔句子成分，只能比語意：react 是「反應」，這台儀器量的是身體反應的「方式」（快慢、強弱），所以用 how。同一份考卷第 19 題也考 wh- 詞，但那題的著力點是「後面接名詞片語所以用 what」，這題的著力點是「子句成分完整所以不能用 what」— 同一年連考兩題，判斷方式不同，放在一起看效果最好。【干擾選項】when（何時）— 全文沒有在談時間點，測謊機也不是用來測「什麼時候反應」。why（為什麼）— 儀器記錄的是血壓、脈搏、排汗這些生理訊號，測不出動機。what — 如上所述，後面的子句成分完整，沒有空位留給它。【常考字詞搭配】measure how…（測量……的方式）、react to（對……作出反應）、a reaction to（對……的反應）、be used to + 原形動詞（被用來……）、be used to + V-ing（習慣於……）、respond to（回應、對……有反應）、pick up signals（接收訊號）。"
   },
   {
     "id": "G105_22_2",
@@ -3940,7 +3946,8 @@
     "explanation": "【句型】be attached to 固定搭配「被連接/附著在」，表示電線被接到身體不同部位；adapted（適應）、related（相關）、restricted（限制）都不合。",
     "accuracyRate": 49,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項後面都能接 to：be adapted to、be attached to、be related to、be restricted to，所以「看到 to 就選」這一招在這裡完全失效，非得看語意不可 — 答對率只有 49%。另外 related 也很容易被挑走，因為「電線跟身體有關」中文讀起來勉強說得通。【怎麼判斷】先看主詞是什麼：four to six wires, called sensors（四到六條稱為感應器的電線），是實體的東西；要做的事是把電線「接上」身體不同部位。attach 的核心意思正是「把某物實體地固定或連接到另一物上」，句型是 attach A to B。還原成主動句最快：The examiner attaches four to six wires to different parts of his body.（測謊人員把四到六條電線接到他身體的不同部位。）主動句一還原，動詞該填什麼一目了然。這個字你其實天天在用：電子郵件的「附件」就叫 attachment，attach a file to an email（把檔案附加在郵件上）跟本題是同一個字、同一個句型。下一句也回頭確認：The sensors pick up signals from the person's blood pressure, pulse, and perspiration.（感應器擷取受測者血壓、脈搏和排汗的訊號。）電線得真的貼在身上，才擷取得到訊號。【干擾選項】be adapted to（適應於；被改編成）主詞通常是人或生物，例 adapt to a new environment（適應新環境）。be related to（與……有關；與……有親屬關係）講的是抽象關聯，例 Smoking is related to lung cancer.（吸菸與肺癌有關。）電線和身體不是「有關聯」，是實際接上去。be restricted to（僅限於）例 restricted to members only（僅限會員），語意完全不合。【常考字詞搭配】attach A to B（把 A 附加或連接到 B）、be attached to（被連接到；依戀、捨不得）、an attachment（附件；依戀）、adapt to（適應）、be related to（與……有關）、be restricted to（僅限於）、pick up signals（接收訊號）、blood pressure（血壓）。"
   },
   {
     "id": "G105_23_2",
@@ -3958,7 +3965,8 @@
     "explanation": "語意「在整個詢問過程中」，Throughout（自始至終/整個……期間）符合；Before（之前）、Among（在……之中）、Without（沒有）都不合。",
     "accuracyRate": 42,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】throughout 你腦中多半只有「遍及各地」（throughout the world）這一個意思，不太會想到它也能講時間；再加上 Before 讀起來也順（「問話之前」），答對率因此掉到 42%，是這份克漏字裡最難的一格。【怎麼判斷】先讀主要子句：all the signals are recorded on a single strip of moving paper（所有訊號都被記錄在一條移動的紙帶上）。訊號要有得記錄，一定是問話「正在進行」的時候 — 問話還沒開始，哪來的訊號？再看下一句 Once the questions are finished, the examiner analyzes the results（問題問完之後，測謊人員分析結果），時間軸講得很明白：先記錄、後分析，而記錄發生在問話期間。劍橋詞典把 throughout 標為 B2，釋義是「在每一個部分，或在整段期間」，它同時管空間和時間；這裡接的是 the process（過程），是一段時間，取的就是「整段期間」這一義。順便把 during 和 throughout 的差別一起釐清：during 是「在那段期間的某個時候」，throughout 是「從頭到尾一整段期間」。本句主詞是 all the signals（所有訊號，一個都不漏），配 throughout 才對味。【干擾選項】Before（在……之前）時間點錯了，問話還沒開始就沒有訊號可記錄。Among（在……之中）後面要接三者以上的複數，例 among the trees（在樹林之中），the process 是單數的「過程」，接不上。Without（沒有）代進去會變成「沒有問話過程，訊號卻被記錄下來」，前後矛盾。【常考字詞搭配】throughout the process（在整個過程中）、throughout the year（一整年）、throughout the world（全世界各地）、during the process（在過程進行中的某個時候）、a strip of paper（一條紙帶）、be recorded on（被記錄在……上）、once + 子句（一旦……就……）。"
   },
   {
     "id": "G105_24_2",
@@ -3995,7 +4003,8 @@
     "explanation": "語意「訓練有素的檢測員通常能以高度『準確性』偵測謊言」，accuracy（準確性）符合；quantity（數量）、possibility（可能性）、emergency（緊急情況）都不合。",
     "accuracyRate": 46,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是抽象名詞，擺進 a high degree of 後面文法上都通，所以文法幫不上忙 — 這也是答對率只有 46% 的原因。其中 possibility 最容易被挑走，因為前面在講「偵測謊言」，感覺跟「可能性」沾得上邊。【怎麼判斷】先確認 with a high degree of 這個副詞片語在修飾哪個動作：detect lying（偵測謊言）。「偵測」這件事要評價，評價的標準是「準不準」，不是「多不多」，也不是「有沒有可能」。真正決定答案的線索在下一句：However, because different people behave differently when lying, a polygraph test is by no means perfect.（然而，由於每個人說謊時的表現不同，測謊絕非完美。）However 標示前後對比，by no means perfect 是「絕不完美」— 既然後面否定掉的是「完美」，前面被拉高的那個特質就必須是同一件事，也就是「準確度」。這一步是本題最關鍵的判斷，也再一次說明：空格所在的句子讀完還不夠，一定要往下多讀一句。字的家族也順便記起來：accurate（準確的，形容詞）變成名詞是 accuracy（準確度），同一群的還有 exact（精確的）、precise（精準的）。【干擾選項】quantity（數量）— 測謊評價的是準不準，不是一次抓到幾個謊。possibility（可能性）— a high degree of possibility 讀起來像「可能性很高」，但這樣一來後面的 However 就轉折不起來，因為「可能性高」本來就不等於「準」，沒有東西可以被否定。emergency（緊急情況）— 與整段語意無關。【常考字詞搭配】with a high degree of accuracy（以高度的準確性）、accurate（準確的）、detect lying（偵測謊言）、tell a lie（說謊）、a lie detector（測謊器）、by no means（絕不、一點也不）、well-trained（訓練有素的）。"
   },
   {
     "id": "G105_26_3",
@@ -4013,7 +4022,8 @@
     "explanation": "虛受詞 it，代替後面的真正受詞 to import goods（使進口貨物變得更便宜這件事）；them（不是指代特定的複數名詞）、such、what 都不合。",
     "accuracyRate": 46,
     "discrimination": 31,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】你熟的是「虛主詞 it」：It is cheaper to import goods than to make them.（進口貨物比自己生產便宜。）這個句型國中就見過。但本題的 it 出現在 making 後面，位置是受詞不是主詞，「虛主詞」的雷達就沒有響 — 答對率只有 46%。【怎麼判斷】這是一句分詞構句，先還原成完整子句，還原完就通了。原句尾巴是 …, making {26} cheaper for some countries to import goods rather than make them，還原成 …, and this makes it cheaper for some countries to import goods rather than make them.（……而這使得某些國家進口貨物比自己生產便宜。）接著把 it 代表的內容放回原位試試看：makes to import goods cheaper for some countries — 動詞 make 後面卡著一長串不定詞當受詞，英文不接受這種頭重腳輕的排法，所以先擺一個 it 把受詞的位子佔住，真正的內容 to import goods 移到句尾。劍橋 English Grammar Today 在「It」條把這種 it 稱為「空的（empty）受詞」，並說明它的功能是「預示（anticipate）」後面真正的主詞或受詞；台灣課本習慣叫「虛主詞、虛受詞」，講的是同一件事。這個句型請整組記起來：make、find、think、consider + it + 形容詞 + to V，例 I find it difficult to talk to her.（我覺得跟她講話很吃力。）跟本題結構一模一樣。至於為什麼連高分群考生也會在這一格失手（本題鑑別度偏低，D 值 31）：難處不在英文，而在「看不見」。逗號後面是分詞構句，主詞被省略；讀到 making 之前，你已經先消化了 Trade is driven by different production costs in different countries 這一長串經濟概念，注意力全花在讀懂內容上，很容易把 making it cheaper 整團當成語感滑過去，沒有停下來問一句「這個 it 指的是誰」。答錯的人多半不是不懂虛受詞，而是根本沒察覺這裡在考虛受詞。看到分詞構句就先還原成完整子句，用意正是逼自己把每個成分看清楚。【干擾選項】them 是代名詞，必須有明確的複數先行詞；句中最近的複數名詞是 countries 和 costs，代進去都講不通（而且句尾的 them 已經另有所指，指的是 goods）。such 不能單獨擺在這個位置當受詞。what 是關係詞或疑問詞，會帶出一整個子句，但後面的 cheaper for some countries to import goods 不是 what 帶得動的結構。【常考字詞搭配】make it + 形容詞 + to V（使做某事變得如何）、find it difficult to V（覺得做……很困難）、think it necessary to V（認為有必要做……）、rather than（而不是）、be driven by（受……驅動、由……推動）、production costs（生產成本）、a comparative advantage（比較利益）。"
   },
   {
     "id": "G105_27_3",
@@ -4031,7 +4041,8 @@
     "explanation": "【句型】be determined by 固定搭配「由……決定」；installed（安裝）、reserved（保留）、opposed（反對）都不合。",
     "accuracyRate": 48,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】determined 你背的多半是形容詞「堅決的、下定決心的」（a determined look，堅定的神情），所以看到 is determined by，腦中翻成「有決心」就講不通，只好放棄。這個「形容詞印象蓋掉動詞本義」的落差，正是本題答對率只有 48% 的主因。determine 當及物動詞的核心意思是「決定、左右」，被動 be determined by 就是「由……決定」。【怎麼判斷】先看句子骨架：This comparative advantage（這種比較利益）+ is + 空格 + by + key factors of production such as land, capital, and labor（土地、資本、勞力等關鍵生產要素）。被動語態的 by 帶出的是動作的執行者，所以空格填的動詞，必須能讓「生產要素」對「比較利益」做點什麼。土地、資本、勞力能對比較利益做什麼？只能是「決定它」。還原成主動句驗算最保險：Key factors of production such as land, capital, and labor determine this comparative advantage.（土地、資本、勞力等關鍵生產要素決定了這種比較利益。）把 install、reserve、oppose 分別代進這個主動句，馬上就會發現不通。前一句也在鋪路：A country is said to have a comparative advantage over another when it can produce a commodity more cheaply.（一國若能以更低的成本生產某項商品，就說它對另一國擁有比較利益。）成本由什麼構成？就是土地、資本、勞力 — 前後兩句正是「什麼是比較利益」接上「比較利益由什麼決定」。【干擾選項】installed（安裝）裝的是設備或軟體，抽象的「比較利益」不能被安裝。reserved（保留；預訂）例 reserve a table（訂位），當形容詞時是「拘謹的、保守的」。opposed（反對）後面固定接 to，be opposed to war（反對戰爭），介系詞就對不上這裡的 by。【常考字詞搭配】be determined by（由……決定）、determine（決定；查明）、determined（堅決的、下定決心的）、be opposed to（反對）、install software（安裝軟體）、reserve a table（訂位）、factors of production（生產要素）、such as（例如）。"
   },
   {
     "id": "G105_28_3",
@@ -4049,7 +4060,8 @@
     "explanation": "【句型】on the rise 固定片語「持續上升/增長中」，表示國際貿易的重要性近幾世紀持續上升；to the point（切中要點）、off the hook（擺脫困境）、for the record（為求紀錄）都不合。",
     "accuracyRate": 60,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】rise 你最熟的是動詞「上升」（The sun rises in the east.），比較少注意到它也是名詞，而 on the rise 是整組使用的說法。四個選項的形狀又長得一模一樣，都是「介系詞 + the + 名詞」，看起來一樣工整，只能靠平時有沒有累積。劍橋詞典把 on the rise 收為獨立詞條，標示 C1，釋義是「在上升、在增長」。【怎麼判斷】填進去的東西要接在 has been 後面當主詞補語，主詞是 its economic, social, and political importance（它在經濟、社會與政治上的重要性）。「重要性」能怎麼樣？只能是提高或降低。往下讀一句，作者立刻把數字端出來當證據：During the 1990s, international trade grew by nearly 8.6% each year.（1990 年代，國際貿易每年成長近 8.6%。）In the year 1990 alone, the growth in trade in services was as high as 19%.（光是 1990 年，服務貿易的成長率就高達 19%。）兩個成長數字都是在支持上一句的「持續上升」。這是很典型的「先下結論、再舉數據」寫法，讀到數字時要回頭確認它在撐哪一句。時態也幫得上忙：has been 是現在完成式，配上 in recent centuries（近幾個世紀），表示從過去持續到現在，正好和 on the rise 那種「還在上升中」的語感相合。【干擾選項】to the point（切中要點的、簡潔中肯的）例 His speech was short and to the point.（他的演說簡短中肯。）off the hook（脫身、免於麻煩）例 let him off the hook（放他一馬）。for the record（正式聲明；供記錄在案）例 For the record, I never agreed to this.（我把話說清楚，我從未同意這件事。）三個都與「增加」無關，但形狀都很像，這種題目只能靠字詞搭配的累積。【常考字詞搭配】on the rise（在上升、在增長）、a rise in（……的增加）、on the increase（在增加中）、to the point（切中要點的）、off the hook（脫身、免於麻煩）、for the record（正式聲明；供記錄）、grow by（成長了……的幅度）、as high as（高達）。"
   },
   {
     "id": "G105_29_3",
@@ -4067,7 +4079,8 @@
     "explanation": "假設語氣的語境（配合would be），「沒有國際貿易，各國將僅限於自己國內生產的商品和服務」，Without（沒有）符合這種假設條件；Despite（儘管）、Between（在……之間）、Under（在……之下）都不合。",
     "accuracyRate": 64,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】Despite（儘管）和 Without（沒有）在中文裡都帶點「不管有沒有」的味道，考試時很容易混；而且 Despite 是比較晚才學到的字，看起來比較「高級」，反而容易被挑走。【怎麼判斷】決定性的線索是主要子句裡的 would：nations would be limited to the goods and services produced within their own borders（各國將只能侷限於自己境內生產的商品與服務）。劍橋 English Grammar Today 的「Would」條說明，would 用在條件句的主要子句，談的是想像出來的情況。既然是想像，前面就必須有一個「假設的條件」。without 加名詞正好可以當條件用，等於一個 if 子句 — 劍橋 English Grammar Today 的「Without」條指出，without 帶有否定意味，without 加 V-ing 可以表達「如果某人不做某事」。還原成 if 子句驗算：Without international trade, nations would be limited to… ＝ If there were no international trade, nations would be limited to…（如果沒有國際貿易，各國就只能侷限於……）再把 Despite 代進去讀完整句：Despite international trade, nations would be limited to…（儘管有國際貿易，各國仍會被侷限於……）— 這和全文主旨完全相反，文章從頭到尾都在說貿易讓各國突破自身國境的限制。「代進去把整句讀完」永遠比只看單字中譯安全。這個句型你在道謝時早就用過：Without your help, I couldn't have finished it.（沒有你的幫忙，我不可能完成。）【干擾選項】Despite（儘管）表讓步，後面接名詞，例 despite the rain（儘管下雨），與 would 的假設語意搭不起來。Between（在……之間）後面通常接兩者，或接 A and B。Under（在……之下；在……情況下）例 under pressure（在壓力下），但 under international trade 不是英文的說法。【常考字詞搭配】Without + 名詞（若沒有……）、without（沒有；如果沒有）、despite + 名詞（儘管……）、in spite of + 名詞（儘管……）、be limited to（僅限於、侷限於）、within one's borders（在國境之內）、be dependent on（依賴……）。"
   },
   {
     "id": "G105_30_3",
