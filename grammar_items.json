@@ -4104,7 +4104,8 @@
     "explanation": "【句型】check out 固定片語「查看」，表示「你去照鏡子查看，發現一個小紅點」；look into（調查，不太合「照鏡子查看外觀」的動作）、watch over（看守）、see through（看穿）都不合。",
     "accuracyRate": 40,
     "discrimination": 16,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】check out 你最熟的一定是「結帳、退房」——超市的 checkout 櫃台、飯店退房叫 check out。所以看到 You {16} the mirror 這個空格，你反而覺得 check out 不對，轉去挑看起來比較「正經」的 look into（調查）。但 check out 還有一個很常用的意思：「看一看、查看」（牛津高階詞典 Oxford Advanced Learner's Dictionary 把這個用法列為 to look at or examine，標示為口語）。【怎麼判斷】把句子還原成完整的動作順序：You check out the mirror to find a tiny red spot on the base of your lower lashes.——你去照鏡子看一看，結果發現下睫毛根部有個小紅點。後面的 to find 是表示結果的不定詞（去看，結果發現），所以前面必須是「用眼睛看」這個動作，不是「調查」。這一題的鑑別度偏低，代表連高分群考生也常挑 look into，問題出在中文：「查看」和「調查」在中文裡很接近，但英文分工很清楚——look into 用在案件、問題、抱怨，不會用在「照鏡子」這種單純用眼睛看的動作。【干擾選項】look into（調查、深入了解）後面接的是需要查明的事，像 look into the accident（調查這起事故）。watch over（看顧、守護）是照看人或東西，像 watch over the children（看顧孩子）。see through（看穿）是識破謊言或詭計，像 see through his lies（看穿他的謊言）。這裡可以順便把國中學過的一組 look 複習一次：look at（看）、look for（尋找）、look after（照顧）——同一個動詞換一個介系詞或介副詞，意思就整組換掉，check 這一家也一樣。【常考字詞搭配】check out（查看、看一看）、check out of a hotel（辦理退房）、check in（辦理報到、登記入住）、look into（調查）、look after（照顧）、look for（尋找）、watch over（看顧、守護）、see through（看穿）。"
   },
   {
     "id": "G106_17_1",
@@ -4122,7 +4123,8 @@
     "explanation": "語意「這些『症狀』可能是針眼的開始」，symptoms（症狀）符合醫療語境；incidents（事件）、measures（措施）、explanations（解釋）都不合。",
     "accuracyRate": 62,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】前面兩句在講「眨眼會痛」「發現一個小紅點」，讀起來像在描述「發生的事」，所以你很容易挑 incidents（事件）。但 incident 指的是外部發生的事故或事件，像 a traffic incident（一起交通事故）；身體自己出現的不舒服和外觀變化，英文叫 symptom（症狀）。【怎麼判斷】先確認 These 指的是什麼。往前看兩句：a bit of pain on your eyelid（眼皮有點痛）、a tiny red spot（一個小紅點）——一個是你感覺到的不適，一個是看得到的異狀，兩個都是身體傳出來的訊號。再看空格後面：are probably the beginning of an eye stye（很可能是針眼的開始），整句是「這些症狀很可能是針眼的初期徵兆」，醫療語境非常明確。【干擾選項】incidents（事件、事故）指外部發生的事，不用來講身體狀況。measures（措施）是為了解決問題採取的行動，常見 take measures to prevent it（採取措施加以預防），但這裡還沒進到「怎麼處理」，處理方式要到文章最後才出現。explanations（解釋、說明）是對原因的說明，紅點和疼痛本身不是解釋。【常考字詞搭配】symptom（症狀）、show symptoms of（出現……的症狀）、a common symptom（常見症狀）、incident（事件、事故）、take measures（採取措施）、explanation（解釋、說明）、be accompanied by（伴隨著）。"
   },
   {
     "id": "G106_18_1",
@@ -4140,7 +4142,8 @@
     "explanation": "語意「這些細菌很容易『被傳播』到眼睛」，transferred（被傳播/轉移）符合，揉鼻子再揉眼睛時細菌被帶過去；attracted（被吸引）、contributed（貢獻）、exposed（暴露，不太符合「傳播到」這個動作）都不合。",
     "accuracyRate": 60,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到空格後面是 to the eye，你腦中第一個跳出來的一定是 be exposed to（暴露於、接觸到），因為這是背過的高頻搭配。這正是本題最大的陷阱：be exposed to 的主詞是「被暴露的那一方」，例如 Your skin is exposed to sunlight（你的皮膚接觸到陽光）；但這句的主詞是 These bacteria（這些細菌），細菌是「被帶過去的東西」，方向剛好相反。【怎麼判斷】用主動句還原一次就清楚了。主動：When you rub your nose, then your eye, you transfer the bacteria to the eye.（你揉鼻子再揉眼睛，就把細菌帶到眼睛去了。）改成被動，主詞換成細菌：These bacteria are easily transferred to the eye.（這些細菌很容易被帶到眼睛。）transfer 是「從一處移到另一處」，正好對應「從鼻子到眼睛」這個路徑。字首也能幫你確認：trans- 表示「橫越、轉移」，同一家的還有 transport（運輸）、translate（翻譯，把意思從一種語言搬到另一種）、transform（轉變）。【干擾選項】attracted to（被……吸引）語意不合，細菌不是被眼睛吸引過去的。contributed to（造成、促成）後面接的是結果，像 contribute to global warming（造成全球暖化），不能接地點。exposed to 如前所述主詞方向錯了。【常考字詞搭配】transfer A to B（把 A 移轉到 B）、be transferred to（被轉移到、被調到）、be exposed to（暴露於、接觸到）、contribute to（造成、促成；捐助）、be attracted to（被……吸引）、build up（累積、增強）。"
   },
   {
     "id": "G106_19_1",
@@ -4158,7 +4161,8 @@
     "explanation": "語意讓步：「雖然針眼有時看起來令人不舒服，但它通常是無害的」，Although（雖然）符合這個讓步轉折；As（當……時候/因為）、If（如果）、Unless（除非）都不合。",
     "accuracyRate": 67,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是連接詞，你可能會直覺挑 As，因為 As 又能表「當……的時候」又能表「因為」，看起來最保險。但這一題的關鍵不在單字意思，而在前後兩個子句是同方向還是反方向。【怎麼判斷】把兩個子句拆開讀。前半：a stye can look unpleasant at times（針眼有時看起來令人不舒服）——負面。後半：it is usually harmless and doesn't cause vision problems（通常無害，也不會造成視力問題）——正面。一負一正，是明顯的讓步轉折，所以選 Although（雖然）。驗算方式：換成 Even though 或 Though 讀一次，意思完全一樣。這裡要特別提醒一個從國中就常錯到現在的地方：中文說「雖然……但是……」兩個都要出現，英文只能留一個。Although a stye can look unpleasant, but it is harmless. 是錯的，but 必須拿掉。原因不是「一句話只能有一個連接詞」——一句話當然可以有好幾個；而是 although 和 but 綁子句的方式不同：although 讓一個子句附屬於另一個（從屬連接詞），but 是把兩個地位相等的子句並排（對等連接詞），同一對子句不可能既一主一從、又兩兩對等（劍橋 English Grammar Today）。記法很簡單：一句話可以有好幾個連接詞，但同一對子句只能被綁一次。所以 although 配得上 still、nevertheless 這種副詞（Although it rained, we still enjoyed it. 雖然下雨，我們還是玩得很開心），就是配不上 but。「因為……所以……」錯在同一個地方：Because it rained, so we stayed home. 的 so 一樣要拿掉。【干擾選項】As（當……的時候／因為）表時間或原因，代進去會變成「因為看起來不舒服，所以無害」，前後不通。If（如果）是條件，但針眼看起來不舒服是既成事實，不是假設。Unless（除非）等於 if...not，代進去變成「除非看起來不舒服，否則無害」，語意完全走樣。同一個 Although 在 96 年第 19 格也考過，出題方式一模一樣：前後句一正一負就挑讓步連接詞，先判方向再挑詞。【常考字詞搭配】although（雖然）、even though（即使、雖然）、though（雖然）、in spite of（儘管，後面接名詞）、despite（儘管，後面接名詞）、unless（除非）、nevertheless（然而、儘管如此）、heal on their own（自行痊癒）、speed up（加快）。"
   },
   {
     "id": "G106_20_1",
@@ -4233,7 +4237,8 @@
     "explanation": "語意「它讓孩子能夠隨著腳長大『調整』鞋子尺寸」，adjust（調整）符合這個創新鞋子的功能描述；explore（探索）、insert（插入）、overlook（忽視）都不合。",
     "accuracyRate": 61,
     "discrimination": 68,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】adjust 你背過的多半是「適應」，像 adjust to a new environment（適應新環境），所以看到要填「調整尺寸」時反而不敢選。其實 adjust 有兩種用法，差別只在有沒有 to：adjust 後面直接接受詞是「調整」（adjust the size 調整尺寸），adjust to 後面接名詞才是「適應」（adjust to the change 適應這個改變）。【怎麼判斷】線索在同一句和前後文。這雙鞋叫 The Shoe That Grows（會長大的鞋），空格後面是 their shoes' size as their feet grow（隨著腳長大，鞋子的尺寸……）。腳在長，鞋子尺寸要跟著改變，所以填「調整」。再往後看兩句還有 can expand in three places（可以在三個地方撐開）、control the length（控制長度）、allow for different widths（容許不同寬度），整段都在講同一件事，方向非常一致。【干擾選項】explore（探索、探究）後面接的是未知的領域或問題，像 explore new markets（開發新市場）。insert（插入、放入）是把東西塞進另一個東西裡，尺寸不能被「插入」。overlook（忽視；也可指「俯瞰」）語意相反，這雙鞋的重點正是不讓尺寸問題被忽略。【常考字詞搭配】adjust the size（調整尺寸）、adjust to（適應）、make an adjustment（做出調整）、adjustable（可調整的）、explore（探索、探究）、insert（插入）、overlook（忽視；俯瞰）、grow out of（長大而穿不下）。"
   },
   {
     "id": "G106_24_2",
@@ -4251,7 +4256,8 @@
     "explanation": "【句型】come in + 尺寸/顏色 固定搭配「有……尺寸/顏色可供選擇」；by／from／down 都不合。",
     "accuracyRate": 52,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】come 你最熟的是「來」，把它代進去讀成「它們來兩種尺寸」，怎麼讀都不通，於是你開始一個一個介系詞硬試。問題不在介系詞，在你沒認出這是一個整體用法：come in 後面接尺寸、顏色或款式時，意思是「有……可供選擇」（柯林斯英語詞典 Collins 的說法是：某類東西 come in 某個範圍的顏色、款式或尺寸，就表示它有那些選擇；劍橋詞典的例句是 The products come in three sizes.）。【怎麼判斷】把整句還原成白話：They come in two sizes, and can expand in three places.——這款鞋有兩種尺寸，而且可以在三個地方撐開。前面剛講完它的材質，這裡接著講它的規格，「有兩種尺寸可選」完全順著文意走。這個用法也可以掛在你早就會的招呼語上：Come in, please.（請進。）那個 come in 是「進來」，和這裡的「有……可供選擇」完全是兩回事——動詞加上介副詞之後，就要當成一個新的詞來記，不能把兩個字的意思相加。【干擾選項】by、from、down 都無法和 come 組成「有幾種尺寸」這個意思。要特別提醒的是 in 這個答案不能靠「翻譯」硬套，因為中文的「有兩種尺寸」裡根本沒有對應「在裡面」的字，這種題只能靠認出整組用法。【常考字詞搭配】come in two sizes（有兩種尺寸）、come in all shapes and sizes（各種樣式都有、形形色色）、come in different colors（有不同顏色可選）、be available in（有……可供選擇）、be made of（由……製成，看得出原料）、similar to（與……相似）。"
   },
   {
     "id": "G106_25_2",
@@ -4269,7 +4275,8 @@
     "explanation": "前後兩個子句是並列對比關係（控制長度 vs 控制寬度），while（而/然而）連接兩個對等子句表達這種對比；whether（是否）、with（不能這樣連接兩個完整子句）、for（因為，這裡是並列對比不是因果）都不合。",
     "accuracyRate": 43,
     "discrimination": 27,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】while 你腦中第一個意思是「當……的時候」，於是你去找兩件同時發生的事，結果發現「綁帶控制長度」和「兩側調整寬度」根本不是在講時間，就卡住了。while 當連接詞其實有兩個意思：一個表時間，另一個表對比，可以翻成「而」「然而」（劍橋 English Grammar Today 把 while 收在「表對比的連接詞」這一類底下）。【怎麼判斷】先數子句。空格前是一個完整子句：The straps on the heel and toe control the length of the shoe；空格後也是一個完整子句：the two on either side allow for different widths。兩個完整子句要接在一起，中間一定要有連接詞。再看關係：一個管長度、一個管寬度，是同一件事情的兩面對照，不是因果也不是條件，所以選表對比的 while，換成 whereas 讀也完全通。這一題鑑別度偏低，代表 with 這個選項連高分群考生也會踩。原因是 with 讀起來很順口（「兩側的則……」），但 with 是介系詞，後面只能接名詞或動名詞，不能接 the two ... allow ... 這種完整子句。這是詞性能不能接子句的問題，不是語意問題——遇到兩個完整子句時，先把不能接子句的選項刪掉，範圍馬上縮小。【干擾選項】whether（是否）引導的是名詞子句，代進去無法表達對比。with 如前所述不能接完整子句。for（因為）表原因，但控制長度並不是控制寬度的原因，前後是並列不是因果。表對比的 while 在 102 年第 23 格、107 年第 21 格都考過，107 年那題還放在句首寫成大寫的 While。三題的解法完全一樣：先看前後兩句是同向還是反向，再挑連接詞。【常考字詞搭配】while（然而、而，表對比；也可表「當……的時候」）、whereas（然而，表對比）、on the other hand（另一方面）、allow for（容許有、考慮到）、on either side（兩側）、control the length（控制長度）。"
   },
   {
     "id": "G106_26_3",
@@ -4287,7 +4294,8 @@
     "explanation": "前面講天氣影響情緒（暖天正面情緒、陰雨天焦慮疲勞），這句延續「因此」，許多人相信壞天氣會降低生產力，Accordingly（因此）承接這個邏輯推論；At most（至多）、In contrast（相反地，這裡是順接不是對比）、Literally（字面上地）都不合。",
     "accuracyRate": 55,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】accordingly 長得太像 according to，你很可能直接把它讀成「根據……」。這兩個要分清楚：according to 是「根據」，後面一定要接名詞（according to the research 根據這項研究）；accordingly 是副詞，自己單獨站著，意思是「因此、於是」，和 therefore、thus 一樣屬於用來連接前後文的副詞（劍橋 English Grammar Today 把這類詞歸在「連接副詞」linking adjunct 底下），不能接名詞。【怎麼判斷】比對前後兩句的方向。前一句：研究證實天氣會影響情緒，暖天正向、陰雨天焦慮疲憊。這一句：許多人相信壞天氣會降低生產力。後者正是從前者推出來的想法，前因後果、同一個方向。驗算方式：換成 Therefore 或 Thus 讀一次，意思完全一樣，那就對了。【干擾選項】At most（至多、充其量）用在數量或程度的上限，像 It takes 20 minutes at most（最多二十分鐘）。In contrast（相反地）要求前後反向，但這裡是順著推下去，不是轉折——真正的轉折在下一句，由 however 帶出來，那才是全篇的轉彎處。Literally（字面上地、真的）與前後邏輯無關。105 年第 16 格也把 Accordingly 放進選項當干擾（該題答案是 However），可以兩題一起看：判斷方法都是先確定前後句同向還是反向，再從同向的一組（therefore、thus、accordingly）或反向的一組（however、in contrast、nevertheless）裡挑。【常考字詞搭配】accordingly（因此、於是；也可表「照著、相應地」，如 act accordingly 照此行事）、according to（根據，後面接名詞）、therefore（因此）、thus（因此）、at most（至多、充其量）、in contrast（相反地）、literally（字面上地、真的）、play a part in（在……中起作用）。"
   },
   {
     "id": "G106_27_3",
@@ -4344,7 +4352,8 @@
     "explanation": "【句型】engage in 固定片語「從事」，表示「思考下班後可能從事的活動」；break off（中斷）、approve of（贊成）、take over（接管）都不合。",
     "accuracyRate": 64,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】engage 你先想到的多半是「訂婚」（be engaged to someone）或電話佔線、廁所有人的 engaged，所以看到 engage in 就不敢選。engage in 是「從事、參與」，其實就是你國中學過的 take part in（參加）和 participate in（參與）的同一組，只是語氣正式一些。把新詞掛在舊詞上就好記多了：take part in a contest（參加比賽）、participate in the discussion（參與討論）、engage in outdoor activities（從事戶外活動）。【怎麼判斷】先看空格前後。activities they could {29} outside of work，這是一個省略了關係代名詞的關係子句，還原成完整寫法是 activities that they could engage in outside of work（他們下班後可以從事的活動）。再把它拆成兩句更清楚：They could engage in the activities outside of work.＋These are the activities.注意 in 留在句尾，這正是關係代名詞被省略之後常見的樣子，看到動詞後面「少一個介系詞」時要有警覺。【干擾選項】break off（中斷、突然停止）用在關係或談話，像 break off the negotiations（中斷談判）。approve of（贊成、認可）後面接的是你認可的做法或人。take over（接管、接手）後面接的是職務或公司。三個代進去都無法搭配 activities。【常考字詞搭配】engage in（從事、參與）、be engaged in（忙於、投入於）、take part in（參加）、participate in（參與）、break off（中斷、突然停止）、approve of（贊成、認可）、take over（接管、接手）、focus on（專注於）。"
   },
   {
     "id": "G106_30_3",
@@ -4362,7 +4371,8 @@
     "explanation": "語意「照片會大大分散工人的注意力，因此『降低』他們的生產力」，lower（降低）符合這個負面效果；reform（改革）、switch（切換）、demand（要求）都不合。",
     "accuracyRate": 55,
     "discrimination": 73,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】lower 你最熟的是形容詞「較低的、下面的」——本份考卷第一篇的 lower lashes（下睫毛）就是這個用法。所以輪到它當動詞「降低」時，你反而會遲疑。這種一個字跨兩種詞性的情況在克漏字裡很常見，看到空格時先確定「這裡需要什麼詞性」，再回頭想這個字有沒有那種用法。【怎麼判斷】先確認詞性。空格前是 and thus，前面已經有一個動詞 can greatly distract workers，and 連接的必須是對等的成分，所以還原成完整寫法是：photos can greatly distract workers and photos can thus lower their productivity.——助動詞 can 後面接原形動詞，空格一定是動詞原形，四個選項都是原形，這一步先確定「要動詞」。再看方向。thus（因而）表示後面是前面的結果；前面是 distract workers（分散注意力），是負面的，所以後面接的也必須是負面結果，只有 lower（降低）符合。這裡也可以順便回頭看全篇的結論：workers are actually most productive when the weather is lousy，照片提醒了好天氣，注意力被拉走，生產力自然往下掉。【干擾選項】reform（改革）用在制度或組織，像 reform the education system（改革教育制度），不會用來講生產力。switch（切換、轉換）是換成另一個，常見 switch to another channel（轉到別台），但這裡沒有「換成什麼」。demand（要求）語意上和 distract 接不起來。【常考字詞搭配】lower productivity（降低生產力）、raise the price（提高價格）、lower the price（降低價格）、distract someone from（使某人分心而無法……）、reform（改革）、switch to（改用、換成）、focus on（專注於）、remind someone of（使某人想起）。"
   },
   {
     "id": "G108_16_1",
