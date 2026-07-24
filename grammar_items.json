@@ -4380,7 +4380,8 @@
     "explanation": "【句型】stem from 固定搭配「源自於」；leads to（導致，方向相反）、brings out（帶出）、comes across（偶遇）都不合。",
     "accuracyRate": 44,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】stem 你最熟的是名詞「莖、幹」，動詞用法比較陌生。四個選項塞進去讀起來都像句子，真正要判斷的是「方向」。【怎麼判斷】先確認 it 指什麼：it 指的是 April Fools' Day（愚人節）。空格後面 the adoption of a new calendar（新曆法的採用）是更早發生的事，下一句就說 In 1582, Pope Gregory XIII ordered a new calendar（1582 年教宗額我略十三世下令頒行新曆）。所以愚人節是後來的結果，新曆法是源頭，要填的是「源自於」，也就是 stem from。stem 當名詞是植物的莖，莖從根長出來，這個字面意象可以直接幫你記住方向：A stems from B 是 A 從 B 長出來。前半句 Some see it as a celebration related to the turn of the seasons（有些人把它看成與季節交替有關的節慶）講的也是起源，兩種說法並列，主題一致。【干擾選項】leads to（導致）方向剛好相反，會變成愚人節導致新曆法被採用，時間順序不合。brings out（帶出、使顯現）的受詞通常是特質或產品，例如 bring out the best in sb。comes across（偶然遇到；給人某種印象）不能接「採用」這種抽象名詞。【常考字詞搭配】stem from（源自於）、result from（起因於）、derive from（源自、衍生自）、date back to（可追溯到）、lead to（導致）、bring out the best in sb（激發某人最好的一面）、come across as（給人……的印象）、the adoption of（對……的採用）。"
   },
   {
     "id": "G108_17_1",
@@ -4418,7 +4419,8 @@
     "explanation": "語意「最終，這個習俗傳遍了歐洲」，Eventually（最終）符合這種事件發展的時間順序；Precisely（精確地）、Additionally（此外）、Literally（字面上地）都不合。",
     "accuracyRate": 66,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】eventually 和 finally 你大概都背成「最後」，所以選項裡沒有 finally 時反而會猶豫。這一格要判斷的不是中文翻譯對不對，而是這個詞在整段時間線上的位置。【怎麼判斷】把這一段的時間鏈拉出來看：In 1582 教宗頒行新曆 → 有些人仍在 4 月 1 日過新年 → 另一些人開始捉弄這些守舊派 → 空格 → the practice spread throughout Europe and the rest of the world（這個習俗傳遍歐洲與世界其他地方）→ Nowadays（現今）。整段是一條由遠而近的時間線，空格要填的是把「少數人的惡作劇」推進到「傳遍全世界」的那個過渡詞。eventually 正好標示「經過一段過程之後，終於……」，帶有歷時演變的意味，和這條時間線完全吻合。【干擾選項】Precisely（精確地）用來修飾程度或數量，例如 precisely at noon。Additionally（此外）是再加一項訊息，但這裡不是多列一項，而是同一條線往後推進。Literally（字面上地）在正式寫作裡指「就字面意義而言」，需要有一個字面與比喻的對照對象，這句沒有。【常考字詞搭配】eventually（最後、終於，強調歷經過程）、in the end（最後、結果）、finally（最後、終於）、at last（終於，含等待已久的感覺）、spread throughout（傳遍……）、the rest of the world（世界其他地方）、precisely（精確地）、additionally（此外）、literally（字面上地）。"
   },
   {
     "id": "G108_19_1",
@@ -4455,7 +4457,8 @@
     "explanation": "語意「製作『虛構的』報導來愚弄觀眾」，fictional（虛構的）符合愚人節惡作劇的語境；essential（必要的）、ancient（古老的）、subjective（主觀的）都不合。",
     "accuracyRate": 60,
     "discrimination": 67,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】fiction 你記得是「小說」，所以 fictional 容易被讀成「小說的」，一配上 reports（報導）就覺得搭不起來。其實 fiction 的核心意思是「虛構的內容」，小說只是其中一種形式；fictional reports 就是「虛構的、捏造的報導」。【怎麼判斷】同一句句尾已經把答案講白了：in order to fool their audiences（為了愚弄觀眾）。要騙人，報導當然是假的。下一句的例子也在示範同一件事：The BBC once reported that Swiss farmers were experiencing a spaghetti crop（BBC 曾報導瑞士農民迎來義大利麵大豐收），還播出人們從樹上採收麵條的畫面。【干擾選項】essential（必要的）、ancient（古老的）、subjective（主觀的）都不是「假的」。其中 subjective 最需要留意：一篇主觀的報導講的可能仍是真事，只是帶了個人觀點，和「刻意捏造」是兩回事，這個差別正是這一格的關鍵。【常考字詞搭配】fictional（虛構的）、fictitious（捏造的、假的，語氣更強調刻意造假）、fiction（虛構作品；虛構的事）、non-fiction（非虛構作品）、fool sb into Ving（騙某人去做……）、in order to V（為了……）、play a trick on sb（捉弄某人）、hoax（惡作劇、騙局）、make up a story（編造故事）。"
   },
   {
     "id": "G108_21_2",
@@ -4473,7 +4476,8 @@
     "explanation": "【句型】serve as 固定搭配「作為/充當」；bring along（帶著）、turn out（結果是）、account for（解釋/佔比）都不合。",
     "accuracyRate": 57,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】serve 你最熟的是「供應餐點、服務」，看到 serve a substitute 會覺得怪怪的。這裡考的是 serve 另一個常考的意思：「充當、作為」，後面固定接 as。【怎麼判斷】空格後面是 a substitute for leather（皮革的替代品），一個名詞片語，所以空格要放的是能接名詞、而且語意是「當作」的動詞片語。serve as 正好符合：主詞 Pineapple leaves（鳳梨葉）和後面的 a substitute（替代品）是同一件東西，中間是「充當」的關係。換成你更熟的說法驗算一次：Pineapple leaves can serve as a substitute for leather. 等於 Pineapple leaves can be used as a substitute for leather.（鳳梨葉可以被當成皮革的替代品使用），意思一樣，可見 serve as 就是 be used as 的同義說法。【干擾選項】bring along（隨身帶著）的受詞是可以帶著走的東西，「鳳梨葉帶著一個替代品」語意不通。turn out（結果是）後面要接 to be 或 that 子句，例如 It turned out to be a mistake.，不能直接接名詞。account for（解釋原因；佔某個比例）和「當作替代品」無關。【常考字詞搭配】serve as（充當、作為）、act as（擔任、充當）、function as（發揮……的功能）、be used as（被當成……使用）、a substitute for（……的替代品）、substitute A for B（用 A 代替 B）、bring along（隨身帶著）、turn out to be（結果是）、account for（解釋；佔……比例）。"
   },
   {
     "id": "G108_22_2",
@@ -4491,7 +4495,8 @@
     "explanation": "過去分詞 woven 作補語，被動語意「被編織在一起」（襯衫是用鳳梨葉纖維編織而成的）；wove（過去式，這裡需要分詞不是限定動詞）、weaving（現在分詞，主動語意方向不合）、to weave（不定詞）都不合。",
     "accuracyRate": 43,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 observed 後面接了 a traditional Filipino shirt，你可能直覺選 wove，覺得要用動詞。先數一下這個子句已經有幾個動詞：when 引導的子句主詞是 a Spanish designer，動詞是 observed，限定動詞已經有了，空格不能再放一個。【怎麼判斷】這是國中句型的長大版。你學過 see sb do 和 see sb doing：I saw him cross the street.（我看到他穿越馬路，強調整個過程）、I saw him crossing the street.（我看到他正在穿越）。observe 和 see、hear、watch、notice 是同一類，除了原形動詞和現在分詞，還有第三種：受詞後面接過去分詞，表示「受詞被……」。例如 We saw Nelson Mandela presented with a special prize.（我們看到曼德拉被頒發特別獎）（例句出自劍橋 English Grammar Today）。這一格也一樣：shirt 是被編織的，不是自己去編織別人，所以用過去分詞 woven。還原成完整子句就更清楚：she observed that a traditional Filipino shirt was woven together with the fibers of pineapple leaves.（她注意到一件傳統菲律賓襯衫是用鳳梨葉的纖維編織在一起的）。另外 weave 是不規則動詞，三態為 weave–wove–woven，過去分詞是 woven 不是 weaved，字形本身就是這一格的考點之一。【干擾選項】wove 是過去式，屬於限定動詞，這個位置已經有 observed，再放一個會變成一個子句裡有兩個動詞。weaving 是現在分詞，語意會變成襯衫主動在編織別的東西，方向不合。to weave 是不定詞，這類感官動詞的受詞補語不接 to V，就像我們說 I saw him cross，不會說 I saw him to cross。【常考字詞搭配】observe／see／hear／watch／notice + O + Vpp（看到、聽到某物被……）、weave–wove–woven（編織，三態變化）、be woven together（被編織在一起）、be made of／from（由……製成）、the fibers of（……的纖維）、travel to（前往……）。"
   },
   {
     "id": "G108_23_2",
@@ -4509,7 +4514,8 @@
     "explanation": "語意「用來製作包包、鞋子和『其他』紡織品」，other（其他的）符合這種列舉後的概括；else（不能這樣修飾textile products）、those（指示代名詞）、such 都不合這個位置。",
     "accuracyRate": 71,
     "discrimination": 39,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】else 中文也翻成「其他」，所以 and else textile products 乍看好像可以。問題出在位置：else 只能放在被修飾的字後面，而且能被它修飾的字很有限。【怎麼判斷】else 能修飾的字其實很有限：只用在 any-、every-、no-、some- 開頭的字後面，以及 how、what、where、who、why 這些疑問詞後面（劍橋 English Grammar Today）。例如 something else（別的東西）、someone else（別人）、nowhere else（沒有別的地方）、What else do you need?（你還需要什麼？）。textile products 是普通名詞，不在這份名單裡，而且 else 不能擺到名詞前面去。要在複數普通名詞前面表示「其他的」，用的就是 other。還原檢查：bags, shoes, and other textile products（包包、鞋子，以及其他紡織品），前面兩項是舉例，other 把同一類的其餘部分一次收攏，這是列舉句很常見的收尾方式。【干擾選項】those 是指示代名詞，指的是前面提過的特定事物，但這裡是第一次提到「其他紡織品」，沒有可以指回去的對象。such 表示「這類的」，寫成 such textile products 語意會變成「就是這些」，和「除了前面兩項以外的其餘」不同。else 則是位置錯誤。【常考字詞搭配】other + 複數名詞（其他的……）、the other（兩者中的另一個）、others（其他人、其他東西，代名詞）、another + 單數名詞（另一個）、something else（別的東西）、someone else（別人）、what else（還有什麼）、and other + 名詞（以及其他……，列舉收尾）、be used for Ving（被用來做……）。"
   },
   {
     "id": "G108_24_2",
@@ -4527,7 +4533,8 @@
     "explanation": "語意「這種環保皮革對環境有明顯的『優勢』」，advantages（優勢）符合，呼應後文說明它更環保的具體原因；considerations（考量）、opportunities（機會）、responsibilities（責任）都不合。",
     "accuracyRate": 64,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】advantage 你最熟的用法大概是 take advantage of（利用），所以看到 has clear ___ for the environment 不一定會第一時間想到它。advantage 當一般名詞就是最基本的「優點、好處」，這一格要的正是這個意思。【怎麼判斷】空格後面的 compared to real leather and synthetic leathers（和真皮與合成皮相比）是關鍵：句子裡出現比較，這一格填的就該是「比較之下勝出的地方」。再往下看三句，全部都在為這一格作註解：It requires fewer chemicals（需要較少的化學藥劑）、Its manufacture also leaves a smaller carbon footprint（製造過程的碳足跡也較小）、the leftover material ... can even be used as a natural fertilizer（剩下的材料甚至可以當天然肥料）。連續三個好處，答案只能是「優點」。【干擾選項】considerations（考量、要納入思考的因素）是中性的，不含好壞判斷，接不上後面三個明確的優點。opportunities（機會）指的是可以去做某事的時機，環境不會「有機會」。responsibilities（責任）方向相反，後文講的是好處不是義務。【常考字詞搭配】have advantages for（對……有好處）、have an advantage over（勝過……）、take advantage of（利用；佔便宜）、the advantages and disadvantages of（……的優缺點）、compared to／with（和……相比）、eco-friendly（環保的）、biodegradable（可生物分解的）、carbon footprint（碳足跡）、leftover material（剩餘材料）。"
   },
   {
     "id": "G108_25_2",
@@ -4545,7 +4552,8 @@
     "explanation": "語意「由於成本低廉，這個創新材料已經被許多知名時尚公司採用」，Due to（由於）符合這個因果邏輯；Nothing but（只不過）、In contrast to（與……相反）、On behalf of（代表）都不合。",
     "accuracyRate": 77,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】表示原因你最先想到的一定是 because，但 because 後面要接完整子句，例如 Because it is cheap, ...。這一格空格後面是 its low cost，一個沒有動詞的名詞片語，所以要找的是「介系詞片語」而不是連接詞。先把這一步分清楚，選項馬上就篩掉一半。【怎麼判斷】能接名詞又表示原因的就是 Due to。整句是 Due to its low cost, this innovative material is already being used by many leading fashion companies（由於成本低廉，這個創新材料已經被許多知名時尚公司採用），前因後果順著走。用國中熟悉的說法對照一次：Due to its low cost 等於 Because of its low cost（後面接名詞），也等於 Because it is cheap（後面接子句）。同樣接名詞表原因的還有 owing to（由於）、on account of（由於），在正式寫作裡大致可以互換。順帶一提，早期有些用法書主張 due to 只能放在 be 動詞後面，例如 The delay was due to rain.，不宜放句首；但這個限制現在已被主要辭典與用法書視為過時的講究，這裡放句首完全站得住。【干擾選項】Nothing but（只不過是、只有）用來強調「除了……什麼都不是」，不表原因。In contrast to（與……相反、對比之下）表對比，但成本低和被採用之間是因果不是對比。On behalf of（代表……）用於代表某人出面做事，和句意無關。這個「原因 vs 讓步」的辨析是克漏字反覆出現的考點：109 年第 29 格就要你在 owing to（由於）和 in spite of（儘管）之間做選擇，兩題可以一起記。【常考字詞搭配】due to（由於，接名詞）、owing to（由於，接名詞）、because of（因為，接名詞）、on account of（由於，接名詞）、because + 子句（因為……）、nothing but（只不過是）、in contrast to／with（與……相反）、on behalf of（代表……）、leading companies（龍頭企業、知名企業）。"
   },
   {
     "id": "G108_26_3",
@@ -4563,7 +4571,8 @@
     "explanation": "【句型】built into 固定搭配「內建於」；beyond（超越）、from、with 都不合。",
     "accuracyRate": 46,
     "discrimination": 32,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】build 你想到「建造」，於是覺得後面接哪個介系詞好像都差不多。其實 build 配上不同介系詞，意思差很多，這一格考的正是這件事。【怎麼判斷】句意是「一台相機和一套顯示系統被裝在這副眼鏡裡」——相機不是擺在眼鏡旁邊，而是做進眼鏡的結構裡，成為眼鏡的一部分。表示「進入內部並成為其中一部分」的介系詞是 into，be built into 就是「內建於……」。把被動還原成主動驗算一次：The designers built a camera and a viewing system into these glasses.（設計者把相機和顯示系統做進這副眼鏡裡），into 後面接的是「被裝進去的那個東西」，位置與語意都對得上。你身邊就有現成的例子：built-in camera（內建相機）、a built-in wardrobe（嵌入式衣櫃）。【干擾選項】beyond（超越、在……之外）方向剛好相反，會變成裝在眼鏡外面。from 表來源，be built from 是「用某種材料建成」，例如 The house was built from stone.，這裡講的不是材料。with 可以表工具或配備，語意偏「附帶什麼」，但這一格要的是「裝進內部」的方位關係，into 才精準。順帶一提，build on（以……為基礎進一步發展）是同一個字另一個常考的搭配，109 年第 18 格就把它放進選項當干擾，兩個一起記起來。【常考字詞搭配】be built into（內建於……）、built-in（內建的、嵌入式的）、build on（以……為基礎發展）、be built from／of（由……建成）、build up（累積、增強）、a viewing system（顯示系統）、be set to V（被設定成……）、play tricks with（對……耍花招）。"
   },
   {
     "id": "G108_27_3",
@@ -4601,7 +4610,8 @@
     "accuracyRate": 41,
     "discrimination": 63,
     "contextSpan": "跨句",
-    "contextNote": "therefore 承接前一句「食物看起來變大、手維持原狀」的結果"
+    "contextNote": "therefore 承接前一句「食物看起來變大、手維持原狀」的結果",
+    "note": "【你可能會這樣想】你背 therefore 的時候，看到的例句大概都是放句首：Therefore, ...。所以當它出現在 is 和 tricked 中間，你反而會覺得這個位置不可能放 therefore 而不敢選。這一格的難處在位置，不在意思，答對率 41%，是這篇最低的一格。【怎麼判斷】先確認詞性：therefore 是副詞。therefore、however、as a result 這一類詞歸在「連接副詞」（linking adjunct）底下，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today）；連接詞就不行，連接詞只能待在子句開頭。既然是副詞，它就適用副詞放句中的規則：be 動詞後面、助動詞後面、一般動詞前面。這句是被動語態 is tricked，therefore 插在 is 和 tricked 中間，完全合乎規則。你早就用過同樣的位置：I am never late.（我從不遲到），never 也是放在 be 動詞後面。再看語意，前一句說 The size of the food ... is magnified while that of their hand remains normal（食物的尺寸被放大，手的尺寸維持正常），這一句說大腦被騙以為吃得比實際多，前因後果，要填的就是「因此」。【干擾選項】beforehand（事先、預先）是時間副詞，這裡沒有「在某事之前」的時間對照。likewise（同樣地）用於兩件性質相同、地位平行的事，但前後兩句是因與果，不是並列。instead（取而代之、反而）表示「不是 A 而是 B」的替換或轉折，前後句沒有被替換掉的東西。轉承語是克漏字每年必考的一塊：109 年第 28 格考 And yet（然而），判斷方式是「能不能單獨加逗號放句首」；這一格反過來考「能不能放句中」，兩題合起來看，你就掌握了轉承語的兩個檢查角度。【常考字詞搭配】therefore（因此）、thus（因此、於是）、consequently（因此、結果）、as a result（結果、因此）、trick sb into Ving（騙某人去做……）、fool sb into Ving（哄騙某人做……）、beforehand（事先）、likewise（同樣地）、instead（取而代之、反而）、instead of（而不是……）。"
   },
   {
     "id": "G108_29_3",
@@ -4619,7 +4629,8 @@
     "explanation": "語意「讓配戴者以為他們吃的平淡零食比實際上『更美味』」，tastier（更美味）呼應前文提到的氣味瓶跟視覺詭計讓人誤以為食物更好吃；prettier（更漂亮，這裡講的是味覺不是外觀）、larger（更大）、healthier（更健康）都不合。",
     "accuracyRate": 53,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】前面整段都在講「食物看起來變大」，所以你的手很容易滑去選 larger。但這一句換了裝置，也換了感官，線索在這個句子裡面，不在前一段。【怎麼判斷】先看這個新裝置用什麼：scent bottles（氣味瓶）和 visual trickery（視覺把戲）。scent 是氣味，氣味影響的是味覺感受，所以被騙的內容應該和「好不好吃」有關。再看被形容的東西：the plain snack（平淡無味的零食）——plain 在這裡不是「樸素」而是「沒調味、味道平淡」，這個字已經先把主題定在味道上。一個沒味道的零食被騙成「比實際上更……」，最順的就是 tastier（更美味）。後文回頭確認了這一點：some participants thought that they were eating a chocolate snack, but in fact they were not（有些受試者以為自己在吃巧克力零食，事實上並不是），被騙的正是味覺。把比較句還原一次：the plain snack is tastier than it actually is，than 後面省略掉的是 it actually is tasty，比較的兩端是「感覺到的味道」與「實際的味道」，同一樣東西自己跟自己比。【干擾選項】larger（更大）是前一段那個裝置的效果，而這一句開頭 has also developed a special device 已經表示換了另一個裝置。prettier（更漂亮）講的是外觀，但 plain 和 scent bottles 兩個線索都指向味覺。healthier（更健康）在文章裡從頭到尾沒有提到營養或健康的改變。【常考字詞搭配】tasty／tastier（美味的／更美味的）、plain（食物原味的、沒調味的；樸素的）、scent（氣味、香味）、visual trickery（視覺把戲）、make sb V（使某人做……，接原形動詞）、trick sb into Ving（騙某人做……）、than it actually is（比它實際上……）、be about to V（正要……）。"
   },
   {
     "id": "G108_30_3",
