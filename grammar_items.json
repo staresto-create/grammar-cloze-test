@@ -5391,7 +5391,8 @@
     "explanation": "語意「提出『多種』解釋」，multiple（多種的）符合，呼應後文列舉兩派學者不同的解釋（保護樹枝說、資源競爭說）；universal（普遍的）、productive（多產的）、conventional（傳統的）都不合。",
     "accuracyRate": 59,
     "discrimination": 70,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】proposing ___ explanations，四個形容詞修飾 explanations 讀起來都不奇怪，所以容易憑印象挑一個看起來比較「學術」的，例如 conventional。這一格考的不是哪個字比較高級，而是後文究竟列出了幾種說法。【怎麼判斷】往後看：Some researchers point out that...（有些研究者指出樹枝碰撞會斷，所以保持距離）、Other scientists suggest that...（另一些科學家認為植物也會競爭資源）。Some... Other... 這組對照就是答案——不只一種解釋，所以用 multiple（多種的）。最後一句 there is no consensus on exactly what causes...（對確切成因並無共識）更是直接印證：正因為說法有好幾種，才會沒有共識。【干擾選項】universal（普遍的、全體共通的）與「有好幾種不同說法」互相矛盾；conventional（傳統的、慣例的）暗示已經有一個公認的舊說法，但文章說的是尚無共識；productive（多產的、有成效的）拿來形容 explanations 語意不通。【常考字詞搭配】multiple explanations／factors（多種解釋／因素）、multiple-choice question（選擇題）、propose an explanation（提出解釋）、reach a consensus on（就……達成共識）、conventional wisdom（傳統看法、一般認知）。"
   },
   {
     "id": "G112_13_1",
@@ -5409,7 +5410,8 @@
     "explanation": "【句型】compete for 固定搭配「競爭……」，表示植物像動物一樣「競爭」資源；get over（克服）、give way to（讓位給）、make up for（彌補）都不合。",
     "accuracyRate": 57,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】compete 你比較熟的是 compete with／against sb（與某人競爭），所以看到 compete for 會愣一下。兩個介系詞分工其實很清楚：with／against 後面接對手，for 後面接爭奪的東西。 compete for resources 就是「爭奪資源」。【怎麼判斷】空格後接的是 resources—nutrients, water, space, and light（資源：養分、水、空間、光），這是被爭奪的東西不是對手，所以用 for。下一句 there is intense struggle for these resources（對這些資源有激烈的爭奪）再次確認，連介系詞 for 都一樣。【干擾選項】get over 是「克服；從生病或難過中恢復」（get over a cold 感冒痊癒）；give way to 是「讓位給、被……取代」，主詞會被取代掉，但植物並沒有消失；make up for 是「彌補」，後面接缺憾不接資源。【常考字詞搭配】compete for sth（爭奪……）、compete with／against sb（與某人競爭）、competition for resources（資源競爭）、competitive edge（競爭優勢）、get over（克服；恢復）、give way to（讓位給）、make up for（彌補）。"
   },
   {
     "id": "G112_14_1",
@@ -5427,7 +5429,8 @@
     "explanation": "【句型】exposure to 固定搭配「暴露於/接觸到」，表示樹冠間的縫隙讓樹木能增加「接觸」陽光的機會；reliance on（依賴）、sensitivity to（對……敏感）、reflection on（對……的反思）都不合。",
     "accuracyRate": 58,
     "discrimination": 64,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】exposure 你最常在「曝光」「曝曬」的語境看到，感覺帶點負面（exposure to the sun 曬到太陽）。其實 exposure to sth 是中性的「接觸到、暴露於」，好壞由後面的名詞決定：exposure to sunlight 對植物是好事，increase their exposure to light 就是「增加接收到的光」。【怎麼判斷】整句是 Gaps in the treetops... may allow trees to increase their ___ light and enhance photosynthesis。and 後面的 enhance photosynthesis（促進光合作用）是關鍵：要行光合作用就得曬到光，所以空格講的是「接收到光的量」。四個選項都是「名詞＋介系詞」的組合，這種題型先確認介系詞、再確認語意；本題四個介系詞形式上都能接 light，就得靠語意定案。【干擾選項】reliance on（對……的依賴）語氣太重，樹木不是變得「更依賴」光，而是「接觸更多」光；sensitivity to（對……敏感）指的是反應強弱，不是接收量；reflection on 有「對……的反思」與「光的反射」兩義，但光被反射是彈開，跟增加吸收剛好相反。【常考字詞搭配】exposure to sth（接觸、暴露於……）、be exposed to（接觸到……）、reliance on sth（對……的依賴）、rely on（依賴）、sensitivity to sth（對……敏感）、be sensitive to（對……敏感）、reflect on sth（反思……）。"
   },
   {
     "id": "G112_15_1",
@@ -5445,7 +5448,8 @@
     "explanation": "語意「儘管經過數十年的研究，仍然沒有共識」，Despite（儘管）符合這種讓步轉折；For（因為）、Besides（此外）、Concerning（關於）都不合。",
     "accuracyRate": 53,
     "discrimination": 46,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】照中文語感「儘管研究了幾十年，還是沒有共識」，你知道要填一個表讓步的字，腦中第一個浮現的多半是 Although——但選項裡沒有它，只有 Despite。這正是本題要考的：Despite 是介系詞，Although 是連接詞，中文都翻成「儘管」，但後面接的東西完全不同。【怎麼判斷】看空格後面接什麼。這裡是 ___ decades of investigation, there is no consensus...，decades of investigation 是名詞片語，沒有主詞和動詞，所以要用介系詞 Despite。若要用 Although，句子必須改寫成 Although researchers have investigated it for decades,... 後面接完整的句子。記一句話就好：Despite ＋ 名詞或動名詞，Although ＋ 主詞＋動詞。 另外要注意 despite 後面不加 of（沒有 despite of 這種寫法），要加 of 的是 in spite of；真的想在 despite 後面接句子，唯一的辦法是 despite the fact that ＋ 句子。【干擾選項】For（因為）表原因，但「研究了幾十年」不是「沒有共識」的原因，語意矛盾；Besides（此外）是追加，前後應該同方向，本句卻是轉折；Concerning（關於）只是帶出話題，讀起來變成「關於數十年的研究，並無共識」，失去了讓步的語氣，而全句的重點正是這個轉折。【常考字詞搭配】despite ＋ 名詞／動名詞（儘管……）、in spite of ＋ 名詞（儘管……）、despite the fact that ＋ 句子（儘管……）、although／though ＋ 主詞＋動詞（雖然……）、reach a consensus on（就……達成共識）、decades of（數十年的……）。"
   },
   {
     "id": "G112_16_2",
@@ -5482,7 +5486,8 @@
     "explanation": "語意「低重力如何影響太空人的『身體』狀況」，physical（身體的）符合，呼應後文描述身體的具體生理變化（體液上移、臉部浮腫）；perceptual（知覺的）、mental（心理的）、external（外部的）都不合。",
     "accuracyRate": 71,
     "discrimination": 57,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 condition（狀況），又想到太空人要執行長期任務，很容易聯想到「心理壓力」而選 mental。這是常見的先入為主：先想到自己覺得重要的面向，而不是文章實際在談的面向。【怎麼判斷】往後讀就知道整段談的都是身體：more fluids in our lower body（下半身體液較多）、our body fluids... shifting toward the upper body and the head（體液上移到上半身與頭部）、swollen, puffy faces（臉部腫脹浮腫）。從頭到尾沒有一句談情緒或心理，所以是 physical condition（身體狀況）。【干擾選項】mental（心理的）與 perceptual（知覺的）文章都沒有著墨；external（外部的）指外在環境，但 condition 前面的所有格是 the astronauts'，講的是太空人自身的狀況。【常考字詞搭配】physical condition（身體狀況）、physical examination（健康檢查）、mental health（心理健康）、be in good condition（狀況良好）、on condition that（條件是……）、body fluids（體液）。"
   },
   {
     "id": "G112_18_2",
@@ -5519,7 +5524,8 @@
     "explanation": "語意「這個『查理布朗效應』在火星任務時會更『嚴重』」，severe（嚴重的）符合，呼應前文說火星任務時間更長（三年）；contagious（傳染性的）、unusual（不尋常的）、aggressive（侵略性的）都不合。",
     "accuracyRate": 54,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】This \"Charlie Brown effect\" will be more ___，四個形容詞接在 more 後面都成立。你可能被 contagious（有傳染性的）吸引，因為前面出現了 sickness、health risk，感覺跟疾病有關。但「查理布朗效應」是失重造成的生理反應，不是病菌引起的，不會傳染——跟症狀有關的字，不等於跟傳染有關的字。【怎麼判斷】關鍵在同一句的後半：when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon（火星任務約需三年，比登月任務長得多）。任務時間更長 → 處在失重狀態更久 → 症狀更嚴重，這條因果線只支持 severe（嚴重的），more severe 就是「更嚴重」。【干擾選項】contagious 需要有傳染源與傳染途徑，文章完全沒提；unusual（不尋常的）講的是罕見程度，任務變長不會讓這個現象變得比較罕見；aggressive 用在疾病上指「侵襲性強、惡化快」，通常形容癌症或治療方式，用來形容失重造成的臉部浮腫並不恰當。【常考字詞搭配】severe symptoms／damage（嚴重的症狀／損害）、severe weather（惡劣的天氣）、a severe case of（嚴重的……病例）、contagious disease（傳染病）、be at risk of（有……的風險）、health risk（健康風險）。"
   },
   {
     "id": "G112_20_2",
@@ -8945,7 +8951,8 @@
     "explanation": "【句型】pose as 固定搭配「假扮成」，表示神秘客「假扮成」一般顧客去購買商品；call for（需要）、attend to（處理）、engage in（從事）都不合。",
     "accuracyRate": 42,
     "discrimination": 56,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】pose 在你腦中的第一個畫面多半是拍照時「擺姿勢」（pose for a photo），所以看到 pose as 會覺得跟句子搭不上。pose as sb 是另一個常考用法：假扮成、冒充某種身分——擺出那個身分的樣子給別人看，其實和「擺姿勢」是同一個核心概念，只是這裡擺的是身分不是姿勢。【怎麼判斷】主詞是 mystery shoppers（神秘客），前一句 Sometimes referred to as secret shoppers 已經強調「祕密」。空格後是 regular customers to purchase items（一般顧客，去買東西）——神秘客的工作正是不表明身分、裝成普通客人。再往下 They may also pretend to be ___ customers，pretend to be 就是 pose as 的同義說法，文章自己給了對照。【干擾選項】call for 是「需要、要求」（The situation calls for caution. 情況需要謹慎）；attend to 是「照料、處理」，注意 attend a meeting（出席會議）少了 to 才是「參加」，差一個 to 意思就變了；engage in 是「從事（某活動）」，後面接活動不接身分。【常考字詞搭配】pose as sb（假扮成某人）、pose a threat to sb／sth（對……構成威脅）、pose a problem for sb（為……帶來問題）、pretend to be（假裝是）、call for（需要、要求）、attend to sb（照料某人）、attend a meeting（出席會議）、engage in sth（從事……）。"
   },
   {
     "id": "G113_12_1",
@@ -8963,7 +8970,8 @@
     "explanation": "the stores to which they are assigned（他們被分配到的商店），關係代名詞 which 代替 stores，介系詞 to 來自 assigned to 這個固定搭配；in that（因為）、with which（assigned是assigned to不是assigned with）、for that 都不合。",
     "accuracyRate": 43,
     "discrimination": 38,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 the stores ___ they are assigned，你會想：這裡填關係代名詞 which 就好了，為什麼前面還要加 to？關鍵在於動詞片語本身自帶介系詞：assign sb to sth（把某人分派到某處）。把句子拆回兩句就清楚了——They grade and report on the quality... of the stores. 加上 They are assigned to the stores. 合併時 the stores 換成 which，原本跟在 assigned 後面的 to 也跟著搬到 which 前面，就成了 to which。【怎麼判斷】步驟是固定的：先看空格後面那個動詞需要什麼介系詞。 這裡是 be assigned to（被分派到），所以介系詞是 to。也可以用還原法檢查：把它改寫成口語常見的 the stores which they are assigned to，意思完全一樣，只是把介系詞留在句尾——這是同一個結構的兩種寫法。【干擾選項】with which 錯在介系詞：assign 搭配的是 to 不是 with。in that 是連接詞「因為」（＝because），後面要接完整句子表原因，但本句缺的是修飾 the stores 的關係子句。for that 更是不成立——在關係子句裡，介系詞後面只能接 which 或 whom，不能接 that，這一點沒有例外。【常考字詞搭配】assign sb to sth（把某人分派到……）、be assigned to（被分派到）、report on sth（就……提出報告）、the way in which（……的方式）、the extent to which（……的程度）、the reason for which（＝why，……的原因）。"
   },
   {
     "id": "G113_13_1",
@@ -8981,7 +8989,8 @@
     "explanation": "語意「必須遵循一定的標準程序以避免『個人偏見』」，personal bias（個人偏見）符合，呼應後文提供checklist確保評估一致性的目的；keen competitions（激烈競爭）、financial hardship（財務困難）、racial conflicts（種族衝突）都不合。",
     "accuracyRate": 52,
     "discrimination": 64,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是名詞片語，你可能哪個認識就選哪個。這一題真正要問的是：神秘客為什麼需要「標準程序」？ 標準程序存在的目的，就是讓不同的人評出來的結果一致，不摻進個人好惡。【怎麼判斷】線索在下一句：They are often given a checklist that provides directions on what to observe or look out for to ensure consistency（給他們一張檢核表，指示要觀察什麼，以確保一致性）。ensure consistency（確保一致性）就是 avoid personal bias（避免個人偏見）的正面說法，同一件事的一體兩面。選項難分高下時，找文章有沒有把同一個概念換句話講。【干擾選項】keen competitions（激烈競爭）、financial hardship（財務困難）、racial conflicts（種族衝突）都是社會或經濟層面的問題，跟「評分是否客觀一致」無關。這三個放進句子文法都通，但整段完全沒有相關鋪陳。【常考字詞搭配】personal bias（個人偏見）、be biased against sb（對某人有偏見）、avoid Ving（避免做……）、follow procedures（遵循程序）、ensure consistency（確保一致性）、look out for（留意）。"
   },
   {
     "id": "G113_14_1",
@@ -9018,7 +9027,8 @@
     "explanation": "【句型】areas for improvement 固定搭配「待改進之處」；distribution（分配）、expectation（期望）、management（管理）都不合。",
     "accuracyRate": 57,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】area 你最熟的是「面積、地區」，所以 areas for ___ 容易被讀成某種「地帶」。area 另一個常考語意是（抽象的）方面、部分，areas for improvement 是職場與評鑑場合的固定說法，意思是「待改進之處」。【怎麼判斷】空格後半句直接給了答案：and thereby help enhance the quality of products and services（並藉此協助提升產品與服務的品質）。thereby（藉此）把前後綁成因果：先找出「待改進之處」，才談得上「提升品質」。介系詞 for 在這裡表目的，areas for improvement 就是「需要改進的方面」。【干擾選項】distribution（分配、配銷）、management（管理）、expectation（期望）放進 areas for ___ 文法都成立，但接不上後半句的 enhance the quality——只有「改進」和「提升品質」是同一條因果線上的前後兩步。【常考字詞搭配】areas for improvement（待改進之處）、room for improvement（改進的空間）、make improvements（做出改善）、enhance the quality of（提升……的品質）、thereby（藉此）、in this area（在這方面）。"
   },
   {
     "id": "G113_16_2",
@@ -9056,7 +9066,8 @@
     "explanation": "過去分詞片語 Equipped with sticks or pea shooters（配備著棍子或豌豆槍），補充說明敲窗人的裝備；Aimed at（以……為目標）、Trained for（為……受訓）、Exhausted by（被……累垮）都不合。",
     "accuracyRate": 61,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】句首是一個用逗號隔開的分詞片語，主詞在後面（the human alarms）。你可能困惑：為什麼用過去分詞 Equipped 而不是現在分詞？因為主詞和動詞之間是被動關係——人是「被配備上」工具的。equip 的用法是 equip sb with sth（為某人配備某物），人當主詞時就要用 be equipped with。【怎麼判斷】把分詞片語還原成完整子句最快：Equipped with sticks or pea shooters, the human alarms would tour the streets ＝ Because they were equipped with sticks or pea shooters, the human alarms would tour...。還原後 they were equipped 成立，語意也通。再看下一句 Whether they wielded rods or pea shooters（無論他們揮的是棍子還是豌豆槍），wielded（揮舞）確認了他們手上確實帶著這些工具。【干擾選項】Aimed at 是「以……為目標」，後面接目標不接工具；Trained for 是「為……受訓」，後面接受訓的目的；Exhausted by 是「被……累垮」，與後文「巡街、敲窗、專業地叫醒客戶」的積極描述相反。這三個選項的介系詞後面該接什麼，跟 sticks or pea shooters 這類工具都對不上。【常考字詞搭配】equip sb with sth（為某人配備……）、be equipped with（配備有……）、equipment（設備，不可數）、be aimed at（以……為目標）、be trained for（為……受訓）、be exhausted by（被……累垮）。"
   },
   {
     "id": "G113_18_2",
@@ -9074,7 +9085,8 @@
     "explanation": "語意「敲窗人成為英國各地『熟悉的身影』」，familiar presences 符合，呼應後文描述他們每天早上出現在大街小巷；distant memories（遙遠的記憶，這裡是講他們當時「存在」不是「回憶」）、vague images（模糊的形象）、public eyesores（公眾眼中釘，語意相反）都不合。",
     "accuracyRate": 43,
     "discrimination": 46,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】presence 你背的多半是「出席、在場」這個抽象意思（Your presence is required. 需要您親自出席），而且是不可數的。但 presence 也可以當可數名詞，指存在感明顯的人物、身影，familiar presences 就是「熟悉的身影」。看到它後面加了 -s，就該想到這裡用的是可數的那個意思。【怎麼判斷】看時態和後文。本句 knockers-up became ___ throughout the United Kingdom 用的是 became，講的是他們當年在各地成為什麼。下一句 Every morning, these people... were seen in big streets and small alleys（每天早上，這些人出現在大街小巷）——were seen（被看見）正是「熟悉的身影」的具體描述。【干擾選項】distant memories（遙遠的記憶）是後人回頭看的角度，但本段講的是他們當年還在工作的時期，時間點不對；vague images（模糊的形象）與「每天早上都看得到」矛盾；public eyesores（有礙觀瞻的東西）帶明顯貶意，但全文對敲窗人是正面描述，最後一句還說鬧鐘取代不了那份人情味。【常考字詞搭配】a familiar presence（熟悉的身影）、in the presence of（在……面前）、presence of mind（沉著、鎮定）、become a common sight（成為常見的景象）、a distant memory（遙遠的記憶）、an eyesore（有礙觀瞻的東西）。"
   },
   {
     "id": "G113_19_2",
@@ -9131,7 +9143,8 @@
     "explanation": "過去未來式 would spread，站在1995年那個過去時間點，描述接下來將發生的事（他們沒想到這個創新後來會快速傳播到世界各地），是「過去看未來」的時態；had spread（過去完成式，時態方向不合，這是講「未來會發生」不是「已經發生過」）、had been spreading（同樣時態方向不合）、would have spread（過去完成的假設語氣，這裡不是假設）都不合。",
     "accuracyRate": 46,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】句子裡有 None of them had any idea，你看到 had 就想「這裡要配過去完成式」，於是挑了 had spread。但 had any idea 的時態和空格裡的動詞是兩件事：had any idea 是 1995 年當下他們「不知道」，而不知道的內容是接下來會發生什麼。時間軸要分兩層：先有 1995 年這個過去的點，再有從那個點往後看的未來。【怎麼判斷】這是「站在過去看未來」的時態，文法上叫過去未來式，用 would ＋ 原形動詞。最快的判斷法是把它改回當年的直接說法：1995 年那天他們心裡若有數，想的會是 This will spread rapidly around the world.，把 will 往過去推一格就是 would spread。文內線索在最後一句 Since that rainy morning in Mill Valley, the World Café approach has been applied to...，擴散是 1995 年之後才發生的事，不可能在那之前就完成。【干擾選項】had spread 與 had been spreading 都是過去完成（進行）式，表示「在過去某個時間點之前就已經發生」，方向剛好相反。would have spread 是「本來會……（但實際沒有）」的假設語氣，可是世界咖啡館真的傳開了，不是與事實相反的假設——看到 would have Vpp，先問一句：這件事到底發生了沒有？【常考字詞搭配】would ＋ V（過去未來式，「後來就會……」）、have no idea that...（完全不知道……）、spread rapidly／widely（迅速／廣泛傳播）、around the world（在世界各地）、would have Vpp（本來會……但實際沒有）。"
   },
   {
     "id": "G114_12_1",
@@ -9149,7 +9162,8 @@
     "explanation": "with 獨立分詞構句，With their plan disrupted by the rain（他們的計畫被雨打亂了），過去分詞 disrupted 表被動；facilitated（被促進，語意相反）、disclosed（被揭露）、fulfilled（被實現，語意相反）都不合。",
     "accuracyRate": 70,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 With their plan ___ by the rain，你可能先卡在 with 上：with 不是「和」嗎，怎麼後面接一長串？這裡的 with 是「附帶狀況」用法，With ＋ 受詞 ＋ 過去分詞，表示「在……被……的情況下」。四個選項都是過去分詞，形式上都塞得進去，所以真正要比的是意思。【怎麼判斷】前一句 Unfortunately, it started pouring.（很不巧，下起了傾盆大雨），Unfortunately 這個副詞已經定調接下來是壞消息。後半句 the two dozen participants squeezed into the living room（二十多人擠進客廳）也說明原訂在花園的討論泡湯了。所以空格要填「被打亂、被中斷」——disrupt 指的正是擾亂、中斷原本進行中或計畫好的事。【干擾選項】facilitated（被促進）與 fulfilled（被實現）方向完全相反，計畫如果順利，就不必擠進客廳；disclosed（被揭露）的受詞通常是祕密或資料（disclose information），計畫被「揭露」跟下雨也接不上因果。【常考字詞搭配】with ＋ 受詞 ＋ 過去分詞（在……被……的情況下）、disrupt the plan／traffic（打亂計畫／交通）、disruption（中斷、擾亂）、facilitate communication（促進溝通）、disclose information（揭露資訊）、fulfill a promise（實現承諾）、squeeze into（擠進）。"
   },
   {
     "id": "G114_13_1",
@@ -9186,7 +9200,8 @@
     "explanation": "【句型】give rise to 固定搭配「引發/產生」，表示這個創新的討論過程「催生了」一種新形式的集體協作；made up for（彌補）、kept track of（追蹤）、looked out for（留意）都不合。",
     "accuracyRate": 43,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】give 你最熟的意思是「給」，所以 give rise to 看起來像「給……上升」，很難直接連到「引發」。這裡的 rise 是名詞，指「產生、興起」，give rise to sth 要整組當一個字記：造成、引發，後面多半接抽象的結果，例如問題、爭議、新的事物。【怎麼判斷】句子是 the innovative discussion process ___ a new form of collective effort：主詞是「討論過程」，受詞是「一種新形式的集體協作」——一個過程「產生出」一個新東西，這是明確的因果關係。下一句 The World Café was thus created.（世界咖啡館就此誕生），thus 回頭確認了前面講的正是「造成某物出現」。【干擾選項】made up for 是「彌補（損失、不足）」，後面要接被彌補的缺憾；kept track of 是「持續掌握（進度、動向）」；looked out for 是「留意、當心」。這三個的主詞通常是人，本句主詞是抽象的 process，一看就該起疑。【常考字詞搭配】give rise to sth（引發、造成……）、make up for sth（彌補……）、keep track of sth（掌握……的動向）、lose track of sth（跟丟、失去……的蹤影或動向）、look out for sb（留意、當心某人）、collective effort（集體協作）。"
   },
   {
     "id": "G114_15_1",
@@ -9205,7 +9220,8 @@
     "accuracyRate": 57,
     "discrimination": 72,
     "contextSpan": "跨句",
-    "contextNote": "thus 承接前一句的討論過程，導出結果"
+    "contextNote": "thus 承接前一句的討論過程，導出結果",
+    "note": "【你可能會這樣想】The World Café was ___ created. 四個選項都是副詞，塞進去讀起來都很順，所以你可能憑語感隨手挑一個。但這一格是本篇唯一線索在句子之外的題目：要判斷的不是這句話本身通不通，而是這句話和前面整段是什麼關係。【怎麼判斷】往前看整段的走向：下雨 → 擠進客廳 → 分小桌談 → 換桌 → 新想法不斷冒出來 → 催生出新的協作形式。這一整串是「過程」，而 The World Café was ___ created 是這串過程的結果。表示結果的副詞就是 thus（因此、就此）。下一句 Since that rainy morning... 把時間切成「那天之後」，也印證這句是整件事的收尾。【干擾選項】still（仍然）表示狀態持續，但世界咖啡館是新誕生的，不是「仍然存在」；also（也）表示再追加一件事，可是前面並沒有提到「另一個東西也被創造出來」；further（進一步）需要前面已經有一個階段才談得上推進，本句是初次誕生。這三個都要求前文有特定鋪陳，而前文只有一條單純的因果線。【常考字詞搭配】thus（因此、就此）、and thus（因而）、thus far（到目前為止）、over the course of（在……的過程中）、in turn（接著、反過來）、emerge from（從……浮現）。"
   },
   {
     "id": "G114_16_2",
@@ -9242,7 +9258,8 @@
     "explanation": "語意「當大腦從眼睛、耳朵、身體接收到的訊號『不一致』時」，do not match 符合，呼應後文解釋大腦收到矛盾訊息造成的困惑；are not regular（不規律）、can hardly move（幾乎不能動）、are rarely cued（很少被提示）都不合。",
     "accuracyRate": 50,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】match 你最熟的是名詞「比賽、火柴」，當動詞時想到的是「配對」，所以 signals do not match 讀起來會怪：訊號怎麼配對？這裡的 match 是不及物動詞，意思是「相符、一致」——兩樣東西擺在一起對不起來，就是 not match。【怎麼判斷】答案就寫在下一句：when these parts send conflicting information（當這些部位送出互相矛盾的訊息）。conflicting 正是 do not match 的同義改寫。再往下 One part... detects that your body is moving, but the other parts ___，一邊偵測到在動、一邊沒有，這就是「不一致」的具體說明。選項難以取捨時，往下一句找有沒有同義的說法，是克漏字最穩的做法。【干擾選項】are not regular（不規律）講的是頻率或週期，文章談的是內容互相矛盾，不是時間不規律；can hardly move（幾乎不能動）的主詞是 signals，訊號不會「動」；are rarely cued（很少被提示）語意生硬，文章也沒有提到訊號需要被提示。【常考字詞搭配】match（相符、一致）、match A with B（把 A 與 B 配對）、a good match（很相配）、conflicting information（互相矛盾的資訊）、send signals（發出訊號）、be in conflict with（與……衝突）。"
   },
   {
     "id": "G114_18_2",
@@ -9260,7 +9277,8 @@
     "explanation": "don't 代替 don't detect that your body is moving（省略重複部分），表示「平衡感應系統的一部分偵測到身體在動，但其他部分『沒有』」；aren't（be動詞否定，前面用的是一般動詞 detect不是be動詞）、won't（未來式否定）、haven't（現在完成式否定，前面是現在簡單式detects）都不合。",
     "accuracyRate": 40,
     "discrimination": 41,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格只有一個否定的助動詞，後面什麼都沒接，你會覺得句子好像沒寫完，於是憑感覺挑一個。其實這是英文很常見的「替代」用法（文法上叫 substitution）：用一個助動詞頂替前面出現過的整串動詞，避免重複。這個你國中就學過——Do you like it? — Yes, I do.，那個 do 代替的就是 like it。本句 but the other parts ___ 一模一樣，don't 代替的是 don't detect that your body is moving。【怎麼判斷】劍橋《English Grammar Today》的 Substitution 條目說明：do 可以用來代替一個動詞連同它後面所帶的成分；同一套文法書的 Ellipsis 條目把兩個概念分得很清楚——省略是「直接不寫出來」，替代是「用 do、so、not 這類字頂上去」。所以判斷只有一步：回頭找出它代替的是哪個動詞，時態與人稱就跟著那個動詞走。 前半句是 One part of your balance-sensing system detects...，動詞是一般動詞 detects、現在簡單式；空格的主詞 the other parts 是複數，所以用 don't。【干擾選項】aren't 用在 be 動詞，可是前面的動詞是 detect 不是 be；haven't 用在現在完成式，前面卻是 detects（現在簡單式），時態對不上；won't 是未來式，但文章描述的是暈動症發生當下的生理狀況，不是將來才會發生的事。四個選項的差別完全取決於前面那個動詞是什麼，先找到它，答案就定了。【常考字詞搭配】Do you like it? — Yes, I do.（do 代替 like it）、So do I.（我也是）、Neither do I.（我也不是）、She liked it, but I didn't.（didn't 代替 didn't like it）、balance-sensing system（平衡感應系統）、detect（偵測）、conflicting（互相矛盾的）。"
   },
   {
     "id": "G114_19_2",
@@ -9278,7 +9296,8 @@
     "explanation": "語意「你可以採取一些『預防措施』來幫助避免不適」，preventive measures 符合，呼應後文列舉具體建議（選前排座位等）；special opportunities（特殊機會）、potential risks（潛在風險）、significant advantages（顯著優勢）都不合。",
     "accuracyRate": 73,
     "discrimination": 64,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】measure 你最熟的是動詞「測量」和名詞「尺寸」，所以 take some measures 容易被讀成「做一些測量」。measure 當可數名詞、而且用複數時，意思是措施、對策，take measures 就是「採取措施」。【怎麼判斷】空格後緊接著 to help avoid the discomfort（來幫助避免不適），已經點明目的是「避免」。再看後面三句：reserve seats where motion is felt the least（訂晃動最小的座位）、Looking out into the distance... can help（望向遠方有幫助）、take medicine before your ride（搭車前先服藥）——列出來的全是事先做、用來預防的動作，所以是 preventive measures（預防措施）。【干擾選項】special opportunities（特殊機會）與 significant advantages（顯著優勢）都是正面的好處，但後面列的是動作不是好處；potential risks（潛在風險）方向相反，你不會「採取風險」來避免不適。【常考字詞搭配】take measures／steps to V（採取措施／步驟來做……）、preventive measures（預防措施）、safety measures（安全措施）、prevent A from Ving（防止 A 做……）、reduce the risk of（降低……的風險）、motion sickness（暈動症）。"
   },
   {
     "id": "G114_20_2",
@@ -9296,7 +9315,8 @@
     "explanation": "語意「從車內往遠處看『也』有幫助」，as well（也）承接前面提到的座位選擇建議，表示這是另一個有幫助的方法；by far（遙遙領先地）、at least（至少）、after all（畢竟）都不合。",
     "accuracyRate": 73,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】你背過 as well as（以及），所以看到句尾孤零零一個 as well 會不確定是不是少寫了什麼。單獨放在句尾的 as well 就等於 too，意思是「也」。要注意 as well 和 as well as 是兩回事：as well 放句尾表示「也」；as well as 後面一定要接名詞或動名詞。【怎麼判斷】看這句在整段的位置。前一句給了第一個建議 reserve seats where motion is felt the least（訂晃動最小的座位）；本句 Looking out into the distance from the vehicle can help ___ 是第二個建議；下一句 You can also take medicine 是第三個，還用了 also。同一串並列的建議，中間這一項用 as well 收尾，語氣完全吻合。【干擾選項】by far 用來加強比較級或最高級（by far the best 好太多了），本句沒有比較；at least（至少）帶有退一步的語氣，這裡沒有退讓；after all（畢竟、到頭來）用來補充理由或推翻預期，本句只是平鋪直敘再加一個方法。【常考字詞搭配】as well（也，置於句尾）、A as well as B（A 以及 B，重點在 A）、by far（……得多，加強比較級與最高級）、at least（至少）、after all（畢竟；到頭來）、look out into the distance（望向遠方）。"
   },
   {
     "id": "G111學測英文參考試卷_16_1",
