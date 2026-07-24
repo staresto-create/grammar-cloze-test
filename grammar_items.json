@@ -8012,7 +8012,8 @@
     "explanation": "現在分詞被動語態 being called，作後位形容詞修飾 number，「正在被撥打的號碼」（相當於 the number [that is] being called 的省略結構）；calling（現在分詞，主動語意方向不合，應該是號碼「被撥打」）、having called（完成分詞，不合語境）、has been calling（限定動詞，不能這樣修飾名詞）都不合。",
     "accuracyRate": 53,
     "discrimination": 53,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格夾在主詞 the number 與動詞 is 之間，你第一個念頭大概是「這裡要放一個動詞」，於是挑了最像動詞的 has been calling。或者選 calling，因為「打電話的號碼」唸起來很順。【怎麼判斷】先把整句的主要動詞找出來。If the number ______ is in the same area as the number making the call, ...，主要動詞是 is，空格那一塊是插在主詞與動詞之間的修飾語，不是動詞本身。has been calling 是限定動詞（有時態、有人稱變化），放進去會讓一個子句出現兩個主要動詞，先出局。再決定主動還是被動。還原成完整的關係子句：the number that is being called（正在被撥打的那個號碼），把 that is 一起省略掉，就剩下 being called 擺在名詞後面。這種「關係代名詞加 be 動詞一起省略」的後位修飾，你在國中看過它最短的版本：a barking dog（正在吠的狗，主動）對 a broken window（被打破的窗戶，被動）。最好的線索就在同一句裡。句子後半是 the number making the call（撥出電話的那個號碼），用的是主動分詞。出題者刻意把兩個號碼擺在同一句對照：一個在撥（making），一個被撥（being called）。看到 making the call，就能反推空格必須是被動。上一句的 the phone receiving the call（接到電話的那支電話）也是同一組主動分詞的對照。【干擾選項】calling：主動，意思變成「撥打電話的號碼」，與句尾的 the number making the call 撞成同一個東西，整句會變成「撥出的號碼和撥出的號碼在同一區」，講不通。having called：完成分詞，強調動作已完成且早於主要動詞，本句沒有時間先後的問題。has been calling：限定動詞，一個子句不能有兩個主要動詞。【常考字詞搭配】be based in（位於、以…為據點）、make a call（打電話）、receive a call（接到電話）、dial a number（撥號碼）、in its entirety（完整地、一字不漏地）、be in the same area as（與…在同一區）。"
   },
   {
     "id": "G102_17_1",
@@ -8031,7 +8032,8 @@
     "accuracyRate": 40,
     "discrimination": 47,
     "contextSpan": "跨句",
-    "contextNote": "on the other hand 與前一句同區碼的情況相對照"
+    "contextNote": "on the other hand 與前一句同區碼的情況相對照",
+    "note": "【你可能會這樣想】四個選項都是常見的轉承語，代進去唸起來都不會卡，於是只好憑語感選。答對率只有 40%，最多人失手在 at the same time——因為前後兩句講的確實是同一通電話的兩個部分，看起來很像在講同時發生的事。【怎麼判斷】先把前後兩句在講什麼攤開來，再問「它們之間是哪一種關係」。前一句：同一區的話，區域碼通常不必撥。這一句：本地號碼一定得完整撥出來。一個「可以不撥」，一個「必須全撥」，兩條方向相反的規定擺在一起比較，這是對比，on the other hand 正是用來標示對比的另一面。on the other hand 可以單獨使用，不一定要先出現 on the one hand；只要前文已經給了可以拿來對照的那一面，就能直接用（劍橋 English Grammar Today）。本題前一句就是那一面。順帶注意它插在主詞 The local number 與動詞 must 之間，用兩個逗號夾住。轉承語出現在句子中間是很常見的位置，不要因為它沒放句首就把它排除掉。【干擾選項】in fact（事實上）：用來強化或修正前面說過的話，方向與前一句相同；本句方向相反。to illustrate（舉例說明）：後面要接前一句的具體例子，本句不是例子，是另一條規定。at the same time（同時、話說回來）：主要意思是「同時發生」，兩件事得在時間上並存。它雖然也有輕微的轉折用法，但強度遠不及 on the other hand，而本句是兩條規定的對比，不是時間上的並存。【常考字詞搭配】on the one hand（一方面）、on the other hand（另一方面）、in fact（事實上）、as a matter of fact（事實上）、to illustrate（舉例說明）、at the same time（同時、話說回來）。"
   },
   {
     "id": "G102_18_1",
@@ -8107,7 +8109,8 @@
     "explanation": "【句型】the + 比較級..., the + 比較級... 固定句型「越……就越……」，表示「一枚硬幣越稀有，它就越值錢」；Rare as（不合這個句型結構）、The rare（原級無比較級變化，不合the...the...句型）、Rarest（最高級，這個句型需要比較級不是最高級）都不合。",
     "accuracyRate": 56,
     "discrimination": 72,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】Rare as 看起來很誘人，因為你學過 Rare as it is（雖然它很稀有）這種形容詞放句首的說法，形狀很像。也可能一看到前一句的 scarcity（稀少）就直覺挑最高級 Rarest。【怎麼判斷】關鍵全在句子後半：the more it is worth。這裡已經擺明是「the 加比較級」的形狀，而這個句型一定成對出現——「the 加比較級 ..., the 加比較級 ...」，意思是「越…就越…」。前半看到後半的 the more，就知道空格必須也是 the 加比較級，四選一瞬間變成一選一。還原成完整子句驗算：The rarer a coin is, the more it is worth. 等於 If a coin is rarer, it is worth more.（一枚硬幣越稀有，就越值錢）。這個句型你國中看過最短的版本：The more, the better.（越多越好）。語意也對得上：前一句說 scarcity is a major determinant（稀少是主要決定因素），本句正是把這個因素展開來講。【干擾選項】Rare as：這是讓步的說法，形容詞提到句首，Rare as it is 等於 Although it is rare（雖然它很稀有）。語意變成讓步，與後半的 the more it is worth 湊不成對，句型也接不起來。The rare：the 加原級形容詞，構不成這個句型；the rare 若當名詞用是指「稀有的人事物」，整句會散掉。Rarest：最高級。這個句型要的是比較級，不是最高級，也無法與後面的 the more 成對。【常考字詞搭配】the more..., the more...（越…就越…）、the sooner, the better（越快越好）、be worth（值…、值得）、a major determinant（主要決定因素）、determine the value of（決定…的價值）、scarcity value（稀有價值）。"
   },
   {
     "id": "G102_22_2",
@@ -8125,7 +8128,8 @@
     "explanation": "語意「稀有性跟硬幣的『年代』關係不大」，age（年代）符合，呼應後文舉例「許多千年古幣只值幾塊錢」；shape（形狀）、size（大小）、weight（重量）都不合。",
     "accuracyRate": 67,
     "discrimination": 65,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】age 在你腦中幾乎等於「年齡」，是用在人身上的字。要它去講一枚硬幣，會覺得怪怪的，於是改挑 size 或 weight 這些看得見的物理特徵。【怎麼判斷】age 除了人的年齡，也用來指東西的「年代、有多老」——the age of the building（這棟建築的年代）、a tree's age（一棵樹的樹齡）。這是同一個字的自然延伸，不是什麼特殊用法。真正的依據在下一句，出題者已經把答案寫出來了：Many thousand-year-old coins often sell for no more than a few dollars（許多千年古幣往往只賣得了幾塊錢）。thousand-year-old 講的就是年代。這句話在說「很老不等於很值錢」，正好呼應本句的「稀有度與硬幣的 ______ 關係不大」。把四個選項代回去，問哪一個能被下一句支持：形狀、大小、重量在整段裡從頭到尾沒被提過，只有年代被舉例說明。空格填什麼，看後面舉的是什麼例子，這是克漏字很穩的解法。【干擾選項】shape（形狀）：整段沒有提過任何硬幣的形狀，下一句的例子也接不上。size（大小）：同樣沒有被提及；而且下一句舉的是年份，不是尺寸。weight（重量）：三個之中最像收藏品會在意的特徵，但文章講的是含金量以外的價值判準，通篇未提重量。克漏字的空格不能只看「講不講得通」，要看「後面有沒有東西接得上」。【常考字詞搭配】have little to do with（與…關係不大）、thousand-year-old（有千年歷史的）、the age of（…的年代）、date from（追溯自…）、for ages（很久）、come of age（成年、成熟）。"
   },
   {
     "id": "G102_23_2",
@@ -8143,7 +8147,8 @@
     "explanation": "語意對比：「許多千年古幣只值幾塊錢……而1913年自由女神鎳幣卻可能賣到超過一百萬美元」，while 在這裡表示對比「然而/而」；since（自從/因為）、whether（是否）、if（如果）都不合。",
     "accuracyRate": 61,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】while 在你腦中大概只有「當…的時候」。把「當…的時候」代進去，句子會變成「當 1913 年自由女神鎳幣可能賣超過一百萬美元時」，時間關係完全說不通，於是你回頭去挑 since 或 if。【怎麼判斷】while 當連接詞有三個常見用法，要靠上下文分辨（劍橋 English Grammar Today）：一是時間「當…的時候」，二是讓步「雖然」，三是本題的對比「而、然而」，用來把兩件相反或差距很大的事並排比較。本句兩邊的差距極大：一邊是千年古幣只賣幾塊錢（因為存世量大），一邊是 1913 年的鎳幣可以賣超過一百萬美元（因為只剩五枚）。金額從 a few dollars 到 over one million US dollars，數量從 a lot of them 到 only five，兩組數字擺明是拿來對照的。這正是對比用法的 while。判斷方法很簡單：看到 while，先問「兩邊是同時發生，還是拿來比較」。兩邊各有各的原因、各有各的結果，而且方向相反，就是對比。【干擾選項】since（自從、既然）：當「既然」用時表原因，但本句兩邊各自已經有 because 帶出自己的原因，再加一個表原因的連接詞會讓邏輯打結。whether（是否、不論是否）：引導名詞子句或讓步子句，本句不是在問是非，也不是「不論…」。if（如果）：表條件。1913 年鎳幣賣到百萬是既成事實，不是假設。【常考字詞搭配】no more than（僅僅、不過）、in existence（現存的）、sell for（以…價格售出）、once in a while（偶爾）、a while ago（不久前）、worth a fortune（價值連城）。"
   },
   {
     "id": "G102_24_2",
@@ -8161,7 +8166,8 @@
     "explanation": "語意「特定硬幣的需求也會『大大地』影響硬幣的價值」，greatly（大大地）符合強調語氣；merely（僅僅，這裡是強調「很大」影響不是「僅僅」影響）、hardly（幾乎不，語意相反）、roughly（大略地）都不合。",
     "accuracyRate": 68,
     "discrimination": 63,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是副詞、都能修飾 influence，文法上刷不掉任何一個。這時容易被 merely 吸引，因為句首的 Furthermore 給人「再補充一點」的感覺，讓人以為這一項只是次要因素。【怎麼判斷】先看 Furthermore 的功能。它是用來追加一個與前面同等分量的論點，而前面講的是 scarcity is a major determinant（稀少是主要決定因素），追加的這一項自然也該是有分量的因素，不會是「僅僅稍微影響」。greatly（大大地）才接得上。再看後兩句怎麼展開：Some coins may command higher prices because they are more popular with collectors（有些硬幣賣得比較貴，是因為比較受收藏者歡迎），接著舉的例子是 1798 年的一角硬幣比 1916 年的稀有得多，價格卻遠遠不如。需求大到可以壓過稀有度，這個例子證明需求的影響很大，不是很小。副詞題不要只憑語感，要看它與整段論證的方向合不合。【干擾選項】merely（僅僅）：把影響力縮到最小，與 Furthermore 追加重要因素的功能相衝突，也被後面的例子直接推翻。hardly（幾乎不）：語意相反，等於說需求幾乎不影響價值，那整段就白寫了。roughly（大略地、粗略地）：修飾的是數量或說法的「精確程度」（roughly 100 dollars 大約一百美元），不是修飾影響的強弱。【常考字詞搭配】greatly influence（大大影響）、have an influence on（對…有影響）、under the influence of（受…影響）、hardly ever（幾乎從不）、roughly speaking（大略地說）、not merely... but also（不僅…而且）。"
   },
   {
     "id": "G102_25_2",
@@ -8179,7 +8185,8 @@
     "explanation": "【句型】the latter 固定用法「後者」，指前面提到的兩者（1798 dime和1916 dime）中後面提到的那個，即1916 dime；older（較舊的）、better（較好的）、bigger（較大的）都不合這個指代用法。",
     "accuracyRate": 54,
     "discrimination": 63,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】latter 與 later 長得太像，你很可能把它讀成「較晚的」，再想「1916 比 1798 晚，那沒錯啊」——但選項給的是 latter，不是 later，兩個字的意思完全不同。也可能因為前半句在比稀有度，就順手挑了 older。【怎麼判斷】the latter 意思是「後者」，指的是前面剛提過的兩個東西當中，後面提到的那一個，與它成對的是 the former（前者）。這是指代用法，跟時間早晚無關——決定誰是「後者」的是它在句子裡出現的先後順序，不是它本身的年代。回頭數一次：前半句依序提到 a 1798 dime、a 1916 dime，後者就是 1916 dime。再用後半句驗算：simply because many more people collect early 20th century dimes than dimes from the 1700s（因為收集二十世紀初一角硬幣的人，遠多於收集十八世紀的）。1916 年正屬於二十世紀初，正是被較多人收集、因此賣得較貴的那一枚，驗算完全吻合。順帶把兩個字分清楚：latter 是「兩者中的後者」，later 是「較晚、後來」，拼字只差一個字母，用法完全不同。【干擾選項】older（較舊的）：1798 年那一枚才比較舊，但句子說賣得比較貴的是另一枚，代進去與後半句的解釋直接矛盾。better（較好的）：文章沒有比較兩枚硬幣的好壞或品相。bigger（較大的）：兩枚都是 dime（一角硬幣），大小相同，也與整段的主題無關。【常考字詞搭配】the former... the latter（前者…後者）、the latter half of（…的後半）、command a high price（賣得高價）、be popular with（受…歡迎）、significantly more（明顯更多）、sooner or later（遲早）。"
   },
   {
     "id": "G102_26_3",
@@ -8216,7 +8223,8 @@
     "explanation": "【句型】使役動詞 have + O + 原形動詞「讓/使某人做某事」，had children do tasks 表示「讓孩子們做任務」；kept（保持，keep通常接Ving不接原形動詞）、wanted／asked（通常接to V不接原形動詞）都不合這個使役結構，只有have可以直接接受詞+原形動詞。",
     "accuracyRate": 50,
     "discrimination": 63,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】have 在你腦中的第一個意思是「有」，第二個是完成式的助動詞。要它表示「叫某人去做某事」，是課本教過、但很少主動想起來的用法。答對率只有 50%，一半的人在這裡失手：看到後面的 do 是原形動詞，覺得四個選項代進去都怪，就憑感覺挑了 asked 或 wanted。【怎麼判斷】決定性的線索就在空格後面的 children do——do 是原形動詞，前面沒有 to。能夠接「受詞加原形動詞」的動詞很有限，就是課本上的使役動詞 make、let、have（另有 see、hear、watch 這類感官動詞）。這一組你國中學過：My mother made me clean my room.（媽媽叫我打掃房間）、Let me try.（讓我試試）。have somebody do something 的意思是「請、叫某人做某事」，語氣比 make 溫和，用在這裡正合適：他讓孩子們做各式各樣的任務。還原驗算：he had children do tasks 等於他讓孩子們去做一些任務。其餘三個選項要求的接法都不一樣，代進去句子就壞了。這一題只要盯住「後面是原形動詞，還是 to 加原形動詞」，一刀就能切開。【干擾選項】kept：keep 後面接的是現在分詞，keep somebody doing something（讓某人一直做某事），不接原形動詞。wanted：want somebody to do something，中間必須有 to。asked：ask somebody to do something，同樣必須有 to；ask 若不加 to，只能接名詞子句（ask what he wants）。【常考字詞搭配】have somebody do（叫某人做…）、make somebody do（使某人做…）、let somebody do（讓某人做…）、keep somebody doing（讓某人一直做…）、ask somebody to do（要求某人做…）、follow commands（服從指令）。"
   },
   {
     "id": "G102_28_3",
@@ -8234,7 +8242,8 @@
     "explanation": "【句型】based on 固定搭配「根據/基於」；composed of（由……組成）、resulting in（導致）、fighting against（對抗）都不合。",
     "accuracyRate": 66,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項都是分詞形式，形狀一模一樣，很容易只憑「哪個唸起來順」來挑。resulting in（導致）看起來也接得上，因為前面剛講他「創造出一套標準」，感覺像是某種結果。【怎麼判斷】先確認空格那一塊在句子裡的角色。主要動詞是 created，受詞是 a standard of measuring children's intelligence；空格開始的分詞片語是拿來修飾 a standard 的，說明這套標準是怎麼來的。還原成關係子句：a standard which was based on the data...（一套以那些資料為依據的標準）。再看空格後面接的是什麼：the data he had collected（他先前蒐集到的資料）。標準與資料之間的關係是「以資料為依據」，be based on 正是這個意思。介系詞固定用 on，不能換成 in 或 at，這一點要連著記。順帶注意 the data he had collected 用了過去完成式 had collected：蒐集資料在先，訂出標準在後，時間先後很清楚，也旁證了「標準建立在先前的資料之上」。【干擾選項】composed of（由…組成）：be composed of 講的是組成成分，一套標準不是「由資料組成」的，資料是依據，不是零件。resulting in（導致）：方向相反。resulting in 後面要接的是這套標準造成的結果，但 the data 是它的來源，不是它的結果。fighting against（對抗）：與資料對抗，語意完全不通。【常考字詞搭配】be based on（以…為依據、根據）、on the basis of（根據…）、base A on B（把 A 建立在 B 之上）、be composed of（由…組成）、result in（導致…）、fight against（對抗…）。"
   },
   {
     "id": "G102_29_3",
@@ -8271,7 +8280,8 @@
     "explanation": "【句型】with + O + V-ing 獨立分詞構句（表附帶狀況），「以100作為平均值」；is／are（限定動詞，不能這樣接在with+受詞後面）、been（過去分詞，這個結構需要being不是been）都不合。",
     "accuracyRate": 54,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 with 100 ______ the average，你會覺得這裡缺一個動詞，於是挑了 is 或 are。這是最常見的失分點：把 with 帶出來的這一塊誤當成一個獨立的句子。【怎麼判斷】先看整句的主結構。The IQ is the ratio of “mental age” to chronological age times 100 本身已經是完整的句子，主詞 The IQ、動詞 is 都齊了。逗號後面的 with 100 ______ the average 是附加上去補充說明的，裡面不能再有一個限定動詞。is 與 are 都是限定動詞，代進去等於一句話出現兩個主要動詞，先出局。這個結構是課本長教的：with 加受詞加受詞補語（表附帶狀態）。受詞是 100，受詞補語就是空格這一塊，用來說明 100 處於什麼狀態。補語位置若要用動詞，必須改成分詞：主動用現在分詞，被動用過去分詞。100 是「作為」平均值，屬主動，所以用 being。還原成完整子句驗算：with 100 being the average 等於 and 100 is the average（而 100 就是那個平均值）。這個句型你在課本看過很多次：with his eyes closed（閉著眼睛，被動，用過去分詞）、with the engine running（引擎還開著，主動，用現在分詞）。本題屬於後者。最後用下一句驗算：an 8-year-old who passes the 10-year-old's test would have an IQ of 10/8 times 100, or 125，10 除以 8 再乘以 100 得 125，高於 100，正說明 100 是那個當作基準的平均值。【干擾選項】is、are：都是限定動詞，with 引導的附帶結構裡不能放限定動詞；何況若真要當成一個句子，前面還缺一個連接詞。been：過去分詞，前面必須有 have 或 has 才能構成完成式，不能單獨放在受詞補語的位置；而且 100 與 the average 之間是主動關係，不是被動。【常考字詞搭配】with one's eyes closed（閉著眼睛）、with the engine running（引擎還開著）、with one's arms folded（雙臂交叉）、the ratio of A to B（A 與 B 的比例）、chronological age（實足年齡）、on average（平均而言）。"
   },
   {
     "id": "G104_16_1",
