@@ -9419,7 +9419,8 @@
     "explanation": "語意「犀牛有一種很臭的方式來『溝通』」，communicate（溝通）符合，呼應前文提到分享最新消息的類比；demonstrate（展示）、immigrate（移民）、manipulate（操縱）都不合。",
     "accuracyRate": 73,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 communicate，你腦中浮現的多半是「開口講話」，於是會懷疑：犀牛又不會說話，怎麼 communicate？這就是既有印象與實際用法的落差。劍橋辭典對 communicate 的定義是「傳達訊息或表達想法」，管道不限於語言——氣味、動作、顏色都算。本文一路把犀牛的糞便類比成人類的社群媒體貼文（just like humans leaving messages on social media），講的正是「溝通」。【怎麼判斷】空格前是 a smelly way to ___，way to 後面接原形動詞，表示「做某事的方式」。四個選項都是 -ate 結尾的動詞，光看字尾分不出來，只能靠語意。【干擾選項】demonstrate 是「展示、示範」；immigrate 是「移入他國」，注意 immigrate to（移入）／emigrate from（移出）／migrate（遷徙）三個字常一起考，犀牛在同一個地點留糞便並不是遷徙；manipulate 你可能直覺想成「操作機器」，但那是 operate，manipulate 的核心語意是「（不正當地）操縱、擺布」，帶負面色彩。【常考字詞搭配】communicate with sb（與某人溝通）、communicate sth to sb（把某事傳達給某人）、a way to V／a way of Ving（做某事的方式）、immigrate to（移入……）／emigrate from（移出……）、manipulate public opinion（操縱輿論）。"
   },
   {
     "id": "G115_13_1",
@@ -9437,7 +9438,8 @@
     "explanation": "語意「提供關於年齡、性別……的重要『線索』」，clues（線索）符合這種透過化學物質推測資訊的語境；doubts（疑慮）、icons（圖示）、matches（比賽/火柴）都不合。",
     "accuracyRate": 57,
     "discrimination": 64,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】clue 你最熟的語境大概是推理小說或警匪片裡的「破案線索」，所以看到這裡在講化學物質，會覺得用 clue 很奇怪。其實 clue 指的是「可據以推論出答案的資訊」，不限犯罪場景，科學研究裡反而最常用它來指「推論的依據」。【怎麼判斷】空格後接 about the age, sex, general health, and reproductive conditions，介系詞 about 是關鍵——clue 的搭配正是 a clue to sth 或 a clue about sth。再看前一句 different rhinos leave different chemicals：化學物質本身不是答案，是讓其他犀牛「推論出」年齡與性別的依據，這就是 clue。【干擾選項】doubts 是疑慮，provide doubts about 語意不通，也與全文「糞便提供資訊」的正向論述相反；icons 你可能只想到手機桌面上的圖示，它另一個常考語意是「象徵性的代表人物、偶像」，兩個意思都放不進來；matches 是多義字，火柴／比賽／相配的人事物，三個意思在這裡都不合。【常考字詞搭配】a clue to／about sth（……的線索）、provide／offer／give a clue（提供線索）、have no clue（完全不知道）、a match for sb（與某人匹敵的對手）、be a good match（很相配）。"
   },
   {
     "id": "G115_14_1",
@@ -9455,7 +9457,8 @@
     "explanation": "語意「當群體成員彼此了解狀況時，牠們打架的可能性就『比較低』」，less likely 符合，呼應前文說明糞便訊息有助於群體和諧；hardly surprising（不太令人驚訝）、more acceptable（更可接受）、truly important（真的重要）都不合。",
     "accuracyRate": 58,
     "discrimination": 75,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 it is ___ that they will fight，很多人第一反應是把 it 當成「它」，回頭去找 it 指的是哪一個名詞。這裡的 it 是虛主詞，本身沒有意義，真正的主詞是後面的 that 子句 that they will fight——句子還原就是 That they will fight is less likely。【怎麼判斷】劍橋《English Grammar Today》在 Likely and unlikely 條目明確列出 likely 的兩種句型：S be likely to V（較常用），以及 It is likely that S will V（較少用），本題正是後者，而四個選項中只有 likely 走得通這個句型的語意。語意上，前一句 When all members in a group know what's going on with each other 說明群體彼此了解，配上本段主旨 peace and harmony in the group，打架的可能性應該是「降低」，所以選 less likely。【干擾選項】hardly surprising（不令人意外）、more acceptable（更能接受）、truly important（真的重要）三個放進 It is ... that 句型，文法上都成立，但語意接不上「和平與和諧」這個結論——這一題考的是讀懂段落的邏輯走向，不是文法對錯。【常考字詞搭配】be likely to V（很可能……）、It is likely／unlikely that...（很可能／不太可能……）、more／less likely（可能性較高／較低）、be as likely as（可能性相當）。劍橋另有一項提醒：It is likely to 不等於 It is easy to，兩者不可混用。"
   },
   {
     "id": "G115_15_1",
@@ -9473,7 +9476,8 @@
     "explanation": "【句型】responsive to 固定搭配「對……有反應」，表示優勢雄性對帶有雌性化學物質的假糞便特別「有反應」；annoyed at（對……生氣）、considerate of（體貼）、tolerant with（容忍）都不合。",
     "accuracyRate": 50,
     "discrimination": 54,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】這一題四個選項都是「形容詞＋介系詞」，你很容易只比對形容詞的意思，忽略介系詞對不對。這裡有一個關鍵：tolerant 的正確搭配是 tolerant of 或 tolerant towards（劍橋與牛津辭典皆如此收錄），沒有 tolerant with 這個用法——選項 (D) 從介系詞就已經錯了。看到形容詞＋介系詞的題目，先檢查介系詞，常常能直接刪掉一兩個選項。【怎麼判斷】空格前是 dominant males are particularly ___ the \"fake poop\"，後面直接接名詞，需要一個能帶介系詞受詞的形容詞片語。be responsive to sth 是「對……有反應、反應積極」。下一句 The males sniff it for longer duration and come back to the same spot more frequently 正是「有反應」的具體表現，語意完全吻合。【干擾選項】be annoyed at／with 是「對……生氣」，與後文「嗅聞更久、回來更頻繁」的積極反應相反；be considerate of 是「體貼、替人著想」，用在公犀牛對假糞便上語意不通。【常考字詞搭配】be responsive to sth（對……有反應）、be tolerant of sth（容忍……）、be considerate of sb（體貼某人）、be annoyed at sth／with sb（對某事／某人生氣）、be particularly／highly responsive to（對……特別／高度有反應）。"
   },
   {
     "id": "G115_16_2",
@@ -9491,7 +9495,8 @@
     "explanation": "accommodate 固定用法「接待/容納」，表示茶館興起是為了「接待」疲憊的旅人；compensate（補償）、anticipate（預期）、reinforce（加強）都不合。",
     "accuracyRate": 57,
     "discrimination": 62,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 accommodate，你腦中跳出來的多半是 accommodation「住宿」，於是覺得「茶館又不是旅館，怎麼會 accommodate 旅人？」這正是印象與用法的落差。劍橋辭典把 accommodate 分成三層意思：一是「容納得下、有足夠空間」，二是「滿足某人的需求」，三才是「提供住處」。本題用的是前兩層——茶館興起是為了接待、容納路過的疲憊旅人，未必要留宿。【怎麼判斷】前一句 Those who traveled along the routes through China needed places to rest 已經定調：旅人需要休息的地方。空格後接 the weary travelers，再往後 offering them a cup of tea to help them regain energy，整段講的都是茶館如何滿足旅人的需求。【干擾選項】compensate（補償）要先有損失才談得上補償；anticipate（預期）的主詞應該是能思考的人，不是茶館；reinforce（強化）的受詞通常是抽象概念，如 idea、message、structure，直接接 travelers 不通。【常考字詞搭配】accommodate sb（接待、容納某人）、accommodate the needs of...（滿足……的需求）、accommodation（住宿，不可數）、compensate sb for sth（因某事補償某人）、anticipate Ving（預期做某事，後面接動名詞不接不定詞）、reinforce the idea that...（強化……的觀念）。"
   },
   {
     "id": "G115_17_2",
@@ -9509,7 +9514,8 @@
     "explanation": "【句型】had yet to 固定搭配「尚未」，表示點心的烹飪藝術「尚未發展」，因為當時認為茶配食物不恰當；would hardly develop（不太可能發展，語意不合，這裡是講「尚未」而非「不太可能」）、was fast developing（正快速發展，語意相反）、had almost developed（幾乎已經發展，語意相反）都不合。",
     "accuracyRate": 44,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】yet 你最熟的用法是擺在否定句或疑問句的句尾：I haven't finished yet.／Have you eaten yet?——句子裡一定看得到 not 或問號。所以看到 had yet to develop 這種「長得像肯定句」的寫法，你很容易讀成「已經發展了」，正好翻反。劍橋《English Grammar Today》的 Yet 條目說明 yet 多半用於現在完成式的否定句與疑問句、置於句尾；而劍橋辭典另立 have yet to 詞條，直接定義為「還沒做某事」（have yet to do sth ＝ have not done sth），例句如 They have yet to make a decision.（他們還沒做出決定）。換句話說，have／had yet to 是形式肯定、語意否定，這正是本題答對率被壓到 44% 的原因。【怎麼判斷】關鍵在空格後的 for 子句：for it was considered inappropriate to pair tea with food（因為當時認為茶配食物並不恰當）。for 在這裡是對等連接詞「因為」，交代的是點心還沒出現的理由。既然「茶配食物被視為不恰當」，點心這門手藝當然還沒誕生。再看下一段開頭 Centuries later, the ability of tea to aid in digestion finally became known.——finally（終於）這個字回頭確認了：在那之前一直是「尚未」的狀態。時態上用過去完成式 had yet to，把「尚未」的時間點定在整段過去敘事之前，也完全吻合。【干擾選項】would hardly develop 是「不太可能發展」，講的是可能性高低，但下一段點心明明就發展出來了，語意矛盾；was fast developing（正快速發展）與 had almost developed（幾乎已發展成形）方向完全相反，而且都跟後面「茶配食物不恰當」的理由接不起來——只要抓住 for 子句是在解釋「為什麼還沒有」，這兩個選項立刻出局。【常考字詞搭配】have／has／had yet to V（尚未……）、be yet to V（同義，較正式）、not yet（還沒）、as yet（到目前為止，多用於否定）、the best is yet to come（好戲還在後頭）。順帶分清一組常錯的：yet（還沒，用於否定與疑問）、already（已經，用於肯定）、still（仍然，表持續）。"
   },
   {
     "id": "G115_18_2",
@@ -9566,7 +9572,8 @@
     "explanation": "語意「大家一起享用簡單的菜餚，作為一種『歡樂的社交活動』」，a joyful social activity 符合，呼應全文強調點心是一種體驗而非單純食物；a widely known delicacy（廣為人知的美食，強調食物本身而非社交面向）、an intimate romantic dinner（跟「大群人」矛盾）、an amazing local cuisine（同樣偏向食物本身）都不如這個選項精確呼應文章主旨。",
     "accuracyRate": 62,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】整篇都在談點心這種食物，你的注意力自然會停在「哪一個選項最能形容點心好吃」，於是在 delicacy（珍饈）與 cuisine（菜系）之間猶豫。但這一題問的根本不是點心好不好吃，而是大家聚在一起吃點心這件事算什麼。方向一旦看錯，四個選項會覺得三個都可以。【怎麼判斷】先看句子結構：It is customary for big groups to enjoy simple dishes together as ___.　主詞是 big groups「一大群人」，動詞是 enjoy... together「一起享用」，as 在這裡是介系詞「作為」。所以空格要填的是「一群人一起吃飯」這個行為的定位，不是食物的評價。再往下看文章最後一句：Ultimately, dim sum—the food—is only a small part of the dim sum experience.（說到底，點心這項食物只是整個飲茶體驗的一小部分）——作者把「食物」和「體驗」明白切開，答案當然要落在體驗那一邊。有三個選項在講食物、只有一個在講活動，這種「三同一異」的排列本身就是提示。【干擾選項】a widely known delicacy（廣為人知的珍饈）與 an amazing local cuisine（了不起的地方菜系）都是在評價食物，正好被最後一句否定掉；順帶分清這兩個字：delicacy 指某一樣珍稀精緻的食物，cuisine 指某地區的整套烹調風格（如 Cantonese cuisine 粵菜），不可互換。an intimate romantic dinner（親密的浪漫晚餐）則與主詞 big groups 直接打架——浪漫晚餐通常是兩個人的事，主詞就把它刷掉了。【常考字詞搭配】It is customary (for sb) to V（（某人）習慣……、依慣例……）、customary practice（慣例）、enjoy sth together（一起享用）、as ＋ 名詞（作為……）、a social activity／gathering／event（社交活動／聚會）、local cuisine（地方菜）、a rare delicacy（珍稀美食）。"
   },
   {
     "id": "G96_27_3",
