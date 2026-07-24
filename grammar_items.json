@@ -7727,7 +7727,8 @@
     },
     "answer": "A",
     "explanation": "【句型】Given that... 是固定的分詞構句用法，表示「鑑於/既然」（等同於considering that）；give（原形動詞）、giving（現在分詞，這個固定用語習慣用given不用giving）、to give（不定詞）都不合這個固定用法。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】given、give、giving、to give 四個排在一起，你幾乎立刻就認定「這是文法題」，接著自動進入分詞構句的程序：找意義主詞、判主動被動、檢查有沒有垂懸。這條路一走就錯，而且錯得很有方向性——「聖誕節快到了」是主動的，照這個推法你會被推向 giving。這一格根本沒有意義主詞可找。【怎麼判斷】先看空格後面接什麼：that Christmas is just a few weeks away 是一個完整的 that 子句，逗號之後 here is a gift idea 又是一個完整的句子。要把兩個完整的東西接起來，空格要的是連接詞，不是分詞。given that 正是這樣一組已經定下來的連接詞，意思是「既然、鑑於」，等於 considering that 或 seeing that。它雖然長得像過去分詞，但整組轉成連接詞之後就不再帶著「被給予」的意思，也就不必去追誰給了誰（依 Greenbaum 與 Whitcut「Guide to English Usage」的分類，given、considering 這一類字單獨一個就能當介系詞用，後面接 that 子句時則當連接詞）。填進去讀一次：既然聖誕節只剩幾星期，這裡有個送禮的點子。這一型的題目要記住一句話：選項故意排成分詞的各種形態嚇人，其實只是在問你認不認得這個字，前後文再怎麼對齊也推不出答案，平常大量閱讀的人在這裡佔便宜。【干擾選項】giving：現在分詞。若真要當分詞構句看，它的意義主詞得與主要子句的主詞一致，而主要子句是 here is a gift idea，找不到一個能執行「給」這個動作的人；何況分詞構句後面也不會直接掛一個 that 子句。give：原形動詞，句首沒有主詞可以搭配它，也帶不出 that 子句。to give：不定詞可以表目的（為了給……），但後面同樣掛不住 that 子句。三個選項的毛病是同一個——它們都接不住那個 that 子句。【常考字詞搭配】given that（既然、鑑於）、considering that（考慮到）、seeing that（既然）、provided that（假如）、a few weeks away（再過幾星期）、have everything（什麼都不缺）。"
   },
   {
     "id": "G90_17_1",
@@ -7743,7 +7744,8 @@
     },
     "answer": "B",
     "explanation": "【句型】Here is/are... 倒裝句型，表示「這裡有一個禮物點子」；it／that 不構成這種倒裝句用法，where 是疑問詞不合此處的直述句。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】看到空格後面是 is a gift idea，腦中先跳出來的多半是 It is 或 That is，因為這兩個是課本裡出現最多次的開頭。文法上它們確實都成句，所以這一格不能只看文法，要問這一句在整段裡的任務是什麼。【怎麼判斷】先看上下文的節奏：前一句才剛說「既然聖誕節快到了」，讀的人正等著看那個點子是什麼；下一句馬上開始介紹那些科技小玩意。所以這一句的任務是把一樣新東西端出來、放到台面上。英文做這件事有一個現成的說法：Here is／Here are ...，把 here 擺到句首、主詞挪到後面，重點就落在後面那個新登場的東西上。掛鉤是國中就會的 Here comes the bus!（公車來了！）與 Here you are.（東西給你。），都是同一個把新事物推到眼前的用法。填進去讀一次：Here is a gift idea.（這裡有個送禮的點子。）語氣正好接得上前一句。【干擾選項】It：文法上成立，但 it 一定要指得到前面提過的某樣東西，而前一句講的是聖誕節快到了，不是某個點子，it 指不到東西。That：同樣需要一個前面剛提過的所指，這裡沒有。where：疑問詞，本句是直述句不是問句，前面也沒有名詞讓它去補充說明。【常考字詞搭配】Here is／Here are …（這裡有……）、Here comes …（……來了）、Here you are.（東西給你）、There is／There are …（有……）、at times（有時候）、a gift idea（送禮的點子）。"
   },
   {
     "id": "G90_18_1",
@@ -7759,7 +7761,8 @@
     },
     "answer": "B",
     "explanation": "【句型】hard to please 固定搭配「難以取悅」，主動形式的不定詞表達被動意味（類似 easy to please）；to be pleased（被動不定詞，這種結構習慣用主動形式表達）、to be pleasing、to have pleased（完成式不定詞）都不合。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】句子的意思是「這些人不難討好」，被討好的是那些人，所以你很容易覺得該用被動，伸手去拿 to be pleased。這個直覺的方向沒錯，錯在英文在這個說法裡已經把被動的意思藏進結構了，不必也不會再標一次。【怎麼判斷】這是課本教過的句型，而且課本是用一個等式在教的：It is hard to please Allen.（要討好艾倫很難。）＝ Allen is hard to please.（艾倫很難討好。）兩句意思完全相同，差別只在把 please 的受詞 Allen 搬到句首去當主詞。本題就是等號右邊那種寫法：Those who have an inclination for crazy technological advances aren’t hard to please.（那些熱愛瘋狂科技新玩意的人並不難討好。）把它翻回等號左邊就一目了然：It isn’t hard to please those who have an inclination for crazy technological advances.（要討好那些人並不難。）搬過去之後你會發現，主詞其實就是 please 的受詞——被動的意思正是靠這個搬動表達的。既然結構本身已經把事情講完，動詞就維持主動的 to please。同樣的骨架你在國中就見過：This book is easy to read.（這本書很好讀。）——沒有人會寫 easy to be read，因為 book 本來就是 read 的受詞。常見的同型還有 easy to understand（容易理解）、hard to say（很難說）。換個角度看更好用：hard to please 這一整組其實相當於一個形容詞，用來描述主詞是什麼樣的人。證據就在英文自己的寫法裡——把它擺到名詞前面當修飾語時，會用連字號黏成一個字：a hard-to-please customer（一個很難討好的客人）、an easy-to-read book（一本好讀的書）、an easy-to-use app（一個好上手的應用程式）。既然整組等於一個形容詞，中間那個動詞就不必再去操心主動被動，記整組比記規則有用。【干擾選項】to be pleased：把被動再標一次，等於同一件事做了兩遍。to be pleasing：pleasing 是形容詞「令人愉快的」，to be pleasing 說的是「那些人本身很討喜」，與整句要講的「不難討好他們」方向相反。to have pleased：完成式的不定詞，表示比主要動詞更早發生的事，本句沒有這種時間差。【常考字詞搭配】hard to please（難討好）、easy to please（好討好）、easy to understand（容易理解）、hard to say（很難說）、have an inclination for（偏好、傾向於）、technological advances（科技上的進展）。"
   },
   {
     "id": "G90_19_1",
@@ -7775,7 +7778,8 @@
     },
     "answer": "C",
     "explanation": "【句型】make + O + adj 固定句型「使……變得……」（make life more enjoyable）；do／take／find 都不能這樣接受詞+形容詞表達「使變得」。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】do、take、make、find 四個都是從國一背到現在的高頻動詞，中文都能翻成「做、使、讓」，擺進去唸起來都不太卡。這種時候不要比中文，要比「這個動詞後面能不能接受詞加形容詞」。【怎麼判斷】先把空格後面的結構看清楚：life more enjoyable——一個受詞（life）加一個受詞補語（more enjoyable），這是 make 加受詞加受詞補語的句型。受詞補語的形式不只一種，這三種都是 make 的常考題型：可以是形容詞（make life more enjoyable 使生活更有樂趣）、可以是名詞（They made him captain. 他們讓他當隊長。），也可以是原形動詞（My mother made me clean my room. 我媽要我打掃房間。）。本題考的是第一種。do 與 take 首先出局，它們後面接了受詞就結束了，不能再掛一個受詞補語去說明受詞變成什麼樣子。剩下 make 與 find 都接得起受詞補語，這時才分語意：make 加受詞加受詞補語是「使……變得……」，說的是動作造成的改變；find 加受詞加受詞補語是「覺得……如何」，說的是主觀的感受（I find the book interesting. 我覺得這本書很有趣。）。本句的主詞是那些新玩意兒，它們是去改變生活，不是去「覺得」生活如何，所以填 make。掛鉤是國中的 The news made me happy.（那個消息讓我很開心。）。順帶一提，同一篇的第 25 題考的正是這個句型的另一半——那一格要填的是 make 後面受詞的形態，兩題可以對照著看。【干擾選項】find：文法上接得起受詞補語，但語意是「覺得」，主詞得是有感受能力的人。do、take：後面不走「受詞加受詞補語」這個骨架。【常考字詞搭配】make sb do sth（使某人做某事）、make sth ＋ 形容詞（使某物變得……）、find sth ＋ 形容詞（覺得某物……）、make life easier（讓生活更輕鬆）、make sense（說得通）、more enjoyable（更有樂趣）。"
   },
   {
     "id": "G90_20_1",
@@ -7791,7 +7795,8 @@
     },
     "answer": "A",
     "explanation": "語意「你會驚訝於它們的能力有多大」，how much they are capable of 表達程度；at that、what if（如果……會怎樣）、such as（例如）都不合。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項長得完全不像，你會先讀中文意思去比對，覺得「你會很驚訝……」後面接什麼好像都行。其實這一格用不到語意，光看空格後面那串字缺了什麼就能定案。【怎麼判斷】把空格後面讀完：they are capable of——be capable of 的 of 後面應該接一個東西（be capable of sth 有能力做某事），但這裡 of 後面什麼都沒有，句子在這裡斷掉了。這個洞就是線索：空格要填的字必須自己跑進去補那個洞。how much 正好可以——它從 of 後面被提到最前面，整串 how much they are capable of 就成了一個名詞子句，意思是「它們的能耐有多大」。還原成直接問句更清楚：How much are they capable of?（它們有多大的能耐？）改成擺在動詞後面的說法時，語序回到主詞加動詞，就成了 how much they are capable of。這一招在克漏字裡反覆出現：先數空格後面那個子句缺不缺成分，缺什麼就找一個能補上去的字（同判準：91 年第 25 題、93 年第 18 題）。【干擾選項】what if（如果……會怎樣）：帶出的是一個假設的情境，後面要接完整的句子，而這裡的 of 還缺著東西。such as（例如）：後面接名詞用來舉例，接不了一個子句。at that（而且、還不只如此）：擺在句尾的慣用語，不能拿來引導後面的子句。【常考字詞搭配】be capable of（有能力……）、be capable of doing sth（能夠做某事）、be surprised at（對……感到驚訝）、be surprised to V（很訝異地做……）、be able to V（能夠）、look revolutionary（看起來很有突破性）。"
   },
   {
     "id": "G90_21_1",
@@ -7807,7 +7812,8 @@
     },
     "answer": "D",
     "explanation": "【句型】For + 對象，表示「對於……而言」，For a student who is never on time＝「對於一個總是遲到的學生而言」；Once（一旦）、Like（像）、Just（只是）都不合這個語意。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】For 在你腦中大概第一個是「因為」，第二個是「為了」，很少想到它可以直接帶出一個對象、意思是「對……而言」。而 Like（像）擺進去唸起來也不算突兀，於是就在這兩個之間猶豫。【怎麼判斷】先看空格後面接的是什麼：a student who is never on time 是一個名詞片語（一個總是遲到的學子），不是子句。所以空格要的是能直接接名詞的字。Once 是連接詞，後面要接完整子句，先出局；Just 是副詞，接不出「Just a student..., there is...」這樣的結構。剩下 Like 與 For，用語意分：整段的脈絡是在為不同的人推薦禮物，這一句要說的是「對某一種人來說，有這樣一款產品」，是把產品對應到適用的對象，不是拿學子來打比方。For 加人＝「對……而言、給……用的」，正是這個意思。順便對照著記：91 年第 24 題也考 For，但那個 For 是「因為」的用法，它引出的是前一句的理由，位置只能在後面；本題的 For 是介系詞「對……而言」，放句首完全正常。同一個字兩種身分，看後面接的是名詞還是子句就分得出來。【干擾選項】Like（像）：用來打比方，會變成「像一個總是遲到的學子一樣，有一款新的投影鬧鐘」，把鬧鐘拿去跟學子相比，語意不通。Once（一旦、一……就）：連接詞，後面要接完整的子句。Just（只是、剛好）：副詞，沒有帶出名詞片語再接主要子句的用法。【常考字詞搭配】For sb, there is …（對某人來說，有……）、on time（準時）、in time（及時）、be never on time（總是不準時）、be late for school（上學遲到）、be suitable for（適合）。"
   },
   {
     "id": "G90_22_1",
@@ -7823,7 +7829,8 @@
     },
     "answer": "B",
     "explanation": "因果關係：「許多普通時鐘在早上很難看清楚，讓學生誤判時間，因此導致他們上學遲到」，therefore（因此）符合這個因果邏輯；though（雖然，轉折）、otherwise（否則）、however（然而，轉折）都不合。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項裡有三個帶著轉折的味道（though、otherwise、however），只有一個是因果。如果沒有先把前後兩件事的關係想清楚，很容易被「多數決」的錯覺帶走，覺得答案應該落在那三個裡面。【怎麼判斷】四個選項都是轉承語，可見這一格考的是前後兩件事的邏輯關係，那就把空格兩邊各是什麼事看清楚。前面是 deceiving students of the correct time（讓學子誤判時間），後面是 causing them to be late for school（導致他們上學遲到）。誤判時間在前、遲到在後，前者正是後者的原因，這是順向的因果，不是轉折，therefore（因此）才是做這件事的字。結構上也可以印證：deceiving 與 causing 是兩個並列的現在分詞，補充說明前面整句話所造成的結果（劍橋 English Grammar Today 的 -ing clause 表 result），還原成 and this deceives students ..., and therefore causes them ...，兩個結果一前一後，中間的關係只能是因果。【干擾選項】though（雖然）：表讓步或轉折，會變成「讓學子誤判時間，雖然導致他們遲到」，兩件事本來同向，硬要轉折就講不通。however（然而）：同樣是轉折。otherwise（否則）：需要前面先有一個「如果不那樣做」的前提，本句沒有。【常考字詞搭配】deceive sb（欺騙某人）、cause sb to V（導致某人……）、hard to read（不好辨讀）、as a result（因此、結果）、lead to（導致）、result in（造成）。"
   },
   {
     "id": "G90_23_1",
@@ -7839,7 +7846,8 @@
     },
     "answer": "A",
     "explanation": "【句型】anywhere else 固定搭配「其他任何地方」；too／also／then 都不能這樣修飾 anywhere 表達「其他」的意思。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】else 你大概只在 or else（否則）裡用過，或者只記得它跟在疑問詞後面（What else? 還有什麼？），很少想到它可以掛在 anywhere 這種字的後面。而 too 與 also 都有「也」的意思，擺進去唸起來好像也通，於是就猶豫了。【怎麼判斷】先看空格前面那個字：anywhere。else 有一個很固定的位置——它專門跟在 something、anything、somewhere、anywhere、someone、anyone、everybody 這一類不定的字後面，補上「其他的」這個意思。anywhere else 就是「其他任何地方」。掛鉤是國中每天都在用的 Anything else?（還要別的嗎？）與 someone else（別人）。再看句子本身：onto a wall, ceiling, or anywhere ___——牆壁與天花板已經點名了，最後一項要說的正是「或其他任何地方」。【干擾選項】too、also（也）：這兩個是副詞，用來說「某人某物也如何」，不能拿來修飾 anywhere 表示「其他的」。而且兩者意思幾乎相同，依「兩個同義選項必定同時錯」這一招，四選一只能有一個答案，看到就可以一起砍掉，不必細想。then（然後、那麼）：講時間先後或推論，與「其他地方」無關。【常考字詞搭配】anywhere else（其他任何地方）、something else（別的東西）、anything else（其他任何東西）、someone else（別人）、or else（否則）、display sth onto（把某物投影到……上）。"
   },
   {
     "id": "G90_24_1",
@@ -7855,7 +7863,8 @@
     },
     "answer": "C",
     "explanation": "語意「鬧鐘會越來越大聲，直到被關掉為止」，until（直到）符合；when（當……時候）、as（當……同時）、since（自從）都不符合這種「持續到……為止」的語意。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是講時間的字，中文都能翻出「當……時、隨著……、直到……、自從……」，一個一個代進去唸都不算太怪。而且空格後面只有 turned off 兩個字、沒有主詞，你會覺得結構怪怪的，更難決定。【怎麼判斷】先把那個「怪怪的」結構還原：空格後面是 (it is) turned off，主詞 it 與 be 動詞 is 被省掉了，只留下過去分詞。這種省略你剛見過——91 年第 28 題的 as described in this story 用的是同一招，連接詞後面把主詞與 be 動詞一起省略（掛鉤 While (he was) walking home）。還原之後整句是 an alarm that gets increasingly louder until it is turned off。接著看語意：gets increasingly louder（聲音越來越大）描述的是一個持續進行的變化，這種變化需要一個終點來收尾——鬧鈴不會無止境地大下去，它一直大到有人把它關掉為止。四個選項裡只有 until 提供「一路持續到某個時間點為止」這個終點。【干擾選項】when（當……時）：只標出一個時間點，不含「一路持續到那個點」的意思，會變成「被關掉的時候聲音越來越大」，前後顛倒。as（隨著、當……時）：表示兩件事同步進行，同樣沒有終點的意思；而且「被關掉」是一瞬間的動作，不能與持續變大的過程同步。since（自從）：方向相反，它指的是起點不是終點，鬧鈴變大聲也不是從被關掉之後才開始。【常考字詞搭配】until（直到……為止）、not … until（直到……才）、turn off（關掉）、turn down（把音量調小）、get louder（變大聲）、increasingly（越來越……地）。"
   },
   {
     "id": "G90_25_1",
@@ -7871,7 +7880,8 @@
     },
     "answer": "D",
     "explanation": "動名詞 waking up 作 make 的受詞（make + O + easier句型），指「起床這件事」被形容詞 easier 修飾；to wake up（不定詞，不能這樣直接作受詞）、wake up（原形動詞，不能單獨作名詞性受詞）、woke up（過去式，不能作受詞）都不合。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 wake up 的形態變化，你會直覺認為要判斷時態，於是在原形與過去式之間打轉。這一格其實不比時態，比的是「這個位置需要什麼樣的詞」。【怎麼判斷】先把句型認出來：make ___ a little easier，這是 make 加受詞加受詞補語（使……變得……），與同一篇第 19 題考的是同一個句型的兩半——第 19 題問你哪一個動詞能走這個骨架，這一題問你骨架中間那個受詞該長什麼樣子。受詞的位置只能放名詞或名詞性的東西，四個選項裡只有動名詞 waking up 是名詞性的，意思是「起床這件事」。掛鉤是國中的 Do you mind my opening the window?（你介意我開窗嗎？）——動名詞當受詞。填進去讀一次：it just might make waking up a little easier（它或許能讓起床這件事變得輕鬆一點），正好接得住前半句「它不會像魔法一樣讓學子每天都準時到校」。【干擾選項】wake up：原形動詞。這個選項最誘人，因為 make 後面確實可以接原形——My mother made me clean my room.（我媽要我打掃房間。）但要看清楚位置：那個原形站的是受詞後面的受詞補語位置，前面還有一個受詞 me；本題的空格站的是受詞的位置，後面才是受詞補語 a little easier。同一個 make、兩種句型，差別只在空格落在哪一格，這一步看錯就會伸手拿原形。woke up：過去式，是限定動詞，更不可能當受詞。to wake up：不定詞當受詞在文法上不是完全不行，但 make 這個句型不收不定詞當受詞；真要用不定詞，英文會改成虛受詞的寫法 make it easier to wake up，把 it 擺在受詞的位置、真正的不定詞挪到句尾。【常考字詞搭配】make it easier to V（使做……變得更容易）、mind V-ing（介意做……）、enjoy V-ing（喜歡做……）、wake up（起床、醒來）、get up early（早起）、a little easier（稍微容易一點）。"
   },
   {
     "id": "G99課綱學測參考用試卷_16_1",
