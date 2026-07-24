@@ -1708,7 +1708,8 @@
     "explanation": "語意「你花錢的方式」，manage money（管理金錢）符合家長對孩子理財方式的擔憂；restrict（限制）、charge（收費）、deposit（存款）都不符合這裡「廣義理財管理方式」的語境。",
     "accuracyRate": 45,
     "discrimination": 63,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】manage 你第一個想到的一定是 manage to V「設法做到、好不容易做成」。但 manage 更基本的身分是及物動詞「管理、掌管」，受詞可以是錢、時間、人、公司：manage money、manage one's time、manage a team。這封信通篇在講理財，the way you manage money 就是「你管理金錢的方式」。【怎麼判斷】這題答對率 45%，鑑別度卻高達 63，是全篇最會拉開差距的一題，分開的正是「認不認得 manage 的及物用法」。句構上還有一個可以自己驗算的地方：the way 後面直接接了一個完整子句 you ___ money，中間什麼都沒有——這正是 the way 後面可以什麼都不接的用法（the way 後面可接 that、可接 in which，也可以什麼都不接；the way how 則不合文法，見 100 年第 24 題）。既然是完整子句，空格要填的就是這個子句的動詞，而且受詞是 money。【干擾選項】restrict 是「限制」，但它的受詞通常是行為或數量（restrict spending 限制花費、restrict access 限制取得），restrict money 不是自然的說法；而且媽媽擔心的是「方式」不是「額度」。charge 常被讀成「充電」，它當「收費」時的說法是 charge sb for sth，這裡沒有收費的對象。deposit 是「存入」，只指把錢存進帳戶這一個動作，涵蓋不了整封信在講的整套理財行為。【常考字詞搭配】manage money（管理金錢）、manage one's time（管理時間）、manage to V（設法做到）、restrict spending（限制花費）、charge sb for sth（向某人收取費用）、deposit money in an account（把錢存入帳戶）。"
   },
   {
     "id": "G95_17_1",
@@ -1746,7 +1747,8 @@
     "explanation": "Regarding 在這裡作句首介系詞（由分詞轉化而來的固定用法），表示「關於這個月你想要的額外零用錢」；Regarded（過去分詞，被動語意方向不合）、To regard（不定詞，不合這個句首功能）、Being regarded（被動進行式，過於冗長且不合這個語境）都不如 Regarding 自然。",
     "accuracyRate": 52,
     "discrimination": 40,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項排成 Regarded／To regard／Being regarded／Regarding，看起來是在考分詞與不定詞的形態，你可能會開始想「主動還是被動」「哪一個當分詞構句才對」。其實這題根本不必動用分詞的文法——Regarding 早就獨立成一個介系詞了，意思就是「關於」，等於 about 或 concerning。認得這個字，一秒就結束。【怎麼判斷】答對率 52%，剛好一半的人失手。空格後面是 the extra money you want for this month，一整個名詞片語，接著逗號、然後才是完整的主要子句 I am sorry that...。名詞片語前面缺的是介系詞，不是分詞。把空格換成 About 或 Concerning，句子完全成立，這就是最快的驗算法。這條線值得整條記起來：由 -ing 或 -en 形態變過去、現在可以單獨當介系詞用的字，常見的有 regarding（關於）、concerning（關於）、given（有鑑於）、considering（考慮到）。這一類題目的選項一定會故意排成分詞的各種形態嚇你，實際上只是在問你認不認得這個字，平常大量閱讀的人在這裡佔便宜。同一條線的題目可以一起看：96 年第 18 題的 including、85 年第 25 題的 including 與 included（那一題就真的要靠文法，因為 including 放在名詞前、included 放在名詞後）、90 年第 16 題的 given that、109 年第 29 題的 regardless of。【干擾選項】Regarded 是過去分詞，要用得成必須是 be regarded as「被視為」，而且它的意義主詞得是主要子句的主詞 I，變成「我被視為……」，語意不通。To regard 是不定詞表目的，regard 是「認為、看待」，「為了看待這筆錢，我很抱歉」不成句。Being regarded 同樣有意義主詞對不上的問題，還更冗長。這三個都還停在「regard ＝ 認為」的層次，只有 Regarding 已經跳出來變成介系詞了。順帶一提，regardless 常被誤讀成「關於」，它其實是 regardless of「不論、不管」。【常考字詞搭配】regarding（關於）、with regard to（關於、就……而言）、as regards（關於）、be regarded as（被視為）、regardless of（不論、不管）、given that（有鑑於、既然）。"
   },
   {
     "id": "G95_19_1",
@@ -1783,7 +1785,8 @@
     "explanation": "【句型】cut down on expenses 固定搭配「減少開銷」；spirit（精神）、savings（儲蓄，語意方向相反，該削減的是花費不是存款）、estimate（估計）都不合。",
     "accuracyRate": 49,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】expense 你可能只記得「費用」這個中譯，於是覺得「減少費用」怪怪的。它的複數 expenses 是很常用的字，指一個人或一個家庭的「開銷、支出」總和，living expenses（生活費）、travel expenses（差旅費）都是這個用法。【怎麼判斷】答對率 49%。看空格前面那個動詞片語要的是什麼東西：整句是 you should try either finding a job or cutting down on your ___，either...or... 把兩個做法並列——一邊是開源（去找份工作），另一邊就必須是節流。能被砍的只有支出。再往前看，媽媽整封信的結論是 never spend more than you earn，spend 對 earn，講的是同一組概念。【干擾選項】savings 方向剛好相反，儲蓄是要增加不是要減少，砍存款反而離獨立更遠。spirit 是「精神」，砍精神不成話。estimate 是「估計、估價」，它是一個判斷不是一筆錢，也砍不了。這題三個干擾選項全靠語意方向刷掉，不必動用文法。【常考字詞搭配】living expenses（生活費）、travel expenses（差旅費）、at the expense of（以……為代價）、a savings account（儲蓄帳戶）、live within a budget（量入為出）、make an estimate of（對……做出估計）。"
   },
   {
     "id": "G95_21_2",
@@ -1801,7 +1804,8 @@
     "explanation": "語意「在困難情境中做出驚人之舉的英雄」，amazing（驚人的）符合英雄事蹟的語境；annoying（惱人的）、interfering（干涉的）、inviting（誘人的）都不合。",
     "accuracyRate": 64,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 -ing 與 -ed 你大概會先想主動被動，但這四個選項並不是同一個字的變化，是四個不同的字：annoying（惱人的）、interfering（愛干涉的）、amazing（令人驚嘆的）、inviting（誘人的）。這題考的是字義，不是形態。倒是 inviting 值得特別注意：它不是「邀請的」，而是「誘人的、吸引人的」（an inviting smell 誘人的香味）。【怎麼判斷】空格在 perform an ___ act in a difficult situation 裡，前面那個關係子句是 who shine in the face of great danger，shine 是「發光、表現出色」，講的是在極大危險面前依然亮眼。再往後看，第二段有一句 Heroes are selfless people who perform extraordinary acts，extraordinary（非凡的）與空格是同一個位置、同一組搭配 perform an ... act，等於文章自己把答案的方向寫出來了。amazing 與 extraordinary 同一個方向。【干擾選項】annoying 是惱人的，方向與英雄相反。interfering 是「愛干涉別人的」，帶貶義。inviting 是誘人的，用來形容食物、氣味、景色，不形容英勇的舉動。順便把國中那組主被動掛鉤複習一次：interesting 是「令人感興趣的」（東西發出來的），interested 是「感到有興趣的」（人接收到的）。同一篇的第 22 題就要用到這組概念，兩題可以對照著看：本題四個選項是四個不同的字，第 22 題才是同一個字 notice 的四種形態。【常考字詞搭配】perform an act（做出某種舉動）、in the face of（面對、當著……的面）、an amazing performance（令人驚嘆的表演）、be amazed at（對……感到驚訝）、interfere with（干擾、妨礙）、an inviting smell（誘人的香味）。"
   },
   {
     "id": "G95_22_2",
@@ -1819,7 +1823,8 @@
     "explanation": "過去分詞 unnoticed 作補語，表示「默默無聞地做他們的工作」（work done unnoticed＝工作完成卻不被注意）；noticing（現在分詞，主動語意方向不合）、noticeable（形容詞「顯著的」，語意相反）、noticed（過去分詞被動，但語意相反，應該是「不被注意」而非「被注意」）都不合。",
     "accuracyRate": 43,
     "discrimination": 60,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到空格後面接著 by many of us，你直覺會想「這是被動，所以填 noticed」，於是選成「被我們許多人注意到」。問題出在你只讀了空格後面那幾個字，沒把整句話讀完。【怎麼判斷】答對率 43%，鑑別度 60，這題分開的是「有沒有讀到 but」。整句是 heroes who live an ordinary life like us, who do their work ___ by many of us, but who make a difference in the lives of others。but 是轉折，前後必須一正一負。後半句 make a difference（帶來改變）明顯是正面的，那空格所在的前半句就必須是負面的——他們做事不被我們多數人注意，卻真的改變了別人的生命。整句的意思就靠這個 but 鎖死。再看 unnoticed 這個字本身：「朗文當代英語辭典」把它同時列為形容詞與副詞，最常見的搭配是 go unnoticed 與 pass unnoticed（不被注意、被忽略）。這裡的 do their work unnoticed 就是在描述 their work 所處的狀態，還原成 and their work is not noticed by many of us 就通了。【干擾選項】noticing 是主動的「注意到……的」，意義主詞會變成 heroes，「英雄注意著我們許多人」語意不通，而且後面接 by 也接不上。noticeable 是形容詞「顯眼的、明顯的」，方向與 but 的要求相反。noticed 方向同樣相反，它是「被注意到」，跟後面的 but 打架。三個干擾選項全部倒在同一個地方：沒看 but。【常考字詞搭配】go unnoticed（不被注意、被忽略）、pass unnoticed（悄悄過去而未被察覺）、escape one's notice（逃過某人的注意）、take notice of（注意到）、noticeable（顯眼的、明顯的）、notice sb doing sth（注意到某人正在做某事）。"
   },
   {
     "id": "G95_23_2",
@@ -1837,7 +1842,8 @@
     "explanation": "【句型】make a difference 固定片語「造成影響/帶來改變」；do／tell／count 都不搭配 difference 這個受詞。",
     "accuracyRate": 76,
     "discrimination": 37,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】這題你多半直接就選對了，因為 make a difference 太常見。但值得停一下看清楚它到底在說什麼：difference 是「差別」，make a difference 字面上是「造出一個差別」——本來會是這樣，因為你做了某件事而變成那樣，中間那段落差就是你造成的。所以中文譯成「帶來改變、產生影響」。【怎麼判斷】直接看受詞 a difference 要配哪一個動詞。這是搭配關係，不是文法關係，四個動詞裡只有 make 配得上。後面的 in the lives of others 指出改變發生在誰身上，也就是 make a difference in 或 make a difference to sth（對……造成改變）。【干擾選項】do a difference 這個說法不存在。tell 要配 difference 時是另一組搭配 tell the difference between A and B（分辨 A 與 B 的差別），受詞前面必須有 the，而且句意是「看出差別」不是「造成差別」。count 配的是 count on（依靠）或 count as（算作），不接 difference 當受詞。再補一個常一起考的：make a difference 是造成改變，make no difference 則是「沒差、無所謂」（It makes no difference to me.），兩者不要混。【常考字詞搭配】make a difference to sth（對……帶來改變）、make no difference（沒有差別、無所謂）、tell the difference between A and B（分辨兩者的差別）、count on sb（依靠某人）、do good（有好處）、a selfless act（無私的舉動）。"
   },
   {
     "id": "G95_24_2",
@@ -1855,7 +1861,8 @@
     "explanation": "what 引導名詞子句作表語，「而是他們願意為他人做什麼」；who（指人，這裡指的是「什麼事」不是「誰」）、those（不構成這樣的表語子句）、where（地方）都不合。",
     "accuracyRate": 62,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】what 一看到就想成疑問詞「什麼」，於是這個句子讀起來像在問問題。其實 what 更常見的身分是「本身自帶先行詞的關係代名詞」，等於 the thing which 或 the things which，引導一個名詞子句，整包當名詞用。【怎麼判斷】用數子句成分的方法，這一招最可靠。空格後面是 they are willing to do for others，主詞 they 有了，動詞 are willing to do 也有了，可是 do 是及物動詞，它的受詞不見了。缺的那個受詞就是 what 本身。還原給自己看：they are willing to do something for others，把 something 抽出來換成 what 提到前面。再看整句的骨架：The mark of heroes is not necessarily the result of their action, but ___ they are willing to do...。not A but B 把兩邊並列，A 的位置是 the result of their action（一個名詞片語），B 的位置就必須同樣是名詞性的東西，而且接在 be 動詞 is 後面當主詞補語。what 引導的名詞子句正好符合。同樣靠「數子句成分」定案的還有 97 年第 27 題、98 年第 23 題與 105 年第 21 題，是同一個判準，值得整組一起練。【干擾選項】who 指人，但空格處要的是「他們願意做的事」不是「誰」；而且 who 若當關係代名詞，後面的子句就該缺主詞，這裡主詞 they 明明在。those 是指示代名詞，後面要再接名詞或關係子句，湊不出一個完整的名詞子句。where 指地方，這句裡沒有任何地點的線索。【常考字詞搭配】be willing to V（願意做）、what matters（重要的是）、not A but B（不是 A 而是 B）、not necessarily（未必、不見得）、the mark of sth（……的特徵、標記）、a chosen cause（自己選定的志業）。"
   },
   {
     "id": "G95_25_2",
@@ -1873,7 +1880,8 @@
     "explanation": "【句型】even if 固定搭配「即使」，表示「即使他們失敗了，他們的決心依然能激勵他人」；Not until（直到……才）、As if（彷彿）、No sooner than（不是標準搭配，需要完整倒裝結構）都不合。",
     "accuracyRate": 68,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】Not until 與 No sooner than 這兩個選項長得很有氣勢，你可能會被它們吸走。但這兩個一放到句首，句子的形態就必須跟著改變——它們有很硬的文法條件，先檢查條件過不過，比慢慢想語意快得多。【怎麼判斷】先看句子的形態：空格後面是 ___ they fail, their determination lives on for others to follow，主要子句 their determination lives on 是正常語序，主詞在前、動詞在後，沒有倒裝。這一點等一下會一口氣刷掉兩個選項。確定形態沒問題之後再看語意：Even if 是「即使」，用來讓步——即使失敗了，決心依然延續下去，正好接上最後一句 The glory lies not in the achievement but in the sacrifice（榮耀不在成就，而在犧牲）。整段的意思是「失敗與否不影響決心的價值」，讓步關係完全吻合。【干擾選項】Not until 放在句首時，主要子句一定要倒裝，也就是把助動詞搬到主詞前面：Not until they fail does their determination live on...。原句沒有倒裝，Not until 立刻出局。這裡說的倒裝專指主詞與助動詞位置對調，跟 Not only had he... 是同一族。No sooner 的正確形態是 no sooner...than...，同樣要倒裝、還要配過去完成式：No sooner had they failed than...。選項寫成 No sooner than 已經把中間該有的東西砍掉了，形態本身就不完整。這兩個選項都不必想語意，光看主要子句沒倒裝就能刷掉。As if 是「彷彿、好像」，形態上沒問題，但它用來打比方，而這裡說「他們的決心延續下去讓別人跟隨」是真的在發生，不是比喻，語意上不合。順便分清楚 even if 與 even though：even if 講的是還沒發生、帶假設意味的（Even if it rains, we will go.）；even though 講的是已經是事實的（Even though it was raining, we went.）。【常考字詞搭配】even if（即使、就算）、even though（雖然、儘管）、not until...（直到……才）、no sooner...than...（一……就）、as if（彷彿、好像）、live on（繼續存在、延續下去）。"
   },
   {
     "id": "G95_26_3",
@@ -1891,7 +1899,8 @@
     "explanation": "前文提及棒球迷與足球迷持續爭論（argue continually）哪種運動才是最棒的，這句延續說明「雖然每季觀賽人數會有起伏，但支持各自運動的『論點』依然維持不變」，arguments（論點、主張）呼應前文的動詞argue，最為契合；agreements（協議，前面是爭論不是達成共識）、accomplishments（成就）、arrangements（安排）都不合。",
     "accuracyRate": 45,
     "discrimination": 36,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】argument 腦中只剩「爭吵」，於是看到 certain ___ remain the same 就覺得「某些爭吵維持不變」很奇怪，反而把正確答案排掉了。argument 另一個在閱讀文章裡更常出現的意思是「論點、理由、主張」（an argument for sth 支持某事的理由）。【怎麼判斷】答對率 45%，鑑別度只有 36，比同篇其他題明顯低——這題連讀懂文章的高分群考生也常失手，原因就在剛才那個既有印象：讀得越仔細、越覺得「爭吵不變」講不通的人，反而越容易改選別的。線索其實就在前一句的同一個字根上：Fans of professional baseball and football argue continually over which is America's favorite sport。動詞是 argue（爭論），空格要的名詞就是這場爭論裡雙方各自搬出來的「論點」。前半句又說 the figures on attendance for each vary with every new season（觀眾人數每季都在變），Though 把兩邊接成讓步關係：數字會變，但論點不變。接著整篇文章就一條一條列出這些論點（節奏快慢、動不動腦、賽季場次、中場活動），正好就是「論點」的內容。【干擾選項】agreements 是「協議、共識」，但前一句明講雙方在 argue，沒有達成共識。accomplishments 是「成就」，指已經做成的事，不是拿來辯論的理由。arrangements 是「安排」，跟這場辯論無關。【常考字詞搭配】an argument for sth（支持某事的論點）、put forward an argument（提出論點）、argue over sth（為某事爭論）、reach an agreement（達成協議）、a sense of accomplishment（成就感）、make arrangements for sth（為某事做安排）。"
   },
   {
     "id": "G95_27_3",
@@ -1909,7 +1918,8 @@
     "explanation": "主詞 baseball 是單數，動詞需用單數 attracts；attracted（過去式，不合現在式描述通則的語境）、is attracted（被動，方向不合，應該是棒球「吸引」球迷不是棒球「被吸引」）、attract（複數動詞形式，不符合單數主詞）都不合。",
     "accuracyRate": 49,
     "discrimination": 55,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是同一個動詞 attract 的四種形態，這種題目一律先找主詞、再看它在句中扮演什麼角色，不要憑語感挑。【怎麼判斷】答對率 49%，鑑別度 55。整句是 Baseball, on the other hand, seems more mental, like chess, and ___ those fans that prefer a quieter, more complicated game。and 連接的是兩個並列的動詞：seems 與空格。既然 and 兩邊要對等，前面是現在式單數的 seems，後面就必須是現在式單數的 attracts；主詞 Baseball 是單數，也對得上。並列結構的題目一律用這個方法驗算：先找出 and 前面那一個是什麼形態，後面就照抄那個形態。同型的題目可以一起看：99 年第 27 題是助動詞後面兩個原形動詞並列，100 年第 19 題是介系詞 by 後面三個動名詞並列，判準完全一樣。【干擾選項】attracted 是過去式，可是同一句的 seems 是現在式，整篇又都在講通則，時態對不上。is attracted 是被動，方向反了——是棒球吸引球迷，不是棒球被球迷吸引；而且被動之後不能再接原受詞，空格後面明明還跟著 those fans 這個受詞，一看到就該先刷掉。這條鐵律在學測反覆出現，非常好用。attract 是原形，主詞 Baseball 是單數，主詞與動詞不一致。【常考字詞搭配】attract attention（吸引注意）、be attracted to sth（受……吸引）、a tourist attraction（觀光景點）、an attractive offer（吸引人的條件）、prefer A to B（偏好 A 勝過 B）、on the other hand（另一方面）。"
   },
   {
     "id": "G95_28_3",
@@ -1928,7 +1938,8 @@
     "accuracyRate": 48,
     "discrimination": 35,
     "contextSpan": "跨句",
-    "contextNote": "In addition 累加前一句對兩種運動的比較"
+    "contextNote": "In addition 累加前一句對兩種運動的比較",
+    "note": "【你可能會這樣想】這一篇從頭到尾都在比較兩種運動，你讀得越進去，越容易覺得「這裡當然又是在對比」，於是伸手就抓 In contrast。這正是這題鑑別度只有 35 的原因——它不是難在字義，是難在你被整篇的對比框架帶著走，忘了先確認這一句自己在做什麼事。【怎麼判斷】答對率 48%。真正的線索是這篇文章的列舉鏈。第二段開頭是 To begin with（首先），最後一段開頭是 Finally（最後），中間這一段開頭的空格，位置就卡在「首先」與「最後」之間，它必須是列舉鏈的中間那一環，也就是「此外、再者」。In addition 正好是這個功能。看出 To begin with → ___ → Finally 這條鏈，這題就結束了。另一個佐證：空格所在的整句是 ___ , professional football teams usually play no more than fourteen games a year，講的只有足球一方，沒有把棒球拿來比。真正的對比出現在下一句 Baseball teams, however, play almost every day for six months，however 才是那個對比詞。一個段落不會在開頭跟句中連放兩個對比連接詞。【干擾選項】In contrast 是「相較之下」，如上所述，對比的工作已經由下一句的 however 做掉了。As a result 是「因此」，要求前後有因果，可是足球節奏快並不會「導致」它一年只打十四場。To some extent 是「某種程度上」，用來把話說軟、保留語氣，這裡並沒有要打折扣的意思。【常考字詞搭配】in addition（此外、再者）、in addition to sth（除了……之外還有）、as a result（因此）、as a result of sth（由於）、to some extent（在某種程度上）、no more than（僅僅、不超過）。"
   },
   {
     "id": "G95_29_3",
@@ -1946,7 +1957,8 @@
     "explanation": "語意「棒球隊幾乎每天都要打球，長達六個月」，almost（幾乎）符合這種強調頻繁程度的語氣；hardly（幾乎不，語意相反）、somehow（不知怎麼地）、rarely（很少，語意相反）都不合。",
     "accuracyRate": 65,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】hardly 常被當成 hard 的副詞，讀成「努力地」，或是只抓到「幾乎」兩個字，其實它是否定副詞，意思是「幾乎不」。這個誤會不解開，這題就會出現兩個看起來都對的選項。【怎麼判斷】這題鑑別度 61，是同篇最高，分開的是「有沒有先看選項彼此之間的關係」。四個選項裡 hardly 與 rarely 意思幾乎相同（都是「很少、幾乎不」）。四選一只能有一個答案，兩個同義的選項不可能同時對，所以它們必定同時錯——還沒回頭讀句子就能砍掉一半。這一招在字彙題非常好用，看到兩個同義選項先劃掉。剩下 almost 與 somehow，再回句子看：Baseball teams, however, play ___ every day for six months。前一句剛說足球一年只打不超過十四場，however 要求後面走反方向，也就是棒球的場次極多。almost every day（幾乎每天）正好把場次拉到最大。【干擾選項】hardly 是「幾乎不」，hardly ever 就是「幾乎從不」，方向與 however 的要求相反。rarely 同樣是「很少」，一樣走反方向。somehow 是「不知怎麼地、以某種方式」，用來表達說話的人講不清楚原因，跟頻率無關，放進 play somehow every day 語意不通。hardly 是否定副詞這件事，從位置上也看得出來——它跟 seldom 一樣放在一般動詞前面、be 動詞後面（97 年第 29 題的 was seldom visited 就是靠這個位置定案的）。【常考字詞搭配】almost every day（幾乎每天）、almost all of（幾乎全部的）、hardly ever（幾乎從不）、hardly any（幾乎沒有）、hardly...when...（一……就）、rarely（很少、難得）。"
   },
   {
     "id": "G95_30_3",
@@ -1965,7 +1977,8 @@
     "accuracyRate": 49,
     "discrimination": 47,
     "contextSpan": "跨句",
-    "contextNote": "On the contrary 與前一句橄欖球迷的行為相對照"
+    "contextNote": "On the contrary 與前一句橄欖球迷的行為相對照",
+    "note": "【你可能會這樣想】on the contrary 與 in contrast 中文都被翻成「相反地、相較之下」，很多人把它們當成同一個東西換著用。它們其實分工不同，趁這題一次弄清楚很划算，寫作文時常用到。【怎麼判斷】答對率 49%。先看這個位置要什麼：前一句說 football fans seem to love the half-time activities, the marching bands, and the pretty cheerleaders（足球迷愛中場活動、遊行樂隊、啦啦隊），空格後面說 baseball fans are more content to concentrate on the game's finer details（棒球迷更滿足於專注比賽的細節）。兩邊方向相反，空格要的是一個反向的轉折詞。四個選項裡只有 On the contrary 是反向的，其餘三個方向全錯，答案就定下來了。【干擾選項】Even so 是「即使如此」，屬於讓步——先承認前面說的，再補一個不受影響的結果，方向不是相反。For that reason 是「因為這個原因」，要求前後有因果，可是足球迷愛看中場表演並不會「導致」棒球迷去填計分卡。By the same token 是「同理、基於同樣的道理」，用在兩件事走同一個方向的時候，跟這裡要的相反正好顛倒。【順便把這兩個詞分清楚】依「劍橋 English Grammar Today」的 Contrasts 條目：on the contrary 用來強調某件事跟剛剛提到的正好相反，重點在否定前面那句話（He didn't seem offended by her criticisms; on the contrary, he seemed to enjoy them.）；in contrast 與 by contrast 則是把兩個人或兩件事並排比較，指出它們不一樣。劍橋另有一條 Word choice 專門提醒：比較兩件事、要說第二件跟第一件很不同時，該用 by contrast 或 in contrast，不要用 on the contrary。而 In contrast 這份考卷把它留給了第 28 題當干擾選項，兩題正好可以對照著看。你自己寫作文時，記得照劍橋的分工用。【常考字詞搭配】on the contrary（正好相反）、in contrast to sth（與……形成對比）、even so（即使如此）、by the same token（同理、基於同樣的道理）、be content with sth（滿足於）、concentrate on sth（專注於）。"
   },
   {
     "id": "G96_16_1",
