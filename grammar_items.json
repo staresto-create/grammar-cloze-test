@@ -6689,7 +6689,8 @@
     "explanation": "dare 可以接原形動詞（半助動詞用法），這裡跟後面並列的 courageously express 動詞形式保持一致，都用原形；to rebel（不定詞，雖然也可以，但跟後面並列的動詞形式不一致）、rebelling（動名詞，不合dare的常見用法）、be rebelled（被動，rebel通常不用被動語態表達「反抗」這個主動行為）都不如原形rebel自然。",
     "accuracyRate": 55,
     "discrimination": 23,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】課本教 dare 的時候多半配著 to 一起出現（dare to tell the truth 敢說實話），所以看到 dare 就順手接 to rebel。這一題的鑑別度只有 23，代表連高分群考生也大量失手，原因就在這裡：對 dare to V 越熟的人，越容易填完空格就走，不會回頭看 and 後面接的是什麼形態。（同型的失手見 97 年第 26 題：for ＋ 時間的公式太強，把人帶離了並列結構的檢查。）【怎麼判斷】判斷不出來時，先看四個選項的共同點：rebel、to rebel、rebelling、be rebelled 是同一個字的四種形態，可見這一格考的不是字義而是形態，那就要往前後找「該跟誰對齊」。（同一份考卷的第 24 題也是這一型，四個選項是 highlight 的四種形態，兩題可以對照著看。）先把骨架拉出來：you must dare ___, and courageously express your own outlook ...。must 底下掛著兩個並列的動作，一個是 dare ___，一個是 courageously express；dare 自己也是原形，因為它接在助動詞 must 後面。and 兩邊的形態要對得上，而後面那一個已經給你了——express 是光禿禿的原形，空格就照抄原形，填 rebel。這就是並列結構「照抄另一邊的形態」（同型：99 年第 27 題助動詞後兩個原形動詞並列、100 年第 19 題介系詞 by 後三個動名詞並列、95 年第 27 題現在式單數照抄）。【干擾選項】to rebel：劍橋 English Grammar Today 的 dare 條目說，dare 表示「有膽量做某事」時是一般動詞，後面接不定詞或接原形都可以（If Sally dares (to) go there again, she'll be in big trouble!），另有較少見的半助動詞用法接原形（No one dare go there.）。所以這個選項不是被 dare 刷掉的，是被 and 後面的 express 刷掉的——真要用 to rebel，後面那一個也得跟著補上 to 才對得上。rebelling：dare 後面不接動名詞。be rebelled：rebel 是不及物動詞，用法是 rebel against sth（反抗某事物），沒有受詞就談不上被動；而且「叛逆」是主詞自己做出來的動作，語意上也不可能被動。【常考字詞搭配】dare (to) do sth（敢於做某事）、How dare you!（你竟敢！）、I dare say（我猜想、大概）、rebel against（反抗、違抗）、go against（違背）、break the rules（打破常規）。"
   },
   {
     "id": "G94_17_1",
@@ -6726,7 +6727,8 @@
     "explanation": "As 在這裡表示「作為/當……的時候」（As a small child＝當他還是小孩的時候）；Since（自從/因為）、For（因為）、To（不能這樣單獨接名詞開頭）都不合。",
     "accuracyRate": 63,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 As 只想到「因為」或「當……的時候」，而這兩個意思後面都要接完整子句；一發現空格後面接的是 a small child 這個名詞，就把 As 排掉了。其實 as 也能當介系詞，後面直接接名詞。【怎麼判斷】先看四個選項的共同點：Since、For、As 都是既能當連接詞、又能當介系詞的短詞，可見這一格考的是「後面接的是名詞還是子句」。先數句子成分：空格後面是 a small child（名詞片語），逗號之後才是完整的主要子句 he would pick up a broom and pretend to be playing guitar。所以空格要的是一個能直接接名詞的字，不是連接詞。劍橋詞典的 as 條目把 as ＋ 名詞列為介系詞用法，意思是「以……的身分」，收的例句正好就是 As a child, Miriam had lived in India.（她小時候在印度住過）。本句的 As a small child 就是這個用法，還原成完整子句是 When he was a small child。後面的 would pick up 表示「以前總是……」，正是回憶童年習慣的口吻，與「還是個小孩子的時候」互相支持。【干擾選項】Since：當「自從」時後面接的是時間起點（since 1990、since childhood），a small child 是人不是時間點；當「因為」時要接完整子句。For：當「因為」時是連接詞，要接子句；當介系詞時是「為了、給」，For a small child 會變成「對一個小孩來說」，與後面「他會拿起掃把假裝彈吉他」接不起來。To：後面接名詞時表示方向或對象，接不出「當他還小的時候」這個意思。【常考字詞搭配】as a child（在還是孩子的時候）、work as a waiter（當服務生）、regard A as B（把 A 視為 B）、pick up（拿起、順道學會）、pretend to V（假裝……）、be disappointed with sb（對某人失望）。"
   },
   {
     "id": "G94_19_1",
@@ -6744,7 +6746,8 @@
     "explanation": "關係代名詞 who 引導非限定關係子句，修飾先行詞 His father（他的父親一直希望他能拿到博士學位）；while（連接詞不是關係代名詞）、that（非限定關係子句通常不用that）、when（不修飾人）都不合。",
     "accuracyRate": 76,
     "discrimination": 51,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】被一對逗號夾住的那一段常常被跳過不讀，於是 His father 和第 20 格之間隔了一長串，等到要填第 20 格時已經忘了主詞是誰。這兩格其實是一組：先認出 who ... professor 只是插進來補充說明父親的，才看得出來第 20 格才是整句真正的主要動詞。【怎麼判斷】先看四個選項的共同點：who、while、that、when 都是用來把兩段話接起來的詞，沒有一個在考單字意思，可見這一格問的是「後面那個子句要用什麼接上來」。（同卷第 21 題也是四個 wh- 詞，但那一格是間接問句；兩者的分辨方法寫在第 21 題。）空格後面直接就是動詞 always hoped，前面缺一個主詞，所以空格要填的是能兼當主詞的關係代名詞，而先行詞 His father 是人，用 who。還原成兩句就一目了然：His father always hoped that he would get a PhD and become a professor. ＋ His father reacted with a scoff.，把重複的 His father 換成 who，再用一對逗號把它嵌回去。這種用逗號夾住、只是補充說明的關係子句叫非限定關係子句。【干擾選項】that：非限定關係子句不用 that（劍橋 English Grammar Today 的 relative clauses 條目），看到逗號就可以先把 that 刷掉。while、when：兩個都是連接詞，後面要接一個主詞齊全的子句，但這裡動詞 hoped 前面正好缺主詞；而且 when 用來接時間，不能拿來指人。【常考字詞搭配】hope that 子句（希望……）、get a PhD（取得博士學位）、major in（主修）、go on tour（巡迴演出）、exhaust oneself（使自己筋疲力盡）、it turns out that（結果是……）。"
   },
   {
     "id": "G94_20_1",
@@ -6781,7 +6784,8 @@
     "explanation": "語意「這些照片將展示吸菸如何危害你的健康」，how（如何）符合；when（何時）、where（哪裡）、what（不能這樣接完整子句表達「如何」）都不合。",
     "accuracyRate": 64,
     "discrimination": 53,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】what 是最常用的疑問詞，看到 show 後面要接東西，很容易直覺就填 what。這一題要靠「數子句成分」才定得了案（同判準：97 年第 27 題、98 年第 23 題、105 年第 21 題、95 年第 24 題）。【怎麼判斷】四個選項都是 wh- 詞，可見這一格考的是 show 後面那個子句要用哪一個字引導。這種擺在動詞後面、由 wh- 詞帶頭的子句，就是國中教過的間接問句，掛鉤是 Tell me how to get there.（告訴我怎麼去那裡。）與 Can you tell me how much it costs?（可以告訴我多少錢嗎？）。間接問句有兩個看得見的特徵，本句全中：語序回到直述句的「主詞＋動詞」，而且不借助 do／does／did（英國文化協會 LearnEnglish 的 question words 說明）。還原成直接問句就一目了然：How does smoking damage your health?（吸菸如何危害你的健康？）改成間接問句時 does 消失、damage 補回第三人稱單數的 -s，就成了 how smoking damages your health。認出這一點，成分也就順手數清楚了：smoking（主詞）、damages（動詞）、your health（受詞），一個都不缺。what 自己要在子句裡當主詞或受詞，成分既然已經滿了就沒有它的位置，先刷掉。剩下 when、where、how 三個都是副詞性的，不佔句子成分，這時才輪到語意：下一句 The shocking pictures include images of smoke-damaged lungs and teeth（受損的肺與牙齒的影像）講的是「傷害長什麼樣子、怎麼造成的」，不是時間也不是地點，所以填 how。【干擾選項】what：成分已滿，塞不進去。when（何時）、where（何處）：文法上都放得進去，但整段沒有任何時間或地點的線索在支撐它們。【同卷第 19 題也是四個 wh- 詞，差在哪】那一格是關係子句，這一格是間接問句，分辨方法只有一句話：看 wh- 詞前面接的是名詞還是動詞。前面是名詞（His father, who ...），wh- 詞回頭補充說明那個名詞，是關係子句；前面是動詞（show ...），wh- 詞帶著整個子句去當那個動詞的受詞，是間接問句。【常考字詞搭配】show／tell sb how to V（告訴某人怎麼做）、damage one's health（損害健康）、be bad for one's health（對健康有害）、in large print（以大字體印刷）、die young（早逝）、smoke-damaged（因吸菸而受損的）。"
   },
   {
     "id": "G94_22_2",
@@ -6799,7 +6803,8 @@
     "explanation": "The picture warnings（圖片警示）作為複合名詞主詞，have been used（過去四年來一直被使用）呼應複數動詞；symbols／commercials／decorations 都不符合前文一直在講「警示圖片」的語境。",
     "accuracyRate": 54,
     "discrimination": 58,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】The picture ___ 這個位置很容易被讀成「圖片的某某」，四個名詞塞進去都通順，只好用猜的。其實本篇後段就把答案寫出來給你看了。【怎麼判斷】兩個名詞並排時，前面那個當形容詞用，後面那個才是真正在講的東西（picture warnings ＝ 用圖片做的警示）。四個選項都是複數名詞，都與 have been used 相配，形態上分不出高下，可見這一格考的是語意，只能往上下文找。決定性的一句在同一篇後段：At the moment EU tobacco manufacturers only have to put written health warnings on cigarette packets（目前只被要求放文字的健康警語）——written（文字的）對 picture（圖片的），共用同一個名詞 warnings，全篇就是在對比「文字警語」與「圖片警語」。再往前一句看，reminders in large print that smokers die younger（以大字提醒吸菸者較早死）也是同一件事的同義說法。這一題的鑑別度 58，分的正是有沒有把這兩處線索讀進來。【干擾選項】symbols（符號）：菸盒上放的是照片，不是符號，而且符號不會有「駭人」的效果。commercials（電視廣告）：方向完全相反，本篇要的是勸人別抽菸，不是替菸商打廣告。decorations（裝飾）：菸盒上印受損的肺不是為了好看。【常考字詞搭配】warn sb of／about sth（警告某人某事）、warn sb (not) to V（警告某人（不要）做某事）、a health warning（健康警語）、a warning label（警示標籤）、a warning sign（警示標誌）、without warning（毫無預警地）。"
   },
   {
     "id": "G94_23_2",
@@ -6836,7 +6841,8 @@
     "explanation": "現在分詞片語 highlighting，補充說明健康警示的作用「強調吸菸的危害」；highlight（原形動詞，不能這樣修飾）、highlights（限定動詞，句子已有主要動詞have to put）、highlighted（過去分詞，被動語意方向不合，應該是警示「強調」危害不是「被強調」）都不合。",
     "accuracyRate": 47,
     "discrimination": 35,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】答對率 47％，一半的人填錯，鑑別度也只有 35，高分群考生失守的不少。最常見的失手是被前面的 written 帶走：同一個名詞前面剛用過一個過去分詞當形容詞（written health warnings），眼睛看熟了，輪到空格時手就自動再選一次過去分詞 highlighted。越注意到 written 的人，越容易掉進這個對稱的陷阱。【怎麼判斷】四個選項是同一個動詞的四種形態（與同卷第 16 題同型），可見這一格考的是形態不是字義。兩步就能定案。第一步，這句已經有主要動詞 have to put，空格再放一個有時態的動詞，就會變成一句話裡兩個主要動詞卻沒有連接詞，所以 highlight 與 highlights 一起刷掉。第二步，剩下的 highlighting 與 highlighted 都是分詞，都能擺在名詞後面當修飾語，差別在主動被動：空格後面還跟著受詞 the dangers of smoking——被動之後不能再接原來的受詞，這是學測反覆出現的鐵律（同型：100 年第 19 題 being wrapped the body、95 年第 27 題 is attracted those fans）。所以只能用主動的 highlighting，還原成子句就是 warnings which highlight the dangers of smoking（凸顯吸菸危害的警語）。【干擾選項】highlight（原形）：既不能當這句的主要動詞，也不能單獨擺到名詞後面當修飾語。highlights（第三人稱單數）：同樣是有時態的動詞，會造成一句兩個主要動詞。highlighted：警語是主動去凸顯危害，不是被危害凸顯；掛回國中就學過的對照 a barking dog（會叫的狗，主動）與 a broken window（被打破的窗，被動），一個是自己往外做，一個是被做。【常考字詞搭配】highlight the importance of（凸顯……的重要性）、draw attention to（引起對……的注意）、point out（指出）、at the moment（目前）、have to V（不得不、必須）、the dangers of（……的危險）。"
   },
   {
     "id": "G94_25_2",
@@ -6854,7 +6860,8 @@
     "explanation": "語意「這對所有人都有最大利益，尤其是那些可能被誘惑開始吸菸的青少年」，especially（尤其是）符合這種強調特定群體的語氣；in fact（事實上）、rather than（而不是）、regarding（關於）都不合。",
     "accuracyRate": 55,
     "discrimination": 71,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 all people 後面接著 teens，很容易讀成「不是所有人，而是青少年」，於是選 rather than。這一題的鑑別度高達 71，是這一份考卷裡最會分程度的一題，分的就是這件事：你把 teens 讀成 all people 的「一部分」，還是讀成 all people 的「對立面」。【怎麼判斷】四個選項都是用來標示前後兩塊關係的用語，可見這一格考的不是文法，是你怎麼看待 all people 與 teens 的關係。先確認前後兩塊的關係。前面是 to the best interest of all people（對所有人都最有利），後面是 teens who might be tempted to start smoking（可能受誘惑而開始抽菸的青少年）——青少年本來就在「所有人」裡面，是其中特別值得一提的一群。先講整體、再從裡面挑出一小群強調，用的就是 especially。掛回國中的句子：I like fruit, especially bananas.（我喜歡水果，尤其是香蕉。）香蕉沒有跳出水果之外，只是被特別點名而已。【干擾選項】rather than（而不是）：會把 teens 推到 all people 的外面，等於推翻自己前半句剛講完的 all people，前後打架。in fact（事實上）：用來修正或加強前面的說法，後面通常接一整句話，這裡接的是名詞。regarding（關於）：它確實是介系詞，後面可以直接接名詞（95 年第 18 題考過同一個字），但它引出的是「談論的主題」，而這裡的 teens 不是主題，是人群裡的一小群。【常考字詞搭配】especially（尤其是）、in particular（尤其、特別是）、above all（最重要的是）、rather than（而不是）、be tempted to V（受誘惑而想做某事）、remind sb of sth（提醒某人某事）。"
   },
   {
     "id": "G94_26_3",
@@ -6872,7 +6879,8 @@
     "explanation": "這句在解釋動物能感受痛覺的原因，because（因為）說明這是演化上的因果關係——動物能感受痛覺，是因為這個能力可以用來自我保護；雖然 so that（以便）從目的論角度也可以說得通，但接下來整段文章討論的是痛覺實際帶來的效果與運作方式（如「碰到燙的東西會痛，就學會不再碰」），比較貼近解釋「為什麼」的因果關係，這裡選because較為合理。",
     "accuracyRate": 42,
     "discrimination": 50,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】答對率 42％。先看四個選項的共同點：都是從屬連接詞，後面都能接完整子句，形態上一個也刷不掉，可見這一格考的不是形態，是兩個子句之間的邏輯關係，只能靠讀懂整段。最容易被拉走的是 so that——「動物能感受疼痛，好讓自己保護自己」聽起來很順。【怎麼判斷】回頭看這一篇是怎麼展開的。第二句已經先示範過一次同樣的句型：There is currently no reason to believe that plants experience pain, because they are devoid of central nervous systems and brains.（植物不會痛，因為牠們沒有中樞神經與大腦）——先講「會不會痛」，再用 because 交代生理上的原因。本句 Animals are able to feel pain ___ they can use it for self-protection. 是同一個框架的另一半：先講動物會痛，再交代原因。再往後看，plants cannot move from place to place and do not need to learn to avoid certain things, so this sensation would be unnecessary（植物不會四處移動，也不需要學著避開，所以這種感覺對牠們沒有必要）同樣是在講原因。整段從頭到尾都在回答「為什麼」，填 because 最一致。【干擾選項】so that（以便、為了）：引出的是目的，主詞通常是有意圖去做某件事的一方；而且整段要回答的是「為什麼動物會痛、植物不會」，不是「動物為了什麼而痛」。although（雖然）：方向相反，會變成「動物能感受疼痛，雖然疼痛可以拿來自保」，前後根本沒有轉折可言。when（當……時）：讀起來像「動物在能利用疼痛自保的時候才會痛」，把因果關係換成了時間關係，與整篇的說明脈絡對不上。【常考字詞搭配】be able to V（能夠……）、be devoid of（毫無、缺乏）、use A for B（把 A 用於 B）、because of ＋ 名詞（因為……）、so that ＋ 子句（以便……）、experience pain（感受到疼痛）。"
   },
   {
     "id": "G94_27_3",
@@ -6891,7 +6899,8 @@
     "accuracyRate": 83,
     "discrimination": 32,
     "contextSpan": "跨句",
-    "contextNote": "For example 為前一句的原則舉例"
+    "contextNote": "For example 為前一句的原則舉例",
+    "note": "【你可能會這樣想】四個選項都是句首常見的轉承語，背了中文意思就想直接套上去。這一題的鑑別度只有 32，但原因和難題正好相反：它本身不難，各種程度的人都答得出來，自然分不太出高下。要判斷的是最基本的一種篇章關係——前一句給原則，這一句給實例。【怎麼判斷】把前後兩句擺在一起看。前一句是通則：Animals are able to feel pain because they can use it for self-protection.（動物會痛，是因為痛可以拿來自保。）本句則是一個具體情境：if you touch something hot and feel pain, you will learn ... that you should not touch that item in the future（你碰到燙的東西會痛，於是學會以後別再碰）。一個抽象、一個具體，而且具體那句正好在示範前一句講的道理，這就是舉例，填 For example。【干擾選項】To begin with（首先）：用在列舉的第一項，後面要有第二項、第三項接上來才成立（95 年第 28 題就是靠 To begin with → ___ → Finally 這條列舉鏈定案的），而本篇後面既沒有 Second 也沒有 Finally。In contrast（相較之下）：需要前後兩件事並排比較，但這一句是延續前一句、不是掉頭；本篇真正要對比的地方在後面，用的是 On the other hand。Before long（不久之後）：講的是時間先後，本篇並不是按時間推進的故事。【常考字詞搭配】for example／for instance（舉例來說）、take sth for example（以……為例）、such as（例如）、to begin with（首先、第一點）、before long（不久之後）、on the other hand（另一方面）。"
   },
   {
     "id": "G94_28_3",
@@ -6909,7 +6918,8 @@
     "explanation": "語意「你會從這種不適感中學到不該再碰那個東西」，discomfort（不適）呼應前面提到的 feel pain（感到疼痛）；prescription（處方）、enjoyment（享受，語意相反）、satisfaction（滿足）都不合。",
     "accuracyRate": 52,
     "discrimination": 69,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】discomfort 比 pain 少見，在考場上看到它常常直接跳過。其實它就是 dis-（不）加上 comfort（舒適）——不舒服，正是前半句 feel pain 的另一種說法。答對率 52％、鑑別度 69，這一題分得很開，分的就是你有沒有回頭把 this 指的東西找出來。【怎麼判斷】四個選項都是抽象名詞，擺進去都合文法，可見這一格考的是語意，而且關鍵在 this。「this ＋ 名詞」是英文回頭指前文的常用手法：用一個比較概括的名詞，把前面剛講過的內容收攏起來再指一次（Halliday 與 Hasan「Cohesion in English」談的指稱銜接）。所以 this ___ 必須接得住前半句剛出現的 touch something hot and feel pain，四個選項裡只有 discomfort（不適）接得住 pain。整句還原：you will learn from this discomfort ＝ you will learn from the pain you have just felt（你會從剛剛那份痛學到教訓）。【干擾選項】enjoyment（享受）、satisfaction（滿足）：方向相反，碰到滾燙的東西不會是享受。而且這兩個字意思很接近，四選一只能有一個答案，意思幾乎相同的兩個選項必定同時錯，還沒回頭讀句子就能砍掉一半（同招：95 年第 29 題的 hardly 與 rarely）。prescription（處方箋）：只是被「痛」聯想到看病吃藥，句子裡沒有任何醫療情境，而且處方也不是你剛剛親身感受到的東西。【常考字詞搭配】learn from sth（從……學到教訓）、cause／feel discomfort（造成／感到不適）、in the future（將來）、write a prescription for（開……的處方）、to one's satisfaction（令某人滿意的是）、get enjoyment out of（從……得到樂趣）。"
   },
   {
     "id": "G94_29_3",
@@ -6927,7 +6937,8 @@
     "explanation": "【句型】from place to place 固定片語「四處移動」；from door to door（挨家挨戶）、from top to toe（從頭到腳）、from case to case（視情況而定）都不符合這裡「植物無法移動」的語境。",
     "accuracyRate": 61,
     "discrimination": 33,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項長得一模一樣，都是 from A to B 的形狀，只差中間換了個名詞，記憶最容易互相干擾。這一題的鑑別度只有 33：線索完全在片語本身認不認得，不必回頭讀上下文，所以它分不太出閱讀的程度——記得的人直接填，沒記得的人也可以從「植物不能移動」硬推出跟地點有關。【怎麼判斷】先看主詞和動詞：plants cannot move ___（植物不能……移動）。move 後面缺的是「移動的範圍」，from place to place 就是「從一個地方到另一個地方、四處」。再用後半句驗算：and do not need to learn to avoid certain things（也不需要學著避開某些東西）——會移動的生物才需要學著避開危險，植物不動，所以不需要，前後兩件事是同一個道理的兩面。【干擾選項】from door to door（挨家挨戶）：指一家一家拜訪，用在推銷、拉票、送貨（劍橋詞典的說明是走遍一個區域裡的每一戶），主詞得是人。from top to toe（從頭到腳）：講的是全身上下，常見於 dressed in black from top to toe。from case to case（因個案而異）：談的是情況不同、處理方式也跟著不同，與移動無關；這個意思更常見的說法是 case by case 或 on a case-by-case basis。【常考字詞搭配】from place to place（從一地到另一地、四處）、from door to door（挨家挨戶）、from head to toe／from top to toe（從頭到腳）、from time to time（不時、偶爾）、from beginning to end（自始至終）、on a case-by-case basis（逐案、視個案處理）。"
   },
   {
     "id": "G94_30_3",
@@ -6945,7 +6956,8 @@
     "explanation": "語意對比：「因此，不像動物的身體部位，許多水果蔬菜可以一次又一次被採收而不會死亡」，unlike（不像）符合這種對比；as with（就……而言，語意相反）、for（因為）、except for（除了）都不合。",
     "accuracyRate": 54,
     "discrimination": 61,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】unlike 開頭是 un-，很容易和 dislike（不喜歡）混在一起，讀成「不喜歡動物的身體部位」。unlike 是介系詞，意思是「不像……、與……不同」，跟喜不喜歡沒有關係。這一題的鑑別度 61，分的是你有沒有看出這一格要的是「對比」，而不是原因或排除。【怎麼判斷】四個選項都能直接接名詞，可見這一格考的不是詞性，是語意關係——到底是對比、排除，還是因果。空格後面接的是名詞片語 animals' body parts，逗號之後才是完整的主要子句 many fruits and vegetables can be harvested over and over again without dying。所以空格要的是一個能直接接名詞、又能把前後兩樣東西擺在一起比的介系詞。文章講的是：動物的身體部位割掉就沒了，蔬果卻可以一採再採——兩者不同，用 unlike。【干擾選項】as with（就……的情況而言、和……一樣）：方向剛好相反，等於說蔬果和動物的身體部位情況相同，與整篇「植物與動物完全不同」的主旨打架。except for（除了……之外）：是把某個成員從一個群體裡挑出來排除，但動物的身體部位本來就不在「水果和蔬菜」這個群體裡，沒有東西可以排除。for：當「因為」時是連接詞，後面要接完整子句；當介系詞時是「為了、給」，接上去會變成「為了動物的身體部位，蔬果可以一採再採」，語意不通。【對比要用哪一個，先看後面接什麼】unlike 後面接名詞（unlike animals' body parts）；In contrast、On the other hand 這一類轉承語後面接的是一整句話（本篇就用過 On the other hand, plants cannot move ...）。同一篇裡兩種都出現了：第 27 題把 In contrast 放進選項當干擾，這一題則是真的要對比，但位置只容得下介系詞。要對比時先看空格後面是名詞還是句子，就不會拿錯工具。（劍橋 English Grammar Today 的 Contrasts 條目另有一條分工：把兩件事並排比較、要說第二件跟第一件不同時，用 by／in contrast，不用 on the contrary；同型見 95 年第 30 題。）【常考字詞搭配】unlike ＋ 名詞（不像……、與……不同）、dislike ＋ 名詞／V-ing（不喜歡……）、except for（除了……以外）、over and over again（一次又一次）、from a physiological standpoint（從生理學的角度來看）、harvest crops（採收作物）。"
   },
   {
     "id": "G86_21_1",
