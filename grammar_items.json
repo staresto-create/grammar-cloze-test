@@ -12,7 +12,7 @@
       "D": "having"
     },
     "answer": "B",
-    "explanation": "句子描述西元前十一世紀（明確過去時間點）發生的動作，需要簡單過去式 had（實義動詞「擁有」）。have had 缺乏過去時間點觸發詞、have 是現在式，having 不能單獨作句子的主要動詞。",
+    "explanation": "句子描述西元前十一世紀（明確過去時間點）發生的動作，需要簡單過去式 had（一般動詞「擁有」）。have had 缺乏過去時間點觸發詞、have 是現在式，having 不能單獨作句子的主要動詞。",
     "contextSpan": "句內"
   },
   {
@@ -397,7 +397,7 @@
       "D": "drunk"
     },
     "answer": "D",
-    "explanation": "【句型】get drunk 是固定搭配，表示「喝醉」；drink 是原形動詞不能直接作 get 的補語，to drink 不定式不符合這個補語結構，drinking 雖然文法上可能接 get，但「get drinking」不是「喝醉」的意思，正確的固定用法是 get drunk。",
+    "explanation": "【句型】get drunk 是固定搭配，表示「喝醉」；drink 是原形動詞不能直接作 get 的補語，to drink 不定詞不符合這個補語結構，drinking 雖然文法上可能接 get，但「get drinking」不是「喝醉」的意思，正確的固定用法是 get drunk。",
     "contextSpan": "句內"
   },
   {
@@ -671,7 +671,7 @@
       "D": "to look for"
     },
     "answer": "A",
-    "explanation": "was + looking for 是過去進行式，表示他當時正在追求更好的生活這個持續進行的狀態；look for（原形）、looked for（過去式）、to look for（不定式）文法上都不能直接接在 was 後面。",
+    "explanation": "was + looking for 是過去進行式，表示他當時正在追求更好的生活這個持續進行的狀態；look for（原形）、looked for（過去式）、to look for（不定詞）文法上都不能直接接在 was 後面。",
     "contextSpan": "句內"
   },
   {
@@ -899,7 +899,7 @@
       "D": "around"
     },
     "answer": "C",
-    "explanation": "【句型】protection against 固定搭配「針對……的保護/防禦」；about／above／around 都不是 protection 常見的搭配介詞。",
+    "explanation": "【句型】protection against 固定搭配「針對……的保護/防禦」；about／above／around 都不是 protection 常見的搭配介系詞。",
     "contextSpan": "句內"
   },
   {
@@ -1253,7 +1253,7 @@
       "D": "to encourage"
     },
     "answer": "C",
-    "explanation": "現在分詞片語 encouraging，補充說明前面主要子句的結果／伴隨動作，表示「（笑）促進白血球的產生」；句子已經有主要動詞 has，不需要再用限定動詞 encourages；encouraged（過去分詞，被動，語意方向相反，應該是笑「促進」而非笑「被促進」）、to encourage（不定式，不符合這個分詞構句結構）都不合。",
+    "explanation": "現在分詞片語 encouraging，補充說明前面主要子句的結果／伴隨動作，表示「（笑）促進白血球的產生」；句子已經有主要動詞 has，不需要再用限定動詞 encourages；encouraged（過去分詞，被動，語意方向相反，應該是笑「促進」而非笑「被促進」）、to encourage（不定詞，不符合這個分詞構句結構）都不合。",
     "contextSpan": "句內"
   },
   {
@@ -1495,7 +1495,7 @@
       "D": "in"
     },
     "answer": "B",
-    "explanation": "【句型】contribute to 固定搭配「對……有貢獻/促成」；on／for／in 都不是 contribute 常見的搭配介詞。",
+    "explanation": "【句型】contribute to 固定搭配「對……有貢獻/促成」；on／for／in 都不是 contribute 常見的搭配介系詞。",
     "contextSpan": "句內"
   },
   {
@@ -1743,7 +1743,7 @@
       "D": "Regarding"
     },
     "answer": "D",
-    "explanation": "Regarding 在這裡作句首介系詞（由分詞轉化而來的固定用法），表示「關於這個月你想要的額外零用錢」；Regarded（過去分詞，被動語意方向不合）、To regard（不定式，不合這個句首功能）、Being regarded（被動進行式，過於冗長且不合這個語境）都不如 Regarding 自然。",
+    "explanation": "Regarding 在這裡作句首介系詞（由分詞轉化而來的固定用法），表示「關於這個月你想要的額外零用錢」；Regarded（過去分詞，被動語意方向不合）、To regard（不定詞，不合這個句首功能）、Being regarded（被動進行式，過於冗長且不合這個語境）都不如 Regarding 自然。",
     "accuracyRate": 52,
     "discrimination": 40,
     "contextSpan": "句內"
@@ -2054,7 +2054,7 @@
       "D": "directed"
     },
     "answer": "A",
-    "explanation": "【句型】devoted to 固定搭配「致力於/奉獻給」；determined（下定決心的，通常接動詞不定式而非這種介系詞用法）、delighted（高興的）、directed（被指導的）都不合這個「致力於」的語境。",
+    "explanation": "【句型】devoted to 固定搭配「致力於/奉獻給」；determined（下定決心的，通常接動詞不定詞而非這種介系詞用法）、delighted（高興的）、directed（被指導的）都不合這個「致力於」的語境。",
     "accuracyRate": 43,
     "discrimination": 42,
     "contextSpan": "句內"
@@ -2327,7 +2327,7 @@
       "D": "to hope"
     },
     "answer": "B",
-    "explanation": "現在分詞片語 hoping，補充說明說話者的心理狀態/目的「希望你能給我更珍貴的東西」；hope（原形動詞，不能這樣單獨補充說明）、hoped（過去式）、to hope（不定式，不太符合這裡補充說明的伴隨動作語境）都不合。",
+    "explanation": "現在分詞片語 hoping，補充說明說話者的心理狀態/目的「希望你能給我更珍貴的東西」；hope（原形動詞，不能這樣單獨補充說明）、hoped（過去式）、to hope（不定詞，不太符合這裡補充說明的伴隨動作語境）都不合。",
     "accuracyRate": 76,
     "discrimination": 49,
     "contextSpan": "句內"
@@ -2583,7 +2583,7 @@
       "D": "where"
     },
     "answer": "D",
-    "explanation": "關係副詞 where 引導地方子句，「在……那裡哥倫布首次發現了它」；that／what／which 都不能這樣接完整句子作地方狀語。",
+    "explanation": "關係副詞 where 引導地方子句，「在……那裡哥倫布首次發現了它」；that／what／which 都不能這樣引導子句來表達「在某地」的地點語意。",
     "accuracyRate": 69,
     "discrimination": 60,
     "contextSpan": "句內"
@@ -2601,7 +2601,7 @@
       "D": "will spread"
     },
     "answer": "A",
-    "explanation": "過去式 spread（動詞原形跟過去式同形），配合整段過去式敘事，「這種美味的水果傳播到文明世界的其他地方」；to spread（不定式，句子需要限定動詞）、should spread（情態動詞，不需要建議語氣）、will spread（未來式，不合過去式敘事）都不合。",
+    "explanation": "過去式 spread（動詞原形跟過去式同形），配合整段過去式敘事，「這種美味的水果傳播到文明世界的其他地方」；to spread（不定詞，句子需要限定動詞）、should spread（情態動詞，不需要建議語氣）、will spread（未來式，不合過去式敘事）都不合。",
     "accuracyRate": 65,
     "discrimination": 60,
     "contextSpan": "句內"
@@ -2675,7 +2675,7 @@
       "D": "to participate"
     },
     "answer": "C",
-    "explanation": "現在分詞片語 participating in... 作後位修飾語，修飾前面的複數名詞 athletes，表示「參與帕運的運動員（人數）」；participate 是不及物動詞，運動員與「參與」這個動作是主動關係，所以用現在分詞修飾；to participate（不定式）帶有尚未發生、未來要去做的語感，不適合描述本句這種已經發生、記錄在歷史統計數據裡的「參賽運動員人數」；participate（原形動詞）、participated（過去分詞被動）都不合。",
+    "explanation": "現在分詞片語 participating in... 作後位修飾語，修飾前面的複數名詞 athletes，表示「參與帕運的運動員（人數）」；participate 是不及物動詞，運動員與「參與」這個動作是主動關係，所以用現在分詞修飾；to participate（不定詞）帶有尚未發生、未來要去做的語感，不適合描述本句這種已經發生、記錄在歷史統計數據裡的「參賽運動員人數」；participate（原形動詞）、participated（過去分詞被動）都不合。",
     "accuracyRate": 51,
     "discrimination": 43,
     "contextSpan": "句內"
@@ -2930,7 +2930,7 @@
       "D": "to cause"
     },
     "answer": "A",
-    "explanation": "並列動詞結構「can be absorbed...and cause」（可以被吸收並且導致身體不適），與前面can的並列結構保持一致用原形動詞cause；causing（現在分詞）、caused（過去式/分詞）、to cause（不定式）都不合這個並列動詞結構。",
+    "explanation": "並列動詞結構「can be absorbed...and cause」（可以被吸收並且導致身體不適），與前面can的並列結構保持一致用原形動詞cause；causing（現在分詞）、caused（過去式/分詞）、to cause（不定詞）都不合這個並列動詞結構。",
     "accuracyRate": 47,
     "discrimination": 59,
     "contextSpan": "句內"
@@ -3058,7 +3058,7 @@
       "D": "being wrapped"
     },
     "answer": "B",
-    "explanation": "並列現在分詞結構「drying...oiling and then wrapping」（乾燥、上油、然後用亞麻布包裹），跟前面 drying／oiling 並列一致；wrapped（過去分詞，不合並列一致性）、to wrap（不定式）、being wrapped（被動進行式，這裡是主動包裹的動作）都不合。",
+    "explanation": "並列現在分詞結構「drying...oiling and then wrapping」（乾燥、上油、然後用亞麻布包裹），跟前面 drying／oiling 並列一致；wrapped（過去分詞，不合並列一致性）、to wrap（不定詞）、being wrapped（被動進行式，這裡是主動包裹的動作）都不合。",
     "accuracyRate": 78,
     "discrimination": 38,
     "contextSpan": "句內"
@@ -3256,7 +3256,7 @@
       "D": "were"
     },
     "answer": "D",
-    "explanation": "第二型假設語氣（與現在事實相反），If子句用過去式 were（be動詞在假設語氣中不分人稱都用were），主要子句用wouldn't value；be（原形動詞，不合假設語氣時態）、being（現在分詞）、to be（不定式）都不合。",
+    "explanation": "第二型假設語氣（與現在事實相反），If子句用過去式 were（be動詞在假設語氣中不分人稱都用were），主要子句用wouldn't value；be（原形動詞，不合假設語氣時態）、being（現在分詞）、to be（不定詞）都不合。",
     "readMore": {
       "hint": "重點：假設語氣中，be動詞不論主詞是誰都要用were，不能用was（例如 If I were you... 不是 If I was you...）",
       "label": "延伸閱讀：假設語氣中 be動詞一律用 were（If I were...）",
@@ -3353,7 +3353,7 @@
       "D": "to make"
     },
     "answer": "B",
-    "explanation": "現在分詞片語 making，補充說明前面整句話帶來的結果「使它成為世界上最高的木造建築之一」；make（原形動詞，不能這樣單獨補充說明）、made（過去分詞，被動語意方向不合，應該是主動「使成為」）、to make（不定式，不太符合這種補充結果的分詞構句）都不合。",
+    "explanation": "現在分詞片語 making，補充說明前面整句話帶來的結果「使它成為世界上最高的木造建築之一」；make（原形動詞，不能這樣單獨補充說明）、made（過去分詞，被動語意方向不合，應該是主動「使成為」）、to make（不定詞，不太符合這種補充結果的分詞構句）都不合。",
     "accuracyRate": 66,
     "discrimination": 48,
     "contextSpan": "句內"
@@ -4488,7 +4488,7 @@
       "D": "to weave"
     },
     "answer": "C",
-    "explanation": "過去分詞 woven 作補語，被動語意「被編織在一起」（襯衫是用鳳梨葉纖維編織而成的）；wove（過去式，這裡需要分詞不是限定動詞）、weaving（現在分詞，主動語意方向不合）、to weave（不定式）都不合。",
+    "explanation": "過去分詞 woven 作補語，被動語意「被編織在一起」（襯衫是用鳳梨葉纖維編織而成的）；wove（過去式，這裡需要分詞不是限定動詞）、weaving（現在分詞，主動語意方向不合）、to weave（不定詞）都不合。",
     "accuracyRate": 43,
     "discrimination": 50,
     "contextSpan": "句內"
@@ -4799,7 +4799,7 @@
       "D": "jumped"
     },
     "answer": "B",
-    "explanation": "【句型】allow + O + to V 固定句型「允許/使某物做某事」；jump（原形動詞，allow的補語結構需要不定式）、jumping（現在分詞）、jumped（過去式）都不合。",
+    "explanation": "【句型】allow + O + to V 固定句型「允許/使某物做某事」；jump（原形動詞，allow的補語結構需要不定詞）、jumping（現在分詞）、jumped（過去式）都不合。",
     "accuracyRate": 55,
     "discrimination": 50,
     "contextSpan": "句內"
@@ -5001,7 +5001,7 @@
       "D": "having installed"
     },
     "answer": "B",
-    "explanation": "過去分詞 installed 作後位形容詞修飾 feeders，表示「安裝在城市各處的鳥類餵食器」；installing（現在分詞，主動語意方向不合，應該是餵食器「被安裝」）、to install（不定式）、having installed（完成分詞，不合這個被動語境）都不合。",
+    "explanation": "過去分詞 installed 作後位形容詞修飾 feeders，表示「安裝在城市各處的鳥類餵食器」；installing（現在分詞，主動語意方向不合，應該是餵食器「被安裝」）、to install（不定詞）、having installed（完成分詞，不合這個被動語境）都不合。",
     "accuracyRate": 50,
     "discrimination": 39,
     "contextSpan": "句內"
@@ -5337,7 +5337,7 @@
       "D": "to threaten"
     },
     "answer": "C",
-    "explanation": "過去分詞 threatened，省略主詞的分詞構句（when [they are] threatened），被動語意「當牠們受到威脅時」；threaten（原形動詞，不合這個省略結構）、threatening（現在分詞，主動語意方向不合，應該是動物「被威脅」）、to threaten（不定式）都不合。",
+    "explanation": "過去分詞 threatened，省略主詞的分詞構句（when [they are] threatened），被動語意「當牠們受到威脅時」；threaten（原形動詞，不合這個省略結構）、threatening（現在分詞，主動語意方向不合，應該是動物「被威脅」）、to threaten（不定詞）都不合。",
     "contextSpan": "句內"
   },
   {
@@ -5818,7 +5818,7 @@
       "D": "from"
     },
     "answer": "B",
-    "explanation": "【句型】tips on 固定搭配「關於……的建議」；of／to／from 都不是 tips 常見的搭配介詞。",
+    "explanation": "【句型】tips on 固定搭配「關於……的建議」；of／to／from 都不是 tips 常見的搭配介系詞。",
     "contextSpan": "句內"
   },
   {
@@ -5973,7 +5973,7 @@
       "D": "whether"
     },
     "answer": "A",
-    "explanation": "關係副詞 where 引導地方子句，表示「（帶回地球）在那裡被處理掉」；what（不能這樣接完整子句作地方狀語）、which（關係代名詞，不修飾地方狀語）、whether（是否）都不合。",
+    "explanation": "關係副詞 where 引導地方子句，表示「（帶回地球）在那裡被處理掉」；what（不能這樣引導子句表達地點）、which（關係代名詞，不能用來表達「在那裡」的地點語意）、whether（是否）都不合。",
     "accuracyRate": 44,
     "discrimination": 42,
     "contextSpan": "句內"
@@ -6181,7 +6181,7 @@
       "D": "to be raiding"
     },
     "answer": "C",
-    "explanation": "不定式表目的（被動形式 to be raided），「朝著即將被襲擊的聚落前進」，表示行軍的目的是去襲擊該聚落；raided（過去式/過去分詞，不能這樣單獨接在colony後面表目的）、raiding（現在分詞，主動語意方向不合，應該是聚落「被」襲擊）、to be raiding（不是標準用法）都不合。",
+    "explanation": "不定詞表目的（被動形式 to be raided），「朝著即將被襲擊的聚落前進」，表示行軍的目的是去襲擊該聚落；raided（過去式/過去分詞，不能這樣單獨接在colony後面表目的）、raiding（現在分詞，主動語意方向不合，應該是聚落「被」襲擊）、to be raiding（不是標準用法）都不合。",
     "contextSpan": "句內"
   },
   {
@@ -6303,7 +6303,7 @@
       "D": "aged"
     },
     "answer": "D",
-    "explanation": "【句型】aged + 數字 是固定的後位形容詞片語「……歲的」（aged two or three＝兩三歲大的）；having aged（不是這個固定表達年齡的用法）、aging（語意方向不合，不是「正在老化」而是「……歲」）、to age（不定式）都不合。",
+    "explanation": "【句型】aged + 數字 是固定的後位形容詞片語「……歲的」（aged two or three＝兩三歲大的）；having aged（不是這個固定表達年齡的用法）、aging（語意方向不合，不是「正在老化」而是「……歲」）、to age（不定詞）都不合。",
     "accuracyRate": 40,
     "discrimination": 28,
     "contextSpan": "句內"
@@ -6451,7 +6451,7 @@
       "D": "into"
     },
     "answer": "C",
-    "explanation": "【句型】differences between 固定搭配「……之間的差異」；for／within／into 都不是 differences 常見的搭配介詞。",
+    "explanation": "【句型】differences between 固定搭配「……之間的差異」；for／within／into 都不是 differences 常見的搭配介系詞。",
     "accuracyRate": 82,
     "discrimination": 37,
     "contextSpan": "句內"
@@ -6524,7 +6524,7 @@
       "D": "be rebelled"
     },
     "answer": "A",
-    "explanation": "dare 可以接原形動詞（半助動詞用法），這裡跟後面並列的 courageously express 動詞形式保持一致，都用原形；to rebel（不定式，雖然也可以，但跟後面並列的動詞形式不一致）、rebelling（動名詞，不合dare的常見用法）、be rebelled（被動，rebel通常不用被動語態表達「反抗」這個主動行為）都不如原形rebel自然。",
+    "explanation": "dare 可以接原形動詞（半助動詞用法），這裡跟後面並列的 courageously express 動詞形式保持一致，都用原形；to rebel（不定詞，雖然也可以，但跟後面並列的動詞形式不一致）、rebelling（動名詞，不合dare的常見用法）、be rebelled（被動，rebel通常不用被動語態表達「反抗」這個主動行為）都不如原形rebel自然。",
     "accuracyRate": 55,
     "discrimination": 23,
     "contextSpan": "句內"
@@ -6975,7 +6975,7 @@
       "D": "in"
     },
     "answer": "C",
-    "explanation": "【句型】solution to a problem 固定搭配「問題的解決方案」；of／at／in 都不是 solution 常見的搭配介詞。",
+    "explanation": "【句型】solution to a problem 固定搭配「問題的解決方案」；of／at／in 都不是 solution 常見的搭配介系詞。",
     "contextSpan": "句內"
   },
   {
@@ -7151,7 +7151,7 @@
       "D": "along"
     },
     "answer": "C",
-    "explanation": "【句型】work on 固定片語「致力於/在做……」；by／in／along 都不是 work 常見的搭配介詞。",
+    "explanation": "【句型】work on 固定片語「致力於/在做……」；by／in／along 都不是 work 常見的搭配介系詞。",
     "contextSpan": "句內"
   },
   {
@@ -7265,7 +7265,7 @@
       "D": "who"
     },
     "answer": "B",
-    "explanation": "where 引導地方關係子句，修飾先行詞 a laboratory（在……的實驗室裡）；that／which 通常不這樣接完整句子作地方狀語，who 指人不合先行詞laboratory，只有關係副詞 where 正確。",
+    "explanation": "where 引導地方關係子句，修飾先行詞 a laboratory（在……的實驗室裡）；that／which 通常不這樣引導子句來表達「在……裡」的地點語意，who 指人，不合先行詞 laboratory，只有關係副詞 where 正確。",
     "contextSpan": "句內"
   },
   {
@@ -7314,7 +7314,7 @@
       "D": "to face"
     },
     "answer": "C",
-    "explanation": "現在分詞片語 facing，補充說明夢境畫面「面對一隻獅子」，修飾主詞 he（做夢的男孩主動面對著獅子）；face（原形動詞，不能這樣作分詞構句）、faced（過去分詞，被動語意「被面對」方向不合）、to face（不定式，不符合這個分詞構句結構）都不合。",
+    "explanation": "現在分詞片語 facing，補充說明夢境畫面「面對一隻獅子」，修飾主詞 he（做夢的男孩主動面對著獅子）；face（原形動詞，不能這樣作分詞構句）、faced（過去分詞，被動語意「被面對」方向不合）、to face（不定詞，不符合這個分詞構句結構）都不合。",
     "contextSpan": "句內"
   },
   {
@@ -7413,7 +7413,7 @@
       "D": "What did you do to her?"
     },
     "answer": "B",
-    "explanation": "Mary 說她對說謊感到愧疚，這句是 Mary 反問 Jane「換作是你會怎麼做？」（虛擬語氣），呼應 Jane 接下來同樣虛擬語氣的回答「我早就叫她一週後走了」（I'd have told her）；其他選項時態或語氣都不呼應 Jane 用虛擬語氣的回答。",
+    "explanation": "Mary 說她對說謊感到愧疚，這句是 Mary 反問 Jane「換作是你會怎麼做？」（假設語氣），呼應 Jane 接下來同樣假設語氣的回答「我早就叫她一週後走了」（I'd have told her）；其他選項時態或語氣都不呼應 Jane 用假設語氣的回答。",
     "contextSpan": "篇章",
     "contextNote": "選項是完整句子，必須讀懂整段的對話走向或事件順序才選得出來"
   },
@@ -7531,7 +7531,7 @@
       "D": "to give"
     },
     "answer": "A",
-    "explanation": "【句型】Given that... 是固定的分詞構句用法，表示「鑑於/既然」（等同於considering that）；give（原形動詞）、giving（現在分詞，這個固定用語習慣用given不用giving）、to give（不定式）都不合這個固定用法。",
+    "explanation": "【句型】Given that... 是固定的分詞構句用法，表示「鑑於/既然」（等同於considering that）；give（原形動詞）、giving（現在分詞，這個固定用語習慣用given不用giving）、to give（不定詞）都不合這個固定用法。",
     "contextSpan": "句內"
   },
   {
@@ -7563,7 +7563,7 @@
       "D": "to have pleased"
     },
     "answer": "B",
-    "explanation": "【句型】hard to please 固定搭配「難以取悅」，主動形式的不定式表達被動意味（類似 easy to please）；to be pleased（被動不定式，這種結構習慣用主動形式表達）、to be pleasing、to have pleased（完成式不定式）都不合。",
+    "explanation": "【句型】hard to please 固定搭配「難以取悅」，主動形式的不定詞表達被動意味（類似 easy to please）；to be pleased（被動不定詞，這種結構習慣用主動形式表達）、to be pleasing、to have pleased（完成式不定詞）都不合。",
     "contextSpan": "句內"
   },
   {
@@ -7675,7 +7675,7 @@
       "D": "waking up"
     },
     "answer": "D",
-    "explanation": "動名詞 waking up 作 make 的受詞（make + O + easier句型），指「起床這件事」被形容詞 easier 修飾；to wake up（不定式，不能這樣直接作受詞）、wake up（原形動詞，不能單獨作名詞性受詞）、woke up（過去式，不能作受詞）都不合。",
+    "explanation": "動名詞 waking up 作 make 的受詞（make + O + easier句型），指「起床這件事」被形容詞 easier 修飾；to wake up（不定詞，不能這樣直接作受詞）、wake up（原形動詞，不能單獨作名詞性受詞）、woke up（過去式，不能作受詞）都不合。",
     "contextSpan": "句內"
   },
   {
@@ -9257,7 +9257,7 @@
       "D": "haven’t"
     },
     "answer": "C",
-    "explanation": "don't 代替 don't detect that your body is moving（省略重複部分），表示「平衡感應系統的一部分偵測到身體在動，但其他部分『沒有』」；aren't（be動詞否定，前面用的是實義動詞detect不是be動詞）、won't（未來式否定）、haven't（現在完成式否定，前面是現在簡單式detects）都不合。",
+    "explanation": "don't 代替 don't detect that your body is moving（省略重複部分），表示「平衡感應系統的一部分偵測到身體在動，但其他部分『沒有』」；aren't（be動詞否定，前面用的是一般動詞 detect不是be動詞）、won't（未來式否定）、haven't（現在完成式否定，前面是現在簡單式detects）都不合。",
     "accuracyRate": 40,
     "discrimination": 41,
     "contextSpan": "句內"
@@ -9769,7 +9769,7 @@
       "D": "on"
     },
     "answer": "C",
-    "explanation": "【句型】result in 固定搭配「導致」，表示「造成了離島的多元特色」；at、from、on都不是result常見的搭配介詞。",
+    "explanation": "【句型】result in 固定搭配「導致」，表示「造成了離島的多元特色」；at、from、on都不是result常見的搭配介系詞。",
     "contextSpan": "句內"
   },
   {
@@ -9849,7 +9849,7 @@
       "D": "having caused"
     },
     "answer": "B",
-    "explanation": "現在分詞causing補充說明結果，「促進新陳代謝，進而使身體燃燒更多卡路里」，分詞構句表示伴隨的結果；cause（原形動詞，不能這樣單獨補充說明）、to cause（不定式，不太符合這種伴隨結果的分詞構句）、having caused（完成式分詞，時態不合，這裡是同時發生的結果不是先前已完成的動作）都不合。",
+    "explanation": "現在分詞causing補充說明結果，「促進新陳代謝，進而使身體燃燒更多卡路里」，分詞構句表示伴隨的結果；cause（原形動詞，不能這樣單獨補充說明）、to cause（不定詞，不太符合這種伴隨結果的分詞構句）、having caused（完成式分詞，時態不合，這裡是同時發生的結果不是先前已完成的動作）都不合。",
     "contextSpan": "句內"
   },
   {
