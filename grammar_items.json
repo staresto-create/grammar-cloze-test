@@ -5738,7 +5738,8 @@
     "explanation": "語意「當他們醒來時，所有育齡婦女都懷孕了」，When（當……時）符合這個時間關係；Then（然後，不能這樣作句首連接詞引導子句）、Since（自從/因為）、And（而且）都不合。",
     "accuracyRate": 64,
     "discrimination": 22,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】Then 與 When 長得像，中文又都帶著「然後、當……時」的味道，最容易在這兩個之間猶豫。分開它們不必靠語感，靠的是「空格後面接的是子句還是句子」。【怎麼判斷】四個選項裡有連接詞也有副詞，可見這一格考的是句首這個位置能放什麼。先看結構：空格後面是 they awake（一個完整的子句），逗號之後又是一個完整的主要子句 all of the women of child-bearing age have become pregnant。一句話裡出現兩個完整子句，中間必須有東西把它們接起來，而且這個字要站在從屬子句的最前面，這就是從屬連接詞的工作（劍橋 English Grammar Today 的 Conjunctions 條目把 when、if、as、since、while 等列為從屬連接詞，並指出從屬連接詞必須放在該子句的開頭）。Then 是副詞，沒有把兩個子句接起來的能力；And 是對等連接詞，它連接的是地位相同的兩個部分，不會造出「從屬子句加主要子句」這種結構。剩下 When 與 Since，這時才用語意分：醒來與懷孕之間是時間的先後，When（當……時）成立。這一題的鑑別度只有 22，是本批最低的，但原因與難題正好相反：它本身不難，When 引導時間子句是國中就學過的東西，各種程度的人都答得出來，題目自然分不出高低（同型的易題低鑑別度見 94 年第 27 題）。【干擾選項】Then（然後）：副詞，只能在句子裡當時間的標記（They awake. Then all of the women... 他們醒來。然後所有的女人……），不能拿來把兩個子句黏成一句。Since：當「自從」時，主要子句通常要配一條從過去延伸到現在的時間線用完成式，而本句主要子句講的是醒來當下的發現；當「因為」時，醒來也不是懷孕的原因，兩個義都不通。And（而且）：對等連接詞，放在句首帶出一個完整子句、再接逗號與另一個完整子句，會變成兩個主要子句黏在一起。【常考字詞搭配】when it comes to（說到……）、as soon as（一……就……）、by the time（到……的時候）、lose consciousness（失去意識）、child-bearing age（生育年齡）、become pregnant（懷孕）。"
   },
   {
     "id": "G91_23_1",
@@ -5756,7 +5757,8 @@
     "explanation": "【句型】give birth to 固定片語「生下」；send／make／take birth 都不是這個固定搭配的正確動詞。",
     "accuracyRate": 46,
     "discrimination": 59,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】birth 你認得是「出生」，四個動詞你也都認得，但如果沒把 give birth to 當成一整組記起來，就會變成四個中文都說得通的組合互相打架——「帶來出生」、「製造出生」聽起來好像都行。答對率四成六，卡的就是這裡：不是不懂字，是沒把這一組黏在一起。【怎麼判斷】四個選項都是高頻動詞，可見這一格考的是哪一個能跟 birth 黏成一組。先把句中那個 to 用掉，但要用得準：give、send、take 三個都能走「動詞加受詞加 to 加人」這個骨架（Give the book to your brother. 把書拿給你弟弟。／send a letter to a friend 寄信給朋友／take a cup of tea to him 端杯茶給他），make 配的則是 for（make a cake for me 做個蛋糕給我）。所以 birth 後面那個 to 只刷得掉 make，另外兩個刷不掉——這一步要看清楚，別以為看到 to 就等於答案是 give。真正定案的是字詞搭配：四個動詞裡只有 give 與 birth 黏成一組，give birth to 字面是把生命給出去，實際意思是「生下」。這一題的鑑別度 59，分開的就是認不認得這一組；文法上四個刷不乾淨，只能靠平常有沒有把整組記起來。順便把同骨架的兄弟一起收進來：give rise to（引起、造成）、give way to（讓位給、被……取代）。give birth to 本身也有引申義，可以用在抽象的事物上（The movement gave birth to a new political party. 這場運動催生了一個新政黨。）。【干擾選項】make（製造）：它接受詞之後配的是 for 不是 to（make a cake for me），句中那個 to 就把它擋在門外，這是四個選項裡唯一能用文法刷掉的。send（送出）、take（拿走）：骨架上都接得起 to，文法這一關過得了，但英文裡沒有 send birth、take birth 這樣的說法。碰到這一型只能靠搭配認人，所以背片語時要連介系詞一起背，不要只背動詞。【常考字詞搭配】give birth to（生下、催生出）、give rise to（引起、造成）、give way to（讓位給、被……取代）、at birth（出生時）、birth rate（出生率）、the same appearance（相同的外貌）。"
   },
   {
     "id": "G91_24_1",
@@ -5774,7 +5776,8 @@
     "explanation": "As 在這裡表示「隨著……」（伴隨關係，隨著孩子們長大），表達漸進過程；If（如果）、For（因為）、So（所以）都不合這裡的伴隨語意。",
     "accuracyRate": 79,
     "discrimination": 45,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】as 在你腦中大概綁著「因為」與「當……時」兩個意思，很少想到它還能表示「隨著」。而 If 帶著「如果」的味道，讀起來又好像講得通，於是就在這兩個之間猶豫。這一格有一招可以先砍掉一半的選項，不必先想語意。【怎麼判斷】四個選項都能擺在句首，但 For 與 So 有一個共同的性質可以一次刷掉兩個：這兩個字帶出來的內容都要靠前面那句話撐著——For（因為）引出的是前面那句話的理由，So（所以）引出的是前面那句話的結果，兩者都預設「前面已經有一句話了」。而本句的空格就在整句的最前面，前面根本沒有東西可以讓它們接續。剩下 If 與 As，這時才輪到語意：孩子會長大不是一個假設，是一定會發生的事，所以不是 If（如果）；空格後面的 the children grow（孩子們漸漸長大）與主要子句 they run around the village in a pack（他們成群在村子裡跑）是兩件同步展開、隨著時間一起推進的事，這正是 As 的「隨著」用法，骨架就是「隨著孩子們長大，他們……」。順便把 as 的兩種身分整理清楚：這裡的 as 是連接詞，後面接完整子句；94 年第 18 題的 as 是介系詞，後面接名詞（as a small child 在他還小的時候）。同一個字，看後面接什麼就知道它是哪一種。【干擾選項】If（如果）：帶出的是還沒發生、也不一定會發生的情況，與「孩子必然會長大」衝突。For（因為）：見上，它引出的是前一句的理由，位置只能在後面。So（所以）：同樣要求前面先有原因。【常考字詞搭配】as time goes by（隨著時間過去）、as the years pass（隨著歲月流逝）、in a pack（成群結隊）、run around（四處亂跑）、identical twins（同卵雙胞胎）、stare at sb（盯著某人看）。"
   },
   {
     "id": "G91_25_1",
@@ -5792,7 +5795,8 @@
     "explanation": "What 引導名詞子句作句子主詞，「一個孩子學到的東西」；Which（哪一個）、While（當……同時）、Where（哪裡）都不能這樣構成名詞子句主詞。",
     "accuracyRate": 44,
     "discrimination": 62,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格在整句的最前面，你會直覺把它當成疑問詞在問問題，於是 Which（哪一個）與 What（什麼）看起來都可以。但這一句不是問句，它是一個直述句，空格帶出來的整串是這個句子的主詞。答對率四成四，卡在沒有先把整句的骨架看清楚。【怎麼判斷】四個選項都是 wh- 詞，先數成分。空格後面是 one child learns，主詞是 one child、動詞是 learns，而 learn 是及物動詞，這裡卻看不到受詞——這個洞就是關鍵。再往後看，is also known by the others instantly 才是整句的主要動詞部分，所以空格帶出來的那一整串要當這個句子的主詞。需要一個字同時做兩件事：自己就是一個名詞（整串才能當主詞用），又要能填進 learns 後面那個受詞的洞。這正是複合關係代名詞 what，意思等於 the thing(s) that（劍橋 English Grammar Today 的 what 條目）。還原一次就通了：The thing that one child learns is also known by the others instantly.（一個孩子學到的東西，其他孩子立刻也都知道。）。這一題的鑑別度 62，分開的就是有沒有發現 learns 後面缺了受詞。這一格與 93 年第 18 題正好是一體兩面：那一題的子句成分已經滿了，what 沒有位置可站，所以填 that；本題的子句缺了受詞，非 what 不可。全庫同判準的還有 92 年第 27 題、95 年第 24 題、100 年第 29 題、107 年第 26 題，都是「子句缺一個成分，由 what 自己去補」。【干擾選項】Which（哪一個）：當疑問詞時要有一組已知的選項讓人挑，本句沒有；當關係代名詞時前面要有先行詞，而空格前面什麼都沒有。Where（哪裡）：副詞性的字，填不進 learns 後面那個受詞的洞，整句也與地點無關。While（當……同時）：從屬連接詞，帶出的是副詞子句，副詞子句不能拿來當句子的主詞。【常考字詞搭配】be known to sb（為某人所知）、be known as（以……的身分為人所知）、be known for（以……著稱）、learn sth from sb（向某人學到某事）、at once（立刻）、one mind（想法一致、同一個心思）。"
   },
   {
     "id": "G91_26_1",
@@ -5829,7 +5833,8 @@
     "explanation": "語意「這個40年前寫的故事不知怎麼地預測了……」，somehow（不知怎麼地）符合這種意外巧合的語氣；sometimes（有時候，這裡不是頻率）、anyway（無論如何）、anyhow（不管怎樣）都不合。",
     "accuracyRate": 56,
     "discrimination": 49,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項兩兩形似，some- 對 any-、-times 對 -how 與 -way，眼睛掃過去很容易混。更常見的是另一種混淆：把 somehow 讀成「有點、略微」——那是 somewhat，兩個字只差幾個字母，意思完全不同。somehow 是「不知怎麼地」，somewhat 才是「略微」。【怎麼判斷】四個選項都是副詞，可見這一格考的是語氣。先把句意抓出來：But this story written 40 years ago ___ predicted the arrival of a recent method of genetic engineering—cloning（但這個四十年前寫成的故事，竟然預言了複製這項晚近的基因工程技術）。句首的 But 已經定調——前面講的是科幻小說裡的外星力量，這裡話鋒一轉講到真實世界的技術，語氣裡帶著「說不上是為什麼，但它就是說中了」的意外感。somehow 正是這個意思：以某種說不清楚的方式、不知怎麼地。這一題的鑑別度 49，分開的是有沒有讀出這個意外的語氣。【干擾選項】sometimes（有時候）：頻率副詞，表示一件事有時發生、有時不發生；而「預言了複製技術」是一次性的事實，不可能有時預言有時不預言。anyway、anyhow（無論如何、反正）：這兩個意思幾乎相同，依「兩個同義選項必定同時錯」這一招，四選一只能有一個答案，還沒細想就可以把它們一起砍掉（同一招見 95 年第 29 題的 hardly 與 rarely）。真要說它們錯在哪：這兩個字用來把前面提過的顧慮擱到一邊（It might rain, but we are going anyway. 可能會下雨，但我們還是要去。），而本句前面沒有需要被擱置的顧慮。【常考字詞搭配】somehow or other（不知怎麼地）、somewhat（略微、有點，注意與 somehow 不同）、in some way（以某種方式）、predict the arrival of（預言……的到來）、genetic engineering（基因工程）、a method of（……的方法）。"
   },
   {
     "id": "G91_28_1",
@@ -5847,7 +5852,8 @@
     "explanation": "過去分詞 described，被動語意「如故事中所描述的那樣」（as described in this story，省略主詞的分詞構句，等同 as it is described）；describes／describe（限定動詞，不合這個省略結構）、describing（現在分詞，語意方向錯誤，應該是「被描述」不是「正在描述」）都不合。",
     "accuracyRate": 48,
     "discrimination": 35,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】as 後面只跟著一個字，你會覺得「少了東西」——連接詞後面不是應該接一個完整的子句嗎？於是很想補一個看起來完整的 describes 進去。答對率四成八、鑑別度只有 35，連高分群考生也大量失手，原因就在這裡：對「連接詞後面要接子句」這條規則越堅持的人，越容易把正確答案排掉。這一格考的正好是那條規則的例外——省略。【怎麼判斷】四個選項都是 describe 的不同形態，可見這一格考的是形態。先看空格前後：as ___ in this story，前面是 as，後面是介系詞片語，中間沒有主詞。沒有主詞就不可能填限定動詞，所以 describes 與 describe 先出局，它們都需要一個主詞來搭配。剩下 described 與 describing，靠方向來分：被描述的是「複製體擁有同一個心思」這個情況，它是被寫進故事裡的，不是它在描述別人，所以要用表被動的過去分詞 described。真正的骨架是 as it is described in this story，as 後面把主詞 it 與 be 動詞 is 一起省掉了，只留下過去分詞。這種省略你其實見過，掛鉤是 While (he was) walking home（他走路回家的時候），連接詞後面的主詞與 be 動詞一起省略。把它還原出來讀一次就能自己驗算：Will the genetic copies of a human really have “one mind” as it is described in this story?（人類的基因複製體真的會像這個故事裡所描述的那樣，擁有「同一個心思」嗎？）。【干擾選項】describes、describe：限定動詞，需要主詞，而 as 後面沒有主詞可用。describing：現在分詞表主動，方向錯了——故事裡被描述的對象是這個情況，不是這個情況在描述什麼。【常考字詞搭配】as described（如所描述）、as mentioned above（如前所述）、as shown in（如……所示）、as expected（不出所料）、as required（依規定）、as follows（如下）。"
   },
   {
     "id": "G91_29_1",
@@ -6064,7 +6070,8 @@
     "accuracyRate": 50,
     "discrimination": 33,
     "contextSpan": "跨句",
-    "contextNote": "however 與前一句「原訂只飛十五分鐘」對比"
+    "contextNote": "however 與前一句「原訂只飛十五分鐘」對比",
+    "note": "【你可能會這樣想】however 你多半只在句首用過——However, he was late.——所以看到空格夾在 His flight 與 was 之間、兩邊各一個逗號，第一個念頭是「這個位置放不了 however」。再加上前一句結尾那個 so 讓因果的慣性還沒斷，手就滑向 therefore。答對率只有五成、鑑別度也只有 33，連高分群考生也大量失手，卡的就是這兩點：位置上的成見，加上被前一句的 so 帶著走。【怎麼判斷】四個選項都是轉承語，可見這一格考的是前後兩句之間的邏輯關係，那就把兩句擺在一起看。前一句是 His flight was supposed to last only 15 minutes, so there was no provision made for him to relieve himself in the capsule（他的飛行原訂只有十五分鐘，所以艙內沒有為他準備如廁的設施）；這一句是 His flight ___ was delayed for hours（他的飛行卻延誤了好幾個小時）。原本的預期與實際發生的事相反，這是轉折，however 正是做這件事的。位置本身其實是線索而不是障礙：therefore、however 這一類詞歸在「連接副詞」（linking adjunct）底下，可以出現在副詞能出現的任何位置（劍橋 English Grammar Today），夾在主詞與動詞之間、兩邊各加一個逗號，是它非常常見的擺法（同型：93 年第 29 題、101 年第 18 題、102 年第 17 題、97 年第 30 題、105 年第 16 題）。【干擾選項】therefore（因此）：同向的因果推論。前一句的 so 已經把因果講完了（原訂只飛十五分鐘，所以沒準備如廁設施），這一句要說的是計畫被打亂，方向相反。similarly（同樣地）：要求前後兩句是同一個方向的事，這裡不是。otherwise（否則）：需要前面先有一個「如果不那樣做」的前提，本句沒有。【常考字詞搭配】be supposed to V（原本應該……）、be delayed for hours（延誤好幾個小時）、on the other hand（另一方面）、and yet（然而）、nevertheless（儘管如此）、otherwise（否則）。"
   },
   {
     "id": "G92_22_1",
@@ -6082,7 +6089,8 @@
     "explanation": "This 指代前文提到的問題（雪帕德必須在太空衣裡如廁），This problem 承接上文；Each（每個，不指代特定問題）、Their（他們的）、Another（另一個，語意不合，這裡指的正是前面提到的同一個問題）都不合。",
     "accuracyRate": 53,
     "discrimination": 46,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項擺進去都成句：Each problem、This problem、Their problem、Another problem，沒有一個違反文法。這種時候很容易憑語感挑一個，而 Another problem（另一個問題）讀起來特別順，因為前面確實出了狀況，感覺「又來一個」。但這一格不是要你再開一個新問題，是要你把剛剛那個問題收攏起來再指一次。【怎麼判斷】四個選項都是擺在名詞 problem 前面的限定詞，可見這一格考的不是文法而是「這個 problem 到底指什麼」，那就得回頭讀前一句。前一句是 It was then decided that Alan Shepard should relieve himself in his space suit（於是決定讓雪帕德在太空衣裡解決），這件事本身就是一個問題。用一個比較概括的名詞（problem）把前面剛講過的內容收攏起來再指一次，前面就要加 this，這叫回指（Halliday 與 Hasan「Cohesion in English」的指稱銜接）。判斷的順序是先問「this 指的是前面哪一段」，再看四個選項哪一個接得住（同型：94 年第 28 題的 this discomfort 回指前文的 feel pain）。這一題的鑑別度 46，分開的就是有沒有動手把 this 的所指釘回前一句。【干擾選項】Another（另一個）：它預設前面已經出現過同類的問題，而這是別的一個；但本句指的正是剛剛那一個，方向相反。Each（每一個）：要有一組複數的問題可以一個一個分配，前文只講了一件事。Their（他們的）：前文沒有出現一群人來當這個 their 的所指，被決定的是任務怎麼進行，不是誰的問題。【常考字詞搭配】solve a problem（解決問題）、pose a problem（造成問題）、run into a problem（碰上問題）、urge sb to V（力促某人做……）、a modified version（改良過的版本）、cause trouble（惹麻煩）。"
   },
   {
     "id": "G92_23_1",
@@ -6120,7 +6128,8 @@
     "explanation": "【句型】one...the other... 固定句型，表示「兩者中的一個……另一個……」（one for liquid, the other for solid）；the one（通常用於特指情況）、someone、no one 都不合這個「一個…另一個…」的對應句型。",
     "accuracyRate": 49,
     "discrimination": 68,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項長得很像，都繞著 one 打轉，最容易憑感覺挑 the one，覺得「特指那一個」比較精確。答對率不到五成。但這一格根本不必憑感覺，答案就寫在空格後面那半句裡。【怎麼判斷】四個選項都是代名詞，可見這一格考的是「兩者中的一個」該怎麼說，那就往後看。空格後面是 for liquid wastes and the other for solid wastes——the other 已經出現了。one... the other... 是兩者對應的組合：前面點名一個，後面用 the other 指剩下的那一個，掛鉤是國中就背過的 I have two pens. One is red; the other is blue.（我有兩枝筆，一枝是紅的，另一枝是藍的。）。句子前半的 a new set of two collection bags 也明說了是兩個，兩邊互相印證。這一題的鑑別度高達 68，是本批最高，分開的就是有沒有讀完後半句再回頭填。順便把整組分清楚：兩者用 one... the other...；三者以上任取一個用 one... another...；剩下的全部用 the others。【干擾選項】someone（某人）、no one（沒有人）：這兩個都只指人，而這裡講的是收集袋——先看指人還是指物，一次就刷掉兩個。the one（那一個）：the 表示已經在講定的某一個，需要前文先鎖定它；而這裡是第一次把兩個袋子分開來講，還沒有哪一個被指定過。【常考字詞搭配】one... the other...（兩者中的一個……另一個……）、one... another...（三者以上的一個……另一個……）、the others（其餘的全部）、a set of（一組……）、be devised（被設計出來）、liquid／solid waste（液態／固態廢棄物）。"
   },
   {
     "id": "G92_25_1",
@@ -6138,7 +6147,8 @@
     "explanation": "關係副詞 where 引導地方子句，表示「（帶回地球）在那裡被處理掉」；what（不能這樣引導子句表達地點）、which（關係代名詞，不能用來表達「在那裡」的地點語意）、whether（是否）都不合。",
     "accuracyRate": 44,
     "discrimination": 42,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】空格前面是逗號、後面接一串看起來完整的話，你大概會在 which 與 where 之間猶豫，而 which 是你最熟的關係代名詞，手很容易先落在那裡。再加上句尾的 disposed of 讓 of 後面看起來「少了東西」，更會覺得需要一個受詞去補，which 就更誘人。答對率四成四，多半掉在這個錯覺上。【怎麼判斷】四個選項都是 wh- 詞，先用分流判準看空格前面接的是名詞還是動詞：前面是 the earth（名詞），所以這是回頭補充說明那個名詞的關係子句，不是間接問句。接著數子句成分：they are disposed of——主詞是 they，動詞是被動的 are disposed of。這裡是最關鍵的一步：disposed of 是被動語態，of 的受詞已經被提到主詞的位置變成 they 了，所以 of 後面本來就不該再有東西，它並沒有缺。成分不缺，which 與 what 這種一定要在子句裡佔一個位置的字就都進不來。剩下的 where 是關係副詞，本身不佔句子成分，只代替一個表地方的介系詞片語。還原一次就清楚了：the flight back to the earth, and they are disposed of on the earth（帶回地球，然後在地球上被處理掉），把 on the earth 換成 where 就是本句（同判準：98 年第 23 題）。【干擾選項】which：關係代名詞，進到子句裡一定要當主詞或受詞，本句兩個位置都滿了。what：除了同樣要佔位置之外，它還有一條更快的死路——what 不能當一般的關係代名詞，前面已經有名詞先行詞 the earth 時要用 which 或 that（劍橋 English Grammar Today），所以看到先行詞就能先刷掉它（同判準：93 年第 18 題、91 年第 25 題）。whether（是否）：帶出的是兩種可能性的選擇，這裡沒有任何不確定。【常考字詞搭配】dispose of（處理掉、丟棄）、be disposed of（被處理掉）、get rid of（擺脫、丟掉）、seal a bag（把袋子封起來）、store sth for（把某物存放起來以備……）、once used（一經使用）。"
   },
   {
     "id": "G92_26_2",
@@ -6194,7 +6204,8 @@
     "explanation": "現在完成式被動語態 has been isolated，「從那時起，澳洲就一直被廣闊的海洋孤立至今」（since then（自那時起） 表示從過去到現在持續的狀態）；is isolated（現在簡單式，不符合持續性）、had isolated（過去完成主動，方向與時態都不合）、has isolated（現在完成主動，方向不合，應該是「被隔離」不是「隔離別人」）都不合。",
     "accuracyRate": 49,
     "discrimination": 33,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】看到 Since then，現在完成式幾乎是反射動作，你會很快在 has isolated 與 has been isolated 之間挑一個，而 has isolated 比較短、比較像背過的樣子。答對率不到五成、鑑別度只有 33，連高分群考生也大量失手：難的不是想到現在完成式，那一步大家都會；難的是還要再加一層被動，兩個條件得同時滿足。對「since 配現在完成式」這個公式越熟的人，越容易填完就走，不會回頭檢查動作的方向。【怎麼判斷】四個選項都是同一個動詞 isolate 的時態與語態組合，可見這一格考的是形態，那就把句子裡的信號一個一個找出來。第一個信號是句首的 Since then（從那時起）：時間從過去某一點一路延伸到現在，終點就是此刻，所以要用現在完成式，掛鉤是國中的 I have lived here for five years.（我在這裡住了五年了。）。第二個信號在空格後面：from the rest of the world by vast oceans——by 帶出的是動作的執行者（廣闊的海洋），會出現 by 就代表這是被動。兩個信號一起要求現在完成式的被動，也就是 has been isolated。還有一招可以驗算：主動的 has isolated 後面一定要接受詞（isolate 是及物動詞，「把某物隔開」），但空格後面只有 from 與 by 兩個介系詞片語，沒有任何受詞可接——這是「被動之後不能再接原受詞」那條鐵律的反面用法，主動卻找不到受詞，一樣先刷掉。【干擾選項】has isolated：現在完成式主動，缺受詞，而且方向錯了，澳洲不是去把別人隔開。is isolated：被動沒錯，但現在簡單式只描述現在的狀態，接不上 Since then 那條從過去延伸到現在的時間線。had isolated：過去完成式需要另一個更晚的過去時間點當基準，本句沒有；主動與缺受詞的問題也一樣沒解決。【常考字詞搭配】be isolated from（與……隔絕）、since then（自那時起）、the rest of the world（世界其他地方）、be separated from（與……分開）、be cut off from（與……斷絕往來）、vast oceans（廣闊的海洋）。"
   },
   {
     "id": "G92_29_2",
@@ -6212,7 +6223,8 @@
     "explanation": "【句型】have contact with 固定搭配「與……有接觸」；confusion（困惑）、marriage（婚姻）、transaction（交易）都不符合這個「接觸」的語境。",
     "accuracyRate": 61,
     "discrimination": 48,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "【你可能會這樣想】四個選項是四個不同的名詞，中文意思差很遠，你會直覺往語意去想「動物之間會有什麼」。這樣想沒錯，但比語意更快的是先看 have ___ with 這個框架——四個名詞裡只有一個塞得進去，不必等到把語意想清楚。【怎麼判斷】四個選項是四個不同的名詞，文法上都放得進去，可見這一格考的是語意與搭配。先看框架：have ___ with animals from other parts of the world，也就是 have ___ with somebody。contact 正是這個框架的常客——have contact with（與……有往來、接觸），同一組還有 make contact with（取得聯繫）、lose contact with（失去聯絡）、come into contact with（接觸到）。再用前後文驗算：前一句說澳洲被廣闊的海洋隔絕，下一句說 They evolved separately（牠們各自演化），夾在中間的這一句要說的正是「不再與外界的動物往來」，no longer had contact with 把前後兩句串成一條線。這一題的鑑別度 48，分開的是有沒有把這一句放進前後文裡看，而不是單獨挑一個字義。【干擾選項】marriage（婚姻）：語意先不論，形式上就過不了關——marriage 搭的介系詞是 to 不是 with（her marriage to John 她與約翰的婚姻、be married to sb 與某人結婚），這一招常常一眼就刷掉一個選項。confusion（困惑）：have confusion with 不是通行的說法，而且困惑是心裡的狀態，談不上與別的動物「有困惑」。transaction（交易）：指金錢或商業上的往來，用在動物身上不成立。【常考字詞搭配】have contact with（與……有往來）、make contact with（取得聯繫）、lose contact with（失去聯絡）、come into contact with（接觸到）、keep in touch with（保持聯絡）、be married to（與……結婚）。"
   },
   {
     "id": "G92_30_2",
