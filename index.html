@@ -183,6 +183,18 @@
     padding:12px 16px; margin-bottom:20px; font-size:13px; line-height:1.75; color:var(--ink-soft);
   }
   .status-banner b{color:var(--ink);}
+  /*DIFFTAG-S 深入解析完成公告*/
+  .new-banner{
+    background:#E1F5EE; border:1px solid var(--sage); border-radius:4px;
+    padding:12px 16px; margin-bottom:16px; font-size:13.5px; line-height:1.8; color:#04342C;
+  }
+  .new-banner .nb-title{
+    font-family:'Noto Serif TC',serif; font-weight:700; font-size:15px;
+    color:var(--sage); margin-bottom:4px;
+  }
+  .new-banner b{color:#04342C;}
+  @media (max-width:560px){ .new-banner{font-size:15px; line-height:2.0;} }
+  /*DIFFTAG-E*/
   .strategy-box{
     background:var(--paper-card); border:1px solid var(--rule); border-radius:4px;
     padding:14px 16px; margin-bottom:20px; font-size:12.5px; line-height:1.8; color:var(--ink-soft);
@@ -384,8 +396,15 @@
 
   <!-- HOME -->
   <div id="home">
+    <!--DIFFTAG-S-->
+    <div class="new-banner">
+      <div class="nb-title">✨ 全部 565 題都有深入解析了</div>
+      作答之後，答案下方會出現一個 <b>▸ 看解析</b>，點開是四段拆解：<b>你可能會這樣想</b>（你為什麼會被那個選項騙走）→ <b>怎麼判斷</b> → <b>干擾選項</b>為什麼錯 → <b>常考字詞與句型</b>。<br>
+      同一個考點在不同年度考過的，解析會互相指路，可以一次把整條線串起來。
+    </div>
+    <!--DIFFTAG-E-->
     <div class="status-banner">
-      <b>現況說明：</b>目前題庫涵蓋83–115年<b>學測</b>克漏字（共 565 題），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！<br>
+      <b>現況說明：</b>目前題庫涵蓋83–115年<b>學測</b>克漏字（共 565 題，<b>全部附深入解析</b>），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！<br>
       <b>關於答對率：</b>部分題目下方會顯示大考中心公布的全體考生答對率，目前已收錄91–115年資料；83–90年因大考中心當年未公布逐題答對率，暫無此資訊，並非題目遺漏。
     </div>
     <div class="span-box">
