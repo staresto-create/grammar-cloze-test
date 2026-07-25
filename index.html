@@ -313,6 +313,16 @@
   .q-tag.span.cross{color:var(--gold); border-color:var(--gold);}
   /*DIFFTAG-S*/
   .q-tag.diff{margin-left:6px; display:none;}
+  .dh-body{display:none; margin-top:10px;}
+  .dh-body.show{display:block;}
+  .dh-toggle{margin-top:8px; font-size:12.5px; color:var(--sage); cursor:pointer;
+    text-decoration:underline; user-select:none; display:inline-block;}
+  .dh-toggle:hover{color:var(--crimson);}
+  @media (max-width:560px){
+    .span-box{font-size:15px; line-height:2.0; padding:14px 14px;}
+    .span-box .stitle{font-size:16px;}
+    .dh-toggle{font-size:14px; padding:6px 0;}
+  }
   .q-tag.diff.show{display:inline-block;}
   .q-tag.diff.b0{color:var(--sage); border-color:var(--sage);}
   .q-tag.diff.b1{color:var(--gold); border-color:var(--gold);}
@@ -402,12 +412,14 @@
 <!--DIFFTAG-S-->
     <div class="span-box">
       <div class="stitle">📚 兩個難度標籤怎麼看</div>
-      每一篇題目上方會顯示兩個標籤。<b>它們講的是不同的事，要分開看</b>——一篇文章可能字很淺但很長，也可能很短但字很難。<br>
-      <b>進階詞 N%　</b>大考中心《高中英文參考詞彙表》把高中字彙分成六級，數字愈大愈進階；這裡的「進階詞」指的是<span class="num">第五、六級</span>的字。百分比算的是這一篇的<b>實詞</b>（名詞、動詞、形容詞、副詞）當中，第五、六級字佔多少——the、of、is 這類功能詞不計，因為它們幾乎全是第一級，算進去只會把數字稀釋掉。<br>
-      <b>每格 N 字　</b>這一篇平均每一個空格需要讀多少字。<br>
-      <b>顏色只分三段　</b>綠／黃／紅是把全部 <span class="num">98 篇</span> 由低到高排序後三等分得來的，用來快速比較，<b>不是精密刻度</b>。早期年度的文章很短，實詞可能只有三十來個，<span class="num">一個字就佔 3%</span>，所以短篇的百分比跳動會很大。<br>
-      <b>綠配紅很常見　</b>95 年第一篇每格要讀 <span class="num">40 字</span>、進階詞卻是 <span class="num">0%</span>；92 年第一篇每格只有 <span class="num">26 字</span>、進階詞卻有 <span class="num">14.5%</span>。篇幅長不等於字難，字難也不等於篇幅長。<br>
-      <b>考題確實愈來愈重　</b>83 到 115 年每一篇都算過：83–90 年平均每格 <span class="num">18 字</span>、進階詞 <span class="num">2.5%</span>；105–115 年平均每格 <span class="num">37 字</span>、進階詞 <span class="num">7.4%</span>。閱讀量翻了一倍、進階詞密度翻了近三倍，而且逐年看是一路上升。<b>所以拿早期考題練習時，別把「寫起來很順」直接當成自己已經準備好了。</b>
+      題目上方的兩個標籤：<b>進階詞 N%</b> 是這一篇用了多少<span class="num">第五、六級</span>的難字，<b>每格 N 字</b> 是平均每一個空格要讀多少字。<b>兩者講的是不同的事，要分開看</b>——文章可能字很淺但很長，也可能很短但字很難。
+      <div class="dh-body" id="diffHelpBody">
+        <b>進階詞是什麼　</b>大考中心《高中英文參考詞彙表》把高中字彙分成六級，數字愈大愈進階；「進階詞」指的就是第五、六級的字。百分比算的是這一篇的<b>實詞</b>（名詞、動詞、形容詞、副詞）當中，第五、六級字佔多少——the、of、is 這類功能詞不計，因為它們幾乎全是第一級，算進去只會把數字稀釋掉。（<a href="https://www.ceec.edu.tw/xmdoc?xsmsid=0K213553204833715309" target="_blank" rel="noopener">大考中心《高中英文參考詞彙表》↗</a>）<br>
+        <b>顏色只分三段　</b>綠／黃／紅是把全部 <span class="num">98 篇</span> 由低到高排序後三等分得來的，用來快速比較，<b>不是精密刻度</b>。早期年度的文章很短，實詞可能只有三十來個，<span class="num">一個字就佔 3%</span>，所以短篇的百分比跳動會很大。<br>
+        <b>綠配紅很常見　</b>95 年第一篇每格要讀 <span class="num">40 字</span>、進階詞卻是 <span class="num">0%</span>；92 年第一篇每格只有 <span class="num">26 字</span>、進階詞卻有 <span class="num">14.5%</span>。篇幅長不等於字難，字難也不等於篇幅長。<br>
+        <b>考題確實愈來愈重　</b>83 到 115 年每一篇都算過：83–90 年平均每格 <span class="num">18 字</span>、進階詞 <span class="num">2.5%</span>；105–115 年平均每格 <span class="num">37 字</span>、進階詞 <span class="num">7.4%</span>。閱讀量翻了一倍、進階詞密度翻了近三倍，而且逐年看是一路上升。<b>所以拿早期考題練習時，別把「寫起來很順」直接當成自己已經準備好了。</b>
+      </div>
+      <div class="dh-toggle" id="diffHelpToggle" onclick="toggleDiffHelp()">▼ 看詳細說明</div>
     </div>
 <!--DIFFTAG-E-->
     <div class="strategy-box">
@@ -715,6 +727,12 @@ function toggleAllCats(on){
 
 let selectedYears = new Set();
 //DIFFTAG-S
+function toggleDiffHelp(){
+  const b=document.getElementById('diffHelpBody'), t=document.getElementById('diffHelpToggle');
+  if(!b||!t) return;
+  const open=b.classList.toggle('show');
+  t.textContent = open ? '▲ 收起說明' : '▼ 看詳細說明';
+}
 function renderDiffTags(pid, vId, lId){
   const v = document.getElementById(vId || 'singleVocabTag');
   const l = document.getElementById(lId || 'singleLoadTag');
