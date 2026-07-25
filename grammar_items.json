@@ -1560,7 +1560,8 @@
     },
     "answer": "A",
     "explanation": "As 在這裡表示「當……的時候/正當」，表示兩個動作同時發生（我走向海灘的時候，一個陌生人走過來）；But（但是）、Though（雖然）、For（因為）都不符合這裡的同時性語意。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都能翻成中文的「當、但是、雖然、因為」，光比意思會在 As 與 Though 之間猶豫。這一格先用形態刷掉一半，剩下的才輪到語意。【怎麼判斷】先看結構：空格後面是 I was walking to the beach（一個完整的子句），逗號之後 a stranger came up to me and tried to shake my hand 又是一個完整的主要子句。兩個完整子句要接在一起，空格要的是從屬連接詞，而且它得站在從屬子句的最前面。For 與 But 先出局，兩個都是對等連接詞：But 連接的是地位相同的兩個部分，不會造出「從屬子句加主要子句」這種結構；For（因為）引出的是前面那句話的理由，位置只能在後面，而空格在整句的最前面，前面根本還沒有東西讓它解釋（同判準：91 年第 24 題、90 年第 21 題）。剩下 As 與 Though，用語意分：「我正走向海灘」與「一個陌生人走過來」之間沒有互相牴觸的意思，不是讓步；兩件事是同時發生的——空格後面用的是過去進行式 was walking，正好當「正當我在走的時候」這個背景，前景則是陌生人突然出現。這是 As 的「當……的時候」。順帶把 as 在題庫裡考過的身分整理一下：本題是「當……時」；91 年第 24 題是「隨著」；94 年第 18 題是介系詞「以……的身分」。先看後面接的是子句還是名詞，再看語意，就分得出來。【干擾選項】Though（雖然）：讓步要求前後兩件事互相牴觸，本句沒有。But（但是）：對等連接詞，不能放句首帶出一個從屬子句再接主要子句。For（因為）：它引出的是前一句的理由，位置只能在後面。【常考字詞搭配】as ＋ 子句（當……的時候）、come up to sb（走向某人）、shake hands with sb（與某人握手）、walk to the beach（走向海灘）、a tropical city（熱帶城市）、the first day（第一天）。"
   },
   {
     "id": "G88_32_3",
@@ -1576,7 +1577,8 @@
     },
     "answer": "C",
     "explanation": "語意「我完全認不出他的臉」，recognize（認出）符合；analyze（分析）、emphasize（強調）、memorize（記住，時態方向不合，這裡講的是當下認不出而非記憶）都不合。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 -ize 結尾的動詞，長得非常像，中文又都跟腦袋在運作有關（分析、強調、認出、記住），眼睛掃過去很容易挑錯。其中 memorize 與 recognize 都跟記憶有關，最容易互相干擾。【怎麼判斷】四個選項是四個不同的動詞，文法上都放得進去，可見這一格考的是語意，那就往後找。空格所在的句子是 But I couldn’t ___ his face at all.（但我完全……不出他的臉。）下一句是 I didn’t know a soul in the city.（我在這座城市裡一個人也不認識。）——連一個人都不認識，當然認不出對方的臉。下一句等於把答案直接講了出來，填 recognize（認出）。順便把 recognize 與 memorize 分清楚：memorize 是刻意去背、把東西存進腦袋（memorize a poem 背一首詩），是輸入；recognize 是東西出現在眼前時認得出來（Do you recognize this song? 你聽得出這首歌嗎？），是比對。本句講的是看到臉卻對不上人，屬於後者。【干擾選項】memorize（背下、記住）：講的是把資訊存進腦中的動作，而本句是臉就在眼前卻認不出來。analyze（分析）：把事情拆開來看，與認人無關。emphasize（強調）：把某一點特別提出來，與認人無關。【常考字詞搭配】recognize sb／sth（認出）、memorize sth（背下、記住）、not know a soul（一個人也不認識）、have jetlag（有時差）、arrive by plane（搭飛機抵達）、at all（完全，用於否定句）。"
   },
   {
     "id": "G88_33_3",
@@ -1592,7 +1594,8 @@
     },
     "answer": "B",
     "explanation": "簡單過去式 saw，陌生人說「我在機場看到你」，直述一個明確過去時間點發生的動作；have seen（現在完成式，不符合這種具體過去場景）、had seen（過去完成式，時態不合，沒有更早的參照點）、was seeing（過去進行式，不符合這種瞬間動作的簡單陳述）都不如 saw 自然。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 see 的形態變化，你會先想「這句話在講什麼時候的事」，然後在過去式與現在完成式之間猶豫——因為「我見過你」聽起來很像現在完成式的經驗用法。【怎麼判斷】四個選項都是同一個動詞 see 的時態變化，可見這一格考的是時態。說話的是那個陌生人：I ___ you at the airport. I work there at the customs.（我在機場……你。我在那裡的海關工作。）先看時間點：「我」是剛搭飛機抵達的，機場那一次是一個已經結束、時間也很明確的過去事件，直述這種事用過去簡單式就好，填 saw。【干擾選項】have seen：現在完成式講的是從過去延續到現在的狀態，或不指明時間的經驗，不與一個明確的過去場景並用。had seen：過去完成式需要另一個更晚的過去時間點當基準，先發生的那一件才用它，而本句只有一個過去時間點。was seeing：過去進行式。這裡還有一個更根本的問題——see 表示「看見」時是狀態動詞，講的是眼睛接收到的結果，不是一段可以持續進行的動作，所以一般不用進行式。（see 真的用進行式時意思會變，例如 I am seeing a doctor. 我正在看醫生；I am seeing someone. 我和某人在交往。）【常考字詞搭配】see sb at the airport（在機場看到某人）、work at the customs（在海關工作）、How are you enjoying …?（你覺得……如何）、be seeing sb（與某人交往中）、a customs officer（海關人員）、a stranger（陌生人）。"
   },
   {
     "id": "G88_34_3",
@@ -1608,7 +1611,8 @@
     },
     "answer": "D",
     "explanation": "語意「我太尷尬了，不好意思告訴他（我不記得他）」，embarrassed（尷尬的）符合這種社交場景的心理狀態；exhausted（筋疲力竭的）、interested（感興趣的）、frightened（害怕的）都不符合這個「不好意思承認不記得對方」的語境。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】前面才剛講過 I still had jetlag（我還在時差裡），所以 exhausted（筋疲力竭）看起來很有根據——文章明明說了他很累。這正是這一格設計得最巧的地方：它給你一個真的存在的線索，但那個線索指向錯的方向。【怎麼判斷】四個選項都是描述情緒或狀態的形容詞，可見這一格考的是語意，而關鍵在 too ... to 這個句型。too ... to 的意思是「太……以致於不能」，所以空格填的那個狀態必須是「說不出口」的原因。整句是 I couldn’t remember him but I was too ___ to tell him.（我想不起他是誰，但我太……而說不出口。）想不起對方是誰、卻不好意思承認——這是社交場合的尷尬，填 embarrassed。再回頭看那個陷阱：jetlag 確實讓他很累，但「累」不會讓人說不出「我不記得你了」這句話，兩者之間沒有因果。線索存在不代表它管這一格，填之前一定要用 too ... to 的因果關係驗算一次。【干擾選項】exhausted（筋疲力竭的）：見上，前文雖然埋了伏筆，但因果接不上。frightened（害怕的）：對方一路都很友善，還主動要請客，沒有讓人害怕的成分。interested（感興趣的）：太有興趣不會導致說不出口，語意完全反了。【常考字詞搭配】be too … to V（太……以致於不能）、be embarrassed to V（不好意思做……）、feel embarrassed about（為……感到尷尬）、be exhausted（筋疲力竭）、tell sb the truth（對某人說實話）、so friendly（如此友善）。"
   },
   {
     "id": "G88_35_3",
@@ -1625,7 +1629,8 @@
     "answer": "B",
     "explanation": "語意順承：「他人很友善，然後他提議帶我去他叔叔的海鮮餐廳」，Then（然後）表示動作順序承接；Even（甚至）、When、While 都不能這樣單獨構成句首順承語氣。",
     "contextSpan": "跨句",
-    "contextNote": "Then 承接前一句的時間順序"
+    "contextNote": "Then 承接前一句的時間順序",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項擺進句首唸起來都不算突兀，而 When 與 While 是最常見的句首連接詞，手很容易先落在那裡。這一格的關鍵不在選項本身，在空格前面那個標點。【怎麼判斷】先看標點：空格前面那一句 He was so friendly. 是用句號收尾的完整句子；空格後面 he offered to take me to his uncle’s seafood restaurant 又是一個完整的句子。既然前面已經用句號斷開了，空格就不是用來連接兩個子句的，它要的是一個能單獨站在句首、標示語意方向的副詞。When 與 While 先出局：這兩個是從屬連接詞，後面接了子句之後還要再配一個主要子句，而本句只有一個完整句子，沒有主要子句可以配。剩下 Even 與 Then，用語意分：Even（甚至）要用在遞進到一個極端的例子上；而本句只是把事情往下講——他很友善，接著他提議帶我去餐廳——是時間順序的推進，用 Then（然後）。整篇是一則敘事，Then 在敘事裡的工作就是把一個接一個的動作串起來。【干擾選項】When、While：從屬連接詞，形態上就接不出「一個獨立句子」這種結構。Even（甚至）：需要一個「連這個都……」的遞進關係，但「提議帶我去餐廳」並不比「他很友善」更極端，只是接著發生的下一件事。【常考字詞搭配】then（然後、接著）、offer to V（主動提議做……）、take sb to（帶某人去）、by the beach（在海灘旁）、after that（在那之後）、a seafood restaurant（海鮮餐廳）。"
   },
   {
     "id": "G88_36_3",
@@ -1641,7 +1646,8 @@
     },
     "answer": "C",
     "explanation": "語意「我禮貌地婉謝了他，但他堅持」，politely（禮貌地）符合這種社交禮節的婉拒方式；eagerly（渴望地）、happily（開心地）都語意不合，willingly（樂意地）則跟後面「but he insisted」的轉折邏輯矛盾（如果樂意接受了就不需要對方堅持）。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】thank 是「謝謝」，四個副詞裡有三個都帶著正面的情緒，所以你可能會挑一個「開心地道謝」的說法。但這一句的 thank 不是道謝接受，而是婉拒——證據在後半句。【怎麼判斷】四個選項都是描述態度的副詞，可見這一格考的是語意，而依據在後半句。整句是 I thanked him ___ but he insisted that we should go there for dinner.（我……地謝過他，但他堅持我們該去那裡吃晚餐。）關鍵在 but he insisted。insist（堅持）這個字只有在對方沒有答應的時候才用得上——如果「我」欣然接受了，他根本不需要堅持。所以空格前面那句 thanked him 不是道謝接受，而是客氣地婉謝，填 politely（禮貌地）。英文裡用 thank 來婉拒是很常見的用法，等於中文的「謝謝，不用了」。這一招與 89 年第 35 題完全相同：那一題是靠 Jane 下一句只說了 Please!（拜託啦）反推 Mary 一定拒絕了；本題是靠 he insisted 反推「我」一定婉拒了。對方的反應會洩漏你這一句做了什麼。【干擾選項】eagerly（急切地）、happily（開心地）、willingly（樂意地）：三個都表示欣然接受，只要接受了，對方就沒有堅持的必要，與 but he insisted 直接衝突。而且這三個意思相近、方向相同，依「同義的選項不可能只有一個對」的道理，看到就可以整組砍掉。【常考字詞搭配】politely（禮貌地）、insist that …（堅持……）、insist on V-ing（堅持做……）、turn down an offer（婉拒提議）、thank sb for sth（為某事謝謝某人）、go there for dinner（去那裡吃晚餐）。"
   },
   {
     "id": "G88_37_3",
@@ -1657,7 +1663,8 @@
     },
     "answer": "D",
     "explanation": "【句型】assure sb (that)... 固定搭配「向某人保證」，是及物動詞可以直接接人稱受詞；declared／proposed 通常不這樣直接接人作受詞，responded 則通常搭配 to sb 而非直接接受詞。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是「說」這一類的動詞，中文分別是「宣布、提議、回應、保證」，光比意思會覺得幾個都說得通。這一格有一個形態上的硬線索，比語意快得多。【怎麼判斷】四個選項都是動詞，可見這一格考的是搭配。決定性的線索在空格後面：直接就是受詞 me，中間沒有任何介系詞。所以問題變成「哪一個動詞可以直接接人當受詞」。assure 可以：assure somebody (that) ...（向某人保證……），本句 \"You’ll love the seafood there,\" he assured me. 就是「他向我保證」。respond 不行：它是不及物動詞，要接人得加介系詞，寫成 respond to me。declare 與 propose 也不行：這兩個字後面接的是被宣布或被提議的內容（declare that ...、propose a plan），不直接接聽話的那個人。語意上也對得起來：對方在推銷那家餐廳，說「你會愛上那裡的海鮮」，這是在給保證，不是宣布也不是提議。順便把幾個「向某人保證」的說法一起記：assure sb of sth、assure sb that ...、promise sb that ...。【干擾選項】responded：不及物，缺了 to。declared（宣布）：後面接的是宣布的內容，不接聽話的人；語氣也太正式。proposed（提議）：後面接的是提議的內容；而且他上一句才提議過要帶「我」去餐廳，這一句是在說服，不是再提議一次。【常考字詞搭配】assure sb that …（向某人保證）、assure sb of sth（讓某人確信某事）、respond to sb（回應某人）、declare that …（宣布）、propose sth（提議某事）、promise sb that …（向某人承諾）。"
   },
   {
     "id": "G88_38_3",
@@ -1673,7 +1680,8 @@
     },
     "answer": "B",
     "explanation": "現在分詞 overlooking 作形容詞修飾 window，表示「俯瞰海灣的窗戶」，窗戶是主動地「俯瞰」海灣；overlook（原形動詞）、overlooks（限定動詞）都不能這樣修飾名詞，overlooked（過去分詞，被動語意「被俯瞰」）方向不合。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項是 overlook 的四種形態，你會直覺去找主詞、判時態。但空格前面是 a window（名詞）、後面是 the bay（名詞），這一串不是句子的動詞，是拿來修飾 window 的。這一格考的是分詞當形容詞用。【怎麼判斷】先看結構：主要子句是 we went to the restaurant and sat by a window ___ the bay，動詞已經有 went 與 sat 兩個了，所以空格不可能再是一個主要動詞。overlook 與 overlooks 都是限定動詞，需要主詞、只能當句子的動詞，先出局。剩下 overlooking 與 overlooked，用主動被動分：窗戶與海灣的關係是「窗戶朝向海灣、從窗戶看得到海灣」，是窗戶主動朝向，所以用現在分詞 overlooking。這裡有一條很好用的位置規則，而且不只管分詞：修飾語的中心語後面只要還掛著東西，整串就得放到名詞後面。分詞是這樣——單獨一個分詞放名詞前（a barking dog 一隻正在叫的狗、a broken window 一扇破掉的窗），帶了受詞就整串放名詞後（a window overlooking the bay 一扇俯瞰海灣的窗、the man standing there 站在那裡的那個人）。形容詞也是這樣——單獨的形容詞放前面（an eager student 一個好學的孩子），帶了東西就放後面（students eager to learn 渴望學習的孩子、a bottle full of water 一瓶裝滿水的瓶子）。90 年第 18 題的 hard to please 就是形容詞帶著不定詞的例子，所以它擺在 be 動詞後面當補語；真要放到名詞前面，就得用連字號黏成一個字（a hard-to-please customer 一個很難討好的客人）。本題的 overlooking 帶著受詞 the bay，所以整串掛在 window 後面，走的是同一條規則。同型的題目：89 年第 28 題的 facing a lion，也是現在分詞帶著受詞、補充說明前面那個畫面。【干擾選項】overlooked：過去分詞表被動，變成「被俯瞰的窗戶」，方向反了——是從窗戶看出去，不是窗戶被看。overlook、overlooks：限定動詞。句子已經有 went 與 sat 兩個動詞，不能再多一個而中間什麼都不加。【常考字詞搭配】a room overlooking the sea（面海的房間）、overlook sth（俯瞰；忽略）、sit by a window（坐在窗邊）、a barking dog（正在叫的狗）、the man standing there（站在那裡的男子）、by the bay（在海灣邊）。"
   },
   {
     "id": "G88_39_3",
@@ -1689,7 +1697,8 @@
     },
     "answer": "C",
     "explanation": "【句型】it was not until...that... 固定強調句型「直到……才……」；before／after／towards 都不能這樣構成這個強調句型。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是講時間的字，如果只讀空格附近，會覺得 before 或 after 好像也接得上。這一格要先看整句的形狀——那個形狀本身就是一個固定句型。【怎麼判斷】先把整句讀出來：it was not ___ 10 o’clock the next morning that I finally woke up。注意句子的骨架：It was ... that ...，中間還夾著一個 not。這是強調句型的框架，而 It is／was not until ＋ 時間 ＋ that ＋ 主詞 ＋ 動詞 是固定的說法，意思是「直到……才……」。本句就是「直到隔天早上十點，我才終於醒過來」。還原成不強調的說法就更清楚了：I didn’t wake up until 10 o’clock the next morning.（我到隔天早上十點才醒。）把 not until 那一段抽出來擺到 It was ... that 中間，就成了本句。順便對照 90 年第 24 題，那一格也填 until，但用法完全不同：那裡是 an alarm that gets increasingly louder until it is turned off（鬧鈴越來越大聲，直到被關掉為止），講的是一個持續的過程延續到某個終點。同一個字，一個是強調句型的一部分、一個是單純的時間連接詞。【干擾選項】before、after、towards：三個都是講時間的字，但 It was not before／after／towards ... that ... 都不是通行的說法。語意上也不對——本句要說的是「一直到那個時間點才醒」，不是「在那之前」、「在那之後」或「快到那個時間」。【常考字詞搭配】It was not until … that …（直到……才……）、not … until（直到……才）、wake up（醒來）、the next morning（隔天早上）、taste strange（嚐起來很怪）、serve coffee（供應咖啡）。"
   },
   {
     "id": "G88_40_3",
@@ -1705,7 +1714,8 @@
     },
     "answer": "A",
     "explanation": "【句型】be gone 固定搭配，表示「不見了/消失了」，「All my money was gone」是「我的錢都不見了」這個語意最自然通順的表達方式；none 不會這樣直接作表語搭配 was 表達「消失不見」的意思。",
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都與「沒有、不見」有關，而 nothing 與 none 的中文最貼近「什麼都沒了」，很容易先挑它們。這一格要看的是 was 後面能接什麼樣的字。【怎麼判斷】整句是 All my money was ___.（我的錢全都……。）主詞已經是 all my money，was 後面要接一個補語來說明它怎麼了。gone 在這裡是形容詞化的過去分詞，be gone 就是「不見了、沒了」。掛鉤是很常聽到的 He is gone.（他走了。）與 Winter is gone.（冬天過去了。）——重點不在「去了哪裡」，而在「已經不在這裡了」。再看另外三個為什麼不行：none 與 nothing 都是代名詞，意思是「一樣也沒有」；主詞已經是 all my money 了，再說「我所有的錢是一樣也沒有」，主詞與補語互相打架。no 是限定詞，後面一定要接名詞（no money），不能單獨站在 was 後面。最後用下一句驗算：my \"friend\" had even taken my watch and my shoes（我那位「朋友」連我的手錶和鞋子都拿走了）——even（甚至）代表前面已經講過有東西被拿走了，錢不見了正好接得上。【干擾選項】none、nothing：代名詞，與主詞語意重複打架。no：限定詞，後面要接名詞。【常考字詞搭配】be gone（不見了、消失了）、be long gone（早就不在了）、be missing（不見、下落不明）、have no idea（完全不知道）、take sth away（拿走某物）、all my money（我所有的錢）。"
   },
   {
     "id": "G95_16_1",
