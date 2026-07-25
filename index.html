@@ -311,6 +311,13 @@
   .q-tag.span{color:var(--sage); border-color:var(--sage); margin-left:6px; display:none;}
   .q-tag.span.show{display:inline-block;}
   .q-tag.span.cross{color:var(--gold); border-color:var(--gold);}
+  /*DIFFTAG-S*/
+  .q-tag.diff{margin-left:6px; display:none;}
+  .q-tag.diff.show{display:inline-block;}
+  .q-tag.diff.b0{color:var(--sage); border-color:var(--sage);}
+  .q-tag.diff.b1{color:var(--gold); border-color:var(--gold);}
+  .q-tag.diff.b2{color:var(--crimson); border-color:var(--crimson);}
+  /*DIFFTAG-E*/
   .ctx-box{
     margin-top:8px; padding:12px 14px; background:#F7F2E3; border-radius:3px; border:1px solid var(--rule);
     font-size:13px; line-height:1.8; color:var(--ink-soft); display:none;
@@ -496,7 +503,7 @@
     </div>
     <div class="progress-bar"><div class="progress-fill" id="singleProgressFill" style="width:0%"></div></div>
     <div class="card">
-      <span class="q-tag" id="singleYearTag"></span><span class="q-tag cat" id="singleCatTag"></span><span class="q-tag span" id="singleSpanTag"></span>
+      <span class="q-tag" id="singleYearTag"></span><span class="q-tag cat" id="singleCatTag"></span><span class="q-tag span" id="singleSpanTag"></span><!--DIFFTAG-S--><span class="q-tag diff" id="singleVocabTag"></span><span class="q-tag diff" id="singleLoadTag"></span><!--DIFFTAG-E-->
       <div class="passage-text" id="singlePassage"></div>
       <div class="options" id="singleOptions"></div>
       <div class="context-row">
@@ -564,6 +571,7 @@
 
 <script>
 let PASSAGES = {};
+let PROFILE = {};  //DIFFTAG 篇章難度輪廓，載入失敗時維持空物件、標籤自動不顯示
 let ITEMS = [];
 let currentMode = 'single';
 let testMode = false;
@@ -654,6 +662,12 @@ async function init(){
   ]);
   PASSAGES = await pRes.json();
   ITEMS = await iRes.json();
+  //DIFFTAG-S
+  try{
+    const dRes = await fetch('passage_profile.json');
+    if(dRes.ok) PROFILE = await dRes.json();
+  }catch(e){ PROFILE = {}; }
+  //DIFFTAG-E
   buildCategoryChips();
   buildYearChips();
   buildDiffChips();
@@ -689,6 +703,25 @@ function toggleAllCats(on){
 }
 
 let selectedYears = new Set();
+//DIFFTAG-S
+function renderDiffTags(pid){
+  const v = document.getElementById('singleVocabTag');
+  const l = document.getElementById('singleLoadTag');
+  if(!v || !l) return;
+  const p = PROFILE[pid];
+  if(!p){ v.className='q-tag diff'; l.className='q-tag diff'; return; }
+  v.textContent = '進階詞 ' + p.advPct + '%';
+  v.className = 'q-tag diff show b' + (p.vcBand===null?1:p.vcBand);
+  v.title = '本篇實詞中，大考中心參考詞彙表第五、六級字所佔的比重';
+  if(p.readLoad){
+    l.textContent = '每格 ' + Math.round(p.readLoad) + ' 字';
+    l.className = 'q-tag diff show b' + (p.rlBand===null?1:p.rlBand);
+    l.title = '本篇平均每一個空格需要讀的字數';
+  }else{
+    l.className = 'q-tag diff';
+  }
+}
+//DIFFTAG-E
 function yearSortKey(y){
   const m = y.match(/\d+/);
   const num = m ? parseInt(m[0],10) : 999;
@@ -899,6 +932,9 @@ function renderSingle(){
   document.getElementById('singleWrongBadge').innerHTML = testMode ? '<span style="color:var(--gold);">● 測試模式中</span>' : '';
   document.getElementById('singleYearTag').textContent = it.year;
   document.getElementById('singleCatTag').textContent = it.category;
+  //DIFFTAG-S
+  renderDiffTags(it.passageId);
+  //DIFFTAG-E
 
   const { snippet, start, end } = extractSentence(passage.text, it.blankNum);
   const numsInSnippet = allNums.filter(n => {
