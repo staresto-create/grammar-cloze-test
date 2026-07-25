@@ -2024,7 +2024,7 @@
     "accuracyRate": 49,
     "discrimination": 55,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】四個選項是同一個動詞 attract 的四種形態，這種題目一律先找主詞、再看它在句中扮演什麼角色，不要憑語感挑。【怎麼判斷】答對率 49%，鑑別度 55。整句是 Baseball, on the other hand, seems more mental, like chess, and ___ those fans that prefer a quieter, more complicated game。and 連接的是兩個並列的動詞：seems 與空格。既然 and 兩邊要對等，前面是現在式單數的 seems，後面就必須是現在式單數的 attracts；主詞 Baseball 是單數，也對得上。並列結構的題目一律用這個方法驗算：先找出 and 前面那一個是什麼形態，後面就照抄那個形態。同型的題目可以一起看：99 年第 27 題是助動詞後面兩個原形動詞並列，100 年第 19 題是介系詞 by 後面三個動名詞並列，判準完全一樣。【干擾選項】attracted 是過去式，可是同一句的 seems 是現在式，整篇又都在講通則，時態對不上。is attracted 是被動，方向反了——是棒球吸引球迷，不是棒球被球迷吸引；而且被動之後不能再接原受詞，空格後面明明還跟著 those fans 這個受詞，一看到就該先刷掉。這條鐵律在學測反覆出現，非常好用。attract 是原形，主詞 Baseball 是單數，主詞與動詞不一致。【常考字詞與句型】attract attention（吸引注意）、be attracted to sth（受……吸引）、a tourist attraction（觀光景點）、an attractive offer（吸引人的條件）、prefer A to B（偏好 A 勝過 B）、on the other hand（另一方面）。"
+    "note": "【你可能會這樣想】四個選項是同一個動詞 attract 的四種形態，很容易一頭栽進「該用哪個時態」的比較裡。其實這一題要先問的是更前面一步：空格在句子裡扮演什麼角色。【怎麼判斷】先把句型拆開來看，這一題的骨幹是：S ＋ V1 ＋ …… and ___V2___ ＋ O2。對應到本句：Baseball（主詞）seems more mental, like chess（V1 與它的補語），and 之後就是空格，後面跟著 those fans that prefer a quieter, more complicated game（O2）。and 是對等連接詞，它連接的必須是同一層級、同一形態的兩個成分。空格後面帶著受詞 those fans，代表它要當動詞用；而 and 前面那個動詞是 seems——現在式、第三人稱單數。所以空格要照抄同一種形態，填 attracts。把它排成上下兩行對齊會更清楚，像解方程式一樣：Baseball　seems　more mental　　　　　and　attracts　those fansV1 與 V2 對齊、補語與受詞各自對齊，一眼就看得出空格該放什麼。這個「先確定主要動詞在哪裡」的思路，與 104 年第 18 題是一組對照：那一題的線索是「主詞後面插了分詞片語、句子還沒有動詞」，本題的線索是「and 兩邊要對稱」。同型的並列題還有 99 年第 27 題（助動詞後面兩個原形動詞並列）、100 年第 19 題（介系詞 by 後面三個動名詞並列），判準完全一樣——先找出 and 前面那一個是什麼形態，後面就照抄。【干擾選項】is attracted：被動，方向反了——是棒球吸引球迷，不是棒球被球迷吸引。而且被動之後不能再接原本的受詞，空格後面明明還跟著 those fans，一看到就該先刷掉。這一招在學測反覆出現：主動的動詞後面找不到受詞才考慮被動，被動的後面卻還跟著受詞就一定錯。attracted：過去式，但 and 前面的 seems 是現在式，兩邊形態對不上；整篇又都在講通則，時態也不合。attract：原形。主詞 Baseball 是單數，而且與 and 前面的 seems 形態不一致。【常考字詞與句型】V1 … and V2 …（對等連接詞兩邊形態要一致）、attract attention（吸引注意）、be attracted to sth（受……吸引）、a tourist attraction（觀光景點）、prefer A to B（偏好 A 勝過 B）、on the other hand（另一方面）。"
   },
   {
     "id": "G95_28_3",
@@ -3082,7 +3082,7 @@
     "year": "99年",
     "passageId": "99_3",
     "blankNum": 27,
-    "category": "分詞／動狀詞",
+    "category": "句型結構",
     "options": {
       "A": "cause",
       "B": "causing",
@@ -3094,7 +3094,7 @@
     "accuracyRate": 47,
     "discrimination": 59,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】看到 and 前面是 be absorbed（被動），很多人以為後面也要跟著被動，就挑了 caused；也有人直覺補一個現在分詞 causing。答對率只有 47%，關鍵在有沒有看清楚 and 到底連的是哪兩個東西。【怎麼判斷】把整句的結構拉出來：The chemicals can be absorbed into the body and ______ physical discomfort. 整句只有一個助動詞 can。and 連接的是 can 後面的兩個動作——can be absorbed（可以被吸收）和 can ______（可以…）。既然共用同一個 can，第二個動作也必須是原形動詞，所以是 cause。還原成兩句驗算：The chemicals can be absorbed into the body. 加上 The chemicals can cause physical discomfort.（這些化學物質會被人體吸收，並且可能造成身體不適。）這種「助動詞後面兩個原形動詞並列」的結構你國中就用過：I can sing and dance.——dance 前面不必再放一次 can，但形式一定要和 sing 一樣是原形。語態也順帶看一下：被吸收的是化學物質（被動），造成不適的卻是化學物質自己（主動），所以第二個動詞不能跟著用被動；同一個主詞底下的兩個並列動詞，語態可以不一樣。100 年第 19 題考的是介系詞 by 後面三個動名詞並列，本題考的是助動詞後面兩個原形動詞並列，背後是同一個原則：並列的成分形式要一致。【干擾選項】causing：現在分詞，會變成補充說明的分詞構句；但前面已經有 and，and 後面要接的是與前面對等的成分，不是分詞。caused：當過去分詞會變成被動「被造成」，方向錯了；當過去式則與 can 衝突。to cause：不定詞若表目的，會變成「為了造成不適而被吸收」，語意荒謬。【常考字詞與句型】cause discomfort（造成不適）、be absorbed into（被吸收進…）、result from（起因於…）、stomach cramps（胃痙攣）、physical discomfort（身體不適）、such as（例如）。"
+    "note": "【你可能會這樣想】看到 and 前面是 can be absorbed（被動），很多人以為後面也要跟著被動，就挑了 caused；也有人直覺補一個現在分詞 causing。這一格答對率只有 47%，難就難在——and 只告訴你「兩邊的形態要一樣」，它告訴不了你「這個動作是主動還是被動」。那一層只能靠讀懂句子的意思。【怎麼判斷】分兩層做，順序不能顛倒。第一層：形態。把整句的結構拉出來——The chemicals can be absorbed into the body and ___ physical discomfort.整句只有一個助動詞 can，而 and 連接的是 can 後面的兩個動作：can be absorbed（可以被吸收）與 can ___（可以……）。既然共用同一個 can，第二個動作也必須是原形動詞。這一步你國中就用過：I can sing and dance.——dance 前面不必再放一次 can，但形式一定要和 sing 一樣是原形。第二層：語態。這一層 and 幫不上忙，只能回頭讀句子在講什麼。化學物質是「被」人體吸收的（被動），但造成身體不適的是化學物質「自己」（主動）——兩個動作的方向不一樣。所以第二個動詞不能跟著用被動，填原形主動的 cause。還原成兩句驗算最清楚：The chemicals can be absorbed into the body. 加上 The chemicals can cause physical discomfort.（這些化學物質會被人體吸收，並且可能造成身體不適。）記住這一句：同一個主詞底下的兩個並列動詞，形態要一致，語態可以不一樣。看到 and 就整組照抄的人，正是在這一格失手。同型的還有 93 年第 25 題（答對率只有 25%）：那一題的 and 連接 To contribute 與 (to) save 兩個不定詞，形態同樣一望即知，但真正的難處是「前半那一整串在句子裡是什麼身分」——它不是第二個祈使句，是表目的的不定詞片語。兩題可以擺在一起看：and 只解決「兩邊要一樣」，解決不了「這一整串在句子裡扮演什麼角色」。（形態一致的其他例子：100 年第 19 題是介系詞 by 後面三個動名詞並列。）【干擾選項】caused：這是本題最強的干擾。當過去分詞看，會變成「被造成」，方向錯了——不適是化學物質造成的，不是化學物質被不適造成；當過去式看，則與前面的 can 衝突（can 後面只能接原形）。挑它的人多半是看到前面是被動就跟著填被動，那正是「只套並列、不讀句意」的結果。causing：現在分詞，會變成補充說明的分詞構句；但前面已經有 and，and 後面要接的是與前面對等的成分，不是分詞。to cause：不定詞若表目的，會變成「為了造成不適而被吸收」，語意荒謬。【常考字詞與句型】can be V-ed and V（共用助動詞，形態一致語態可不同）、cause discomfort（造成不適）、be absorbed into（被吸收進……）、stomach cramps（胃痙攣）、physical discomfort（身體不適）、such as（例如）。"
   },
   {
     "id": "G99_28_3",
@@ -4617,7 +4617,7 @@
     "year": "108年",
     "passageId": "108_1",
     "blankNum": 17,
-    "category": "分詞／動狀詞",
+    "category": "句型結構",
     "options": {
       "A": "continue",
       "B": "continuing",
@@ -4627,7 +4627,7 @@
     "answer": "D",
     "explanation": "本句主要子句缺少限定動詞，須填過去式 continued；continue 為現在式，與前一句 In 1582 的時間背景不合，continuing 是分詞、to continue 是不定詞，兩者都不能單獨當主要動詞。",
     "accuracyRate": 29,
-    "note": "答對率 29%。【你可能會這樣想】你知道「一個句子要有一個動詞」，但主詞 many people 後面被一長串插入語打斷——either refusing to accept the new date or not having heard about it——等讀到空格時已經忘了主詞是誰、還缺不缺動詞。【判斷方法：先把插入語括起來】把兩個逗號之間的成分遮掉，句子剩下 However, many people ___ to celebrate New Year's Day on April 1.，主詞 many people 後面顯然缺一個主要動詞。continuing 與 to continue 都是非限定形式，不能單獨當主要動詞，先刪掉。【時態線索在前一句】剩下 continue 與 continued，差別只在時態，而本句自己沒有任何時間標記——真正的依據在前一句：In 1582, Pope Gregory XIII ordered a new calendar…。全篇在敘述十六世紀的歷史，動詞一律用過去式，所以是 continued。這一格屬於「跨句題」，光看本句判不出來。【接上你已經學過的東西】國中學過主詞與動詞中間可以插入修飾語（The boy in the blue shirt is my brother.），本題只是插入語特別長。遇到長插入語，先用括號把它括起來，句子結構就露出來了。【常考字詞與句型】continue to V／continue V-ing（繼續做）、either A or B（不是 A 就是 B）、not having + p.p.（完成式分詞，表更早發生）、refuse to V（拒絕做）。",
+    "note": "【你可能會這樣想】你知道「一個句子要有一個動詞」，但主詞 many people 後面被一長串插入語打斷——either refusing to accept the new date or not having heard about it——等讀到空格時已經忘了主詞是誰、還缺不缺動詞。【怎麼判斷】先把句型的骨幹看出來，這一題與 104 年第 18 題是同一個結構：S ，插入的修飾語，___V___把兩個逗號之間的成分遮掉，句子剩下 However, many people ___ to celebrate New Year’s Day on April 1.——主詞 many people 後面顯然缺一個主要動詞，所以空格非動詞不可。（那一長串 either refusing... or not having heard... 是兩個並列的分詞片語，用來補充說明這些人的狀態，分詞不能當主要動詞。）認出這一點之後，continuing 與 to continue 都是非限定形式，先刪掉。這裡有一個很多人會踩的陷阱：剩下的 continued 長得跟過去分詞一模一樣，很容易被一起歸進「非限定、不能當主要動詞」那一堆，四個選項一口氣刷掉三個，只剩 continue，時態又對不上，於是卡死。但 continue 是規則動詞，過去式與過去分詞同形，光看字尾分不出來——要看它站在句子裡的什麼位置。這個位置需要一個主要動詞，所以它是過去式，不是過去分詞。（同理，The company closed last year. 的 closed 也是過去式，不是「被關閉」。）最後才是時態：剩下 continue 與 continued，本句自己沒有任何時間標記，依據在前一句——In 1582, Pope Gregory XIII ordered a new calendar…。全篇在敘述十六世紀的歷史，動詞一律用過去式，所以是 continued。這一格屬於跨句題，光看本句判不出來。【接上你已經學過的東西】國中學過主詞與動詞中間可以插入修飾語（The boy in the blue shirt is my brother.），本題只是插入語特別長。遇到長插入語，先用括號把它括起來，句子結構就露出來了。【干擾選項】continuing：現在分詞，不能單獨當主要動詞；填進去整句就變成一串修飾語接一串修飾語，從頭到尾沒有動詞。to continue：不定詞，同樣是非限定形式。continue：原形。全篇敘述的是十六世紀發生的事，現在式與整段的時態不合。【常考字詞與句型】S, 插入的修飾語, V（主詞與動詞被長插入語隔開）、continue to V／continue V-ing（繼續做）、either A or B（不是 A 就是 B）、not having ＋ 過去分詞（完成式分詞，表更早發生）、refuse to V（拒絕做）、規則動詞的過去式與過去分詞同形（看位置判斷）。",
     "discrimination": 25,
     "contextSpan": "跨句",
     "contextNote": "選 continued 而非 continue 的時態依據在前一句 In 1582, Pope Gregory XIII ordered a new calendar；本句自身沒有任何時間標記"
@@ -6776,7 +6776,7 @@
     "year": "93年",
     "passageId": "93_3",
     "blankNum": 28,
-    "category": "字彙選義",
+    "category": "句型結構",
     "options": {
       "A": "very",
       "B": "both",
@@ -8661,7 +8661,7 @@
     "answer": "A",
     "explanation": "主詞是複數的 These movements，中間的 forming an exercise system 只是插入的分詞片語，動詞須用原形 allow；allows 是被最靠近的單數名詞 system 誤導，allowed 與全文的現在式不合，allowing 是分詞不能當主要動詞。",
     "accuracyRate": 33,
-    "note": "答對率 33%。【你可能會這樣想】這一題考的不是字義，而是主詞與動詞的一致。最常見的毛病是「就近誤配」——眼睛看到空格前面最近的名詞是 an exercise system（單數），就順手填了 allows。實際上句子的主詞是最前面的 These movements（複數），中間的 forming an exercise system 只是插入的分詞片語，用來補充說明這些動作構成了一套運動系統。【判斷方法：先把插入語括起來】把兩個逗號之間的成分遮掉：These movements ___ one to effortlessly experience the vital life force…，主詞是複數，動詞就必須用原形 allow。這是所有主詞動詞一致題的通用解法——找主詞的中心語，不看最靠近的那個名詞。【接上你已經學過的東西】國中學過 The boy with two dogs is my brother.（主詞是 boy，不是 dogs），本題只是把介系詞片語換成分詞片語，原理完全一樣。同類的干擾成分還有 along with、as well as、together with 引導的片語，它們都不會改變主詞的單複數。【干擾選項】allowed 是過去式，但全文在介紹太極拳現今的功效，用現在簡單式敘述通則；allowing 是現在分詞，不能單獨擔任主要動詞——若填它，整句就會變成沒有主要動詞的片語。【常考字詞與句型】allow sb to V（讓某人得以）、enable sb to V（使某人能夠）、permit sb to V（允許某人）、A, along with B, is…（主詞仍是 A）、as well as（以及，不影響主詞單複數）。",
+    "note": "【你可能會這樣想】看到空格前面最近的名詞是 an exercise system（單數），很容易直接選 allows。也有人覺得整句讀起來像在描述「這些動作正在讓人體驗到氣」，於是選了 allowing。兩個念頭都跳過了同一件事：先確認這個句子的主要動詞在哪裡。【怎麼判斷】先把句型看出來，這一題的骨幹是：S ，Ving 片語，___V___對應到本句就是：These movements（主詞）、forming an exercise system（分詞片語，夾在兩個逗號之間）、然後才是空格。關鍵在中間那一段：forming an exercise system 是分詞片語，它的工作是修飾前面的 These movements（說明這些動作構成了一套運動系統），分詞不能當句子的主要動詞。把它整段遮掉，句子剩下 These movements ___ one to experience the vital life force——到這裡整句還沒有動詞，所以空格非動詞不可。認出這一點，答案的範圍就只剩 allow、allows、allowed 三個限定動詞形態，allowing 直接出局。接著才輪到第二層：主詞是 These movements（複數）不是 an exercise system，所以用原形 allow。順序很重要——先確定「這裡要放動詞」，再決定「動詞要長什麼樣」。倒過來做的人會卡在 allows 與 allowing 之間出不來。這個句型在題庫裡還有一個對照組：95 年第 27 題的 attracts，那一題也是先找主要動詞，只是線索換成 and 的對稱。兩題可以擺在一起看。【干擾選項】allowing：現在分詞，不是限定動詞。填進去整句就會變成 These movements, forming ..., allowing ...——一串修飾語接一串修飾語，從頭到尾沒有動詞，不成句子。allows：主詞是複數的 These movements，不是中間那個單數的 an exercise system。兩個逗號夾住的成分先遮掉，主詞就一目了然。掛鉤是國中的 The boy with two dogs is my brother.（主詞是 boy 不是 dogs）；同型的干擾成分還有 along with、as well as、together with，它們都不會改變主詞的單複數。allowed：過去式，但整段在介紹太極拳現今的功效，用的是現在簡單式的通則敘述。【常考字詞與句型】S, Ving 片語, V（主詞後插入分詞片語，動詞在後）、allow sb to V（讓某人得以）、enable sb to V（使某人能夠）、permit sb to V（允許某人）、A, along with B, is …（主詞仍是 A）、a life force（生命能量）。",
     "discrimination": 45,
     "contextSpan": "句內"
   },
