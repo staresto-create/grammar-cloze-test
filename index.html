@@ -399,6 +399,17 @@
       本站的跨句題共 58 題（約一成），另有 9 題屬於「篇章」。跨句題的分布並不平均：<b>連接詞／轉承語</b>有 21%、<b>代名詞／指示詞</b>有 33% 需要跨句判斷，約是<b>字彙選義</b>（9%）與<b>慣用語／片語</b>（13%）的兩到四倍——看到 this、that、these、another 或轉承語時，回頭看前一句的必要性明顯比其他題型高。不過要注意，跨句題在每一個類別裡都仍是少數，多數空格的線索就在同一句內。另外，答對率低於 40% 的 80 道難題中，有 17 題屬於跨句或篇章，其中 11 題掛在「字彙選義」名下——選項看起來只是四個單字，實際上要靠前後句才選得出來，這是最容易失手的地方。<br>
       <b>所以建議兩件事：</b>第一，作答前先判斷這一格要看多遠。判斷錯了會白花時間——句內題一直回頭翻前後文是浪費，跨句題只盯著一句看則永遠選不出來。第二，對完答案不要只記正確選項，要把四個選項的差別、以及該字的常見搭配一起記下來，難題的關鍵幾乎都在這裡。
     </div>
+<!--DIFFTAG-S-->
+    <div class="span-box">
+      <div class="stitle">📚 兩個難度標籤怎麼看</div>
+      每一篇題目上方會顯示兩個標籤。<b>它們講的是不同的事，要分開看</b>——一篇文章可能字很淺但很長，也可能很短但字很難。<br>
+      <b>進階詞 N%　</b>大考中心《高中英文參考詞彙表》把高中字彙分成六級，數字愈大愈進階；這裡的「進階詞」指的是<span class="num">第五、六級</span>的字。百分比算的是這一篇的<b>實詞</b>（名詞、動詞、形容詞、副詞）當中，第五、六級字佔多少——the、of、is 這類功能詞不計，因為它們幾乎全是第一級，算進去只會把數字稀釋掉。<br>
+      <b>每格 N 字　</b>這一篇平均每一個空格需要讀多少字。<br>
+      <b>顏色只分三段　</b>綠／黃／紅是把全部 <span class="num">98 篇</span> 由低到高排序後三等分得來的，用來快速比較，<b>不是精密刻度</b>。早期年度的文章很短，實詞可能只有三十來個，<span class="num">一個字就佔 3%</span>，所以短篇的百分比跳動會很大。<br>
+      <b>綠配紅很常見　</b>95 年第一篇每格要讀 <span class="num">40 字</span>、進階詞卻是 <span class="num">0%</span>；92 年第一篇每格只有 <span class="num">26 字</span>、進階詞卻有 <span class="num">14.5%</span>。篇幅長不等於字難，字難也不等於篇幅長。<br>
+      <b>考題確實愈來愈重　</b>83 到 115 年每一篇都算過：83–90 年平均每格 <span class="num">18 字</span>、進階詞 <span class="num">2.5%</span>；105–115 年平均每格 <span class="num">37 字</span>、進階詞 <span class="num">7.4%</span>。閱讀量翻了一倍、進階詞密度翻了近三倍，而且逐年看是一路上升。<b>所以拿早期考題練習時，別把「寫起來很順」直接當成自己已經準備好了。</b>
+    </div>
+<!--DIFFTAG-E-->
     <div class="strategy-box">
                         <div class="stitle">📖 作答前，先掌握這五個戰術與隱形連結</div>
       <div style="background:#FBEAEA; border:1px solid var(--crimson); border-radius:4px; padding:10px 12px; margin-bottom:10px;">
@@ -537,7 +548,7 @@
     </div>
     <div class="progress-bar"><div class="progress-fill" id="fullProgressFill" style="width:0%"></div></div>
     <div class="card">
-      <span class="q-tag" id="fullYearTag"></span>
+      <span class="q-tag" id="fullYearTag"></span><!--DIFFTAG-S--><span class="q-tag diff" id="fullVocabTag"></span><span class="q-tag diff" id="fullLoadTag"></span><!--DIFFTAG-E-->
       <div class="level-caption">👇 選一個最接近你目前程度的按鈕，會自動幫你決定要不要顯示提示（下面也可以隨時手動開關）</div>
       <div class="level-select-row">
         <span class="level-label">我屬於：</span>
@@ -704,9 +715,9 @@ function toggleAllCats(on){
 
 let selectedYears = new Set();
 //DIFFTAG-S
-function renderDiffTags(pid){
-  const v = document.getElementById('singleVocabTag');
-  const l = document.getElementById('singleLoadTag');
+function renderDiffTags(pid, vId, lId){
+  const v = document.getElementById(vId || 'singleVocabTag');
+  const l = document.getElementById(lId || 'singleLoadTag');
   if(!v || !l) return;
   const p = PROFILE[pid];
   if(!p){ v.className='q-tag diff'; l.className='q-tag diff'; return; }
@@ -1230,6 +1241,9 @@ function renderFull(){
   document.getElementById('fullWrongBadge').innerHTML = testMode ? '<span style="color:var(--gold);">● 測試模式中</span>' : '';
   document.getElementById('fullProgressFill').style.width = (fullIdx/fullPassageIds.length*100)+'%';
   document.getElementById('fullYearTag').textContent = passage.year;
+  //DIFFTAG-S
+  renderDiffTags(pid, 'fullVocabTag', 'fullLoadTag');
+  //DIFFTAG-E
 
   let html = renderMarkedPlain(passage.textMarked || passage.text);
   items.forEach(it=>{
