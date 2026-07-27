@@ -397,7 +397,25 @@
   #singleReportId{display:block; margin-bottom:4px; font-family:'IBM Plex Mono',monospace;}
 
   footer{text-align:center; margin-top:32px; color:var(--ink-soft); font-size:11px; font-family:'IBM Plex Mono',monospace;}
-</style>
+
+  .info-box{background:var(--paper-card); border:1px solid var(--rule); border-radius:4px; padding:14px 16px; margin-bottom:20px;}
+  .info-box .stitle{font-family:'Noto Serif TC',serif; font-weight:900; font-size:14px; color:var(--ink); margin-bottom:2px;}
+  .info-box .ssub{font-size:11.5px; color:var(--ink-soft); margin-bottom:12px;}
+  .stat-grid{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-bottom:14px;}
+  .stat-card{background:#FBF8EE; border:1px solid var(--rule); border-radius:4px; padding:12px 14px;}
+  .stat-num{font-size:32px; font-weight:700; line-height:1.1; font-family:'IBM Plex Mono',monospace;}
+  .stat-lab{font-size:13px; color:var(--ink); margin-top:4px;}
+  .stat-sub{font-size:11.5px; color:var(--ink-soft);}
+  .cat-bar{display:flex; height:22px; border-radius:3px; overflow:hidden; margin-bottom:8px;}
+  .cat-key{font-size:11.5px; color:var(--ink-soft); line-height:1.9;}
+  .cat-key i{display:inline-block; width:9px; height:9px; border-radius:2px; margin-right:5px; font-style:normal;}
+  @media (max-width:560px){
+    .stat-grid{grid-template-columns:1fr; gap:8px;}
+    .stat-card{display:flex; align-items:center; gap:14px;}
+    .stat-num{min-width:66px;}
+    .stat-lab{margin-top:0;}
+  }
+  </style>
 </head>
 <body>
 <div class="wrap">
@@ -416,9 +434,39 @@
     </div>
     <!--DIFFTAG-E-->
     <div class="status-banner">
-      <b>現況說明：</b>目前題庫涵蓋83–115年<b>學測</b>克漏字（共 565 題，<b>全部附深入解析</b>），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯。內容仍在持續核對、修訂中，如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！<br>
+      <b>現況說明：</b>目前題庫涵蓋83–115年<b>學測</b>克漏字（共 565 題，<b>全部附深入解析</b>），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯。題庫與解析均已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！<br>
       <b>關於答對率：</b>部分題目下方會顯示大考中心公布的全體考生答對率，目前已收錄91–115年資料；83–90年因大考中心當年未公布逐題答對率，暫無此資訊，並非題目遺漏。
     </div>
+    
+    <div class="info-box">
+      <div class="stitle">這 565 題到底在考什麼？</div>
+      <div class="ssub">依本站自訂分類統計，非官方分類</div>
+      <div class="stat-grid">
+        <div class="stat-card"><div class="stat-num" style="color:var(--sage);">71%</div><div><div class="stat-lab">是字彙與片語</div><div class="stat-sub">真正的文法題不到三成</div></div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--gold);">88%</div><div><div class="stat-lab">答案在同一句</div><div class="stat-sub">565 題中有 498 題</div></div></div>
+        <div class="stat-card"><div class="stat-num" style="color:var(--crimson);">41%</div><div><div class="stat-lab">句型結構答對率</div><div class="stat-sub">題數最少，卻最難</div></div></div>
+      </div>
+      <div class="cat-bar">
+        <div style="width:45.7%; background:#3E6E52;"></div>
+        <div style="width:25.5%; background:#6E9B7E;"></div>
+        <div style="width:6.7%; background:#A9812E;"></div>
+        <div style="width:5.8%; background:#C7A75E;"></div>
+        <div style="width:16.3%; background:#DCD3BB;"></div>
+      </div>
+      <div class="cat-key">
+        <i style="background:#3E6E52;"></i>字彙選義 258　<i style="background:#6E9B7E;"></i>慣用語／片語 144　<i style="background:#A9812E;"></i>分詞／動狀詞 38<br>
+        <i style="background:#C7A75E;"></i>連接詞／轉承語 33　<i style="background:#DCD3BB;"></i>其餘七類 92
+      </div>
+      <div class="dh-body" id="statHelpBody">
+        各類的平均答對率：句型結構 41%、代名詞／指示詞 40%、時態／語態 47%、介系詞 48%、慣用語／片語 50%、分詞／動狀詞 52%、比較級 52%、字彙選義 53%、連接詞／轉承語 55%。<b>題數最少的句型結構反而最難</b>，遇到就要慢下來。<br>
+        答對率 40% 以下的難題共 89 題，其中 41 題是字彙選義、28 題是慣用語／片語——<b>難題也集中在同樣兩類</b>，練搭配的投報率最高。
+      </div>
+      <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div>
+      <div style="margin-top:12px; padding-top:10px; border-top:1px dashed var(--rule); font-size:13px; color:var(--ink); line-height:1.75;">
+        失分多半不是讀不懂文章，是<b style="color:var(--sage);">字詞搭配不夠熟</b>。句子就在眼前，卻分不出四個選項的差別。
+      </div>
+    </div>
+
     <div class="span-box">
       <div class="stitle">📊 關於本站的答對率（P 值）與鑑別度（D 值）</div>
       題目下方的兩個數字全部來自<b>大考中心公布的官方統計</b>：<b>答對率</b>愈低代表題目愈難，<b>鑑別度</b>愈高代表愈能區分程度。
@@ -481,7 +529,8 @@
     <div class="span-box">
       <div class="stitle">🔍 讀句子的第一步：先找「什麼」和「怎麼了」</div>
       主詞不一定是人，可以是一個動作、一種物質、一個現象。找到主詞和動詞就抓到<b>骨幹</b>了，其餘的介系詞片語、分詞片語、關係子句、同位語，都是掛在骨幹上的修飾。先看兩句本站的考古題：
-      <div class="sk-ex">
+      <div class="dh-body" id="skelHelpBody">
+<div class="sk-ex">
         <span class="sk-src">108年 · 學測克漏字</span>
         <p class="sk-en">However, many people, either refusing to accept the new date or not having heard about it, continued to celebrate New Year's Day on April 1.</p>
         <p class="sk-zh">（然而許多人，有的不願接受新的日期，有的根本沒聽說過這件事，仍然繼續在四月一日慶祝新年。）</p>
@@ -495,7 +544,7 @@
         <p class="sk-core">➜ There are two kinds of heroes. <em>（英雄有兩種。）</em></p>
         <p class="sk-tip">💡 後面 50 個字全都在回答「哪兩種」。</p>
       </div>
-      <div class="dh-body" id="skelHelpBody">
+      
         <div class="sk-more">再看七句，涵蓋修飾語會出現的各種位置。你可以先蓋住每一句下面那一行，自己試著把骨幹找出來。</div>
       <div class="sk-ex">
         <span class="sk-src">97年</span>
@@ -579,8 +628,20 @@
       </div>
       <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div><!--DIFFTAG-E-->
     </div>
+    <div class="info-box">
+      <div class="stitle">這些解析是怎麼做出來的</div>
+      <div class="ssub">老師與 AI 共同撰寫，第二個 AI 交叉校閱，老師逐則看過</div>
+      <div class="dh-body" id="madeHelpBody">
+        每一則解析由老師與 AI（Claude）共同撰寫，再經第二個 AI（Gemini）交叉校閱，最後<b>由老師逐則看過</b>才上站；文法說法一律查證權威來源（如劍橋 English Grammar Today），並在文中註明出處。<br>
+        即使如此，<b>錯誤仍然可能存在</b>：官方答對率的轉錄可能有疏漏；文法分類與線索範圍是老師的教學判斷、不是官方分類，見仁見智之處在所難免。本站列出的各類題數與比例，也是依這一套自訂分類算出來的，換一套分法數字就會不同。<br>
+        若解析與你的課本或辭典說法不同，請以權威來源與任課老師的說明為準。<b>發現任何錯誤，歡迎回報</b>，我會逐筆核對更正。
+      </div>
+      <div class="dh-toggle" onclick="toggleHelp(this)">▼ 看詳細說明</div>
+    </div>
+
     <div class="card">
-      <div class="home-lead">選擇練習模式</div>
+      
+    <div class="home-lead">選擇練習模式</div>
       <div class="home-desc">克漏字題目需要通篇文章的上下文才能正確作答，兩種模式都會顯示完整段落。</div>
       <div class="mode-grid">
         <div class="mode-card active" id="modeCardSingle" onclick="selectMode('single')">
