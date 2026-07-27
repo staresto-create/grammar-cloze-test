@@ -415,6 +415,11 @@
     .stat-num{min-width:66px;}
     .stat-lab{margin-top:0;}
   }
+  
+  .pt-row{display:flex; gap:10px; padding:9px 0; border-bottom:1px dashed var(--rule); font-size:13px; color:var(--ink); line-height:1.6;}
+  .pt-row:last-child{border-bottom:none;}
+  .pt-eg{font-size:11.5px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace; white-space:nowrap;}
+  @media (max-width:560px){ .pt-row{flex-direction:column; gap:2px;} .pt-eg{white-space:normal;} }
   </style>
 </head>
 <body>
@@ -471,6 +476,18 @@
         失分多半不是讀不懂文章，是<b style="color:var(--sage);">字詞搭配不夠熟</b>。句子就在眼前，卻分不出四個選項的差別。
       </div>
     </div>
+
+    <div class="info-box">
+      <div class="stitle">最常考的考點</div>
+      <div class="ssub">老師從全部解析裡點出來的重複考點，依重要性排序</div>
+      <div class="pt-row"><div style="flex:1;">並列結構：<b>先找對等連接詞</b>，再照抄前面那一個的形態</div><div class="pt-eg">例：100 年第 19 題</div></div>
+      <div class="pt-row"><div style="flex:1;"><b>what ＝ the thing(s) that</b>，進不進得來看子句缺不缺成分</div><div class="pt-eg">例：100 年第 29 題</div></div>
+      <div class="pt-row"><div style="flex:1;">關係副詞 <b>where 不只指地點</b>，也能引導抽象的情況</div><div class="pt-eg">例：98 年第 23 題</div></div>
+      <div class="pt-row"><div style="flex:1;">轉承語<b>可以夾在主詞與動詞中間</b>，不一定站句首</div><div class="pt-eg">例：101 年第 18 題</div></div>
+      <div class="pt-row"><div style="flex:1;"><b>do so 替代前面整個動作</b>，別把 so 讀成「所以」</div><div class="pt-eg">例：97 年第 22 題</div></div>
+      <div class="pt-row"><div style="flex:1;"><b>as 有兩種身分</b>：接子句是連接詞，接名詞是介系詞</div><div class="pt-eg">例：94 年第 18 題</div></div>
+    </div>
+
 
     <div class="span-box">
       <div class="stitle">📊 關於本站的答對率（P 值）與鑑別度（D 值）</div>
