@@ -689,8 +689,8 @@
       <div class="stitle">📚 兩個難度標籤怎麼看</div>
       題目上方的兩個標籤：<b>進階詞 N%</b> 是這一篇用了多少<span class="num">第五、六級</span>的難字，<b>每格 N 字</b> 是平均每一個空格要讀多少字。<b>兩者講的是不同的事，要分開看</b>——文章可能字很淺但很長，也可能很短但字很難。
       <div class="dh-body" id="diffHelpBody">
-        <b>進階詞是什麼　</b>大考中心《高中英文參考詞彙表》把高中字彙分成六級，數字愈大愈進階；「進階詞」指的就是第五、六級的字。百分比算的是這一篇的<b>實詞</b>（名詞、動詞、形容詞、副詞）當中，第五、六級字佔多少——the、of、is 這類功能詞不計，因為它們幾乎全是第一級，算進去只會把數字稀釋掉。（<a href="https://www.ceec.edu.tw/files/file_pool/1/0k213571061045122620/%e9%ab%98%e4%b8%ad%e8%8b%b1%e6%96%87%e5%8f%83%e8%80%83%e8%a9%9e%e5%bd%99%e8%a1%a8%28111%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%b5%b7%e9%81%a9%e7%94%a8%29.pdf" target="_blank" rel="noopener">大考中心《高中英文參考詞彙表》PDF ↗</a>）<br>
-        <b>顏色只分三段　</b>綠／黃／紅是把全部 <span class="num">98 篇</span> 由低到高排序後三等分得來的，用來快速比較，<b>不是精密刻度</b>。早期年度的文章很短，實詞可能只有三十來個，<span class="num">一個字就佔 3%</span>，所以短篇的百分比跳動會很大。<br>
+        <b>進階詞是什麼　</b>大考中心《高中英文參考詞彙表》把高中字彙分成六級，數字愈大愈進階；「進階詞」指的就是第五、六級的字。百分比算的是這一篇的<b>實詞</b>（名詞、動詞、形容詞、副詞）當中，第五、六級字占多少——the、of、is 這類功能詞不計，因為它們幾乎全是第一級，算進去只會把數字稀釋掉。（<a href="https://www.ceec.edu.tw/files/file_pool/1/0k213571061045122620/%e9%ab%98%e4%b8%ad%e8%8b%b1%e6%96%87%e5%8f%83%e8%80%83%e8%a9%9e%e5%bd%99%e8%a1%a8%28111%e5%ad%b8%e5%b9%b4%e5%ba%a6%e8%b5%b7%e9%81%a9%e7%94%a8%29.pdf" target="_blank" rel="noopener">大考中心《高中英文參考詞彙表》PDF ↗</a>）<br>
+        <b>顏色只分三段　</b>綠／黃／紅是把全部 <span class="num">98 篇</span> 由低到高排序後三等分得來的，用來快速比較，<b>不是精密刻度</b>。早期年度的文章很短，實詞可能只有三十來個，<span class="num">一個字就占 3%</span>，所以短篇的百分比跳動會很大。<br>
         <b>綠配紅很常見　</b>95 年第一篇每格要讀 <span class="num">40 字</span>、進階詞卻是 <span class="num">0%</span>；92 年第一篇每格只有 <span class="num">26 字</span>、進階詞卻有 <span class="num">14.5%</span>。篇幅長不等於字難，字難也不等於篇幅長。<br>
         <b>考題確實愈來愈重　</b>83 到 115 年每一篇都算過：83–90 年平均每格 <span class="num">18 字</span>、進階詞 <span class="num">2.3%</span>；105–115 年平均每格 <span class="num">37 字</span>、進階詞 <span class="num">7.7%</span>。閱讀量翻了一倍、進階詞密度翻了近三倍，而且逐年看是一路上升。<b>所以拿早期考題練習時，別把「寫起來很順」直接當成自己已經準備好了。</b>
       </div>
@@ -1036,7 +1036,7 @@ function renderDiffTags(pid, vId, lId){
   if(!p){ v.className='q-tag diff'; l.className='q-tag diff'; return; }
   v.textContent = '進階詞 ' + p.advPct + '%';
   v.className = 'q-tag diff show b' + (p.vcBand===null?1:p.vcBand);
-  v.title = '本篇實詞中，大考中心參考詞彙表第五、六級字所佔的比重';
+  v.title = '本篇實詞中，大考中心參考詞彙表第五、六級字所占的比重';
   if(p.readLoad){
     l.textContent = '每格 ' + Math.round(p.readLoad) + ' 字';
     l.className = 'q-tag diff show b' + (p.rlBand===null?1:p.rlBand);
