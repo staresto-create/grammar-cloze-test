@@ -452,6 +452,8 @@
       565 題，每一題都先告訴你為什麼會選錯，再告訴你怎麼判斷。
     </div>
 
+    <button class="big-btn" style="margin-top:0; margin-bottom:20px;" onclick="quickStart()">立即開始 · 隨機10題</button>
+
     <div class="new-banner">
       <div class="nb-title">✨ 全部 565 題都有深入解析了</div>
       作答之後，答案下方會出現一個 <b>▸ 看解析</b>，點開是四段拆解：<b>你可能會這樣想</b>（你為什麼會被那個選項騙走）→ <b>怎麼判斷</b> → <b>誘答選項</b>為什麼錯 → <b>常考字詞與句型</b>。<br>
@@ -1179,6 +1181,15 @@ function startSession(){
     // 全文模式：不受文法分類篩選影響，一律顯示完整段落所有空格，只依年份與難易度篩選
     startFullMode(it => yearOk(it) && diffOk(it));
   }
+}
+
+function quickStart(){
+  testMode = document.getElementById('testModeToggle').checked;
+  singleQueue = buildQueue(()=>true).slice(0,10);
+  if(singleQueue.length===0) return;
+  singleIdx = 0;
+  showScreen('single');
+  renderSingle();
 }
 
 function startWrongReview(){
