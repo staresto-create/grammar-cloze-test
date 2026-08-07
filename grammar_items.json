@@ -1,7 +1,7 @@
 [
   {
     "id": "G83_11_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 11,
     "category": "時態／語態",
@@ -18,7 +18,7 @@
   },
   {
     "id": "G83_12_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 12,
     "category": "介系詞",
@@ -35,7 +35,7 @@
   },
   {
     "id": "G83_13_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 13,
     "category": "句型結構",
@@ -52,7 +52,7 @@
   },
   {
     "id": "G83_14_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 14,
     "category": "字彙選義",
@@ -69,7 +69,7 @@
   },
   {
     "id": "G83_15_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 15,
     "category": "分詞／動狀詞",
@@ -86,7 +86,7 @@
   },
   {
     "id": "G83_16_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 16,
     "category": "字彙選義",
@@ -103,7 +103,7 @@
   },
   {
     "id": "G83_17_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 17,
     "category": "關係子句／疑問詞",
@@ -120,7 +120,7 @@
   },
   {
     "id": "G83_18_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 18,
     "category": "介系詞",
@@ -137,7 +137,7 @@
   },
   {
     "id": "G83_19_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -154,7 +154,7 @@
   },
   {
     "id": "G83_20_1",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_1",
     "blankNum": 20,
     "category": "連接詞／轉承語",
@@ -171,7 +171,7 @@
   },
   {
     "id": "G83_21_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 21,
     "category": "慣用語／片語",
@@ -188,7 +188,7 @@
   },
   {
     "id": "G83_22_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 22,
     "category": "句型結構",
@@ -205,7 +205,7 @@
   },
   {
     "id": "G83_23_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -222,7 +222,7 @@
   },
   {
     "id": "G83_24_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 24,
     "category": "連接詞／轉承語",
@@ -239,7 +239,7 @@
   },
   {
     "id": "G83_25_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -256,7 +256,7 @@
   },
   {
     "id": "G83_26_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 26,
     "category": "介系詞",
@@ -273,7 +273,7 @@
   },
   {
     "id": "G83_27_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 27,
     "category": "關係子句／疑問詞",
@@ -290,7 +290,7 @@
   },
   {
     "id": "G83_28_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 28,
     "category": "字彙選義",
@@ -307,7 +307,7 @@
   },
   {
     "id": "G83_29_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 29,
     "category": "字彙選義",
@@ -324,7 +324,7 @@
   },
   {
     "id": "G83_30_2",
-    "year": "83年",
+    "year": "83 年",
     "passageId": "83_2",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -342,7 +342,7 @@
   },
   {
     "id": "G84_21_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 21,
     "category": "慣用語／片語",
@@ -353,13 +353,13 @@
       "D": "On the whole"
     },
     "answer": "C",
-    "explanation": "段落開頭列舉多個原因的第一項（後文blank26附近有「Secondly」承接第二項），For one thing（其中一個原因是）符合這種「列點論述」的開頭；For example是舉例、Afterwards是之後、On the whole是整體而言，都不符合這裡「列出第一個理由」的功能。",
+    "explanation": "段落開頭列舉多個原因的第一項（後文 blank26 附近有「Secondly」承接第二項），For one thing（其中一個原因是）符合這種「列點論述」的開頭；For example 是舉例、Afterwards 是之後、On the whole 是整體而言，都不符合這裡「列出第一個理由」的功能。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是段落開頭常見的轉承語，而 For example（舉例來說）看起來最像是要開始講例子，很容易先挑它。這一格的證據不在附近，在整篇文章的結構裡。【怎麼判斷】四個選項都是轉承語，可見這一格考的是這一段在整篇裡的位置。往後找一個關鍵字：這一篇後面出現了 Secondly（第二點），再往後又出現 The strongest encouragement ... comes from advertisers（最強的鼓勵來自廣告商）。也就是說，作者是在列舉「美國鼓勵年輕人喝酒」的幾個原因，而空格所在的地方正是第一點的開頭。既然後面用了 Secondly，前面這一點就要用 For one thing（其一是……）——這是英文列舉的固定框架：For one thing ... , for another ... 或 For one thing ... , Secondly ...。（同型見 93 年第 17 題的 for one thing …, for another … 那一組。）【誘答選項】For example（舉例來說）：舉例要有一個被舉例的通則，但這裡不是在為某句話舉例，是在列出第一個原因。On the whole（整體而言）：用來收攏、下總結，而這裡才剛開始展開。Afterwards（之後）：講時間先後，與列舉原因無關。【常考字詞與句型】For one thing …, for another …（其一……其二……）、Secondly（第二點）、on the whole（整體而言）、encourage sb to V（鼓勵某人做……）、be part of（是……的一部分）、a celebration（慶祝活動）。"
   },
   {
     "id": "G84_22_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 22,
     "category": "慣用語／片語",
@@ -376,7 +376,7 @@
   },
   {
     "id": "G84_23_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 23,
     "category": "字彙選義",
@@ -393,7 +393,7 @@
   },
   {
     "id": "G84_24_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 24,
     "category": "字彙選義",
@@ -410,7 +410,7 @@
   },
   {
     "id": "G84_25_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 25,
     "category": "分詞／動狀詞",
@@ -427,7 +427,7 @@
   },
   {
     "id": "G84_26_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 26,
     "category": "字彙選義",
@@ -444,7 +444,7 @@
   },
   {
     "id": "G84_27_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 27,
     "category": "字彙選義",
@@ -461,7 +461,7 @@
   },
   {
     "id": "G84_28_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 28,
     "category": "連接詞／轉承語",
@@ -479,7 +479,7 @@
   },
   {
     "id": "G84_29_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 29,
     "category": "字彙選義",
@@ -496,7 +496,7 @@
   },
   {
     "id": "G84_30_1",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_1",
     "blankNum": 30,
     "category": "關係子句／疑問詞",
@@ -507,13 +507,13 @@
       "D": "why"
     },
     "answer": "B",
-    "explanation": "while 在這裡表示「當……的同時」，後面並列的 sitting around ski lodges、sailing、dancing、enjoying a football game 都是「活動」而非「地點」，用while銜接這些並列的動態活動更合理；where 是關係副詞，需要修飾地方名詞，但sailing、dancing這些是動名詞活動不是地點，用where文法上兜不起來。",
+    "explanation": "while 在這裡表示「當……的同時」，後面並列的 sitting around ski lodges、sailing、dancing、enjoying a football game 都是「活動」而非「地點」，用 while 銜接這些並列的動態活動更合理；where 是關係副詞，需要修飾地方名詞，但 sailing、dancing 這些是動名詞活動不是地點，用 where 文法上兜不起來。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】空格後面接著一長串 sitting、sailing、dancing、enjoying，其中 ski lodges 是地方，很容易讓人選 where。這一格要先數成分，再看那一串到底是地點還是活動。【怎麼判斷】四個選項都是 wh- 詞，先數空格後面那個子句缺不缺成分：they are sitting around ski lodges, sailing, dancing, or enjoying a football game——主詞是 they、動詞是 are sitting／sailing／dancing／enjoying，受詞也齊了，成分一個都不缺。既然不缺，what 就先出局：它自己是一個名詞，進到子句裡一定要占一個位置（同判準：93 年第 18 題、91 年第 25 題、90 年第 20 題、87 年第 26 題）。剩下 where、while、why，這時看那一串在講什麼：sitting around ski lodges（在滑雪小屋周圍坐著）、sailing（航行）、dancing（跳舞）、enjoying a football game（看球賽）——四個並列的都是「活動」，不是「地點」；ski lodges 只是其中一個活動的場所，撐不起整串。所以不是 where。也不是 why——這一句沒有在解釋舉杯的原因。剩下 while（當……的同時）：人們是在做這些活動的同時舉杯，時間上重疊，語意完全吻合。（同時性的說法還有 as，86 年第 23 題考的就是 as 的這個用法。）【誘答選項】where：並列的四個是活動不是地點。why：句中沒有因果關係。what：成分已滿，塞不進去。【常考字詞與句型】while ＋ 子句（當……的同時）、hoist one’s glass（舉杯）、sit around（閒坐在……周圍）、a ski lodge（滑雪小屋）、go sailing（去帆船航行）、just the opposite（正好相反）。"
   },
   {
     "id": "G84_31_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 31,
     "category": "慣用語／片語",
@@ -530,7 +530,7 @@
   },
   {
     "id": "G84_32_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 32,
     "category": "連接詞／轉承語",
@@ -547,7 +547,7 @@
   },
   {
     "id": "G84_33_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 33,
     "category": "慣用語／片語",
@@ -565,7 +565,7 @@
   },
   {
     "id": "G84_34_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 34,
     "category": "介系詞",
@@ -582,7 +582,7 @@
   },
   {
     "id": "G84_35_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 35,
     "category": "字彙選義",
@@ -599,7 +599,7 @@
   },
   {
     "id": "G84_36_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 36,
     "category": "分詞／動狀詞",
@@ -616,7 +616,7 @@
   },
   {
     "id": "G84_37_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 37,
     "category": "字彙選義",
@@ -633,7 +633,7 @@
   },
   {
     "id": "G84_38_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 38,
     "category": "字彙選義",
@@ -650,7 +650,7 @@
   },
   {
     "id": "G84_39_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 39,
     "category": "連接詞／轉承語",
@@ -667,7 +667,7 @@
   },
   {
     "id": "G84_40_2",
-    "year": "84年",
+    "year": "84 年",
     "passageId": "84_2",
     "blankNum": 40,
     "category": "關係子句／疑問詞",
@@ -684,7 +684,7 @@
   },
   {
     "id": "G85_21_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 21,
     "category": "字彙選義",
@@ -701,7 +701,7 @@
   },
   {
     "id": "G85_22_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 22,
     "category": "慣用語／片語",
@@ -718,7 +718,7 @@
   },
   {
     "id": "G85_23_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 23,
     "category": "字彙選義",
@@ -735,7 +735,7 @@
   },
   {
     "id": "G85_24_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 24,
     "category": "連接詞／轉承語",
@@ -752,7 +752,7 @@
   },
   {
     "id": "G85_25_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 25,
     "category": "分詞／動狀詞",
@@ -769,7 +769,7 @@
   },
   {
     "id": "G85_26_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 26,
     "category": "字彙選義",
@@ -787,7 +787,7 @@
   },
   {
     "id": "G85_27_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 27,
     "category": "慣用語／片語",
@@ -804,7 +804,7 @@
   },
   {
     "id": "G85_28_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -821,7 +821,7 @@
   },
   {
     "id": "G85_29_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 29,
     "category": "字彙選義",
@@ -838,7 +838,7 @@
   },
   {
     "id": "G85_30_1",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_1",
     "blankNum": 30,
     "category": "時態／語態",
@@ -855,7 +855,7 @@
   },
   {
     "id": "G85_31_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 31,
     "category": "字彙選義",
@@ -873,7 +873,7 @@
   },
   {
     "id": "G85_32_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 32,
     "category": "比較級",
@@ -890,7 +890,7 @@
   },
   {
     "id": "G85_33_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 33,
     "category": "慣用語／片語",
@@ -908,7 +908,7 @@
   },
   {
     "id": "G85_34_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 34,
     "category": "慣用語／片語",
@@ -925,7 +925,7 @@
   },
   {
     "id": "G85_35_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 35,
     "category": "慣用語／片語",
@@ -943,7 +943,7 @@
   },
   {
     "id": "G85_36_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 36,
     "category": "介系詞",
@@ -960,7 +960,7 @@
   },
   {
     "id": "G85_37_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 37,
     "category": "慣用語／片語",
@@ -977,7 +977,7 @@
   },
   {
     "id": "G85_38_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 38,
     "category": "字彙選義",
@@ -994,7 +994,7 @@
   },
   {
     "id": "G85_39_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 39,
     "category": "字彙選義",
@@ -1011,7 +1011,7 @@
   },
   {
     "id": "G85_40_2",
-    "year": "85年",
+    "year": "85 年",
     "passageId": "85_2",
     "blankNum": 40,
     "category": "字彙選義",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": "G87_21_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 21,
     "category": "字彙選義",
@@ -1045,7 +1045,7 @@
   },
   {
     "id": "G87_22_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 22,
     "category": "字彙選義",
@@ -1056,13 +1056,13 @@
       "D": "despite"
     },
     "answer": "C",
-    "explanation": "語意「他可以學會說任何字——除了一個字之外」，except（除了）符合後文「他不會說Catano這個字」；without（沒有）、beyond（超過）、despite（儘管）都不符合這裡「除外」的語意。",
+    "explanation": "語意「他可以學會說任何字——除了一個字之外」，except（除了）符合後文「他不會說 Catano 這個字」；without（沒有）、beyond（超過）、despite（儘管）都不符合這裡「除外」的語意。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都能接名詞，中文又都帶著「沒有、除了、超過、儘管」的排除味道，很容易憑語感挑。這一格要看的是破折號後面那個 one 指什麼。【怎麼判斷】先把句子讀完：He could learn to say any word-- ___ one.（他任何字都學得會——……一個字。）再往下讀一句：He could not say the name of his native town, Catano.（他說不出他家鄉的名字 Catano。）所以那個 one 指的就是 Catano 這一個字，整句要說的是「任何字都會，就只有這一個不會」——這是從全體裡挖掉一個，正是 except（除了……之外）。【誘答選項】without（沒有）：without one 是「沒有一個」，會變成「他任何字都學得會，沒有一個字」，自相矛盾。beyond（超過、超出）：講的是範圍或程度上超出，beyond one 沒有「除了一個」的意思。despite（儘管）：表讓步，後面接的是一個被克服的阻礙，而這裡的 one 不是阻礙，是被排除在外的例外。【常考字詞與句型】except（除了……之外）、except for（除了……之外，用於整體評價）、apart from（除了）、native town（家鄉）、any word（任何一個字）、despite（儘管）。"
   },
   {
     "id": "G87_23_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 23,
     "category": "字彙選義",
@@ -1079,7 +1079,7 @@
   },
   {
     "id": "G87_24_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 24,
     "category": "字彙選義",
@@ -1090,13 +1090,13 @@
       "D": "succeeded"
     },
     "answer": "D",
-    "explanation": "依照故事情節（男人一直教不會鸚鵡說Catano，直到最後才意外成功），語意上應該是「他從未成功過」，he never succeeded 才符合故事邏輯；failed（他從未失敗過）反而會變成「他總是成功」，跟故事情節矛盾。attempted／changed 都不合。",
+    "explanation": "依照故事情節（男人一直教不會鸚鵡說 Catano，直到最後才意外成功），語意上應該是「他從未成功過」，he never succeeded 才符合故事邏輯；failed（他從未失敗過）反而會變成「他總是成功」，跟故事情節矛盾。attempted／changed 都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】前面說他想盡辦法教鸚鵡說那個字，後面用 but 一轉，照直覺會覺得「但他失敗了」，於是選了 failed。這一格的關鍵在空格前面那個字——never。【怎麼判斷】四個選項是四個不同的動詞，可見這一格考的是語意，但在判斷語意之前，一定要先把否定算進去。空格前面是 he never ___，填什麼進去都會被 never 反轉一次：填 failed 就成了「他從未失敗」，也就是「他每次都成功」——可是整個故事講的正是他怎麼教都教不會，方向完全相反。填 succeeded 才對：he never succeeded（他始終沒有成功），接得住前面的 The man did everything he could（他想盡了辦法），也接得住後面「他開始失去耐性、對鸚鵡大吼」的發展。這一招值得記起來：看到 never、hardly、no 這類否定詞，先把它算進去再判斷選項的方向，不要只看選項本身的中文。【誘答選項】failed：見上，被 never 反轉之後語意與故事相反，這是本題最強的陷阱。attempted（嘗試）：he never attempted 是「他從未嘗試」，與前一句「他想盡了辦法」語意矛盾。changed（改變）：語意與「教得會教不會」無關。【常考字詞與句型】succeed in V-ing（成功做到）、fail to V（未能做到）、attempt to V（嘗試做）、give up（放棄）、never succeed（始終沒有成功）、in the end（最後）。"
   },
   {
     "id": "G87_25_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 25,
     "category": "字彙選義",
@@ -1113,7 +1113,7 @@
   },
   {
     "id": "G87_26_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 26,
     "category": "關係子句／疑問詞",
@@ -1130,7 +1130,7 @@
   },
   {
     "id": "G87_27_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 27,
     "category": "字彙選義",
@@ -1147,7 +1147,7 @@
   },
   {
     "id": "G87_28_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 28,
     "category": "介系詞",
@@ -1158,13 +1158,13 @@
       "D": "for"
     },
     "answer": "D",
-    "explanation": "【句型】for + 目的，表示「為了……（用途）」，for Sunday's dinner表「作為星期天的晚餐」；in／on／at 都不能這樣表達目的用途。",
+    "explanation": "【句型】for + 目的，表示「為了……（用途）」，for Sunday's dinner 表「作為星期天的晚餐」；in／on／at 都不能這樣表達目的用途。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個都是最基本的介系詞，中文都能翻成「在」，而 on Sunday（在星期天）是你背得最熟的組合，所以看到 Sunday’s dinner 很容易反射性地填 on。但空格後面不是 Sunday，是 Sunday’s dinner——一頓飯，不是一個日子。【怎麼判斷】四個選項都是介系詞，可見這一格考的是搭配與語意。先看空格後面接的是什麼：Sunday’s dinner（星期天的晚餐），是一件事物、一個用途。再看整句：four old chickens, waiting to be killed ___ Sunday’s dinner（四隻老母雞，等著被宰來……星期天的晚餐）。這些雞被宰的目的是要成為那頓晚餐，講的是用途，而表示用途、目的要用 for（for ＋ 名詞＝為了……、當作……）。順便把 for 在題庫裡考過的三種身分整理起來：本題是「為了……的用途」；90 年第 21 題是「對……而言」（For a student who is never on time, there is ...）；91 年第 24 題是連接詞「因為」，位置只能放在被解釋的那句話後面。同一個字三種考法，看後面接什麼、看它位於哪裡，就分得出來。【誘答選項】on：on Sunday 是「在星期天」，但空格後面是 Sunday’s dinner 這件事物，不是那個日子。in、at：兩個都用來標時間或地點，接不出「用來當作」這個意思。【常考字詞與句型】for ＋ 名詞（為了、當作）、be killed for food（被宰來當食物）、wait to V（等著做……）、on Sunday（在星期天）、the chicken house（雞舍）、pick sth up（拿起某物）。"
   },
   {
     "id": "G87_29_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 29,
     "category": "字彙選義",
@@ -1181,7 +1181,7 @@
   },
   {
     "id": "G87_30_1",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_1",
     "blankNum": 30,
     "category": "句型結構",
@@ -1192,13 +1192,13 @@
       "D": "lying"
     },
     "answer": "A",
-    "explanation": "這是地方副詞倒裝句：正常語序是「Three dead chickens lay on the floor」，因為地方副詞片語 On the floor 放在句首，主詞和動詞倒裝，動詞用 lay（lie的過去式，表示「躺著、位於」，不及物動詞），時態配合整篇故事的過去式敘事；laid（lay的過去式，是及物動詞「放置」，這裡不需要受詞，用法不合）、lied（lie的過去式，意思是「說謊」，語意不合）、lying（現在分詞，不是限定動詞，不能單獨作倒裝句的主要動詞）都不合。",
+    "explanation": "這是地方副詞倒裝句：正常語序是「Three dead chickens lay on the floor」，因為地方副詞片語 On the floor 放在句首，主詞和動詞倒裝，動詞用 lay（lie 的過去式，表示「躺著、位於」，不及物動詞），時態配合整篇故事的過去式敘事；laid（lay 的過去式，是及物動詞「放置」，這裡不需要受詞，用法不合）、lied（lie 的過去式，意思是「說謊」，語意不合）、lying（現在分詞，不是限定動詞，不能單獨作倒裝句的主要動詞）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】lay、laid、lied、lying 這四個字是英文裡最容易混的一組，因為它們其實來自兩個不同的動詞，中文又都能翻成「躺、放、說謊」。再加上這一句的語序不太一樣，很容易愣住。【怎麼判斷】先把語序看清楚：On the floor ___ three dead chickens.句首是表地方的介系詞片語 On the floor，主詞 three dead chickens 跑到動詞後面去了——這是倒裝。正常語序是 Three dead chickens ___ on the floor.（三隻死雞……在地板上。）還原之後就好判斷了。接著把兩個 lie 和一個 lay 分清楚，這是關鍵：第一組 lie－lay－lain 是「躺著、位於」，不及物，後面不接受詞；第二組 lay－laid－laid 是「放置、下（蛋）」，及物，後面一定要有受詞（lay the book on the table 把書放在桌上）；第三組 lie－lied－lied 是「說謊」，也是不及物。本句的空格後面沒有受詞（three dead chickens 是主詞不是受詞），所以及物的 laid 先出局；語意是雞躺在地上，不是雞在說謊，所以 lied 也出局；lying 是分詞，不能單獨當一個句子的主要動詞。剩下 lay——它是 lie（躺）的過去式，正好符合這個故事的過去時態。順便對照兩個同型的倒裝句：89 年第 40 題的 there inside were two children、88 年第 19 題的 There should be four more，都是把表地方或表存在的部分擺到前面、主詞挪到動詞後面。【誘答選項】laid：lay（放置）的過去式，及物，需要受詞，本句沒有。lied：lie（說謊）的過去式，語意完全不對。lying：現在分詞，可以當修飾語（the chickens lying on the floor 躺在地上的雞），但不能單獨當主要動詞，那樣整句就沒有動詞了。【常考字詞與句型】lie－lay－lain（躺、位於，不及物）、lay－laid－laid（放置、下蛋，及物）、lie－lied－lied（說謊）、lay eggs（下蛋）、lie on the floor（躺在地板上）、On the floor lay …（地板上躺著……，倒裝）。"
   },
   {
     "id": "G87_31_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 31,
     "category": "字彙選義",
@@ -1215,7 +1215,7 @@
   },
   {
     "id": "G87_32_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 32,
     "category": "連接詞／轉承語",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": "G87_33_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 33,
     "category": "字彙選義",
@@ -1244,13 +1244,13 @@
       "D": "heavy"
     },
     "answer": "B",
-    "explanation": "語意「這可能對我們的健康有嚴重的影響」，serious（嚴重的）符合負面影響的語境；good（好的，語意相反）、few（很少的，不修飾effect表達程度）、heavy（重的，不常修飾effect）都不合。",
+    "explanation": "語意「這可能對我們的健康有嚴重的影響」，serious（嚴重的）符合負面影響的語境；good（好的，語意相反）、few（很少的，不修飾 effect 表達程度）、heavy（重的，不常修飾 effect）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是形容詞，而 effect（影響）本身是中性的，既可以是好影響也可以是壞影響，所以 good 擺進去文法上完全成立。這一格要看的是前半句給的是好消息還是壞消息。【怎麼判斷】四個選項都是形容詞，可見這一格考的是語意與搭配。先看前半句：people are losing the art of laughter（人們正在失去笑的本事）——這是負面的發展。既然如此，它對健康造成的當然不會是好的影響，所以 good 先出局，填 serious（嚴重的）。have a serious effect on（對……有嚴重的影響）是常見的組合，同一組還有 have a profound effect on（有深遠的影響）、have an adverse effect on（有不利的影響）。【誘答選項】good（好的）：方向相反。few（很少的）：few 修飾可數名詞的複數（few people），而這裡是單數的 a ___ effect，形態上就不合。heavy（重的）：heavy 可以配 rain、traffic、workload，但不與 effect 組成通行的說法。【常考字詞與句型】have an effect on（對……有影響）、a serious effect（嚴重的影響）、a profound effect（深遠的影響）、have an adverse effect on（對……有不利影響）、affect sth（影響某物）、a side effect（副作用）。"
   },
   {
     "id": "G87_34_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 34,
     "category": "時態／語態",
@@ -1261,13 +1261,13 @@
       "D": "had decreased"
     },
     "answer": "D",
-    "explanation": "過去完成式 had decreased，表示到1980年這個時間點之前，笑的時間已經（相對1930年）減少到六分鐘，是早於1980這個過去時間點之前已完成的動作；has been decreasing（現在完成進行式，時態不對）、was decreasing（過去進行式，不強調「已經減少到」這個完成結果）、should have decreased（表推測/建議語氣，不符合這裡陳述事實）都不合。",
+    "explanation": "過去完成式 had decreased，表示到 1980 年這個時間點之前，笑的時間已經（相對 1930 年）減少到六分鐘，是早於 1980 這個過去時間點之前已完成的動作；has been decreasing（現在完成進行式，時態不對）、was decreasing（過去進行式，不強調「已經減少到」這個完成結果）、should have decreased（表推測/建議語氣，不符合這裡陳述事實）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 decrease 的時態變化，而「一直在減少」聽起來很符合語意，所以現在完成進行式看起來很誘人。這一格的答案由句子裡那個時間標記決定，不是由語感決定。【怎麼判斷】四個選項都是同一個動詞 decrease 的時態組合，可見這一格考的是時態，那就找句子裡的時間標記。整句是 In 1930 we laughed on average for 19 minutes each day, but by 1980 it ___ to six minutes.（1930 年我們平均每天笑十九分鐘，但到了 1980 年，這個數字已經……到六分鐘。）關鍵是 by 1980：by ＋ 過去的時間點，意思是「到那個時候為止」，指的是在那個過去的時間點之前就已經完成的事，所以要用過去完成式，填 had decreased。掛鉤是國中的 By the time I got there, he had left.（我到那裡的時候，他已經走了。）順便對照 92 年第 28 題：那一題的時間標記是 Since then（從那時起到現在），終點是此刻，所以用現在完成式。時間標記決定時態——先找那個標記，再決定用哪一種完成式。【誘答選項】has been decreasing：現在完成進行式，時間線的終點是現在；但本句的終點是 1980 年，不是此刻。was decreasing：過去進行式，強調當時正在減少的過程，但 by 1980 要的是「到那時為止已經減到六分鐘」這個結果。should have decreased：「本來應該減少（卻沒有）」，帶著與事實相反的責備語氣，與這句單純陳述數據的口吻完全不合。【常考字詞與句型】by ＋ 過去時間 ＋ 過去完成式（到……時已經……）、By the time …, sb had V-ed（到……的時候，某人已經……）、decrease to（減少到）、on average（平均而言）、each day（每天）、19 minutes（十九分鐘）。"
   },
   {
     "id": "G87_35_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 35,
     "category": "慣用語／片語",
@@ -1285,7 +1285,7 @@
   },
   {
     "id": "G87_36_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 36,
     "category": "字彙選義",
@@ -1296,13 +1296,13 @@
       "D": "pieces"
     },
     "answer": "A",
-    "explanation": "【句型】bursts of laughter 字詞搭配「陣陣笑聲」；breaks／circles／pieces 都不如 bursts 自然搭配laughter。",
+    "explanation": "【句型】bursts of laughter 字詞搭配「陣陣笑聲」；breaks／circles／pieces 都不如 bursts 自然搭配 laughter。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是名詞，中文是「爆發、斷裂、圓圈、碎片」，如果沒把 bursts of laughter 當一組記過，就只能憑感覺挑。【怎麼判斷】四個選項都是名詞，可見這一格考的是與 laughter 的搭配。空格所在的地方是 in short ___ of laughter（以短促的……笑聲），描述的是笑聲一陣一陣、斷斷續續地出來。英文講這種「一陣一陣的」用的是 burst——a burst of laughter（一陣笑聲）是固定的組合，同一組還有 a burst of applause（一陣掌聲）、a burst of anger（一陣怒火）、a burst of energy（一股突然的精力）。共同的意思是「突然而短暫地爆發出來的一陣」，用來配笑聲正好。【誘答選項】breaks（斷裂、休息）：a break 是中斷或休息，與「一陣一陣爆發」的意思相反。circles（圓圈）：與笑聲無關。pieces（碎片）：a piece of 用來數不可數的東西（a piece of advice 一則建議），但沒有 pieces of laughter 這種說法。【常考字詞與句型】a burst of laughter（一陣笑聲）、a burst of applause（一陣掌聲）、a burst of anger（一陣怒火）、exhale air（吐氣）、from the lungs（從肺部）、heartbeats increase（心跳加快）。"
   },
   {
     "id": "G87_37_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 37,
     "category": "慣用語／片語",
@@ -1313,13 +1313,13 @@
       "D": "so much"
     },
     "answer": "B",
-    "explanation": "【句型】as much…as（和…一樣多） 比較句型，表示「效果跟騎十分鐘健身腳踏車一樣好」（good在這裡當名詞用，表達「好處/效益」的量）；as many 修飾可數名詞不合，so many／so much 不是 as...as 的字詞搭配形式。",
+    "explanation": "【句型】as much…as（和…一樣多） 比較句型，表示「效果跟騎十分鐘健身腳踏車一樣好」（good 在這裡當名詞用，表達「好處/效益」的量）；as many 修飾可數名詞不合，so many／so much 不是 as...as 的字詞搭配形式。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項兩兩成對（as many／as much、so many／so much），很容易在可數與不可數之間打轉，卻忘了先看句子裡有沒有那個決定性的 as。【怎麼判斷】先看整句的結構：which achieves ___ good as ten minutes on an exercise bike（這達到的效果……騎十分鐘健身腳踏車）。句子後半有一個 as，所以這是 as ... as 的比較結構，so many 與 so much 先出局——so ... as 只用在否定句裡（not so good as），肯定句一律用 as ... as。剩下 as many 與 as much，這時看它們修飾的是什麼：空格後面是 good。good 在這裡不是形容詞而是名詞，意思是「好處、益處」，是不可數的，所以用 as much（as much good as ...：跟……一樣多的好處）。整句是說：笑帶來的好處，跟騎十分鐘健身腳踏車一樣多。這一組可數與不可數的判準，與 88 年第 24 題完全相同——那一題是 fewer enemies（可數用 fewer）、本題是 as much good（不可數用 much）。先看後面那個名詞可不可數，再決定用哪一個字。【誘答選項】as many：修飾可數名詞的複數（as many books as），而 good 在這裡是不可數名詞。so many、so much：肯定句的比較用 as ... as，不用 so ... as。【常考字詞與句型】as much … as（和……一樣多，接不可數）、as many … as（和……一樣多，接可數）、do sb good（對某人有好處）、for the good of（為了……的利益）、an exercise bike（健身腳踏車）、achieve（達到）。"
   },
   {
     "id": "G87_38_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 38,
     "category": "分詞／動狀詞",
@@ -1336,7 +1336,7 @@
   },
   {
     "id": "G87_39_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 39,
     "category": "句型結構",
@@ -1347,13 +1347,13 @@
       "D": "Where"
     },
     "answer": "A",
-    "explanation": "虛主詞 It，代替後面「放鬆臉部肌肉」這件事整體，構成「It makes a difference...」的句型；There 用於 there be 句型不符合makes a difference的結構，What／Where 疑問詞都不能這樣單獨作主詞開頭。",
+    "explanation": "虛主詞 It，代替後面「放鬆臉部肌肉」這件事整體，構成「It makes a difference...」的句型；There 用於 there be 句型不符合 makes a difference 的結構，What／Where 疑問詞都不能這樣單獨作主詞開頭。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】句尾有一個 when 子句，所以你可能會覺得空格要放一個疑問詞或連接詞，於是 What 或 Where 看起來有機會。但這一句是直述句不是問句，空格要的只是一個主詞。【怎麼判斷】先看空格後面接什麼：makes a difference to our appearance（讓我們的外表有所不同）。makes 是限定動詞，前面一定要有主詞，所以空格要填的是一個能當主詞的字。What 與 Where 是疑問詞，本句沒有問號、也不是間接問句，先出局。There 也不行：there 只用在 there is／there are／there seems to be 這一類存在句裡，不能當一般動詞 makes 的主詞（沒有 There makes ... 這種說法）。剩下 It——它指的是前面一直在講的 laughter（笑）。句尾的 too（也）正好印證：前一句說笑對免疫系統有益，這一句說笑「也」讓我們的外表不一樣。【誘答選項】There：存在句專用，接不了 makes。What、Where：疑問詞，本句是直述句。【常考字詞與句型】make a difference to（對……有影響、使……不同）、It makes no difference.（沒差別）、relax one’s muscles（放鬆肌肉）、facial muscles（臉部肌肉）、appearance（外表）、too（也，置於句中或句尾）。"
   },
   {
     "id": "G87_40_2",
-    "year": "87年",
+    "year": "87 年",
     "passageId": "87_2",
     "blankNum": 40,
     "category": "字彙選義",
@@ -1370,7 +1370,7 @@
   },
   {
     "id": "G88_16_1",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_1",
     "blankNum": 16,
     "category": "慣用語／片語",
@@ -1381,13 +1381,13 @@
       "D": "wakened"
     },
     "answer": "C",
-    "explanation": "被動語態「我被一通電話叫醒」，was woken up 符合（電話叫醒了他，他是被叫醒的一方）；awoke（主動、不及物，不能這樣搭配by表被動）、woke up（主動語態，不符合這裡需要的被動）、wakened（未配合be動詞構成被動）都不合。",
+    "explanation": "被動語態「我被一通電話叫醒」，was woken up 符合（電話叫醒了他，他是被叫醒的一方）；awoke（主動、不及物，不能這樣搭配 by 表被動）、woke up（主動語態，不符合這裡需要的被動）、wakened（未配合 be 動詞構成被動）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是「醒來」，中文分不出差別，而 woke up 是你最熟的說法，很容易第一眼就選它。這一格要看的不是哪個字最眼熟，而是誰把誰叫醒。【怎麼判斷】四個選項都是 wake 這一組字的形態變化，可見這一格考的是形態。決定性的線索在空格後面：by a telephone call（被一通電話）。by 帶出的是動作的執行者——是那通電話把人吵醒的，客人是被吵醒的一方。看到 by 加執行者就是被動，所以填 was woken up。同一招在題庫裡反覆出現：92 年第 28 題的 Since then Australia ___ from the rest of the world by vast oceans 也是靠 by 認出被動。再用語意驗算：整段是客人在抱怨，他不可能是自己選擇六點起床的。【誘答選項】woke up：主動語態，變成「我六點叫醒了……」，後面卻沒有受詞，by 那個執行者也沒有著落。awoke：awake 的過去式，是不及物動詞「醒來」（He awoke at six. 他六點醒來。），講的是自己醒的，接不上 by 帶出來的執行者。wakened：waken 的過去分詞。要用它表被動，前面必須有 be 動詞（was wakened 才成立）；這裡光禿禿一個過去分詞掛在主詞後面，整句就沒有動詞了。【常考字詞與句型】be woken up by（被……吵醒）、wake up（醒來、叫醒）、wake sb up（把某人叫醒）、oversleep（睡過頭）、a wake-up call（晨喚電話、警訊）、at six o’clock（在六點）。"
   },
   {
     "id": "G88_17_1",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_1",
     "blankNum": 17,
     "category": "時態／語態",
@@ -1404,7 +1404,7 @@
   },
   {
     "id": "G88_18_1",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_1",
     "blankNum": 18,
     "category": "比較級",
@@ -1415,13 +1415,13 @@
       "D": "many"
     },
     "answer": "A",
-    "explanation": "most 在這裡作副詞，加強語氣修飾 terribly，相當於「非常/十分」（正式道歉常見用法 I am most sorry），不是最高級比較的意思；much／more／many 都不能這樣修飾形容詞terribly 表達強調語氣。",
+    "explanation": "most 在這裡作副詞，加強語氣修飾 terribly，相當於「非常/十分」（正式道歉常見用法 I am most sorry），不是最高級比較的意思；much／more／many 都不能這樣修飾形容詞 terribly 表達強調語氣。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】most 一出現，腦中幾乎自動接上「最」，於是開始找比較的對象——可是這句話裡沒有任何東西可以拿來比。這一格的 most 不是最高級。【怎麼判斷】先看空格後面接什麼：terribly sorry。terribly 是副詞、sorry 是形容詞，空格要填的是再往前一層加強語氣的字。most 除了當最高級，還可以當副詞用，意思等於 very（非常），語氣正式，常見於書面與新聞（a most pessimistic outlook 極其悲觀的前景）。本句是飯店櫃檯對客人正式道歉，I am most terribly sorry 就是「我真的非常抱歉」。辨認最高級與「非常」有一個很好用的訊號——冠詞：the most ... 是最高級（the most pessimistic outlook 最悲觀的那一個前景）；a most ... 則是「非常」（a most pessimistic outlook 一個極其悲觀的前景）。本句連冠詞都沒有，整串擺在 be 動詞後面當補語，更不可能是最高級。【誘答選項】much：可以加強比較級（much better）或過去分詞（much appreciated），但不能直接修飾 terribly 這樣的副詞。more：比較級，本句沒有比較的對象。many：修飾可數名詞，而 terribly sorry 既不是名詞也不可數。三個誘答選項的共同問題是：它們談的都是數量或比較，只有 most 能單純加強語氣。【常考字詞與句型】most ＋ 形容詞（非常……，正式語體）、a most unusual case（極不尋常的案例）、the most ＋ 形容詞（最……）、be terribly sorry（非常抱歉）、apologize to sb for sth（為某事向某人道歉）、ensure sth（確保某事）。"
   },
   {
     "id": "G88_19_1",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_1",
     "blankNum": 19,
     "category": "代名詞／指示詞",
@@ -1438,7 +1438,7 @@
   },
   {
     "id": "G88_20_1",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_1",
     "blankNum": 20,
     "category": "句型結構",
@@ -1449,13 +1449,13 @@
       "D": "may"
     },
     "answer": "B",
-    "explanation": "【句型】強調用法的助動詞 do + 原形動詞，表示「我真的（確實）很抱歉」，加強語氣；could（可以）、ought（應該，後面通常接to）、may（可能）都不能這樣加強動詞語氣。",
+    "explanation": "【句型】強調用法的助動詞 do + 原形動詞，表示「我真的（確實）很抱歉」，加強語氣；could（可以）、ought（應該，後面通常接 to）、may（可能）都不能這樣加強動詞語氣。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是助動詞，後面又都接得了原形動詞 apologize，看起來一個也刷不掉。其實有一個可以用形態直接刷掉，剩下的才靠語氣分。【怎麼判斷】先用形態刷一個：ought 後面一定要接 to（ought to apologize），而本句空格後面是光禿禿的 apologize，少了 to，形態本身就不完整。這一招是片語題很好用的第一步——先檢查介系詞或冠詞有沒有缺（同型：97 年第 25 題的 off record 少了 the、95 年第 25 題的 No sooner than 中間被砍掉了東西）。剩下 could、may、do，再看語氣：客人已經連抱怨兩件事、語氣很衝，櫃檯要做的是加重道歉的分量，不是說「我可以道歉」或「我也許道歉」。英文要加強一般動詞的語氣，用的正是助動詞 do 加原形動詞：I do apologize.（我真的非常抱歉。）掛鉤是 Do come in.（快請進。）與 I do hope so.（我真的這麼希望。）。【誘答選項】could（可以、能夠）：講的是能力或可能性，變成「我可以道歉」，聽起來像還在考慮要不要道歉，反而更失禮。may（可能、可以）：同樣是可能性或請求許可，語氣完全不對。ought：形態不完整，缺了 to。【常考字詞與句型】do ＋ 原形動詞（真的、確實，加強語氣）、Do come in.（快請進）、I do hope so.（我真的這麼希望）、ought to V（應該）、make an apology（致歉）、I’m afraid …（恐怕……）。"
   },
   {
     "id": "G88_21_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 21,
     "category": "連接詞／轉承語",
@@ -1473,7 +1473,7 @@
   },
   {
     "id": "G88_22_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -1490,7 +1490,7 @@
   },
   {
     "id": "G88_23_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 23,
     "category": "慣用語／片語",
@@ -1507,7 +1507,7 @@
   },
   {
     "id": "G88_24_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 24,
     "category": "比較級",
@@ -1524,7 +1524,7 @@
   },
   {
     "id": "G88_25_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -1535,14 +1535,14 @@
       "D": "In other words"
     },
     "answer": "C",
-    "explanation": "前一句說「他們的敵人比其他人少」，這句延續同一個論點並加強語氣，「事實上，他們可能是最受人喜愛的人」，In fact（事實上）符合這種承接、加強前述論點的語意；In particular（尤其是）通常用於「先講整體，再挑出其中特定一項細講」，但這裡前後句主詞相同（都是good listeners），沒有整體對部分的關係，不適用。",
+    "explanation": "前一句說「他們的敵人比其他人少」，這句延續同一個論點並加強語氣，「事實上，他們可能是最受人喜愛的人」，In fact（事實上）符合這種承接、加強前述論點的語意；In particular（尤其是）通常用於「先講整體，再挑出其中特定一項細講」，但這裡前後句主詞相同（都是 good listeners），沒有整體對部分的關係，不適用。",
     "contextSpan": "跨句",
     "contextNote": "In fact 強化前一句的說法",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】前一句說「他們的敵人比別人少」，這一句說「他們大概是最受人喜愛的」，兩句講的都是好事，讀起來很像同一件事換句話說，所以 In other words 特別誘人。但這兩句不是同一件事——後一句比前一句多說了一層。【怎麼判斷】四個選項都是轉承語，可見這一格考的是前後兩句的關係。前一句是「敵人比別人少」（沒有那麼多人討厭他們），本句是「他們大概是最受人喜愛的」（不只是不被討厭，還很受歡迎）。從「比較少人討厭」到「最多人喜愛」，程度往上跳了一級，這是加碼不是重述，用 In fact（事實上，而且更進一步）。這一組判準與 89 年第 29 題完全相同：那一題要分的是 that is（換句話說）與 for instance（舉個例子），本題要分的是 In other words（換句話說）與 In fact（更進一步）。共同要問的都是同一句話：後面這一句究竟是把前面重講一次，還是往前推進了一步？【誘答選項】In other words（換句話說）：後面接的應該是同一件事的另一種表述，而「最受人喜愛」比「敵人較少」多說了一件事。In contrast（相較之下）：要把兩件相反的事並排比較，而本句與前一句同向。In particular（尤其是）：先講整體、再挑出其中特定的一項來細講，但前後兩句的主詞都是 good listeners，沒有從整體縮到特定的動作。【常考字詞與句型】in fact（事實上）、as a matter of fact（事實上）、in other words（換句話說）、in contrast（相較之下）、in particular（尤其是）、be loved by（受……喜愛）。"
   },
   {
     "id": "G88_26_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 26,
     "category": "字彙選義",
@@ -1559,7 +1559,7 @@
   },
   {
     "id": "G88_27_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 27,
     "category": "字彙選義",
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "G88_28_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 28,
     "category": "介系詞",
@@ -1593,7 +1593,7 @@
   },
   {
     "id": "G88_29_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 29,
     "category": "連接詞／轉承語",
@@ -1611,7 +1611,7 @@
   },
   {
     "id": "G88_30_2",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_2",
     "blankNum": 30,
     "category": "分詞／動狀詞",
@@ -1628,7 +1628,7 @@
   },
   {
     "id": "G88_31_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 31,
     "category": "連接詞／轉承語",
@@ -1645,7 +1645,7 @@
   },
   {
     "id": "G88_32_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 32,
     "category": "字彙選義",
@@ -1662,7 +1662,7 @@
   },
   {
     "id": "G88_33_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 33,
     "category": "慣用語／片語",
@@ -1679,7 +1679,7 @@
   },
   {
     "id": "G88_34_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 34,
     "category": "字彙選義",
@@ -1696,7 +1696,7 @@
   },
   {
     "id": "G88_35_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 35,
     "category": "連接詞／轉承語",
@@ -1714,7 +1714,7 @@
   },
   {
     "id": "G88_36_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 36,
     "category": "字彙選義",
@@ -1731,7 +1731,7 @@
   },
   {
     "id": "G88_37_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 37,
     "category": "字彙選義",
@@ -1748,7 +1748,7 @@
   },
   {
     "id": "G88_38_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 38,
     "category": "分詞／動狀詞",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": "G88_39_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 39,
     "category": "介系詞",
@@ -1782,7 +1782,7 @@
   },
   {
     "id": "G88_40_3",
-    "year": "88年",
+    "year": "88 年",
     "passageId": "88_3",
     "blankNum": 40,
     "category": "字彙選義",
@@ -1799,7 +1799,7 @@
   },
   {
     "id": "G95_16_1",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_1",
     "blankNum": 16,
     "category": "字彙選義",
@@ -1818,7 +1818,7 @@
   },
   {
     "id": "G95_17_1",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -1833,12 +1833,12 @@
     "accuracyRate": 14,
     "note": "答對率 14%，鑑別度 −1：高分群考生反而比低分群錯得多。【你可能會這樣想】這一題錯的人多半不是判斷錯，是根本沒看見那個 to。你背的是「attend ＝ 參加」，一個英文字配一個中文詞——這個記法裡沒有留給介系詞的位置，所以 to 出現在眼前也不會亮起來。attend 有兩種用法，分岔點就是那個 to：attend ＋ 受詞 ＝ 參加、出席（attend a meeting）；attend to ＋ 受詞 ＝ 處理、照料。檢驗法是把受詞代進去唸：attend the party 成立；attend to the party 變成「照料那場派對」，跟「大學生喜歡參加派對」對不上。【怎麼判斷】整篇是母親寫給兒子談花錢的信——擔心他用錢的方式、要他量入為出、拒絕多寄錢。所以 college students like to ___ parties, movies, and lots of activities 不是中性描述休閒，是在鋪陳「花太多」。緊接的 but you also have to learn how to do without certain things 就是證據：but 前面必須是「盡情享受、放縱」，後面才轉得過來。indulge in 本身就帶著「過了頭」的語氣。【誘答選項】attend 家族的分岔正好沿著那個 to：人到場那支 → attendance（出席率）；照料那支 → attendant → flight attendant、attentive（周到的）。字根是 tend-「伸」，同家族還有 extend（延長）、intend（打算）、tendency（傾向）。一句記完：Flight attendants don't attend the flight—they attend to you, and the good ones are attentive.（空服員不是去搭那班飛機的人，是在機上照料你的人；好的空服員都很周到。）〔情境取材自 98 指考作文題：不必擔心預算的一天〕另兩個誘答同機制，也是差一個介系詞：dwell in（居住於）對 dwell on（老想著）、apply to（適用於）對 apply for（申請）。【常考字詞與句型】indulge in（盡情享受、沉溺於）、attend a meeting（出席會議）、attend to（處理、照料）、attendance（出席率）、flight attendant（空服員）、attentive（周到的）、dwell on（老想著）、apply to／apply for（適用於／申請）。",
     "discrimination": -1,
-    "discriminationNote": "鑑別度僅-1，非常接近0，加上本題答對率只有14%屬於難度極高的題目——大考中心官方說明本來就指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象，這題比較像是全體考生（不分程度）都容易被 attend to 這個陷阱誤導，而非題目設計本身有嚴重瑕疵。",
+    "discriminationNote": "鑑別度僅-1，非常接近 0，加上本題答對率只有 14%屬於難度極高的題目——大考中心官方說明本來就指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象，這題比較像是全體考生（不分程度）都容易被 attend to 這個陷阱誤導，而非題目設計本身有嚴重瑕疵。",
     "contextSpan": "句內"
   },
   {
     "id": "G95_18_1",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_1",
     "blankNum": 18,
     "category": "分詞／動狀詞",
@@ -1857,7 +1857,7 @@
   },
   {
     "id": "G95_19_1",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_1",
     "blankNum": 19,
     "category": "慣用語／片語",
@@ -1876,7 +1876,7 @@
   },
   {
     "id": "G95_20_1",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -1895,7 +1895,7 @@
   },
   {
     "id": "G95_21_2",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -1914,7 +1914,7 @@
   },
   {
     "id": "G95_22_2",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_2",
     "blankNum": 22,
     "category": "分詞／動狀詞",
@@ -1933,7 +1933,7 @@
   },
   {
     "id": "G95_23_2",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -1952,7 +1952,7 @@
   },
   {
     "id": "G95_24_2",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -1971,7 +1971,7 @@
   },
   {
     "id": "G95_25_2",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_2",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -1990,7 +1990,7 @@
   },
   {
     "id": "G95_26_3",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -2001,7 +2001,7 @@
       "D": "arrangements"
     },
     "answer": "B",
-    "explanation": "前文提及棒球迷與足球迷持續爭論（argue continually）哪種運動才是最棒的，這句延續說明「雖然每季觀賽人數會有起伏，但支持各自運動的『論點』依然維持不變」，arguments（論點、主張）呼應前文的動詞argue，最為契合；agreements（協議，前面是爭論不是達成共識）、accomplishments（成就）、arrangements（安排）都不合。",
+    "explanation": "前文提及棒球迷與足球迷持續爭論（argue continually）哪種運動才是最棒的，這句延續說明「雖然每季觀賽人數會有起伏，但支持各自運動的『論點』依然維持不變」，arguments（論點、主張）呼應前文的動詞 argue，最為契合；agreements（協議，前面是爭論不是達成共識）、accomplishments（成就）、arrangements（安排）都不合。",
     "accuracyRate": 45,
     "discrimination": 36,
     "contextSpan": "句內",
@@ -2009,7 +2009,7 @@
   },
   {
     "id": "G95_27_3",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_3",
     "blankNum": 27,
     "category": "句型結構",
@@ -2028,7 +2028,7 @@
   },
   {
     "id": "G95_28_3",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_3",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -2048,7 +2048,7 @@
   },
   {
     "id": "G95_29_3",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -2067,7 +2067,7 @@
   },
   {
     "id": "G95_30_3",
-    "year": "95年",
+    "year": "95 年",
     "passageId": "95_3",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -2087,7 +2087,7 @@
   },
   {
     "id": "G96_16_1",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_1",
     "blankNum": 16,
     "category": "分詞／動狀詞",
@@ -2106,7 +2106,7 @@
   },
   {
     "id": "G96_17_1",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -2125,7 +2125,7 @@
   },
   {
     "id": "G96_18_1",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -2136,7 +2136,7 @@
       "D": "relating"
     },
     "answer": "C",
-    "explanation": "現在分詞 including 表示「其中包括」，舉例列出所供應的物品；concerning（關於）、showing（展示）、relating（有關，通常relating to才是字詞搭配）都不合。",
+    "explanation": "現在分詞 including 表示「其中包括」，舉例列出所供應的物品；concerning（關於）、showing（展示）、relating（有關，通常 relating to 才是字詞搭配）都不合。",
     "accuracyRate": 82,
     "discrimination": 47,
     "contextSpan": "句內",
@@ -2144,7 +2144,7 @@
   },
   {
     "id": "G96_19_1",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -2155,7 +2155,7 @@
       "D": "Until"
     },
     "answer": "A",
-    "explanation": "語意轉折：「雖然Happy Puppy是相對較新的服務，我們卻受益於……多年經驗」，Although（雖然）符合這個讓步轉折；Because（因為）、Once（一旦）、Until（直到）都不合。",
+    "explanation": "語意轉折：「雖然 Happy Puppy 是相對較新的服務，我們卻受益於……多年經驗」，Although（雖然）符合這個讓步轉折；Because（因為）、Once（一旦）、Until（直到）都不合。",
     "accuracyRate": 67,
     "discrimination": 47,
     "contextSpan": "句內",
@@ -2163,7 +2163,7 @@
   },
   {
     "id": "G96_20_1",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -2182,7 +2182,7 @@
   },
   {
     "id": "G96_21_2",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_2",
     "blankNum": 21,
     "category": "介系詞",
@@ -2201,7 +2201,7 @@
   },
   {
     "id": "G96_22_2",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -2212,7 +2212,7 @@
       "D": "landscape"
     },
     "answer": "B",
-    "explanation": "語意「印度南北端之間的『距離』每年縮短2公分」，distance（距離）符合；height（高度）、geography（地理）、landscape（地貌）都不合。",
+    "explanation": "語意「印度南北端之間的『距離』每年縮短 2 公分」，distance（距離）符合；height（高度）、geography（地理）、landscape（地貌）都不合。",
     "accuracyRate": 52,
     "discrimination": 44,
     "contextSpan": "句內",
@@ -2220,7 +2220,7 @@
   },
   {
     "id": "G96_23_2",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_2",
     "blankNum": 23,
     "category": "連接詞／轉承語",
@@ -2239,7 +2239,7 @@
   },
   {
     "id": "G96_24_2",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -2259,7 +2259,7 @@
   },
   {
     "id": "G96_25_2",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -2278,7 +2278,7 @@
   },
   {
     "id": "G96_26_3",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_3",
     "blankNum": 26,
     "category": "介系詞",
@@ -2297,7 +2297,7 @@
   },
   {
     "id": "G97_16_1",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_1",
     "blankNum": 16,
     "category": "時態／語態",
@@ -2308,7 +2308,7 @@
       "D": "have been using"
     },
     "answer": "D",
-    "explanation": "現在完成進行式 have been using，配合 for at least 4,000 years（持續時間標記），表示從過去持續到現在的動作；would use（過去未來式，不合）、are using（現在進行式，不符合持續時間標記for...years的用法）、had used（過去完成式，沒有更早的過去參照點）都不合。",
+    "explanation": "現在完成進行式 have been using，配合 for at least 4,000 years（持續時間標記），表示從過去持續到現在的動作；would use（過去未來式，不合）、are using（現在進行式，不符合持續時間標記 for...years 的用法）、had used（過去完成式，沒有更早的過去參照點）都不合。",
     "accuracyRate": 54,
     "discrimination": 40,
     "contextSpan": "句內",
@@ -2316,7 +2316,7 @@
   },
   {
     "id": "G97_17_1",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -2335,7 +2335,7 @@
   },
   {
     "id": "G97_18_1",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -2354,7 +2354,7 @@
   },
   {
     "id": "G97_19_1",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -2373,7 +2373,7 @@
   },
   {
     "id": "G97_20_1",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -2392,7 +2392,7 @@
   },
   {
     "id": "G97_21_2",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -2403,7 +2403,7 @@
       "D": "earn"
     },
     "answer": "C",
-    "explanation": "【句型】share...with... 字詞搭配「與……分享」；give（給，不太符合share with的字詞搭配結構）、bring（帶來）、earn（賺取）都不合。",
+    "explanation": "【句型】share...with... 字詞搭配「與……分享」；give（給，不太符合 share with 的字詞搭配結構）、bring（帶來）、earn（賺取）都不合。",
     "accuracyRate": 84,
     "discrimination": 43,
     "contextSpan": "句內",
@@ -2411,7 +2411,7 @@
   },
   {
     "id": "G97_22_2",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -2430,7 +2430,7 @@
   },
   {
     "id": "G97_23_2",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_2",
     "blankNum": 23,
     "category": "時態／語態",
@@ -2441,7 +2441,7 @@
       "D": "would have had"
     },
     "answer": "C",
-    "explanation": "第二型條件句（與現在事實相反的假設：If + 過去式..., 主詞 + would + 原形動詞），表示「如果他賣了這顆寶石，他將會有足夠的錢」；had（不合這個假設語氣）、had had（過去完成式，不符合第二型條件句）、would have had（是第三型條件句的形式，用於與過去事實相反的假設，但這裡條件句If he sold用簡單過去式屬於第二型，應搭配would have）都不合。",
+    "explanation": "第二型條件句（與現在事實相反的假設：If + 過去式..., 主詞 + would + 原形動詞），表示「如果他賣了這顆寶石，他將會有足夠的錢」；had（不合這個假設語氣）、had had（過去完成式，不符合第二型條件句）、would have had（是第三型條件句的形式，用於與過去事實相反的假設，但這裡條件句 If he sold 用簡單過去式屬於第二型，應搭配 would have）都不合。",
     "accuracyRate": 61,
     "discrimination": 31,
     "contextSpan": "句內",
@@ -2449,7 +2449,7 @@
   },
   {
     "id": "G97_24_2",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_2",
     "blankNum": 24,
     "category": "分詞／動狀詞",
@@ -2468,7 +2468,7 @@
   },
   {
     "id": "G97_25_2",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_2",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -2487,7 +2487,7 @@
   },
   {
     "id": "G97_26_3",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -2506,7 +2506,7 @@
   },
   {
     "id": "G97_27_3",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_3",
     "blankNum": 27,
     "category": "連接詞／轉承語",
@@ -2525,7 +2525,7 @@
   },
   {
     "id": "G97_28_3",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_3",
     "blankNum": 28,
     "category": "字彙選義",
@@ -2544,7 +2544,7 @@
   },
   {
     "id": "G97_29_3",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -2563,7 +2563,7 @@
   },
   {
     "id": "G97_30_3",
-    "year": "97年",
+    "year": "97 年",
     "passageId": "97_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -2574,7 +2574,7 @@
       "D": "furthermore"
     },
     "answer": "C",
-    "explanation": "語意轉折：「然而自從1990年代開始，這一切都改變了」，however（然而）符合這種與前文封閉歷史的對比轉折；afterwards（之後）、therefore（因此）、furthermore（此外）都不合。",
+    "explanation": "語意轉折：「然而自從 1990 年代開始，這一切都改變了」，however（然而）符合這種與前文封閉歷史的對比轉折；afterwards（之後）、therefore（因此）、furthermore（此外）都不合。",
     "accuracyRate": 59,
     "discrimination": 53,
     "contextSpan": "跨句",
@@ -2583,7 +2583,7 @@
   },
   {
     "id": "G98_16_1",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_1",
     "blankNum": 16,
     "category": "字彙選義",
@@ -2602,7 +2602,7 @@
   },
   {
     "id": "G98_17_1",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -2621,7 +2621,7 @@
   },
   {
     "id": "G98_18_1",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_1",
     "blankNum": 18,
     "category": "時態／語態",
@@ -2640,7 +2640,7 @@
   },
   {
     "id": "G98_19_1",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_1",
     "blankNum": 19,
     "category": "慣用語／片語",
@@ -2659,7 +2659,7 @@
   },
   {
     "id": "G98_20_1",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_1",
     "blankNum": 20,
     "category": "慣用語／片語",
@@ -2678,7 +2678,7 @@
   },
   {
     "id": "G98_21_2",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_2",
     "blankNum": 21,
     "category": "慣用語／片語",
@@ -2689,7 +2689,7 @@
       "D": "Little by little"
     },
     "answer": "B",
-    "explanation": "前一句說鳳梨不是夏威夷原生植物，這句「事實上」鳳梨直到1813年才出現在那裡，In fact 承接強調前述事實；For example（舉例）、As a result（因此）、Little by little（逐漸地）都不合。",
+    "explanation": "前一句說鳳梨不是夏威夷原生植物，這句「事實上」鳳梨直到 1813 年才出現在那裡，In fact 承接強調前述事實；For example（舉例）、As a result（因此）、Little by little（逐漸地）都不合。",
     "accuracyRate": 84,
     "discrimination": 39,
     "contextSpan": "跨句",
@@ -2698,7 +2698,7 @@
   },
   {
     "id": "G98_22_2",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -2717,7 +2717,7 @@
   },
   {
     "id": "G98_23_2",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_2",
     "blankNum": 23,
     "category": "關係子句／疑問詞",
@@ -2736,7 +2736,7 @@
   },
   {
     "id": "G98_24_2",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_2",
     "blankNum": 24,
     "category": "慣用語／片語",
@@ -2755,7 +2755,7 @@
   },
   {
     "id": "G98_25_2",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -2774,7 +2774,7 @@
   },
   {
     "id": "G98_26_3",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_3",
     "blankNum": 26,
     "category": "介系詞",
@@ -2793,7 +2793,7 @@
   },
   {
     "id": "G98_27_3",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_3",
     "blankNum": 27,
     "category": "慣用語／片語",
@@ -2812,7 +2812,7 @@
   },
   {
     "id": "G98_28_3",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_3",
     "blankNum": 28,
     "category": "分詞／動狀詞",
@@ -2831,7 +2831,7 @@
   },
   {
     "id": "G98_29_3",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_3",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -2850,7 +2850,7 @@
   },
   {
     "id": "G98_30_3",
-    "year": "98年",
+    "year": "98 年",
     "passageId": "98_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -2869,7 +2869,7 @@
   },
   {
     "id": "G99_16_1",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_1",
     "blankNum": 16,
     "category": "慣用語／片語",
@@ -2880,7 +2880,7 @@
       "D": "used to"
     },
     "answer": "B",
-    "explanation": "【句型】end up + V-ing 字詞搭配「最終/結果……」，表示「兩人最後都買了同一條牛仔褲」；gave up（放棄）、took to（愛上，通常搭配名詞或Ving表「開始喜歡」，語意不完全符合這裡）、used to（過去習慣，時態不合，這裡講的是這次購物的結果不是過去習慣）都不合。",
+    "explanation": "【句型】end up + V-ing 字詞搭配「最終/結果……」，表示「兩人最後都買了同一條牛仔褲」；gave up（放棄）、took to（愛上，通常搭配名詞或 Ving 表「開始喜歡」，語意不完全符合這裡）、used to（過去習慣，時態不合，這裡講的是這次購物的結果不是過去習慣）都不合。",
     "accuracyRate": 55,
     "discrimination": 62,
     "contextSpan": "句內",
@@ -2888,7 +2888,7 @@
   },
   {
     "id": "G99_17_1",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -2908,7 +2908,7 @@
   },
   {
     "id": "G99_18_1",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_1",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -2927,7 +2927,7 @@
   },
   {
     "id": "G99_19_1",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -2946,7 +2946,7 @@
   },
   {
     "id": "G99_20_1",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -2957,7 +2957,7 @@
       "D": "without"
     },
     "answer": "D",
-    "explanation": "without 表示「不會……」，表示「百貨公司成功吸引中年女性顧客，同時沒有失去年輕顧客」；in（不合）、while（當……同時，語意上不如without精確表達「沒有失去」這個否定結果）、after（之後）都不合。",
+    "explanation": "without 表示「不會……」，表示「百貨公司成功吸引中年女性顧客，同時沒有失去年輕顧客」；in（不合）、while（當……同時，語意上不如 without 精確表達「沒有失去」這個否定結果）、after（之後）都不合。",
     "accuracyRate": 63,
     "discrimination": 51,
     "contextSpan": "句內",
@@ -2965,7 +2965,7 @@
   },
   {
     "id": "G99_21_2",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_2",
     "blankNum": 21,
     "category": "介系詞",
@@ -2984,7 +2984,7 @@
   },
   {
     "id": "G99_22_2",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -3003,7 +3003,7 @@
   },
   {
     "id": "G99_23_2",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -3022,7 +3022,7 @@
   },
   {
     "id": "G99_24_2",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -3041,7 +3041,7 @@
   },
   {
     "id": "G99_25_2",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -3060,7 +3060,7 @@
   },
   {
     "id": "G99_26_3",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -3079,7 +3079,7 @@
   },
   {
     "id": "G99_27_3",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_3",
     "blankNum": 27,
     "category": "句型結構",
@@ -3090,7 +3090,7 @@
       "D": "to cause"
     },
     "answer": "A",
-    "explanation": "並列動詞結構「can be absorbed...and cause」（可以被吸收並且導致身體不適），與前面can的並列結構保持一致用原形動詞cause；causing（現在分詞）、caused（過去式/分詞）、to cause（不定詞）都不合這個並列動詞結構。",
+    "explanation": "並列動詞結構「can be absorbed...and cause」（可以被吸收並且導致身體不適），與前面 can 的並列結構保持一致用原形動詞 cause；causing（現在分詞）、caused（過去式/分詞）、to cause（不定詞）都不合這個並列動詞結構。",
     "accuracyRate": 47,
     "discrimination": 59,
     "contextSpan": "句內",
@@ -3098,7 +3098,7 @@
   },
   {
     "id": "G99_28_3",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_3",
     "blankNum": 28,
     "category": "連接詞／轉承語",
@@ -3117,7 +3117,7 @@
   },
   {
     "id": "G99_29_3",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -3128,7 +3128,7 @@
       "D": "safety"
     },
     "answer": "D",
-    "explanation": "語意「除了這些安全問題之外」，safety（安全）呼應前文討論的化學物質釋放、細菌滋生等健康安全疑慮；display（展示）、production（生產）、shipment（運送）都不如safety能概括前述問題。",
+    "explanation": "語意「除了這些安全問題之外」，safety（安全）呼應前文討論的化學物質釋放、細菌滋生等健康安全疑慮；display（展示）、production（生產）、shipment（運送）都不如 safety 能概括前述問題。",
     "accuracyRate": 49,
     "discrimination": 53,
     "contextSpan": "跨句",
@@ -3137,7 +3137,7 @@
   },
   {
     "id": "G99_30_3",
-    "year": "99年",
+    "year": "99 年",
     "passageId": "99_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -3156,7 +3156,7 @@
   },
   {
     "id": "G100_16_1",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_1",
     "blankNum": 16,
     "category": "介系詞",
@@ -3175,7 +3175,7 @@
   },
   {
     "id": "G100_17_1",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -3194,7 +3194,7 @@
   },
   {
     "id": "G100_18_1",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -3213,7 +3213,7 @@
   },
   {
     "id": "G100_19_1",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_1",
     "blankNum": 19,
     "category": "分詞／動狀詞",
@@ -3232,7 +3232,7 @@
   },
   {
     "id": "G100_20_1",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -3251,7 +3251,7 @@
   },
   {
     "id": "G100_21_2",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_2",
     "blankNum": 21,
     "category": "慣用語／片語",
@@ -3270,7 +3270,7 @@
   },
   {
     "id": "G100_22_2",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -3281,7 +3281,7 @@
       "D": "physical"
     },
     "answer": "B",
-    "explanation": "語意「MAMMA MIA已成為一個『全球性』的娛樂現象」，global（全球的）符合後文「全世界超過3000萬人愛上這部劇」；worthy（值得的）、sticky（黏的）、physical（身體的）都不合。",
+    "explanation": "語意「MAMMA MIA 已成為一個『全球性』的娛樂現象」，global（全球的）符合後文「全世界超過 3000 萬人愛上這部劇」；worthy（值得的）、sticky（黏的）、physical（身體的）都不合。",
     "accuracyRate": 82,
     "discrimination": 48,
     "contextSpan": "句內",
@@ -3289,7 +3289,7 @@
   },
   {
     "id": "G100_23_2",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -3308,7 +3308,7 @@
   },
   {
     "id": "G100_24_2",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -3319,7 +3319,7 @@
       "D": "that"
     },
     "answer": "D",
-    "explanation": "關係代名詞 that 引導形容詞子句修飾 way，作子句主詞；how（how 不能接在先行詞名詞後面，而且它是副詞性的，不能當子句主詞）、what（需要先行詞的關係代名詞是that/which不是what）、where（不是地方）都不合。",
+    "explanation": "關係代名詞 that 引導形容詞子句修飾 way，作子句主詞；how（how 不能接在先行詞名詞後面，而且它是副詞性的，不能當子句主詞）、what（需要先行詞的關係代名詞是 that/which 不是 what）、where（不是地方）都不合。",
     "accuracyRate": 63,
     "discrimination": 49,
     "contextSpan": "句內",
@@ -3327,7 +3327,7 @@
   },
   {
     "id": "G100_25_2",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_2",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -3338,7 +3338,7 @@
       "D": "brought about"
     },
     "answer": "A",
-    "explanation": "【句型】appeal to 固定片語「吸引」；presented with（呈現給，通常是sb be presented with sth的被動結構）、resulted in（導致）、brought about（引起）都不太符合「吸引這麼多人」的語意。",
+    "explanation": "【句型】appeal to 固定片語「吸引」；presented with（呈現給，通常是 sb be presented with sth 的被動結構）、resulted in（導致）、brought about（引起）都不太符合「吸引這麼多人」的語意。",
     "accuracyRate": 61,
     "discrimination": 59,
     "contextSpan": "句內",
@@ -3346,7 +3346,7 @@
   },
   {
     "id": "G100_26_3",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_3",
     "blankNum": 26,
     "category": "代名詞／指示詞",
@@ -3357,7 +3357,7 @@
       "D": "the latter"
     },
     "answer": "D",
-    "explanation": "【句型】the latter 固定用法「後者」，指前面提到的兩者（water和diamonds）中後面提到的那個，即diamonds；the above（以上的）、the former（前者，語意相反，前者指water）、the following（以下的）都不合。",
+    "explanation": "【句型】the latter 固定用法「後者」，指前面提到的兩者（water 和 diamonds）中後面提到的那個，即 diamonds；the above（以上的）、the former（前者，語意相反，前者指 water）、the following（以下的）都不合。",
     "accuracyRate": 47,
     "discrimination": 67,
     "contextSpan": "句內",
@@ -3365,7 +3365,7 @@
   },
   {
     "id": "G100_27_3",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_3",
     "blankNum": 27,
     "category": "字彙選義",
@@ -3384,7 +3384,7 @@
   },
   {
     "id": "G100_28_3",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_3",
     "blankNum": 28,
     "category": "分詞／動狀詞",
@@ -3395,7 +3395,7 @@
       "D": "was termed"
     },
     "answer": "B",
-    "explanation": "過去分詞 termed 作補語，被動語意「這（種行為）在經濟學裡被稱為炫耀性消費」，補充說明前面整個現象的名稱；term（原形動詞，不合這個分詞補語結構）、terms（限定動詞，句子已有主要動詞不需要另一個）、was termed（另立子句雖然文法通，但這裡分詞構句更自然精簡）都不如termed。",
+    "explanation": "過去分詞 termed 作補語，被動語意「這（種行為）在經濟學裡被稱為炫耀性消費」，補充說明前面整個現象的名稱；term（原形動詞，不合這個分詞補語結構）、terms（限定動詞，句子已有主要動詞不需要另一個）、was termed（另立子句雖然文法通，但這裡分詞構句更自然精簡）都不如 termed。",
     "accuracyRate": 71,
     "discrimination": 47,
     "contextSpan": "句內",
@@ -3403,7 +3403,7 @@
   },
   {
     "id": "G100_29_3",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -3422,7 +3422,7 @@
   },
   {
     "id": "G100_30_3",
-    "year": "100年",
+    "year": "100 年",
     "passageId": "100_3",
     "blankNum": 30,
     "category": "分詞／動狀詞",
@@ -3433,10 +3433,10 @@
       "D": "were"
     },
     "answer": "D",
-    "explanation": "第二型假設語氣（與現在事實相反），If子句用過去式 were（be動詞在假設語氣中不分人稱都用were），主要子句用wouldn't value；be（原形動詞，不合假設語氣時態）、being（現在分詞）、to be（不定詞）都不合。",
+    "explanation": "第二型假設語氣（與現在事實相反），If 子句用過去式 were（be 動詞在假設語氣中不分人稱都用 were），主要子句用 wouldn't value；be（原形動詞，不合假設語氣時態）、being（現在分詞）、to be（不定詞）都不合。",
     "readMore": {
-      "hint": "重點：假設語氣中，be動詞不論主詞是誰都要用were，不能用was（例如 If I were you... 不是 If I was you...）",
-      "label": "延伸閱讀：假設語氣中 be動詞一律用 were（If I were...）",
+      "hint": "重點：假設語氣中，be 動詞不論主詞是誰都要用 were，不能用 was（例如 If I were you... 不是 If I was you...）",
+      "label": "延伸閱讀：假設語氣中 be 動詞一律用 were（If I were...）",
       "url": "https://www.grammar.cl/english/if-i-were-you.htm"
     },
     "accuracyRate": 76,
@@ -3446,7 +3446,7 @@
   },
   {
     "id": "G101_16_1",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_1",
     "blankNum": 16,
     "category": "字彙選義",
@@ -3465,7 +3465,7 @@
   },
   {
     "id": "G101_17_1",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -3484,7 +3484,7 @@
   },
   {
     "id": "G101_18_1",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_1",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -3504,7 +3504,7 @@
   },
   {
     "id": "G101_19_1",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_1",
     "blankNum": 19,
     "category": "介系詞",
@@ -3523,7 +3523,7 @@
   },
   {
     "id": "G101_20_1",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_1",
     "blankNum": 20,
     "category": "分詞／動狀詞",
@@ -3542,7 +3542,7 @@
   },
   {
     "id": "G101_21_2",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -3553,7 +3553,7 @@
       "D": "rather"
     },
     "answer": "B",
-    "explanation": "語意「他們認為自己的神性理所當然，甚至濫用它」，even（甚至）加強語氣；yet（然而）、never（從不，語意矛盾，後面明明說abused）、rather（相當）都不合。",
+    "explanation": "語意「他們認為自己的神性理所當然，甚至濫用它」，even（甚至）加強語氣；yet（然而）、never（從不，語意矛盾，後面明明說 abused）、rather（相當）都不合。",
     "accuracyRate": 64,
     "discrimination": 42,
     "contextSpan": "句內",
@@ -3561,7 +3561,7 @@
   },
   {
     "id": "G101_22_2",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -3580,7 +3580,7 @@
   },
   {
     "id": "G101_23_2",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -3591,7 +3591,7 @@
       "D": "hard"
     },
     "answer": "C",
-    "explanation": "語意「把它深藏在地底」，deep（深深地，作副詞修飾hide）符合；close（靠近）、apart（分開）、hard（努力地/困難地）都不合。",
+    "explanation": "語意「把它深藏在地底」，deep（深深地，作副詞修飾 hide）符合；close（靠近）、apart（分開）、hard（努力地/困難地）都不合。",
     "accuracyRate": 78,
     "discrimination": 49,
     "contextSpan": "句內",
@@ -3599,7 +3599,7 @@
   },
   {
     "id": "G101_24_2",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_2",
     "blankNum": 24,
     "category": "代名詞／指示詞",
@@ -3610,7 +3610,7 @@
       "D": "neither"
     },
     "answer": "D",
-    "explanation": "前面提到兩個藏匿地點的建議（藏在地底或帶到最高的山頂），Brahma認為「兩者都不」可行，neither（兩者都不）精確對應這種對兩個選項都否定的語意；each（每一個，語意不合，應該是全部否定）、more（更多）、any（任何一個，不夠精確）都不合。",
+    "explanation": "前面提到兩個藏匿地點的建議（藏在地底或帶到最高的山頂），Brahma 認為「兩者都不」可行，neither（兩者都不）精確對應這種對兩個選項都否定的語意；each（每一個，語意不合，應該是全部否定）、more（更多）、any（任何一個，不夠精確）都不合。",
     "accuracyRate": 60,
     "discrimination": 63,
     "contextSpan": "跨句",
@@ -3619,7 +3619,7 @@
   },
   {
     "id": "G101_25_2",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_2",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -3638,7 +3638,7 @@
   },
   {
     "id": "G101_26_3",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_3",
     "blankNum": 26,
     "category": "慣用語／片語",
@@ -3657,7 +3657,7 @@
   },
   {
     "id": "G101_27_3",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_3",
     "blankNum": 27,
     "category": "時態／語態",
@@ -3668,7 +3668,7 @@
       "D": "had been"
     },
     "answer": "B",
-    "explanation": "現在完成式被動語態 has been，配合 Since then（從那時起，表持續到現在），「一直被180個國家的人們觀察/慶祝」；is（現在簡單式，不符合持續性）、was（過去簡單式，不符合持續到現在的語意）、had been（過去完成式，沒有更早的過去參照點）都不合。",
+    "explanation": "現在完成式被動語態 has been，配合 Since then（從那時起，表持續到現在），「一直被 180 個國家的人們觀察/慶祝」；is（現在簡單式，不符合持續性）、was（過去簡單式，不符合持續到現在的語意）、had been（過去完成式，沒有更早的過去參照點）都不合。",
     "accuracyRate": 67,
     "discrimination": 50,
     "contextSpan": "句內",
@@ -3676,7 +3676,7 @@
   },
   {
     "id": "G101_28_3",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_3",
     "blankNum": 28,
     "category": "比較級",
@@ -3687,7 +3687,7 @@
       "D": "better"
     },
     "answer": "C",
-    "explanation": "【句型】couldn't be easier 固定強調用法「再容易不過了」，比較級表達最高程度的簡單；quicker（更快，通常講難易不是快慢）、sooner（更快，通常指時間）、better（更好，不如easier貼切原意「參與很簡單」）都不如easier精確。",
+    "explanation": "【句型】couldn't be easier 固定強調用法「再容易不過了」，比較級表達最高程度的簡單；quicker（更快，通常講難易不是快慢）、sooner（更快，通常指時間）、better（更好，不如 easier 貼切原意「參與很簡單」）都不如 easier 精確。",
     "accuracyRate": 68,
     "discrimination": 44,
     "contextSpan": "句內",
@@ -3695,7 +3695,7 @@
   },
   {
     "id": "G101_29_3",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -3714,7 +3714,7 @@
   },
   {
     "id": "G101_30_3",
-    "year": "101年",
+    "year": "101 年",
     "passageId": "101_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -3733,7 +3733,7 @@
   },
   {
     "id": "G103_16_1",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_1",
     "blankNum": 16,
     "category": "字彙選義",
@@ -3752,7 +3752,7 @@
   },
   {
     "id": "G103_17_1",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_1",
     "blankNum": 17,
     "category": "介系詞",
@@ -3773,7 +3773,7 @@
   },
   {
     "id": "G103_18_1",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -3784,7 +3784,7 @@
       "D": "another"
     },
     "answer": "D",
-    "explanation": "語意「幾小時後，『另一位』旅人沿路而來」，another（另一位，不特指的另一個）符合；a（不太符合「再一個」的強調語意）、the（定冠詞，這是新出現的人物不是特指）、other（需要接複數名詞，不能直接接單數traveler）都不合。",
+    "explanation": "語意「幾小時後，『另一位』旅人沿路而來」，another（另一位，不特指的另一個）符合；a（不太符合「再一個」的強調語意）、the（定冠詞，這是新出現的人物不是特指）、other（需要接複數名詞，不能直接接單數 traveler）都不合。",
     "accuracyRate": 68,
     "discrimination": 59,
     "contextSpan": "句內",
@@ -3792,7 +3792,7 @@
   },
   {
     "id": "G103_19_1",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -3811,7 +3811,7 @@
   },
   {
     "id": "G103_20_1",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -3830,7 +3830,7 @@
   },
   {
     "id": "G103_21_2",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -3849,7 +3849,7 @@
   },
   {
     "id": "G103_22_2",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -3868,7 +3868,7 @@
   },
   {
     "id": "G103_23_2",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -3879,7 +3879,7 @@
       "D": "horrible"
     },
     "answer": "C",
-    "explanation": "【句型】likely to 字詞搭配「有可能……」；capable（有能力的，通常接of不接to）、ready（準備好的）、horrible（可怕的）都不合。",
+    "explanation": "【句型】likely to 字詞搭配「有可能……」；capable（有能力的，通常接 of 不接 to）、ready（準備好的）、horrible（可怕的）都不合。",
     "accuracyRate": 55,
     "discrimination": 65,
     "contextSpan": "句內",
@@ -3887,7 +3887,7 @@
   },
   {
     "id": "G103_24_2",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -3906,7 +3906,7 @@
   },
   {
     "id": "G103_25_2",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -3926,7 +3926,7 @@
   },
   {
     "id": "G103_26_3",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -3945,7 +3945,7 @@
   },
   {
     "id": "G103_27_3",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_3",
     "blankNum": 27,
     "category": "字彙選義",
@@ -3964,7 +3964,7 @@
   },
   {
     "id": "G103_28_3",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_3",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -3983,7 +3983,7 @@
   },
   {
     "id": "G103_29_3",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -4003,7 +4003,7 @@
   },
   {
     "id": "G103_30_3",
-    "year": "103年",
+    "year": "103 年",
     "passageId": "103_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -4014,7 +4014,7 @@
       "D": "even"
     },
     "answer": "C",
-    "explanation": "連接詞 once 表示「一旦……就……」，語意為「而一旦意見形成，他們隨後大部分的思考就只是在為這個意見尋找支持的證據」，呼應整段文章批評人類「先決定後思考」的心理現象；unless（除非）、even（甚至，不能這樣單獨作連接詞）都不合；though（雖然）會讓語意變成「雖然意見形成了，卻只是在找支持證據」，轉折邏輯反而不如once的時間先後因果關係自然。",
+    "explanation": "連接詞 once 表示「一旦……就……」，語意為「而一旦意見形成，他們隨後大部分的思考就只是在為這個意見尋找支持的證據」，呼應整段文章批評人類「先決定後思考」的心理現象；unless（除非）、even（甚至，不能這樣單獨作連接詞）都不合；though（雖然）會讓語意變成「雖然意見形成了，卻只是在找支持證據」，轉折邏輯反而不如 once 的時間先後因果關係自然。",
     "accuracyRate": 47,
     "discrimination": 54,
     "contextSpan": "句內",
@@ -4022,7 +4022,7 @@
   },
   {
     "id": "G105_16_1",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_1",
     "blankNum": 16,
     "category": "連接詞／轉承語",
@@ -4042,7 +4042,7 @@
   },
   {
     "id": "G105_17_1",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -4061,7 +4061,7 @@
   },
   {
     "id": "G105_18_1",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_1",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -4080,7 +4080,7 @@
   },
   {
     "id": "G105_19_1",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -4099,7 +4099,7 @@
   },
   {
     "id": "G105_20_1",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -4119,7 +4119,7 @@
   },
   {
     "id": "G105_21_2",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -4138,7 +4138,7 @@
   },
   {
     "id": "G105_22_2",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -4157,7 +4157,7 @@
   },
   {
     "id": "G105_23_2",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -4176,7 +4176,7 @@
   },
   {
     "id": "G105_24_2",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_2",
     "blankNum": 24,
     "category": "時態／語態",
@@ -4195,7 +4195,7 @@
   },
   {
     "id": "G105_25_2",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -4214,7 +4214,7 @@
   },
   {
     "id": "G105_26_3",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_3",
     "blankNum": 26,
     "category": "句型結構",
@@ -4233,7 +4233,7 @@
   },
   {
     "id": "G105_27_3",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_3",
     "blankNum": 27,
     "category": "字彙選義",
@@ -4252,7 +4252,7 @@
   },
   {
     "id": "G105_28_3",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_3",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -4271,7 +4271,7 @@
   },
   {
     "id": "G105_29_3",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -4282,7 +4282,7 @@
       "D": "Under"
     },
     "answer": "C",
-    "explanation": "假設語氣的語境（配合would be），「沒有國際貿易，各國將僅限於自己國內生產的商品和服務」，Without（沒有）符合這種假設條件；Despite（儘管）、Between（在……之間）、Under（在……之下）都不合。",
+    "explanation": "假設語氣的語境（配合 would be），「沒有國際貿易，各國將僅限於自己國內生產的商品和服務」，Without（沒有）符合這種假設條件；Despite（儘管）、Between（在……之間）、Under（在……之下）都不合。",
     "accuracyRate": 64,
     "discrimination": 51,
     "contextSpan": "句內",
@@ -4290,7 +4290,7 @@
   },
   {
     "id": "G105_30_3",
-    "year": "105年",
+    "year": "105 年",
     "passageId": "105_3",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -4309,7 +4309,7 @@
   },
   {
     "id": "G106_16_1",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_1",
     "blankNum": 16,
     "category": "慣用語／片語",
@@ -4328,7 +4328,7 @@
   },
   {
     "id": "G106_17_1",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -4347,7 +4347,7 @@
   },
   {
     "id": "G106_18_1",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -4366,7 +4366,7 @@
   },
   {
     "id": "G106_19_1",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_1",
     "blankNum": 19,
     "category": "連接詞／轉承語",
@@ -4385,7 +4385,7 @@
   },
   {
     "id": "G106_20_1",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_1",
     "blankNum": 20,
     "category": "介系詞",
@@ -4404,7 +4404,7 @@
   },
   {
     "id": "G106_21_2",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_2",
     "blankNum": 21,
     "category": "慣用語／片語",
@@ -4423,7 +4423,7 @@
   },
   {
     "id": "G106_22_2",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_2",
     "blankNum": 22,
     "category": "慣用語／片語",
@@ -4442,7 +4442,7 @@
   },
   {
     "id": "G106_23_2",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -4461,7 +4461,7 @@
   },
   {
     "id": "G106_24_2",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -4480,7 +4480,7 @@
   },
   {
     "id": "G106_25_2",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_2",
     "blankNum": 25,
     "category": "連接詞／轉承語",
@@ -4499,7 +4499,7 @@
   },
   {
     "id": "G106_26_3",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_3",
     "blankNum": 26,
     "category": "慣用語／片語",
@@ -4518,7 +4518,7 @@
   },
   {
     "id": "G106_27_3",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_3",
     "blankNum": 27,
     "category": "字彙選義",
@@ -4538,7 +4538,7 @@
   },
   {
     "id": "G106_28_3",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_3",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -4557,7 +4557,7 @@
   },
   {
     "id": "G106_29_3",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_3",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -4576,7 +4576,7 @@
   },
   {
     "id": "G106_30_3",
-    "year": "106年",
+    "year": "106 年",
     "passageId": "106_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -4595,7 +4595,7 @@
   },
   {
     "id": "G108_16_1",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_1",
     "blankNum": 16,
     "category": "慣用語／片語",
@@ -4614,7 +4614,7 @@
   },
   {
     "id": "G108_17_1",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_1",
     "blankNum": 17,
     "category": "句型結構",
@@ -4634,7 +4634,7 @@
   },
   {
     "id": "G108_18_1",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -4653,7 +4653,7 @@
   },
   {
     "id": "G108_19_1",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_1",
     "blankNum": 19,
     "category": "慣用語／片語",
@@ -4672,7 +4672,7 @@
   },
   {
     "id": "G108_20_1",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -4691,7 +4691,7 @@
   },
   {
     "id": "G108_21_2",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_2",
     "blankNum": 21,
     "category": "慣用語／片語",
@@ -4710,7 +4710,7 @@
   },
   {
     "id": "G108_22_2",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_2",
     "blankNum": 22,
     "category": "分詞／動狀詞",
@@ -4729,7 +4729,7 @@
   },
   {
     "id": "G108_23_2",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -4740,7 +4740,7 @@
       "D": "such"
     },
     "answer": "C",
-    "explanation": "語意「用來製作包包、鞋子和『其他』紡織品」，other（其他的）符合這種列舉後的概括；else（不能這樣修飾textile products）、those（指示代名詞）、such 都不合這個位置。",
+    "explanation": "語意「用來製作包包、鞋子和『其他』紡織品」，other（其他的）符合這種列舉後的概括；else（不能這樣修飾 textile products）、those（指示代名詞）、such 都不合這個位置。",
     "accuracyRate": 71,
     "discrimination": 39,
     "contextSpan": "句內",
@@ -4748,7 +4748,7 @@
   },
   {
     "id": "G108_24_2",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -4767,7 +4767,7 @@
   },
   {
     "id": "G108_25_2",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_2",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -4786,7 +4786,7 @@
   },
   {
     "id": "G108_26_3",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -4805,7 +4805,7 @@
   },
   {
     "id": "G108_27_3",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_3",
     "blankNum": 27,
     "category": "字彙選義",
@@ -4824,7 +4824,7 @@
   },
   {
     "id": "G108_28_3",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_3",
     "blankNum": 28,
     "category": "字彙選義",
@@ -4844,7 +4844,7 @@
   },
   {
     "id": "G108_29_3",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_3",
     "blankNum": 29,
     "category": "比較級",
@@ -4863,7 +4863,7 @@
   },
   {
     "id": "G108_30_3",
-    "year": "108年",
+    "year": "108 年",
     "passageId": "108_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -4882,7 +4882,7 @@
   },
   {
     "id": "G109_16_1",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_1",
     "blankNum": 16,
     "category": "慣用語／片語",
@@ -4901,7 +4901,7 @@
   },
   {
     "id": "G109_17_1",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -4920,7 +4920,7 @@
   },
   {
     "id": "G109_18_1",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_1",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -4939,7 +4939,7 @@
   },
   {
     "id": "G109_19_1",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_1",
     "blankNum": 19,
     "category": "連接詞／轉承語",
@@ -4958,7 +4958,7 @@
   },
   {
     "id": "G109_20_1",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -4977,7 +4977,7 @@
   },
   {
     "id": "G109_21_2",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -4996,7 +4996,7 @@
   },
   {
     "id": "G109_22_2",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_2",
     "blankNum": 22,
     "category": "慣用語／片語",
@@ -5007,7 +5007,7 @@
       "D": "To the extent of"
     },
     "answer": "B",
-    "explanation": "【句型】in a search for 字詞搭配「為了尋找」，表示「為了尋找其他可能的傳播途徑」；As a result of（由於……的結果）、With a view to（為了，通常接動名詞，搭配不如in a search for自然）、To the extent of（到……的程度）都不合。",
+    "explanation": "【句型】in a search for 字詞搭配「為了尋找」，表示「為了尋找其他可能的傳播途徑」；As a result of（由於……的結果）、With a view to（為了，通常接動名詞，搭配不如 in a search for 自然）、To the extent of（到……的程度）都不合。",
     "accuracyRate": 60,
     "discrimination": 54,
     "contextSpan": "句內",
@@ -5015,7 +5015,7 @@
   },
   {
     "id": "G109_23_2",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_2",
     "blankNum": 23,
     "category": "慣用語／片語",
@@ -5034,7 +5034,7 @@
   },
   {
     "id": "G109_24_2",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_2",
     "blankNum": 24,
     "category": "分詞／動狀詞",
@@ -5045,7 +5045,7 @@
       "D": "jumped"
     },
     "answer": "B",
-    "explanation": "【句型】allow + O + to V 固定句型「允許/使某物做某事」；jump（原形動詞，allow的補語結構需要不定詞）、jumping（現在分詞）、jumped（過去式）都不合。",
+    "explanation": "【句型】allow + O + to V 固定句型「允許/使某物做某事」；jump（原形動詞，allow 的補語結構需要不定詞）、jumping（現在分詞）、jumped（過去式）都不合。",
     "accuracyRate": 55,
     "discrimination": 50,
     "contextSpan": "句內",
@@ -5053,7 +5053,7 @@
   },
   {
     "id": "G109_25_2",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -5064,7 +5064,7 @@
       "D": "primitive"
     },
     "answer": "C",
-    "explanation": "【句型】unique to 字詞搭配「……所獨有的」，表示這種能力是具有疏水性葉片植物「特有的」；curious（好奇的）、relative（相對的，relative to表相對而非「特有」）、primitive（原始的）都不合。",
+    "explanation": "【句型】unique to 字詞搭配「……所獨有的」，表示這種能力是具有疏水性葉片植物「特有的」；curious（好奇的）、relative（相對的，relative to 表相對而非「特有」）、primitive（原始的）都不合。",
     "accuracyRate": 57,
     "discrimination": 34,
     "contextSpan": "句內",
@@ -5072,7 +5072,7 @@
   },
   {
     "id": "G109_26_3",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -5083,7 +5083,7 @@
       "D": "encourage"
     },
     "answer": "D",
-    "explanation": "語意「這家旅遊公司想要『鼓勵』人們在一月去度假」，encourage（鼓勵）符合這個行銷目的；increase（增加，不太合直接接people這樣的搭配）、require（要求，語意過強）、command（命令）都不合。",
+    "explanation": "語意「這家旅遊公司想要『鼓勵』人們在一月去度假」，encourage（鼓勵）符合這個行銷目的；increase（增加，不太合直接接 people 這樣的搭配）、require（要求，語意過強）、command（命令）都不合。",
     "accuracyRate": 69,
     "discrimination": 63,
     "contextSpan": "句內",
@@ -5091,7 +5091,7 @@
   },
   {
     "id": "G109_27_3",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_3",
     "blankNum": 27,
     "category": "字彙選義",
@@ -5110,7 +5110,7 @@
   },
   {
     "id": "G109_28_3",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_3",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -5129,7 +5129,7 @@
   },
   {
     "id": "G109_29_3",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_3",
     "blankNum": 29,
     "category": "介系詞",
@@ -5148,7 +5148,7 @@
   },
   {
     "id": "G109_30_3",
-    "year": "109年",
+    "year": "109 年",
     "passageId": "109_3",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -5167,7 +5167,7 @@
   },
   {
     "id": "G110_16_1",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_1",
     "blankNum": 16,
     "category": "連接詞／轉承語",
@@ -5186,7 +5186,7 @@
   },
   {
     "id": "G110_17_1",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -5205,7 +5205,7 @@
   },
   {
     "id": "G110_18_1",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -5224,7 +5224,7 @@
   },
   {
     "id": "G110_19_1",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -5244,7 +5244,7 @@
   },
   {
     "id": "G110_20_1",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_1",
     "blankNum": 20,
     "category": "分詞／動狀詞",
@@ -5263,7 +5263,7 @@
   },
   {
     "id": "G110_21_2",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_2",
     "blankNum": 21,
     "category": "慣用語／片語",
@@ -5282,7 +5282,7 @@
   },
   {
     "id": "G110_22_2",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -5301,7 +5301,7 @@
   },
   {
     "id": "G110_23_2",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_2",
     "blankNum": 23,
     "category": "慣用語／片語",
@@ -5320,7 +5320,7 @@
   },
   {
     "id": "G110_24_2",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_2",
     "blankNum": 24,
     "category": "慣用語／片語",
@@ -5339,7 +5339,7 @@
   },
   {
     "id": "G110_25_2",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_2",
     "blankNum": 25,
     "category": "時態／語態",
@@ -5352,7 +5352,7 @@
     "answer": "D",
     "explanation": "本句是與過去事實相反的假設：「如果上帝真要找我麻煩，第一道雷早就夠了」——事實是他被擊中多次，故主要子句用 would have been；was、had been 不能作主要子句的動詞形式，would be 則指向現在或未來。",
     "readMore": {
-      "hint": "重點：與過去事實相反的假設（第三型假設語氣），if子句用had+過去分詞，主要子句用would have+過去分詞",
+      "hint": "重點：與過去事實相反的假設（第三型假設語氣），if 子句用 had+過去分詞，主要子句用 would have+過去分詞",
       "label": "延伸閱讀：第三型假設語氣（與過去事實相反）基本句型",
       "url": "https://www.perfect-english-grammar.com/third-conditional.html"
     },
@@ -5363,7 +5363,7 @@
   },
   {
     "id": "G110_26_3",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_3",
     "blankNum": 26,
     "category": "慣用語／片語",
@@ -5382,7 +5382,7 @@
   },
   {
     "id": "G110_27_3",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_3",
     "blankNum": 27,
     "category": "字彙選義",
@@ -5401,7 +5401,7 @@
   },
   {
     "id": "G110_28_3",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_3",
     "blankNum": 28,
     "category": "分詞／動狀詞",
@@ -5412,7 +5412,7 @@
       "D": "Having been"
     },
     "answer": "C",
-    "explanation": "完成式分詞構句 Having already shrunk，表示「已經萎縮了85%」（在主要子句動作之前發生），補充說明前提狀況，帶出主要子句的推論；Have（原形動詞，不能這樣作分詞構句開頭）、Had（過去式，分詞構句應該用Having）、Having been（被動完成分詞，方向不合，這裡是冰川「自己萎縮」是主動語態）都不合。",
+    "explanation": "完成式分詞構句 Having already shrunk，表示「已經萎縮了 85%」（在主要子句動作之前發生），補充說明前提狀況，帶出主要子句的推論；Have（原形動詞，不能這樣作分詞構句開頭）、Had（過去式，分詞構句應該用 Having）、Having been（被動完成分詞，方向不合，這裡是冰川「自己萎縮」是主動語態）都不合。",
     "accuracyRate": 41,
     "discrimination": 30,
     "contextSpan": "句內",
@@ -5420,7 +5420,7 @@
   },
   {
     "id": "G110_29_3",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -5440,7 +5440,7 @@
   },
   {
     "id": "G110_30_3",
-    "year": "110年",
+    "year": "110 年",
     "passageId": "110_3",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -5459,7 +5459,7 @@
   },
   {
     "id": "G110試辦考試_11_1",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_1",
     "blankNum": 11,
     "category": "字彙選義",
@@ -5470,13 +5470,13 @@
       "D": "friendship"
     },
     "answer": "B",
-    "explanation": "語意「這個字描述了這個國家對『壓力』的哲學態度」，stress（壓力）符合後文說明pyt是用來面對日常小挫折的心態；health（健康）、culture（文化）、friendship（友誼）都不合。",
+    "explanation": "語意「這個字描述了這個國家對『壓力』的哲學態度」，stress（壓力）符合後文說明 pyt 是用來面對日常小挫折的心態；health（健康）、culture（文化）、friendship（友誼）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是很正面的大詞（健康、壓力、文化、友誼），而這一段開頭就在講丹麥人有多快樂，culture（文化）看起來很搭。這一格要看的是這個字後面究竟在解釋什麼。【怎麼判斷】四個選項都是名詞，可見這一格考的是語意，那就往後讀。空格所在的句子是 a term that describes the nation’s philosophy toward ___（一個描述這個國家對……的處世態度的詞）。再往下讀兩句：It is usually used as a response to a daily mistake or small frustration（它通常用來回應日常的小失誤或小挫折）、a reminder to step back and refocus rather than overreact（提醒人退一步、重新聚焦，而不要反應過度）。日常的小失誤、小挫折、不要反應過度——整段講的就是怎麼面對壓力，所以填 stress。【誘答選項】culture（文化）：pyt 本身是文化的一部分，但「對文化的處世態度」語意繞不回來，而且後文一句也沒提到文化。health（健康）：整段沒有提到身體或心理健康的內容。friendship（友誼）：pyt 是一個人面對自己遭遇的態度，與人際關係無關。【常考字詞與句型】one’s philosophy toward（對……的處世態度）、deal with stress（處理壓力）、a small frustration（小挫折）、step back（退一步）、overreact（反應過度）、score high in（在……得到高分）。"
   },
   {
     "id": "G110試辦考試_12_1",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_1",
     "blankNum": 12,
     "category": "慣用語／片語",
@@ -5493,7 +5493,7 @@
   },
   {
     "id": "G110試辦考試_13_1",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_1",
     "blankNum": 13,
     "category": "連接詞／轉承語",
@@ -5504,13 +5504,13 @@
       "D": "instead"
     },
     "answer": "D",
-    "explanation": "【句型】not...; instead, ...（不是……；而是……）。前句提到 Pyt「不（doesn't）」歸咎於自己或他人，後句接著說明它「而是（instead）」幫助你理解事情無法十全十美，這是「否定前者、代之以後者」的替代關係；however（然而）雖然也能表達轉折，但instead更精確對應這種「不是A，而是B」的固定句型；therefore（因此，因果不合）、likewise（同樣地）都不合。",
+    "explanation": "【句型】not...; instead, ...（不是……；而是……）。前句提到 Pyt「不（doesn't）」歸咎於自己或他人，後句接著說明它「而是（instead）」幫助你理解事情無法十全十美，這是「否定前者、代之以後者」的替代關係；however（然而）雖然也能表達轉折，但 instead 更精確對應這種「不是 A，而是 B」的固定句型；therefore（因此，因果不合）、likewise（同樣地）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是轉承語，而 however（然而）是最常見的一個，很容易反射性地挑它。這一格要看分號前面那半句是不是一個否定。【怎麼判斷】四個選項都是轉承語，可見這一格考的是前後兩半的關係。先看分號前面：Pyt doesn’t point blame at either yourself or another person（pyt 不會把責任歸咎於你自己或別人）——這是一個否定。分號後面是 ___ , it helps you learn that not everything can be perfect（……，它幫助你明白不是每件事都能完美）——這是一個正面的說明。「不是 A，而是 B」——用一個正面的說法取代前面被否定掉的部分，正是 instead（而是、反而）的用途。這一組在題庫裡出現過：83 年第 30 題也是「不把批評視為否定，反而視為建議」，判準完全一樣——看分號或句號前面那一半是不是否定句。順便把 instead 與 instead of 分清楚：instead 是副詞，單獨使用，通常放句首或句尾；instead of 是整組當一個介系詞用，後面要接名詞或動名詞（88 年第 23 題考的就是這一點）。【誘答選項】however（然而）：表轉折，但這裡不是「話鋒一轉」，是把否定掉的部分換成正面的說法，語氣的性質不同。therefore（因此）：表因果，但「不歸咎他人」推不出「幫助你明白不是每件事都能完美」，兩者是同一件事的兩面。likewise（同樣地）：表類比，要拿兩件平行的事來比，本句只有一件事的兩面。【常考字詞與句型】instead（而是、反而）、instead of ＋ 名詞或動名詞（而不是）、point blame at（歸咎於）、not everything（並非每件事）、at its core（就核心而言）、rather than（而不是）。"
   },
   {
     "id": "G110試辦考試_14_1",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_1",
     "blankNum": 14,
     "category": "字彙選義",
@@ -5521,13 +5521,13 @@
       "D": "nearly"
     },
     "answer": "B",
-    "explanation": "【句型】nor + 倒裝句，nor should it be taken...表示「也不應該被當作不作為的藉口」，nor 在這裡連接兩個否定概念（不應該用在該負責的場合；也不應該被當藉口），並引發部分倒裝（助動詞should提前）；so（如此，語意方向錯誤，so應該接肯定句）、only（只是）、nearly（幾乎）都不合。",
+    "explanation": "【句型】nor + 倒裝句，nor should it be taken...表示「也不應該被當作不作為的藉口」，nor 在這裡連接兩個否定概念（不應該用在該負責的場合；也不應該被當藉口），並引發部分倒裝（助動詞 should 提前）；so（如此，語意方向錯誤，so 應該接肯定句）、only（只是）、nearly（幾乎）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是很短的功能詞，如果沒注意到空格後面的語序不對勁，會覺得 only 或 so 都能擺。這一格的線索是倒裝——空格後面的助動詞跑到主詞前面去了。【怎麼判斷】先看空格後面的語序：___ should it be taken as an excuse for inaction。主詞是 it、助動詞是 should，而 should 跑到 it 前面——這是倒裝。會逼出倒裝的，是放在句首的否定或限制副詞。四個選項裡只有 nor 屬於這一類，所以填 nor。再看語意：分號前面是 It should not be used when you ought to take responsibility（該負責的時候不該拿它當藉口），是一個否定；nor 接著再加一個否定——「也不該把它當成不作為的藉口」。nor 的意思就是「也不」，它自帶否定，所以後面不能再放 not。這是否定副詞倒裝那一整家的成員，題庫裡考過好幾種：Not until ...、No sooner ... than ...、Not only ... but also ...、Hardly ... when ...、Never／Seldom／Little，以及 Only ＋ 副詞片語（86 年第 25 題的 Only by entering ... can a climber ...、95 年第 25 題）。判準永遠是同一句：先看主要子句有沒有倒裝，有倒裝就往這一家找。【誘答選項】so（所以）：後面接倒裝時意思是「……也是」（So do I.），但那要接在一個肯定句後面，而前半是否定句。only（只有）：Only 放句首確實會造成倒裝，但它後面要接副詞片語或子句（Only by ...、Only when ...），不能單獨擺著再接倒裝。nearly（幾乎）：一般的程度副詞，不會造成倒裝。【常考字詞與句型】nor ＋ 倒裝（也不……）、neither ＋ 倒裝（也不……）、So do I.（我也是）、take responsibility（負起責任）、an excuse for（……的藉口）、inaction（不作為）。"
   },
   {
     "id": "G110試辦考試_15_1",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_1",
     "blankNum": 15,
     "category": "慣用語／片語",
@@ -5544,7 +5544,7 @@
   },
   {
     "id": "G110試辦考試_16_2",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_2",
     "blankNum": 16,
     "category": "字彙選義",
@@ -5555,13 +5555,13 @@
       "D": "resembles"
     },
     "answer": "D",
-    "explanation": "語意「豎起體毛的皮膚『類似』鵝拔毛後的皮膚」，resembles（類似）符合這個比喻的由來（因此叫做goose bumps雞皮疙瘩）；imitates（模仿）、explains（解釋）、develops（發展）都不合。",
+    "explanation": "語意「豎起體毛的皮膚『類似』鵝拔毛後的皮膚」，resembles（類似）符合這個比喻的由來（因此叫做 goose bumps 雞皮疙瘩）；imitates（模仿）、explains（解釋）、develops（發展）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是動詞，而這一句在解釋 goose bumps 這個名字的由來，explains（解釋）看起來很合理。但真正在解釋的是作者，不是那張皮膚。【怎麼判斷】四個選項都是動詞，可見這一格考的是語意。先看主詞與受詞：The skin with standing body hair ___ a goose’s skin after its feathers have been plucked（豎著體毛的皮膚……拔了毛之後的鵝皮）。主詞是「豎毛的人皮」、受詞是「拔毛的鵝皮」，兩樣東西擺在一起比——要說的是它們長得像，填 resembles（像、與……相似）。再看破折號後面：hence the name goose bumps（因此才有雞皮疙瘩這個名字）。名字之所以這樣取，正是因為兩者外觀相似，這一句把答案講死了。【誘答選項】imitates（模仿）：模仿是有意識的行為，皮膚不會刻意去學鵝皮的樣子；resemble 講的是客觀上像，imitate 講的是主動去學。explains（解釋）：解釋的主體應該是人或說法，皮膚不會解釋東西。develops（發展、長出）：語意不通，人的皮膚不會長出一張鵝皮。【常考字詞與句型】resemble sb／sth（與……相似）、bear a resemblance to（與……有相似之處）、imitate（模仿）、hence the name（因此得名）、stand erect（豎立）、pluck feathers（拔毛）。"
   },
   {
     "id": "G110試辦考試_17_2",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_2",
     "blankNum": 17,
     "category": "字彙選義",
@@ -5572,13 +5572,13 @@
       "D": "whether"
     },
     "answer": "A",
-    "explanation": "語意疑問句「但這對我們作為對恐懼或寒冷的反應有『何』幫助？」，how（如何）符合這種質疑用途的疑問句；where（哪裡）、what（不能這樣接is this helpful這種結構）、whether（是否，不能這樣開頭構成直接疑問句）都不合。",
+    "explanation": "語意疑問句「但這對我們作為對恐懼或寒冷的反應有『何』幫助？」，how（如何）符合這種質疑用途的疑問句；where（哪裡）、what（不能這樣接 is this helpful 這種結構）、whether（是否，不能這樣開頭構成直接疑問句）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 wh- 詞，而 what 是最常用的一個，看到問句就想用它。這一格要先數空格後面那個句子缺不缺成分。【怎麼判斷】先數成分：___ is this helpful to us as a response to fear or cold?主詞是 this、動詞是 is、補語是 helpful，成分一個都不缺。既然不缺，what 就先出局——它是名詞性的疑問詞，進到句子裡一定要占一個位置（當主詞、受詞或補語），這裡沒有位置給它。（同判準：93 年第 18 題、91 年第 25 題、90 年第 20 題、87 年第 26 題、84 年第 30 題。）剩下 how、where、whether，用語意分：前一句才講完雞皮疙瘩是怎麼形成的，這一句用 But 一轉，要問的是「這東西對我們到底有什麼用」——問的是方式與用處，填 how。How is this helpful to us? 就是「這對我們有何幫助」。【誘答選項】what：成分已滿，塞不進去。where（哪裡）：問地點，與「有沒有用」無關。whether（是否）：它帶出的是名詞子句，不能直接放在句首構成一個帶問號的直接問句。【常考字詞與句型】How is this helpful?（這有什麼幫助）、be helpful to sb（對某人有幫助）、a response to（對……的反應）、fight-or-flight（戰或逃）、contract involuntarily（不由自主地收縮）、back in the days when …（在……的那個年代）。"
   },
   {
     "id": "G110試辦考試_18_2",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_2",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -5595,7 +5595,7 @@
   },
   {
     "id": "G110試辦考試_19_2",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_2",
     "blankNum": 19,
     "category": "分詞／動狀詞",
@@ -5612,7 +5612,7 @@
   },
   {
     "id": "G110試辦考試_20_2",
-    "year": "110年試辦考試",
+    "year": "110 年試辦考試",
     "passageId": "110試辦考試_2",
     "blankNum": 20,
     "category": "慣用語／片語",
@@ -5629,7 +5629,7 @@
   },
   {
     "id": "G112_11_1",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_1",
     "blankNum": 11,
     "category": "慣用語／片語",
@@ -5648,7 +5648,7 @@
   },
   {
     "id": "G112_12_1",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_1",
     "blankNum": 12,
     "category": "字彙選義",
@@ -5667,7 +5667,7 @@
   },
   {
     "id": "G112_13_1",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_1",
     "blankNum": 13,
     "category": "慣用語／片語",
@@ -5686,7 +5686,7 @@
   },
   {
     "id": "G112_14_1",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_1",
     "blankNum": 14,
     "category": "慣用語／片語",
@@ -5705,7 +5705,7 @@
   },
   {
     "id": "G112_15_1",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_1",
     "blankNum": 15,
     "category": "字彙選義",
@@ -5724,7 +5724,7 @@
   },
   {
     "id": "G112_16_2",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_2",
     "blankNum": 16,
     "category": "慣用語／片語",
@@ -5743,7 +5743,7 @@
   },
   {
     "id": "G112_17_2",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_2",
     "blankNum": 17,
     "category": "字彙選義",
@@ -5762,7 +5762,7 @@
   },
   {
     "id": "G112_18_2",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_2",
     "blankNum": 18,
     "category": "時態／語態",
@@ -5781,7 +5781,7 @@
   },
   {
     "id": "G112_19_2",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_2",
     "blankNum": 19,
     "category": "字彙選義",
@@ -5800,7 +5800,7 @@
   },
   {
     "id": "G112_20_2",
-    "year": "112年",
+    "year": "112 年",
     "passageId": "112_2",
     "blankNum": 20,
     "category": "慣用語／片語",
@@ -5819,7 +5819,7 @@
   },
   {
     "id": "G91_21_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 21,
     "category": "字彙選義",
@@ -5839,7 +5839,7 @@
   },
   {
     "id": "G91_22_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 22,
     "category": "字彙選義",
@@ -5858,7 +5858,7 @@
   },
   {
     "id": "G91_23_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 23,
     "category": "字彙選義",
@@ -5877,7 +5877,7 @@
   },
   {
     "id": "G91_24_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 24,
     "category": "連接詞／轉承語",
@@ -5896,7 +5896,7 @@
   },
   {
     "id": "G91_25_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 25,
     "category": "字彙選義",
@@ -5915,7 +5915,7 @@
   },
   {
     "id": "G91_26_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 26,
     "category": "字彙選義",
@@ -5934,7 +5934,7 @@
   },
   {
     "id": "G91_27_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 27,
     "category": "字彙選義",
@@ -5945,7 +5945,7 @@
       "D": "anyhow"
     },
     "answer": "C",
-    "explanation": "語意「這個40年前寫的故事不知怎麼地預測了……」，somehow（不知怎麼地）符合這種意外巧合的語氣；sometimes（有時候，這裡不是頻率）、anyway（無論如何）、anyhow（不管怎樣）都不合。",
+    "explanation": "語意「這個 40 年前寫的故事不知怎麼地預測了……」，somehow（不知怎麼地）符合這種意外巧合的語氣；sometimes（有時候，這裡不是頻率）、anyway（無論如何）、anyhow（不管怎樣）都不合。",
     "accuracyRate": 56,
     "discrimination": 49,
     "contextSpan": "句內",
@@ -5953,7 +5953,7 @@
   },
   {
     "id": "G91_28_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 28,
     "category": "分詞／動狀詞",
@@ -5972,7 +5972,7 @@
   },
   {
     "id": "G91_29_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 29,
     "category": "字彙選義",
@@ -5991,7 +5991,7 @@
   },
   {
     "id": "G91_30_1",
-    "year": "91年",
+    "year": "91 年",
     "passageId": "91_1",
     "blankNum": 30,
     "category": "字彙選義",
@@ -6010,7 +6010,7 @@
   },
   {
     "id": "G91補考_21_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 21,
     "category": "介系詞",
@@ -6027,7 +6027,7 @@
   },
   {
     "id": "G91補考_22_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 22,
     "category": "字彙選義",
@@ -6044,7 +6044,7 @@
   },
   {
     "id": "G91補考_23_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 23,
     "category": "字彙選義",
@@ -6061,7 +6061,7 @@
   },
   {
     "id": "G91補考_24_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 24,
     "category": "字彙選義",
@@ -6078,7 +6078,7 @@
   },
   {
     "id": "G91補考_25_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 25,
     "category": "字彙選義",
@@ -6095,7 +6095,7 @@
   },
   {
     "id": "G91補考_26_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 26,
     "category": "介系詞",
@@ -6112,7 +6112,7 @@
   },
   {
     "id": "G91補考_27_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 27,
     "category": "分詞／動狀詞",
@@ -6123,13 +6123,13 @@
       "D": "offering"
     },
     "answer": "D",
-    "explanation": "現在分詞 offering 作形容詞修飾 departments，表示「提供你感興趣課程的系所」；offer（原形動詞，不能這樣修飾名詞）、offers（限定動詞，句子已有主要動詞has）、offered（過去分詞，被動語意方向不合，應該是系所主動「提供」課程）都不合。",
+    "explanation": "現在分詞 offering 作形容詞修飾 departments，表示「提供你感興趣課程的系所」；offer（原形動詞，不能這樣修飾名詞）、offers（限定動詞，句子已有主要動詞 has）、offered（過去分詞，被動語意方向不合，應該是系所主動「提供」課程）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項是 offer 的四種形態，你會開始判斷時態；但這個句子已經有動詞 has 了，空格填的不是句子的動詞，是用來修飾前面那個名詞的。【怎麼判斷】先看結構：find out which college has departments ___ courses that interest you（找出哪一所大學有……你感興趣的課程的系所）。子句的主詞是 which college、動詞是 has、受詞是 departments，成分已經齊了，所以空格不可能再是一個限定動詞——offer 與 offers 先出局。剩下 offered 與 offering，用主動被動分：系所是提供課程的一方，是主動，所以用現在分詞 offering。整串 offering courses that interest you 掛在 departments 後面，走的是那條位置規則：分詞當形容詞用時，單獨一個放名詞前，帶了受詞就整串放名詞後。這一條在題庫裡已經出現三次，剛好可以一起看：88 年第 38 題的 a window overlooking the bay（現在分詞，窗戶主動朝向海灣）、84 年第 36 題的 items made from myrtlewood（過去分詞，商品被製成）、本題的 departments offering courses（現在分詞，系所主動提供課程）。判準永遠是同一個：那個名詞是做這個動作的，還是被這個動作處理的。【誘答選項】offered：過去分詞表被動，變成「被提供課程的系所」，方向反了。offer、offers：限定動詞。句子已經有 has，再放一個限定動詞而中間沒有連接詞，會變成兩個句子黏在一起。【常考字詞與句型】departments offering courses（提供課程的系所）、a window overlooking（俯瞰……的窗）、items made from（用……做成的物品）、courses that interest sb（某人感興趣的課程）、prepare for one’s career（為職涯做準備）、a department（系所）。"
   },
   {
     "id": "G91補考_28_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 28,
     "category": "字彙選義",
@@ -6140,13 +6140,13 @@
       "D": "try"
     },
     "answer": "A",
-    "explanation": "【句型】get into 字詞搭配「進入/考上（某系所）」，跟後面的介系詞into搭配；join 是及物動詞，後面應該直接接受詞（join the department），不能搭配介系詞into，文法上兜不起來；learn、try 都不符合這個「打算進入……系所」的語意。",
+    "explanation": "【句型】get into 字詞搭配「進入/考上（某系所）」，跟後面的介系詞 into 搭配；join 是及物動詞，後面應該直接接受詞（join the department），不能搭配介系詞 into，文法上兜不起來；learn、try 都不符合這個「打算進入……系所」的語意。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是很基本的動詞，而 join（加入）在中文裡最接近「進入某個系所」，很容易第一眼就選它。但空格後面那個 into 會直接刷掉它。【怎麼判斷】先看空格後面：the departments you plan to ___ into。注意 into 這個介系詞——它是決定性的線索，問題變成「哪一個動詞可以配 into」。get into 是通行的說法，意思是「進入、考進」（get into college 考上大學、get into a good school 進到好學校），所以填 get。join 不行：它是及物動詞，後面直接接受詞（join the department 加入那個系所），不接 into。learn into、try into 都不是通行的說法。這一招與 87 年第 27 題正好是一體兩面：那一題的空格後面沒有介系詞（直接接受詞 the name），所以要先問「這個動詞是不是及物」；本題的空格後面有介系詞，所以要問「哪一個動詞配得上這個介系詞」。看到空格後面的介系詞，先拿它去刷選項，比比較中文快得多。（同一份考卷的 92 年補考第 24 題用的也是這一招。）【誘答選項】join：及物動詞，後面不接 into。learn、try：兩個都不與 into 組成「進入某個系所」的意思。【常考字詞與句型】get into（進入、考上）、join sth（加入某組織）、get into trouble（惹上麻煩）、be an expert in（是……方面的專家）、one’s own field（自己的領域）、plan to V（打算做……）。"
   },
   {
     "id": "G91補考_29_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 29,
     "category": "字彙選義",
@@ -6163,7 +6163,7 @@
   },
   {
     "id": "G91補考_30_1",
-    "year": "91年補考",
+    "year": "91 年補考",
     "passageId": "91補考_1",
     "blankNum": 30,
     "category": "字彙選義",
@@ -6174,13 +6174,13 @@
       "D": "above"
     },
     "answer": "D",
-    "explanation": "【句型】the above advice 固定用法「以上的建議」（above作形容詞修飾名詞，表示「上述的」）；upper（較上方的，通常指物理位置）、over（超過）、upward（向上的）都不合這個「上述的」語意。",
+    "explanation": "【句型】the above advice 固定用法「以上的建議」（above 作形容詞修飾名詞，表示「上述的」）；upper（較上方的，通常指物理位置）、over（超過）、upward（向上的）都不合這個「上述的」語意。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都與「上」有關（較上方的、超過、向上的、以上的），中文分不太開，而 upper 看起來最像形容詞、最適合放在名詞前面。這一格考的是 above 你可能沒見過的那個身分。【怎麼判斷】先看空格的位置：the ___ advice——夾在冠詞 the 與名詞 advice 之間，所以要填一個形容詞。再看語意：這是全文的最後一句，I hope the ___ advice is helpful to you in selecting the right college（希望……的建議對你挑選合適的大學有幫助）。作者要指的是前面整篇講過的那些建議，而 above 除了當介系詞，也可以當形容詞用，意思是「上述的、以上的」，所以填 above：the above advice（以上的建議）。同型的說法還有 the above example（上述的例子）、as mentioned above（如前所述，84 年第 39 題收過）、the above-mentioned points（上述各點）。【誘答選項】upper（較上方的）：講的是物理位置上比較高（the upper lip 上唇、the upper floor 樓上），不用來指「前面提過的」。over（超過、在……之上）：是介系詞或副詞，不能直接放在冠詞與名詞之間當形容詞。upward（向上的）：講的是方向，與「前面提過的」無關。【常考字詞與句型】the above advice（以上的建議）、as mentioned above（如前所述）、the above-mentioned（上述的）、the upper lip（上唇）、be helpful to sb（對某人有幫助）、select the right college（挑選合適的大學）。"
   },
   {
     "id": "G92_21_1",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_1",
     "blankNum": 21,
     "category": "字彙選義",
@@ -6191,7 +6191,7 @@
       "D": "otherwise"
     },
     "answer": "C",
-    "explanation": "語意轉折：「他的飛行原本應該只有15分鐘，然而卻延誤了好幾個小時」，however（然而）符合這個轉折；therefore（因此）、similarly（同樣地）、otherwise（否則）都不符合這個轉折語意。",
+    "explanation": "語意轉折：「他的飛行原本應該只有 15 分鐘，然而卻延誤了好幾個小時」，however（然而）符合這個轉折；therefore（因此）、similarly（同樣地）、otherwise（否則）都不符合這個轉折語意。",
     "accuracyRate": 50,
     "discrimination": 33,
     "contextSpan": "跨句",
@@ -6200,7 +6200,7 @@
   },
   {
     "id": "G92_22_1",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_1",
     "blankNum": 22,
     "category": "字彙選義",
@@ -6219,7 +6219,7 @@
   },
   {
     "id": "G92_23_1",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_1",
     "blankNum": 23,
     "category": "字彙選義",
@@ -6239,7 +6239,7 @@
   },
   {
     "id": "G92_24_1",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_1",
     "blankNum": 24,
     "category": "慣用語／片語",
@@ -6258,7 +6258,7 @@
   },
   {
     "id": "G92_25_1",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_1",
     "blankNum": 25,
     "category": "字彙選義",
@@ -6277,7 +6277,7 @@
   },
   {
     "id": "G92_26_2",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_2",
     "blankNum": 26,
     "category": "代名詞／指示詞",
@@ -6296,7 +6296,7 @@
   },
   {
     "id": "G92_27_2",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_2",
     "blankNum": 27,
     "category": "關係子句／疑問詞",
@@ -6315,7 +6315,7 @@
   },
   {
     "id": "G92_28_2",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_2",
     "blankNum": 28,
     "category": "時態／語態",
@@ -6334,7 +6334,7 @@
   },
   {
     "id": "G92_29_2",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_2",
     "blankNum": 29,
     "category": "字彙選義",
@@ -6353,7 +6353,7 @@
   },
   {
     "id": "G92_30_2",
-    "year": "92年",
+    "year": "92 年",
     "passageId": "92_2",
     "blankNum": 30,
     "category": "字彙選義",
@@ -6373,7 +6373,7 @@
   },
   {
     "id": "G92補考_21_1",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_1",
     "blankNum": 21,
     "category": "字彙選義",
@@ -6390,7 +6390,7 @@
   },
   {
     "id": "G92補考_22_1",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_1",
     "blankNum": 22,
     "category": "字彙選義",
@@ -6407,7 +6407,7 @@
   },
   {
     "id": "G92補考_23_1",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_1",
     "blankNum": 23,
     "category": "字彙選義",
@@ -6418,13 +6418,13 @@
       "D": "so"
     },
     "answer": "C",
-    "explanation": "【句型】such...as... 字詞搭配「像……這樣的」，舉例列出後面的食物清單；many／much（不搭配as這樣舉例）、so（so...as 不是這個舉例句型的正確搭配，應該用 such...as）都不合。",
+    "explanation": "【句型】such...as... 字詞搭配「像……這樣的」，舉例列出後面的食物清單；many／much（不搭配 as 這樣舉例）、so（so...as 不是這個舉例句型的正確搭配，應該用 such...as）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都能表示數量或程度，如果沒注意到句子後面那個 as，會在 many 與 much 之間打轉。那個 as 就是決定性的線索。【怎麼判斷】先把整句讀出來：you will learn to prepare ___ delicious items as roasted chicken, chili, turkey loaf, meatballs, pasta, among others.（你將學會做出像烤雞、辣豆醬、火雞肉捲、肉丸、義大利麵等等這些美味的餐點。）注意 as 後面接的是一串具體的例子，而空格與 as 一前一後夾著 delicious items——這是 such ... as ... 的舉例結構：such ＋ 名詞 ＋ as ＋ 例子（像……這樣的……）。所以填 such。這個結構有兩種擺法，可以一起記：such as ＋ 例子，直接接在名詞後面（84 年第 22 題考的就是這一種，our personal celebrations, such as weddings, promotions ...）；such ＋ 名詞 ＋ as ＋ 例子，把名詞夾在中間（本題）。兩種意思相同，只是名詞的位置不一樣。【誘答選項】so：so ... as 只用在否定句裡（not so good as），而且它配的是形容詞不是名詞。many、much：兩個都是純粹講數量的字，不與 as 組成舉例的結構。【常考字詞與句型】such ＋ 名詞 ＋ as（像……這樣的……）、such as ＋ 名詞（例如）、for example（舉例來說）、among others（等等、其中包括）、roasted chicken（烤雞）、prepare a meal（做一餐飯）。"
   },
   {
     "id": "G92補考_24_1",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_1",
     "blankNum": 24,
     "category": "字彙選義",
@@ -6441,7 +6441,7 @@
   },
   {
     "id": "G92補考_25_1",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_1",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -6458,7 +6458,7 @@
   },
   {
     "id": "G92補考_26_2",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_2",
     "blankNum": 26,
     "category": "慣用語／片語",
@@ -6475,7 +6475,7 @@
   },
   {
     "id": "G92補考_27_2",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_2",
     "blankNum": 27,
     "category": "分詞／動狀詞",
@@ -6486,13 +6486,13 @@
       "D": "to be raiding"
     },
     "answer": "C",
-    "explanation": "不定詞表目的（被動形式 to be raided），「朝著即將被襲擊的聚落前進」，表示行軍的目的是去襲擊該聚落；raided（過去式/過去分詞，不能這樣單獨接在colony後面表目的）、raiding（現在分詞，主動語意方向不合，應該是聚落「被」襲擊）、to be raiding（不是標準用法）都不合。",
+    "explanation": "不定詞表目的（被動形式 to be raided），「朝著即將被襲擊的聚落前進」，表示行軍的目的是去襲擊該聚落；raided（過去式/過去分詞，不能這樣單獨接在 colony 後面表目的）、raiding（現在分詞，主動語意方向不合，應該是聚落「被」襲擊）、to be raiding（不是標準用法）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項是 raid 的四種形態，而過去分詞 raided 表被動，看起來最合「被襲擊的蟻穴」這個意思。但這時候襲擊還沒開始——時間點不對。【怎麼判斷】先看結構：the group begins to march toward the colony ___（這群螞蟻開始朝那個……的蟻穴前進）。空格帶出的一串是用來修飾 colony 的。先分主動被動：蟻穴是被襲擊的一方，所以要被動，raiding 與 to be raiding 這兩個主動形式先出局。剩下 raided 與 to be raided，關鍵在時間點：過去分詞 raided 表示動作已經完成——「已經被襲擊過的蟻穴」；但這一句是螞蟻剛出發、還在行軍途中，襲擊還沒發生。不定詞的被動 to be raided 表示「即將被、預定要被」，正好符合「牠們正朝著那個即將被襲擊的蟻穴前進」。不定詞當形容詞修飾名詞、表示未來或應該做的事，是很常見的用法：the work to be done（待完成的工作）、the house to be sold（待售的房子）、the next train to arrive（下一班即將進站的列車）。再往後讀一句驗算：When the Amazons reach the nest of their intended victims, a fierce battle may take place.（當亞馬遜蟻抵達預定目標的巢穴時，一場激戰可能就此展開。）——intended（預定的）與 may take place（可能發生）都指向未來，證實襲擊確實還沒開始。【誘答選項】raided：表已經完成，時間點不對。raiding、to be raiding：兩個都是主動，方向錯了——蟻穴不會去襲擊別人。【常考字詞與句型】the colony to be raided（即將被襲擊的蟻穴）、the work to be done（待完成的工作）、raid a nest（突襲巢穴）、intended victims（預定的目標）、a fierce battle（激戰）、take place（發生）。"
   },
   {
     "id": "G92補考_28_2",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_2",
     "blankNum": 28,
     "category": "連接詞／轉承語",
@@ -6509,7 +6509,7 @@
   },
   {
     "id": "G92補考_29_2",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_2",
     "blankNum": 29,
     "category": "連接詞／轉承語",
@@ -6526,7 +6526,7 @@
   },
   {
     "id": "G92補考_30_2",
-    "year": "92年補考",
+    "year": "92 年補考",
     "passageId": "92補考_2",
     "blankNum": 30,
     "category": "字彙選義",
@@ -6543,7 +6543,7 @@
   },
   {
     "id": "G93_16_1",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_1",
     "blankNum": 16,
     "category": "字彙選義",
@@ -6563,7 +6563,7 @@
   },
   {
     "id": "G93_17_1",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -6583,7 +6583,7 @@
   },
   {
     "id": "G93_18_1",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -6602,7 +6602,7 @@
   },
   {
     "id": "G93_19_1",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_1",
     "blankNum": 19,
     "category": "分詞／動狀詞",
@@ -6621,7 +6621,7 @@
   },
   {
     "id": "G93_20_1",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_1",
     "blankNum": 20,
     "category": "慣用語／片語",
@@ -6640,7 +6640,7 @@
   },
   {
     "id": "G93_21_2",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -6659,7 +6659,7 @@
   },
   {
     "id": "G93_22_2",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -6678,7 +6678,7 @@
   },
   {
     "id": "G93_23_2",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_2",
     "blankNum": 23,
     "category": "慣用語／片語",
@@ -6697,7 +6697,7 @@
   },
   {
     "id": "G93_24_2",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -6716,7 +6716,7 @@
   },
   {
     "id": "G93_25_2",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_2",
     "blankNum": 25,
     "category": "分詞／動狀詞",
@@ -6735,7 +6735,7 @@
   },
   {
     "id": "G93_26_3",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -6754,7 +6754,7 @@
   },
   {
     "id": "G93_27_3",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_3",
     "blankNum": 27,
     "category": "介系詞",
@@ -6773,7 +6773,7 @@
   },
   {
     "id": "G93_28_3",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_3",
     "blankNum": 28,
     "category": "句型結構",
@@ -6792,7 +6792,7 @@
   },
   {
     "id": "G93_29_3",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_3",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -6812,7 +6812,7 @@
   },
   {
     "id": "G93_30_3",
-    "year": "93年",
+    "year": "93 年",
     "passageId": "93_3",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -6831,7 +6831,7 @@
   },
   {
     "id": "G94_16_1",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_1",
     "blankNum": 16,
     "category": "分詞／動狀詞",
@@ -6842,7 +6842,7 @@
       "D": "be rebelled"
     },
     "answer": "A",
-    "explanation": "dare 可以接原形動詞（半助動詞用法），這裡跟後面並列的 courageously express 動詞形式保持一致，都用原形；to rebel（不定詞，雖然也可以，但跟後面並列的動詞形式不一致）、rebelling（動名詞，不合dare的常見用法）、be rebelled（被動，rebel通常不用被動語態表達「反抗」這個主動行為）都不如原形rebel自然。",
+    "explanation": "dare 可以接原形動詞（半助動詞用法），這裡跟後面並列的 courageously express 動詞形式保持一致，都用原形；to rebel（不定詞，雖然也可以，但跟後面並列的動詞形式不一致）、rebelling（動名詞，不合 dare 的常見用法）、be rebelled（被動，rebel 通常不用被動語態表達「反抗」這個主動行為）都不如原形 rebel 自然。",
     "accuracyRate": 55,
     "discrimination": 23,
     "contextSpan": "句內",
@@ -6850,7 +6850,7 @@
   },
   {
     "id": "G94_17_1",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -6869,7 +6869,7 @@
   },
   {
     "id": "G94_18_1",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_1",
     "blankNum": 18,
     "category": "連接詞／轉承語",
@@ -6888,7 +6888,7 @@
   },
   {
     "id": "G94_19_1",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -6899,7 +6899,7 @@
       "D": "when"
     },
     "answer": "A",
-    "explanation": "關係代名詞 who 引導非限定關係子句，修飾先行詞 His father（他的父親一直希望他能拿到博士學位）；while（連接詞不是關係代名詞）、that（非限定關係子句通常不用that）、when（不修飾人）都不合。",
+    "explanation": "關係代名詞 who 引導非限定關係子句，修飾先行詞 His father（他的父親一直希望他能拿到博士學位）；while（連接詞不是關係代名詞）、that（非限定關係子句通常不用 that）、when（不修飾人）都不合。",
     "accuracyRate": 76,
     "discrimination": 51,
     "contextSpan": "句內",
@@ -6907,7 +6907,7 @@
   },
   {
     "id": "G94_20_1",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -6926,7 +6926,7 @@
   },
   {
     "id": "G94_21_2",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -6945,7 +6945,7 @@
   },
   {
     "id": "G94_22_2",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -6964,7 +6964,7 @@
   },
   {
     "id": "G94_23_2",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -6983,7 +6983,7 @@
   },
   {
     "id": "G94_24_2",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_2",
     "blankNum": 24,
     "category": "分詞／動狀詞",
@@ -6994,7 +6994,7 @@
       "D": "highlighted"
     },
     "answer": "C",
-    "explanation": "現在分詞片語 highlighting，補充說明健康警示的作用「強調吸菸的危害」；highlight（原形動詞，不能這樣修飾）、highlights（限定動詞，句子已有主要動詞have to put）、highlighted（過去分詞，被動語意方向不合，應該是警示「強調」危害不是「被強調」）都不合。",
+    "explanation": "現在分詞片語 highlighting，補充說明健康警示的作用「強調吸菸的危害」；highlight（原形動詞，不能這樣修飾）、highlights（限定動詞，句子已有主要動詞 have to put）、highlighted（過去分詞，被動語意方向不合，應該是警示「強調」危害不是「被強調」）都不合。",
     "accuracyRate": 47,
     "discrimination": 35,
     "contextSpan": "句內",
@@ -7002,7 +7002,7 @@
   },
   {
     "id": "G94_25_2",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_2",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -7021,7 +7021,7 @@
   },
   {
     "id": "G94_26_3",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -7032,7 +7032,7 @@
       "D": "so that"
     },
     "answer": "B",
-    "explanation": "這句在解釋動物能感受痛覺的原因，because（因為）說明這是演化上的因果關係——動物能感受痛覺，是因為這個能力可以用來自我保護；雖然 so that（以便）從目的論角度也可以說得通，但接下來整段文章討論的是痛覺實際帶來的效果與運作方式（如「碰到燙的東西會痛，就學會不再碰」），比較貼近解釋「為什麼」的因果關係，這裡選because較為合理。",
+    "explanation": "這句在解釋動物能感受痛覺的原因，because（因為）說明這是演化上的因果關係——動物能感受痛覺，是因為這個能力可以用來自我保護；雖然 so that（以便）從目的論角度也可以說得通，但接下來整段文章討論的是痛覺實際帶來的效果與運作方式（如「碰到燙的東西會痛，就學會不再碰」），比較貼近解釋「為什麼」的因果關係，這裡選 because 較為合理。",
     "accuracyRate": 42,
     "discrimination": 50,
     "contextSpan": "句內",
@@ -7040,7 +7040,7 @@
   },
   {
     "id": "G94_27_3",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_3",
     "blankNum": 27,
     "category": "慣用語／片語",
@@ -7060,7 +7060,7 @@
   },
   {
     "id": "G94_28_3",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_3",
     "blankNum": 28,
     "category": "字彙選義",
@@ -7079,7 +7079,7 @@
   },
   {
     "id": "G94_29_3",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_3",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -7098,7 +7098,7 @@
   },
   {
     "id": "G94_30_3",
-    "year": "94年",
+    "year": "94 年",
     "passageId": "94_3",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -7117,7 +7117,7 @@
   },
   {
     "id": "G86_21_1",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_1",
     "blankNum": 21,
     "category": "連接詞／轉承語",
@@ -7134,7 +7134,7 @@
   },
   {
     "id": "G86_22_1",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_1",
     "blankNum": 22,
     "category": "字彙選義",
@@ -7151,7 +7151,7 @@
   },
   {
     "id": "G86_23_1",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_1",
     "blankNum": 23,
     "category": "連接詞／轉承語",
@@ -7168,7 +7168,7 @@
   },
   {
     "id": "G86_24_1",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_1",
     "blankNum": 24,
     "category": "字彙選義",
@@ -7185,7 +7185,7 @@
   },
   {
     "id": "G86_25_1",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_1",
     "blankNum": 25,
     "category": "句型結構",
@@ -7202,7 +7202,7 @@
   },
   {
     "id": "G86_26_2",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_2",
     "blankNum": 26,
     "category": "慣用語／片語",
@@ -7213,13 +7213,13 @@
       "D": "It was terrible"
     },
     "answer": "C",
-    "explanation": "Jack先簡短回應天氣狀況「還不算太差」，接著補充細節（下雨幾天但大多晴朗），Not too bad 符合這種中性偏正面的語氣，並呼應後面「mostly it was fine」；It couldn't be better（好到不能再好，太正面）、Don't mention it（不客氣，答非所問）、It was terrible（很糟，跟後面矛盾）都不合。",
+    "explanation": "Jack 先簡短回應天氣狀況「還不算太差」，接著補充細節（下雨幾天但大多晴朗），Not too bad 符合這種中性偏正面的語氣，並呼應後面「mostly it was fine」；It couldn't be better（好到不能再好，太正面）、Don't mention it（不客氣，答非所問）、It was terrible（很糟，跟後面矛盾）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是完整的應答句，單獨看都成立，所以很容易憑第一印象挑一個。這一格不必猜語氣——Jack 自己在同一段話裡就把答案講出來了。【怎麼判斷】John 問 What was the weather like while you were camping?（你們露營的時候天氣怎麼樣？）空格是 Jack 的回答，而他緊接著自己補充：It rained for a few days towards the end of our holiday, but mostly it was fine.（假期快結束時下了幾天雨，但大多數時候是晴的。）下了幾天雨、但大部分是好天氣——這是「不算太差」，中性偏正面，填 Not too bad。這一篇是對話體，通用解法就是往後讀一句：說話的人自己補充的細節，會把前一句的語氣定死。【誘答選項】It couldn’t be better（好得不能再好）：這是表面否定、實為最高級的說法，與「下了幾天雨」直接衝突。（這個說法在 89 年第 31 題與 101 年第 28 題都出現過，那兩次是答案，這一次換它當陷阱。）It was terrible（糟透了）：與 mostly it was fine 矛盾。Don’t mention it（別客氣）：這是回應別人道謝的話，John 沒有道謝，答非所問。【常考字詞與句型】Not too bad.（還不錯、不算太差）、It couldn’t be better.（再好不過了）、Don’t mention it.（別客氣）、What was the weather like?（天氣怎麼樣）、go camping（去露營）、towards the end of（接近……的尾聲）。"
   },
   {
     "id": "G86_27_2",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_2",
     "blankNum": 27,
     "category": "慣用語／片語",
@@ -7230,13 +7230,13 @@
       "D": "No big deal!"
     },
     "answer": "A",
-    "explanation": "對John回應Jack剛剛提到沒能去看瀑布這件事表示惋惜，What a pity!（真可惜！）符合；Oh, how wonderful!／Oh, that was great!（太棒了，語意相反）、No big deal!（沒什麼大不了，跟惋惜語氣不符）都不合。",
+    "explanation": "對 John 回應 Jack 剛剛提到沒能去看瀑布這件事表示惋惜，What a pity!（真可惜！）符合；Oh, how wonderful!／Oh, that was great!（太棒了，語意相反）、No big deal!（沒什麼大不了，跟惋惜語氣不符）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】空格前面那句話用 but 加刪節號結束，看起來話沒說完，你可能不確定 John 到底在回應什麼。其實這一格前後都有線索，可以兩邊夾擊。【怎麼判斷】往前讀：Jack 說 We weren’t able to visit the Rainbow Waterfalls as we planned, but…（我們沒能照原訂計畫去看彩虹瀑布，不過……）——話說到一半被打斷，而被打斷的地方正好是一件遺憾的事。往後讀更確定：Jack 接著說 Well, apart from that, we did everything we wanted to（嗯，除了那件事之外，我們想做的都做了）。apart from that 的 that 指的就是「沒去成瀑布」，而且被特別挑出來排除掉，代表它在兩人的認知裡是一件不好的事。所以 John 在中間說的必然是表示惋惜的話，填 What a pity!（真可惜！）【誘答選項】Oh, how wonderful!（太棒了）、Oh, that was great!（那真好）：兩句都是稱讚，方向完全相反；而且意思相近，依「同義的選項不可能只有一個對」的道理，看到就可以一起砍掉。No big deal!（沒什麼大不了）：這是安慰或不在乎的說法，但 Jack 下一句用 apart from that 把那件事特別排除出來，代表它確實被當成一件憾事。【常考字詞與句型】What a pity!（真可惜）、What a shame!（真可惜）、No big deal!（沒什麼大不了）、apart from（除了……之外）、as planned（照原訂計畫）、be able to V（能夠）。"
   },
   {
     "id": "G86_28_2",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_2",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -7247,13 +7247,13 @@
       "D": "How was that"
     },
     "answer": "B",
-    "explanation": "【句型】How on earth 是加強語氣的疑問片語「到底是怎麼」，表示驚訝好奇他們是怎麼到那麼遠的地方的；How often（多常，問的是頻率不是方式）、How hard（多難）、How was that（文法上接不了did）都不合。",
+    "explanation": "【句型】How on earth 是加強語氣的疑問片語「到底是怎麼」，表示驚訝好奇他們是怎麼到那麼遠的地方的；How often（多常，問的是頻率不是方式）、How hard（多難）、How was that（文法上接不了 did）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 How 開頭，長得很像，而 How often（多常）是課本裡出現最多次的組合，很容易第一眼就選它。這一格先用形態刷一個，再用下一句的答案反推。【怎麼判斷】先看空格後面接什麼：did you get so far?——是一個倒裝的疑問句，所以空格要填的是帶頭的疑問詞組。How was that 先出局：它本身已經是一個完整的問句，後面接不了 did you get so far。剩下三個都是 How 開頭的組合，用下一句的答案分。Jack 回答 We rode bicycles there.（我們騎腳踏車去的。）——答的是方式，所以問的也是方式；How often 問的是頻率，先刷掉。再看語境：前一句 Jack 說他們甚至去了森林裡的原住民村落，John 的反應是驚訝——「你們到底是怎麼去那麼遠的地方的？」on earth 加在疑問詞後面，正是用來加強這種驚訝或不解的語氣。同一組的還有 What on earth（究竟是什麼）、Why on earth（到底為什麼）。【誘答選項】How often（多常）：問頻率，但答案給的是交通方式。How hard（多困難）：問程度，語意不合。How was that：本身是完整問句，接不了後面那一串。【常考字詞與句型】How on earth …?（究竟是怎麼……）、What on earth …?（究竟是什麼）、Why on earth …?（到底為什麼）、manage to V（設法做到）、an aboriginal village（原住民村落）、so far（那麼遠）。"
   },
   {
     "id": "G86_29_2",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_2",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -7271,7 +7271,7 @@
   },
   {
     "id": "G86_30_2",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_2",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -7282,13 +7282,13 @@
       "D": "That's terrible"
     },
     "answer": "C",
-    "explanation": "Jack聽完John忘記帶開罐器的糗事後，用 That's nothing（那沒什麼）帶出「我還有更誇張的經歷」，呼應接下來要講的羊闖進帳篷偷吃食物的故事；That's great／You deserve it／That's terrible 都不符合這種先輕描淡寫、再鋪陳更精彩故事的語氣。",
+    "explanation": "Jack 聽完 John 忘記帶開罐器的糗事後，用 That's nothing（那沒什麼）帶出「我還有更誇張的經歷」，呼應接下來要講的羊闖進帳篷偷吃食物的故事；That's great／You deserve it／That's terrible 都不符合這種先輕描淡寫、再鋪陳更精彩故事的語氣。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】John 剛講完自己的糗事，你會直覺覺得 Jack 應該表示同情，於是挑了 That’s terrible。但 Jack 接下來要做的不是安慰，是比慘。【怎麼判斷】這一格的證據全在後面。John 說 I remember when we went camping last summer. We forgot to take a can-opener along!（我記得去年夏天我們去露營，忘了帶開罐器！）空格是 Jack 的回應，而他緊接著說 Do you know what happened to us? A goat came in our tent at night and ate most of our food!（你知道我們發生什麼事嗎？一隻羊晚上跑進帳篷，把我們大部分的食物都吃了！）——他要講的是一件更誇張的事。用來引出「我的更慘」的說法就是 That’s nothing.（那算什麼。）這也是對話題的通用解法：先看下一句要做什麼，再回頭決定這一句。【誘答選項】That’s terrible（那太糟了）：是同情對方，接不上「我還有更誇張的」。That’s great（那很棒）：忘了帶開罐器不是好事，語意不通。You deserve it（你活該）：責備對方，語氣完全不對，兩人是在互相分享糗事。【常考字詞與句型】That’s nothing.（那算什麼）、take sth along（隨身帶著）、a can-opener（開罐器）、What happened to sb?（某人發生了什麼事）、come in（進來）、eat up（吃光）。"
   },
   {
     "id": "G86_31_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 31,
     "category": "字彙選義",
@@ -7305,7 +7305,7 @@
   },
   {
     "id": "G86_32_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 32,
     "category": "介系詞",
@@ -7322,7 +7322,7 @@
   },
   {
     "id": "G86_33_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 33,
     "category": "字彙選義",
@@ -7339,7 +7339,7 @@
   },
   {
     "id": "G86_34_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 34,
     "category": "慣用語／片語",
@@ -7356,7 +7356,7 @@
   },
   {
     "id": "G86_35_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 35,
     "category": "介系詞",
@@ -7373,7 +7373,7 @@
   },
   {
     "id": "G86_36_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 36,
     "category": "字彙選義",
@@ -7390,7 +7390,7 @@
   },
   {
     "id": "G86_37_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 37,
     "category": "慣用語／片語",
@@ -7407,7 +7407,7 @@
   },
   {
     "id": "G86_38_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 38,
     "category": "慣用語／片語",
@@ -7424,7 +7424,7 @@
   },
   {
     "id": "G86_39_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 39,
     "category": "句型結構",
@@ -7441,7 +7441,7 @@
   },
   {
     "id": "G86_40_3",
-    "year": "86年",
+    "year": "86 年",
     "passageId": "86_3",
     "blankNum": 40,
     "category": "慣用語／片語",
@@ -7458,7 +7458,7 @@
   },
   {
     "id": "G89_16_1",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_1",
     "blankNum": 16,
     "category": "時態／語態",
@@ -7475,7 +7475,7 @@
   },
   {
     "id": "G89_17_1",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_1",
     "blankNum": 17,
     "category": "比較級",
@@ -7492,7 +7492,7 @@
   },
   {
     "id": "G89_18_1",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_1",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -7509,7 +7509,7 @@
   },
   {
     "id": "G89_19_1",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_1",
     "blankNum": 19,
     "category": "句型結構",
@@ -7526,7 +7526,7 @@
   },
   {
     "id": "G89_20_1",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_1",
     "blankNum": 20,
     "category": "時態／語態",
@@ -7544,7 +7544,7 @@
   },
   {
     "id": "G89_21_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -7555,13 +7555,13 @@
       "D": "those"
     },
     "answer": "A",
-    "explanation": "this 指代前面提到的 REM sleep（這種睡眠中），「In this [kind of sleep]」；each（每個，不特指REM）、both（兩者，這裡只講一種）、those（那些，不合單數指代）都不合。",
+    "explanation": "this 指代前面提到的 REM sleep（這種睡眠中），「In this [kind of sleep]」；each（每個，不特指 REM）、both（兩者，這裡只講一種）、those（那些，不合單數指代）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是很短的指示詞或代名詞，中文都能翻成「這個、每個、兩者、那些」，擺進 In ___ 裡唸起來都不算太怪，於是很容易隨手挑一個。這一格要看的是「前一句到底交代了幾樣東西」。【怎麼判斷】四個選項都是擺在介系詞 In 後面的指示詞，可見這一格考的是它指向前面的什麼，那就回頭讀前兩句。第一句說 there are two kinds of sleep（睡眠有兩種），第二句說 One is Rapid Eye Movement (REM) sleep（其中一種是快速動眼期睡眠）。所以到目前為止，被點名的只有一種，這一句接著要描述的就是它。In this 等於 in this kind of sleep（在這種睡眠中），用一個近指的 this 把剛剛講過的那一種收攏起來再指一次，這叫回指（Halliday 與 Hasan「Cohesion in English」的指稱銜接）。同型的題目在題庫裡反覆出現：94 年第 28 題的 this discomfort 回指前文的 feel pain，92 年第 22 題的 this problem 回指「得在太空衣裡如廁」這件事，判斷的順序都一樣——先問「這個 this 指的是前面哪一段」，再看選項哪一個接得住。【誘答選項】both（兩者）：In both 是「在兩者之中」，但這一句描述的腦波與眼球活動是 REM 睡眠獨有的特徵，下一句才輪到另一種，用 both 等於把兩種混為一談。each（每一個）：要有一組東西可以一個一個分配，而前一句只點名了一種，還沒有一組可分。those（那些）：複數而且是遠指，前面只有一種睡眠，數量和距離都對不上。【常考字詞與句型】in this case（在這種情況下）、be similar to（與……相似）、rapid eye movement（快速動眼）、move about（四處移動）、under the closed lids（在閉著的眼皮底下）、two kinds of（兩種……）。"
   },
   {
     "id": "G89_22_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 22,
     "category": "代名詞／指示詞",
@@ -7572,14 +7572,14 @@
       "D": "Others"
     },
     "answer": "C",
-    "explanation": "語意「另一種睡眠是非快速動眼期睡眠」，前面已經講了兩種睡眠中的第一種（REM），這裡用 The other 特指「兩者中的另一個」；Other（其他的，不特指）、Another（另一個，用於三個以上任一個，這裡只有兩種不適用）、Others（複數，不合單數kind）都不合。",
+    "explanation": "語意「另一種睡眠是非快速動眼期睡眠」，前面已經講了兩種睡眠中的第一種（REM），這裡用 The other 特指「兩者中的另一個」；Other（其他的，不特指）、Another（另一個，用於三個以上任一個，這裡只有兩種不適用）、Others（複數，不合單數 kind）都不合。",
     "contextSpan": "跨句",
     "contextNote": "The other 指前一句提到的兩種睡眠中的另一種",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】other、another、the other、others 這一組是英文裡最容易混的組合之一，四個都翻成「其他的、另一個」，光靠中文根本分不開。分它們不必靠語感，靠的是「一共有幾個」和「剩下幾個」。【怎麼判斷】四個選項都是 other 家族的成員，可見這一格考的是「總數與剩餘數」，那就回頭數。這一篇的第一句就把總數講死了：there are two kinds of sleep（睡眠有兩種）；第二句 One is Rapid Eye Movement (REM) sleep 點名了第一種。兩個之中已經講掉一個，剩下的那一個是唯一且確定的，所以要用 the other。掛鉤是國中背過的 I have two pens. One is red; the other is blue.（我有兩枝筆，一枝是紅的，另一枝是藍的。）。順便把整組分清楚：兩者用 one... the other...；三者以上任取一個用 one... another...；剩下的全部（複數）用 the others。92 年第 24 題考的正是同一組的另一半——那一格空在 one 的位置，靠後面出現的 the other 反推；本題空在 the other 的位置，靠前面的 two 與 One 反推。兩題擺在一起看，這一組就不會再混。【誘答選項】Another（另一個）：用在三個以上的情況，表示「再來一個、不特定的另一個」，而本篇一開始就說只有兩種，另一種是確定的，不能用不特定的說法。Other（其他的）：後面要接複數名詞或不可數名詞（other people、other kinds），不能直接修飾單數的 kind。Others（其他人、其他的東西）：本身是複數代名詞，不能拿來修飾後面的 kind。【常考字詞與句型】one … the other …（兩者中的一個……另一個……）、one … another …（三者以上的一個……另一個……）、the others（其餘的全部）、each other（彼此）、on the other hand（另一方面）、in other words（換句話說）。"
   },
   {
     "id": "G89_23_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -7590,13 +7590,13 @@
       "D": "Unless"
     },
     "answer": "A",
-    "explanation": "語意「甚至那些說自己從不做夢的人，也顯示出約20%的快速動眼期睡眠」，Even（甚至）加強語氣，呼應後文的反預期結果；For（因為）、Except（除了，這裡不是排除而是「甚至包括」）、Unless（除非）都不合。",
+    "explanation": "語意「甚至那些說自己從不做夢的人，也顯示出約 20%的快速動眼期睡眠」，Even（甚至）加強語氣，呼應後文的反預期結果；For（因為）、Except（除了，這裡不是排除而是「甚至包括」）、Unless（除非）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】Except（除了）在這裡特別誘人，因為「說自己從不做夢的人」聽起來就像一群該被排除在外的例外。但只要把整句讀完就會發現，這一句要說的正好相反——那些人不但沒被排除，反而也有同樣的數據。【怎麼判斷】先看空格後面接的是什麼：people who say they never dream show about 20 percent of REM sleep 是一個完整的句子（主詞是 people、動詞是 show）。空格出現在整句的最前面，要修飾的是主詞 people 這一群人，所以要的是一個能加強語氣的副詞。再看前一句：Everyone dreams about 20 percent of their sleeping time（每個人的睡眠時間裡大約有兩成在做夢）。本句要說的是「連那些自稱從不做夢的人也一樣有兩成」——這是把一個看似最不可能的例子拿出來，用來證明前面那句話真的適用於所有人。這種「連……也」的加強語氣就是 Even。掛鉤是國中的 Even a child can do it.（連小孩都會做。）。【誘答選項】Except（除了）：意思是把某一群排除在外，但本句接著就說這些人也有兩成的快速動眼期睡眠，等於沒有被排除，語意自相矛盾。這個選項要靠讀完整句才刷得掉，不能只看空格附近。For（因為）：當連接詞時它引出的是前面那句話的理由，位置只能在後面，不能放句首。Unless（除非）：帶出的是條件，後面要接一個條件子句再配主要子句，而本句只有一個完整句子，沒有主要子句可以配。【常考字詞與句型】even（甚至、連……也）、even if（即使）、even though（雖然）、not even（連……都不）、about 20 percent（大約百分之二十）、sleeping time（睡眠時間）。"
   },
   {
     "id": "G89_24_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 24,
     "category": "連接詞／轉承語",
@@ -7613,7 +7613,7 @@
   },
   {
     "id": "G89_25_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 25,
     "category": "關係子句／疑問詞",
@@ -7630,7 +7630,7 @@
   },
   {
     "id": "G89_26_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 26,
     "category": "慣用語／片語",
@@ -7647,7 +7647,7 @@
   },
   {
     "id": "G89_27_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 27,
     "category": "慣用語／片語",
@@ -7665,7 +7665,7 @@
   },
   {
     "id": "G89_28_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 28,
     "category": "分詞／動狀詞",
@@ -7682,7 +7682,7 @@
   },
   {
     "id": "G89_29_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -7699,7 +7699,7 @@
   },
   {
     "id": "G89_30_2",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_2",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -7716,7 +7716,7 @@
   },
   {
     "id": "G89_31_3",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_3",
     "blankNum": 31,
     "category": "語意連貫",
@@ -7734,7 +7734,7 @@
   },
   {
     "id": "G89_32_3",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_3",
     "blankNum": 32,
     "category": "語意連貫",
@@ -7752,7 +7752,7 @@
   },
   {
     "id": "G89_33_3",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_3",
     "blankNum": 33,
     "category": "語意連貫",
@@ -7770,7 +7770,7 @@
   },
   {
     "id": "G89_34_3",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_3",
     "blankNum": 34,
     "category": "語意連貫",
@@ -7788,7 +7788,7 @@
   },
   {
     "id": "G89_35_3",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_3",
     "blankNum": 35,
     "category": "語意連貫",
@@ -7806,7 +7806,7 @@
   },
   {
     "id": "G89_36_4",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_4",
     "blankNum": 36,
     "category": "語意連貫",
@@ -7824,7 +7824,7 @@
   },
   {
     "id": "G89_37_4",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_4",
     "blankNum": 37,
     "category": "語意連貫",
@@ -7842,7 +7842,7 @@
   },
   {
     "id": "G89_38_4",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_4",
     "blankNum": 38,
     "category": "慣用語／片語",
@@ -7859,7 +7859,7 @@
   },
   {
     "id": "G89_39_4",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_4",
     "blankNum": 39,
     "category": "語意連貫",
@@ -7877,7 +7877,7 @@
   },
   {
     "id": "G89_40_4",
-    "year": "89年",
+    "year": "89 年",
     "passageId": "89_4",
     "blankNum": 40,
     "category": "語意連貫",
@@ -7895,7 +7895,7 @@
   },
   {
     "id": "G90_16_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 16,
     "category": "分詞／動狀詞",
@@ -7906,13 +7906,13 @@
       "D": "to give"
     },
     "answer": "A",
-    "explanation": "【句型】Given that... 是固定的分詞構句用法，表示「鑑於/既然」（等同於considering that）；give（原形動詞）、giving（現在分詞，這個固定用語習慣用given不用giving）、to give（不定詞）都不合這個固定用法。",
+    "explanation": "【句型】Given that... 是固定的分詞構句用法，表示「鑑於/既然」（等同於 considering that）；give（原形動詞）、giving（現在分詞，這個固定用語習慣用 given 不用 giving）、to give（不定詞）都不合這個固定用法。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】given、give、giving、to give 四個排在一起，你幾乎立刻就認定「這是文法題」，接著自動進入分詞構句的程序：找意義主詞、判主動被動、檢查有沒有垂懸。這條路一走就錯，而且錯得很有方向性——「聖誕節快到了」是主動的，照這個推法你會被推向 giving。這一格根本沒有意義主詞可找。【怎麼判斷】先看空格後面接什麼：that Christmas is just a few weeks away 是一個完整的 that 子句，逗號之後 here is a gift idea 又是一個完整的句子。要把兩個完整的東西接起來，空格要的是連接詞，不是分詞。given that 正是這樣一組已經定下來的連接詞，意思是「既然、鑑於」，等於 considering that 或 seeing that。它雖然長得像過去分詞，但整組轉成連接詞之後就不再帶著「被給予」的意思，也就不必去追誰給了誰（依 Greenbaum 與 Whitcut「Guide to English Usage」的分類，given、considering 這一類字單獨一個就能當介系詞用，後面接 that 子句時則當連接詞）。填進去讀一次：既然聖誕節只剩幾星期，這裡有個送禮的點子。這一型的題目要記住一句話：選項故意排成分詞的各種形態嚇人，其實只是在問你認不認得這個字，前後文再怎麼對齊也推不出答案，平常大量閱讀的人在這裡占便宜。【誘答選項】giving：現在分詞。若真要當分詞構句看，它的意義主詞得與主要子句的主詞一致，而主要子句是 here is a gift idea，找不到一個能執行「給」這個動作的人；何況分詞構句後面也不會直接掛一個 that 子句。give：原形動詞，句首沒有主詞可以搭配它，也帶不出 that 子句。to give：不定詞可以表目的（為了給……），但後面同樣掛不住 that 子句。三個選項的問題是同一個——它們都接不住那個 that 子句。【常考字詞與句型】given that（既然、鑑於）、considering that（考慮到）、seeing that（既然）、provided that（假如）、a few weeks away（再過幾星期）、have everything（什麼都不缺）。"
   },
   {
     "id": "G90_17_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 17,
     "category": "句型結構",
@@ -7929,7 +7929,7 @@
   },
   {
     "id": "G90_18_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 18,
     "category": "分詞／動狀詞",
@@ -7946,7 +7946,7 @@
   },
   {
     "id": "G90_19_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -7963,7 +7963,7 @@
   },
   {
     "id": "G90_20_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 20,
     "category": "慣用語／片語",
@@ -7980,7 +7980,7 @@
   },
   {
     "id": "G90_21_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 21,
     "category": "字彙選義",
@@ -7997,7 +7997,7 @@
   },
   {
     "id": "G90_22_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 22,
     "category": "字彙選義",
@@ -8014,7 +8014,7 @@
   },
   {
     "id": "G90_23_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 23,
     "category": "字彙選義",
@@ -8031,7 +8031,7 @@
   },
   {
     "id": "G90_24_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 24,
     "category": "字彙選義",
@@ -8048,7 +8048,7 @@
   },
   {
     "id": "G90_25_1",
-    "year": "90年",
+    "year": "90 年",
     "passageId": "90_1",
     "blankNum": 25,
     "category": "慣用語／片語",
@@ -8059,13 +8059,13 @@
       "D": "waking up"
     },
     "answer": "D",
-    "explanation": "動名詞 waking up 作 make 的受詞（make + O + easier句型），指「起床這件事」被形容詞 easier 修飾；to wake up（不定詞，不能這樣直接作受詞）、wake up（原形動詞，不能單獨作名詞性受詞）、woke up（過去式，不能作受詞）都不合。",
+    "explanation": "動名詞 waking up 作 make 的受詞（make + O + easier 句型），指「起床這件事」被形容詞 easier 修飾；to wake up（不定詞，不能這樣直接作受詞）、wake up（原形動詞，不能單獨作名詞性受詞）、woke up（過去式，不能作受詞）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 wake up 的形態變化，你會直覺認為要判斷時態，於是在原形與過去式之間打轉。這一格其實不比時態，比的是「這個位置需要什麼樣的詞」。【怎麼判斷】先把句型認出來：make ___ a little easier，這是 make 加受詞加受詞補語（使……變得……），與同一篇第 19 題考的是同一個句型的兩半——第 19 題問你哪一個動詞能走這個句型，這一題問你句型中間那個受詞該長什麼樣子。受詞的位置只能放名詞或名詞性的東西，四個選項裡只有動名詞 waking up 是名詞性的，意思是「起床這件事」。掛鉤是國中的 Do you mind my opening the window?（你介意我開窗嗎？）——動名詞當受詞。填進去讀一次：it just might make waking up a little easier（它或許能讓起床這件事變得輕鬆一點），正好接得住前半句「它不會像魔法一樣讓學子每天都準時到校」。【誘答選項】wake up：原形動詞。這個選項最誘人，因為 make 後面確實可以接原形——My mother made me clean my room.（我媽要我打掃房間。）但要看清楚位置：那個原形站的是受詞後面的受詞補語位置，前面還有一個受詞 me；本題的空格站的是受詞的位置，後面才是受詞補語 a little easier。同一個 make、兩種句型，差別只在空格落在哪一格，這一步看錯就會選成原形。woke up：過去式，是限定動詞，更不可能當受詞。to wake up：不定詞當受詞在文法上不是完全不行，但 make 這個句型不收不定詞當受詞；真要用不定詞，英文會改成虛受詞的寫法 make it easier to wake up，把 it 擺在受詞的位置、真正的不定詞挪到句尾。【常考字詞與句型】make it easier to V（使做……變得更容易）、mind V-ing（介意做……）、enjoy V-ing（喜歡做……）、wake up（起床、醒來）、get up early（早起）、a little easier（稍微容易一點）。"
   },
   {
     "id": "G99課綱學測參考用試卷_16_1",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_1",
     "blankNum": 16,
     "category": "慣用語／片語",
@@ -8082,7 +8082,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_17_1",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -8099,7 +8099,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_18_1",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -8117,7 +8117,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_19_1",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -8128,14 +8128,14 @@
       "D": "Which"
     },
     "answer": "A",
-    "explanation": "That 代替前面提到的整個概念（新面板重量只有傳統的十分之一），作句子主詞；What（不能這樣代替前述概念作主詞開頭）、There（存在句，不合makes的動詞結構）、Which（關係代名詞需要接在名詞後面）都不合。",
+    "explanation": "That 代替前面提到的整個概念（新面板重量只有傳統的十分之一），作句子主詞；What（不能這樣代替前述概念作主詞開頭）、There（存在句，不合 makes 的動詞結構）、Which（關係代名詞需要接在名詞後面）都不合。",
     "contextSpan": "跨句",
     "contextNote": "That 指前一句的重量數據",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是很短的功能詞，而 What 與 Which 都是你熟悉的、能帶出子句的字，很容易先往那邊想。這一格要先數空格後面的成分——這一次成分是滿的。【怎麼判斷】先看空格後面：___ means it could be used in novel places。means 是動詞，所以空格是這個句子的主詞；而 means 後面的 it could be used in novel places 是完整的受詞子句，成分不缺。再看它要指什麼：前一句說 this new type of panel weighs one tenth of conventional solar panels（這種新面板的重量只有傳統面板的十分之一）。本句要說的是「這一點意味著它可以用在新奇的地方」——那個「這一點」指的是前面一整句話，用指示代名詞 That 就可以了。That 本身不進子句、不占任何成分，單純出現在主詞的位置回指前文。這一格與同一份考卷的第 21 題正好是一組對照，兩題把「數成分」這個判準的兩面都考了，等一下看第 21 題就會發現。【誘答選項】What：它必須帶出一個名詞子句，而且自己要在那個子句裡占一個位置（當主詞或受詞）；本句 means 後面的成分已經滿了，沒有位置給它。Which：關係代名詞，前面要有先行詞才能用，而本句空格出現在句首，前面隔著句號，沒有先行詞。There：只用在 there is／there are 這類存在句裡，當不了 means 的主詞。【常考字詞與句型】That means …（這意味著……）、That is why …（那就是為什麼……）、in novel places（在新奇的地方）、one tenth of（十分之一）、weigh（重達）、novel（新奇的）。"
   },
   {
     "id": "G99課綱學測參考用試卷_20_1",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -8152,7 +8152,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_21_2",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -8169,7 +8169,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_22_2",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_2",
     "blankNum": 22,
     "category": "慣用語／片語",
@@ -8186,7 +8186,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_23_2",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_2",
     "blankNum": 23,
     "category": "字彙選義",
@@ -8203,7 +8203,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_24_2",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_2",
     "blankNum": 24,
     "category": "慣用語／片語",
@@ -8221,7 +8221,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_25_2",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -8238,7 +8238,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_26_3",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_3",
     "blankNum": 26,
     "category": "分詞／動狀詞",
@@ -8249,13 +8249,13 @@
       "D": "Making"
     },
     "answer": "C",
-    "explanation": "【句型】be made up of 字詞搭配「由……組成」，Made up of 2,900 connected reefs 是過去分詞開頭的分詞構句，表示「（這個區域）由2,900個相連的珊瑚礁組成」；Making（現在分詞，主動語意方向不合，make up作「組成」解時主詞應該是「部分」而非「整體」）、To make、Make 都不合這個被動語態的字詞搭配。",
+    "explanation": "【句型】be made up of 字詞搭配「由……組成」，Made up of 2,900 connected reefs 是過去分詞開頭的分詞構句，表示「（這個區域）由 2,900 個相連的珊瑚礁組成」；Making（現在分詞，主動語意方向不合，make up 作「組成」解時主詞應該是「部分」而非「整體」）、To make、Make 都不合這個被動語態的字詞搭配。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項是 make 的四種形態，你會開始判斷主動被動，但空格在整句的最前面、後面又跟著逗號，一時看不出它在修飾誰。【怎麼判斷】先看結構：___ up of 2,900 connected reefs, the area is home to thousands of plant and animal species.逗號後面 the area is home to ... 是完整的主要子句，所以逗號前面那一串沒有主詞、也沒有連接詞，只能是分詞構句。接著問意義主詞是誰：分詞構句的意義主詞就是主要子句的主詞，也就是 the area（這片海域）。再問主動被動：這片海域是「被 2,900 座相連的珊瑚礁組成的」，是被動，所以用過去分詞 Made。整串還原成完整的說法是 The area is made up of 2,900 connected reefs, and it is home to ...。be made up of 是「由……組成」的固定說法，與第 16 題的 be made of（由……材料製成）是同一個動詞的不同組合，可以一起記。【誘答選項】Making：現在分詞表主動，會變成「這片海域組成了 2,900 座珊瑚礁」，方向反了。Make：原形動詞，句子已經有主要動詞 is，不能再放一個。To make：不定詞表目的，但這一串講的是這片海域的組成，不是它存在的目的。【常考字詞與句型】be made up of（由……組成）、consist of（由……構成）、be composed of（由……組成）、be home to（是……的棲地）、connected reefs（相連的珊瑚礁）、plant and animal species（動植物物種）。"
   },
   {
     "id": "G99課綱學測參考用試卷_27_3",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_3",
     "blankNum": 27,
     "category": "連接詞／轉承語",
@@ -8272,7 +8272,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_28_3",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_3",
     "blankNum": 28,
     "category": "字彙選義",
@@ -8289,7 +8289,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_29_3",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_3",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -8306,7 +8306,7 @@
   },
   {
     "id": "G99課綱學測參考用試卷_30_3",
-    "year": "99課綱學測參考用試卷",
+    "year": "99 課綱學測參考用試卷",
     "passageId": "99課綱學測參考用試卷_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -8317,13 +8317,13 @@
       "D": "take"
     },
     "answer": "D",
-    "explanation": "【句型】take effect 字詞搭配「生效」，表示更嚴格的規定預計在2011年7月「生效」；do／become／set 都不能這樣搭配effect構成「生效」的意思。",
+    "explanation": "【句型】take effect 字詞搭配「生效」，表示更嚴格的規定預計在 2011 年 7 月「生效」；do／become／set 都不能這樣搭配 effect 構成「生效」的意思。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是最常見的動詞，中文「生效」在英文裡要配哪一個，中文完全幫不上忙。這一型只能靠有沒有把整組記起來。【怎麼判斷】四個選項都是動詞，可見這一格考的是與 effect 的搭配。整句是 tougher rules are expected to ___ effect in July 2011（更嚴格的規定預計於 2011 年七月生效）。表示規定或法律開始施行，固定說法是 take effect（生效）。同一個意思還有幾種說法可以一起記：come into effect、go into effect、be put into effect（被付諸實行）。注意 effect 與 affect 也常一起考：effect 多半當名詞「影響、效果」（have an effect on 對……有影響）；affect 是動詞「影響」（Smoking affects your health.）。【誘答選項】do、become、set：三個都是高頻動詞，但都不與 effect 組成「生效」這個意思。（set 另有 set an example 樹立榜樣、set a goal 設定目標等組合，但不接 effect。）【常考字詞與句型】take effect（生效）、come into effect（開始生效）、be put into effect（付諸實行）、have an effect on（對……有影響）、tougher rules（更嚴格的規定）、prevent sth from V-ing（防止……發生）。"
   },
   {
     "id": "G102_16_1",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_1",
     "blankNum": 16,
     "category": "分詞／動狀詞",
@@ -8342,7 +8342,7 @@
   },
   {
     "id": "G102_17_1",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_1",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -8362,7 +8362,7 @@
   },
   {
     "id": "G102_18_1",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -8381,7 +8381,7 @@
   },
   {
     "id": "G102_19_1",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -8400,7 +8400,7 @@
   },
   {
     "id": "G102_20_1",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -8420,7 +8420,7 @@
   },
   {
     "id": "G102_21_2",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_2",
     "blankNum": 21,
     "category": "比較級",
@@ -8431,7 +8431,7 @@
       "D": "The rarer"
     },
     "answer": "D",
-    "explanation": "【句型】the + 比較級..., the + 比較級... 固定句型「越……就越……」，表示「一枚硬幣越稀有，它就越值錢」；Rare as（不合這個句型結構）、The rare（原級無比較級變化，不合the...the...句型）、Rarest（最高級，這個句型需要比較級不是最高級）都不合。",
+    "explanation": "【句型】the + 比較級..., the + 比較級... 固定句型「越……就越……」，表示「一枚硬幣越稀有，它就越值錢」；Rare as（不合這個句型結構）、The rare（原級無比較級變化，不合 the...the...句型）、Rarest（最高級，這個句型需要比較級不是最高級）都不合。",
     "accuracyRate": 56,
     "discrimination": 72,
     "contextSpan": "句內",
@@ -8439,7 +8439,7 @@
   },
   {
     "id": "G102_22_2",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -8458,7 +8458,7 @@
   },
   {
     "id": "G102_23_2",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_2",
     "blankNum": 23,
     "category": "連接詞／轉承語",
@@ -8469,7 +8469,7 @@
       "D": "if"
     },
     "answer": "B",
-    "explanation": "語意對比：「許多千年古幣只值幾塊錢……而1913年自由女神鎳幣卻可能賣到超過一百萬美元」，while 在這裡表示對比「然而/而」；since（自從/因為）、whether（是否）、if（如果）都不合。",
+    "explanation": "語意對比：「許多千年古幣只值幾塊錢……而 1913 年自由女神鎳幣卻可能賣到超過一百萬美元」，while 在這裡表示對比「然而/而」；since（自從/因為）、whether（是否）、if（如果）都不合。",
     "accuracyRate": 61,
     "discrimination": 60,
     "contextSpan": "句內",
@@ -8477,7 +8477,7 @@
   },
   {
     "id": "G102_24_2",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -8496,7 +8496,7 @@
   },
   {
     "id": "G102_25_2",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_2",
     "blankNum": 25,
     "category": "比較級",
@@ -8507,7 +8507,7 @@
       "D": "bigger"
     },
     "answer": "C",
-    "explanation": "【句型】the latter 固定用法「後者」，指前面提到的兩者（1798 dime和1916 dime）中後面提到的那個，即1916 dime；older（較舊的）、better（較好的）、bigger（較大的）都不合這個指代用法。",
+    "explanation": "【句型】the latter 固定用法「後者」，指前面提到的兩者（1798 dime 和 1916 dime）中後面提到的那個，即 1916 dime；older（較舊的）、better（較好的）、bigger（較大的）都不合這個指代用法。",
     "accuracyRate": 54,
     "discrimination": 63,
     "contextSpan": "句內",
@@ -8515,7 +8515,7 @@
   },
   {
     "id": "G102_26_3",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -8534,7 +8534,7 @@
   },
   {
     "id": "G102_27_3",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_3",
     "blankNum": 27,
     "category": "慣用語／片語",
@@ -8545,7 +8545,7 @@
       "D": "asked"
     },
     "answer": "A",
-    "explanation": "【句型】使役動詞 have + O + 原形動詞「讓/使某人做某事」，had children do tasks 表示「讓孩子們做任務」；kept（保持，keep通常接Ving不接原形動詞）、wanted／asked（通常接to V不接原形動詞）都不合這個使役結構，只有have可以直接接受詞+原形動詞。",
+    "explanation": "【句型】使役動詞 have + O + 原形動詞「讓/使某人做某事」，had children do tasks 表示「讓孩子們做任務」；kept（保持，keep 通常接 Ving 不接原形動詞）、wanted／asked（通常接 to V 不接原形動詞）都不合這個使役結構，只有 have 可以直接接受詞+原形動詞。",
     "accuracyRate": 50,
     "discrimination": 63,
     "contextSpan": "句內",
@@ -8553,7 +8553,7 @@
   },
   {
     "id": "G102_28_3",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_3",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -8572,7 +8572,7 @@
   },
   {
     "id": "G102_29_3",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_3",
     "blankNum": 29,
     "category": "字彙選義",
@@ -8591,7 +8591,7 @@
   },
   {
     "id": "G102_30_3",
-    "year": "102年",
+    "year": "102 年",
     "passageId": "102_3",
     "blankNum": 30,
     "category": "分詞／動狀詞",
@@ -8602,7 +8602,7 @@
       "D": "being"
     },
     "answer": "D",
-    "explanation": "【句型】with + O + V-ing 獨立分詞構句（表附帶狀況），「以100作為平均值」；is／are（限定動詞，不能這樣接在with+受詞後面）、been（過去分詞，這個結構需要being不是been）都不合。",
+    "explanation": "【句型】with + O + V-ing 獨立分詞構句（表附帶狀況），「以 100 作為平均值」；is／are（限定動詞，不能這樣接在 with+受詞後面）、been（過去分詞，這個結構需要 being 不是 been）都不合。",
     "accuracyRate": 54,
     "discrimination": 48,
     "contextSpan": "句內",
@@ -8610,7 +8610,7 @@
   },
   {
     "id": "G104_16_1",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_1",
     "blankNum": 16,
     "category": "字彙選義",
@@ -8629,7 +8629,7 @@
   },
   {
     "id": "G104_17_1",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -8640,7 +8640,7 @@
       "D": "regarding"
     },
     "answer": "B",
-    "explanation": "介系詞 like 在此表示「例如/像……一樣」，相當於such as，引導後面兩個具體招式名稱（「白鶴亮翅」「雲手」）作為 poetic names（詩意名稱）的舉例說明；from（來自）在這裡文法語意都不通，會變成「名稱來自於這些名稱」，邏輯矛盾；between（在……之間）、regarding（關於）都不合。",
+    "explanation": "介系詞 like 在此表示「例如/像……一樣」，相當於 such as，引導後面兩個具體招式名稱（「白鶴亮翅」「雲手」）作為 poetic names（詩意名稱）的舉例說明；from（來自）在這裡文法語意都不通，會變成「名稱來自於這些名稱」，邏輯矛盾；between（在……之間）、regarding（關於）都不合。",
     "accuracyRate": 63,
     "discrimination": 50,
     "contextSpan": "句內",
@@ -8648,7 +8648,7 @@
   },
   {
     "id": "G104_18_1",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_1",
     "blankNum": 18,
     "category": "句型結構",
@@ -8667,7 +8667,7 @@
   },
   {
     "id": "G104_19_1",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -8686,7 +8686,7 @@
   },
   {
     "id": "G104_20_1",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -8705,7 +8705,7 @@
   },
   {
     "id": "G104_21_2",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_2",
     "blankNum": 21,
     "category": "字彙選義",
@@ -8725,7 +8725,7 @@
   },
   {
     "id": "G104_22_2",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -8744,7 +8744,7 @@
   },
   {
     "id": "G104_23_2",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_2",
     "blankNum": 23,
     "category": "分詞／動狀詞",
@@ -8763,7 +8763,7 @@
   },
   {
     "id": "G104_24_2",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -8782,7 +8782,7 @@
   },
   {
     "id": "G104_25_2",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -8793,7 +8793,7 @@
       "D": "unnecessary"
     },
     "answer": "A",
-    "explanation": "語意「孔雀的羽毛被認為是這種鳥身上最『不吉利』的部位」，unlucky（不吉利的）符合，呼應後文associated with evil eyes（與邪眼有關）；illogical（不合邏輯的）、impossible（不可能的）、unnecessary（不必要的）都不合。",
+    "explanation": "語意「孔雀的羽毛被認為是這種鳥身上最『不吉利』的部位」，unlucky（不吉利的）符合，呼應後文 associated with evil eyes（與邪眼有關）；illogical（不合邏輯的）、impossible（不可能的）、unnecessary（不必要的）都不合。",
     "accuracyRate": 76,
     "discrimination": 59,
     "contextSpan": "句內",
@@ -8801,7 +8801,7 @@
   },
   {
     "id": "G104_26_3",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_3",
     "blankNum": 26,
     "category": "分詞／動狀詞",
@@ -8812,7 +8812,7 @@
       "D": "gathering"
     },
     "answer": "D",
-    "explanation": "【句型】gathering fruits and nuts為動名詞片語，與後文the first cultivation of important trees（名詞片語）構成from X to Y的對等平行結構，兩者皆作介系詞from的受詞，表示「從早期人類採集水果與堅果的階段，到栽培重要樹種的階段」；to gather（不定詞）、gather（原形動詞）皆不符合此處對等平行的名詞性結構；gathered（過去分詞，語意方向不合，應為人類「主動」採集，而非人類「被採集」）亦不合。",
+    "explanation": "【句型】gathering fruits and nuts 為動名詞片語，與後文 the first cultivation of important trees（名詞片語）構成 from X to Y 的對等平行結構，兩者皆作介系詞 from 的受詞，表示「從早期人類採集水果與堅果的階段，到栽培重要樹種的階段」；to gather（不定詞）、gather（原形動詞）皆不符合此處對等平行的名詞性結構；gathered（過去分詞，語意方向不合，應為人類「主動」採集，而非人類「被採集」）亦不合。",
     "accuracyRate": 53,
     "discrimination": 57,
     "contextSpan": "句內",
@@ -8820,7 +8820,7 @@
   },
   {
     "id": "G104_27_3",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_3",
     "blankNum": 27,
     "category": "句型結構",
@@ -8831,7 +8831,7 @@
       "D": "still"
     },
     "answer": "B",
-    "explanation": "with 獨立分詞構句（with+受詞+補語，表附帶狀況），「擁有超過7000個品種存在」；all／around／still 都不合這個句型位置。",
+    "explanation": "with 獨立分詞構句（with+受詞+補語，表附帶狀況），「擁有超過 7000 個品種存在」；all／around／still 都不合這個句型位置。",
     "accuracyRate": 51,
     "discrimination": 58,
     "contextSpan": "句內",
@@ -8839,7 +8839,7 @@
   },
   {
     "id": "G104_28_3",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_3",
     "blankNum": 28,
     "category": "字彙選義",
@@ -8850,7 +8850,7 @@
       "D": "discovery"
     },
     "answer": "A",
-    "explanation": "語意「儘管品種『多樣』，大多數家化蘋果卻可以追溯到共同祖先」，variety（多樣性）呼應前文提到的7000種蘋果；harvest（收成）、condition（狀況）、discovery（發現）都不合。",
+    "explanation": "語意「儘管品種『多樣』，大多數家化蘋果卻可以追溯到共同祖先」，variety（多樣性）呼應前文提到的 7000 種蘋果；harvest（收成）、condition（狀況）、discovery（發現）都不合。",
     "accuracyRate": 64,
     "discrimination": 69,
     "contextSpan": "句內",
@@ -8858,7 +8858,7 @@
   },
   {
     "id": "G104_29_3",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_3",
     "blankNum": 29,
     "category": "時態／語態",
@@ -8869,7 +8869,7 @@
       "D": "have been brought"
     },
     "answer": "C",
-    "explanation": "被動語態過去式 were brought，「被歐洲殖民者帶到北美」，17th century是明確過去時間點，用簡單過去式被動；bring（原形動詞）、have brought（現在完成主動，方向不合，應該是蘋果「被帶去」）、have been brought（現在完成被動，時態不合，明確過去時間點應用簡單過去式）都不合。",
+    "explanation": "被動語態過去式 were brought，「被歐洲殖民者帶到北美」，17th century 是明確過去時間點，用簡單過去式被動；bring（原形動詞）、have brought（現在完成主動，方向不合，應該是蘋果「被帶去」）、have been brought（現在完成被動，時態不合，明確過去時間點應用簡單過去式）都不合。",
     "accuracyRate": 45,
     "discrimination": 44,
     "contextSpan": "句內",
@@ -8877,7 +8877,7 @@
   },
   {
     "id": "G104_30_3",
-    "year": "104年",
+    "year": "104 年",
     "passageId": "104_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -8896,7 +8896,7 @@
   },
   {
     "id": "G107_16_1",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_1",
     "blankNum": 16,
     "category": "比較級",
@@ -8916,7 +8916,7 @@
   },
   {
     "id": "G107_17_1",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -8935,7 +8935,7 @@
   },
   {
     "id": "G107_18_1",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_1",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -8954,7 +8954,7 @@
   },
   {
     "id": "G107_19_1",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -8973,7 +8973,7 @@
   },
   {
     "id": "G107_20_1",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -8992,7 +8992,7 @@
   },
   {
     "id": "G107_21_2",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_2",
     "blankNum": 21,
     "category": "慣用語／片語",
@@ -9011,7 +9011,7 @@
   },
   {
     "id": "G107_22_2",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_2",
     "blankNum": 22,
     "category": "字彙選義",
@@ -9030,7 +9030,7 @@
   },
   {
     "id": "G107_23_2",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_2",
     "blankNum": 23,
     "category": "慣用語／片語",
@@ -9049,7 +9049,7 @@
   },
   {
     "id": "G107_24_2",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_2",
     "blankNum": 24,
     "category": "字彙選義",
@@ -9068,7 +9068,7 @@
   },
   {
     "id": "G107_25_2",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_2",
     "blankNum": 25,
     "category": "字彙選義",
@@ -9079,7 +9079,7 @@
       "D": "disconnected"
     },
     "answer": "A",
-    "explanation": "語意「這些『不需要的』頭髮和毛皮」，unneeded（不需要的，即被剪掉丟棄的頭髮）符合，呼應前文「每天被剪掉的30萬磅頭髮和毛皮」；overthrown（被推翻）、excluded（被排除）、disconnected（斷開連接）都不合。",
+    "explanation": "語意「這些『不需要的』頭髮和毛皮」，unneeded（不需要的，即被剪掉丟棄的頭髮）符合，呼應前文「每天被剪掉的 30 萬磅頭髮和毛皮」；overthrown（被推翻）、excluded（被排除）、disconnected（斷開連接）都不合。",
     "accuracyRate": 62,
     "discrimination": 73,
     "contextSpan": "句內",
@@ -9087,7 +9087,7 @@
   },
   {
     "id": "G107_26_3",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_3",
     "blankNum": 26,
     "category": "字彙選義",
@@ -9106,7 +9106,7 @@
   },
   {
     "id": "G107_27_3",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_3",
     "blankNum": 27,
     "category": "字彙選義",
@@ -9125,7 +9125,7 @@
   },
   {
     "id": "G107_28_3",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_3",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -9144,7 +9144,7 @@
   },
   {
     "id": "G107_29_3",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_3",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -9164,7 +9164,7 @@
   },
   {
     "id": "G107_30_3",
-    "year": "107年",
+    "year": "107 年",
     "passageId": "107_3",
     "blankNum": 30,
     "category": "慣用語／片語",
@@ -9183,7 +9183,7 @@
   },
   {
     "id": "G111_11_1",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_1",
     "blankNum": 11,
     "category": "字彙選義",
@@ -9202,7 +9202,7 @@
   },
   {
     "id": "G111_12_1",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_1",
     "blankNum": 12,
     "category": "時態／語態",
@@ -9213,7 +9213,7 @@
       "D": "have been springing"
     },
     "answer": "D",
-    "explanation": "現在完成進行式 have been springing，配合 Since the 1970s（自從1970年代起，持續到現在），spring up 表示「湧現/興起」；spring（現在式，不符合持續性）、sprang（過去式）、had sprung（過去完成式，沒有更早的過去參照點）都不合。",
+    "explanation": "現在完成進行式 have been springing，配合 Since the 1970s（自從 1970 年代起，持續到現在），spring up 表示「湧現/興起」；spring（現在式，不符合持續性）、sprang（過去式）、had sprung（過去完成式，沒有更早的過去參照點）都不合。",
     "accuracyRate": 56,
     "discrimination": 42,
     "contextSpan": "句內",
@@ -9221,7 +9221,7 @@
   },
   {
     "id": "G111_13_1",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_1",
     "blankNum": 13,
     "category": "字彙選義",
@@ -9240,7 +9240,7 @@
   },
   {
     "id": "G111_14_1",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_1",
     "blankNum": 14,
     "category": "字彙選義",
@@ -9259,7 +9259,7 @@
   },
   {
     "id": "G111_15_1",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_1",
     "blankNum": 15,
     "category": "慣用語／片語",
@@ -9278,7 +9278,7 @@
   },
   {
     "id": "G111_16_2",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_2",
     "blankNum": 16,
     "category": "慣用語／片語",
@@ -9297,7 +9297,7 @@
   },
   {
     "id": "G111_17_2",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_2",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -9316,7 +9316,7 @@
   },
   {
     "id": "G111_18_2",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_2",
     "blankNum": 18,
     "category": "字彙選義",
@@ -9335,7 +9335,7 @@
   },
   {
     "id": "G111_19_2",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_2",
     "blankNum": 19,
     "category": "慣用語／片語",
@@ -9354,7 +9354,7 @@
   },
   {
     "id": "G111_20_2",
-    "year": "111年",
+    "year": "111 年",
     "passageId": "111_2",
     "blankNum": 20,
     "category": "字彙選義",
@@ -9373,7 +9373,7 @@
   },
   {
     "id": "G113_11_1",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_1",
     "blankNum": 11,
     "category": "慣用語／片語",
@@ -9392,7 +9392,7 @@
   },
   {
     "id": "G113_12_1",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_1",
     "blankNum": 12,
     "category": "慣用語／片語",
@@ -9403,7 +9403,7 @@
       "D": "to which"
     },
     "answer": "D",
-    "explanation": "the stores to which they are assigned（他們被分配到的商店），關係代名詞 which 代替 stores，介系詞 to 來自 assigned to 這個字詞搭配；in that（因為）、with which（assigned是assigned to不是assigned with）、for that 都不合。",
+    "explanation": "the stores to which they are assigned（他們被分配到的商店），關係代名詞 which 代替 stores，介系詞 to 來自 assigned to 這個字詞搭配；in that（因為）、with which（assigned 是 assigned to 不是 assigned with）、for that 都不合。",
     "accuracyRate": 43,
     "discrimination": 38,
     "contextSpan": "句內",
@@ -9411,7 +9411,7 @@
   },
   {
     "id": "G113_13_1",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_1",
     "blankNum": 13,
     "category": "慣用語／片語",
@@ -9422,7 +9422,7 @@
       "D": "personal bias"
     },
     "answer": "D",
-    "explanation": "語意「必須遵循一定的標準程序以避免『個人偏見』」，personal bias（個人偏見）符合，呼應後文提供checklist確保評估一致性的目的；keen competitions（激烈競爭）、financial hardship（財務困難）、racial conflicts（種族衝突）都不合。",
+    "explanation": "語意「必須遵循一定的標準程序以避免『個人偏見』」，personal bias（個人偏見）符合，呼應後文提供 checklist 確保評估一致性的目的；keen competitions（激烈競爭）、financial hardship（財務困難）、racial conflicts（種族衝突）都不合。",
     "accuracyRate": 52,
     "discrimination": 64,
     "contextSpan": "句內",
@@ -9430,7 +9430,7 @@
   },
   {
     "id": "G113_14_1",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_1",
     "blankNum": 14,
     "category": "字彙選義",
@@ -9449,7 +9449,7 @@
   },
   {
     "id": "G113_15_1",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_1",
     "blankNum": 15,
     "category": "字彙選義",
@@ -9468,7 +9468,7 @@
   },
   {
     "id": "G113_16_2",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_2",
     "blankNum": 16,
     "category": "句型結構",
@@ -9488,7 +9488,7 @@
   },
   {
     "id": "G113_17_2",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_2",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -9507,7 +9507,7 @@
   },
   {
     "id": "G113_18_2",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_2",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -9526,7 +9526,7 @@
   },
   {
     "id": "G113_19_2",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_2",
     "blankNum": 19,
     "category": "字彙選義",
@@ -9545,7 +9545,7 @@
   },
   {
     "id": "G113_20_2",
-    "year": "113年",
+    "year": "113 年",
     "passageId": "113_2",
     "blankNum": 20,
     "category": "字彙選義",
@@ -9565,7 +9565,7 @@
   },
   {
     "id": "G114_11_1",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_1",
     "blankNum": 11,
     "category": "慣用語／片語",
@@ -9576,7 +9576,7 @@
       "D": "would have spread"
     },
     "answer": "B",
-    "explanation": "過去未來式 would spread，站在1995年那個過去時間點，描述接下來將發生的事（他們沒想到這個創新後來會快速傳播到世界各地），是「過去看未來」的時態；had spread（過去完成式，時態方向不合，這是講「未來會發生」不是「已經發生過」）、had been spreading（同樣時態方向不合）、would have spread（過去完成的假設語氣，這裡不是假設）都不合。",
+    "explanation": "過去未來式 would spread，站在 1995 年那個過去時間點，描述接下來將發生的事（他們沒想到這個創新後來會快速傳播到世界各地），是「過去看未來」的時態；had spread（過去完成式，時態方向不合，這是講「未來會發生」不是「已經發生過」）、had been spreading（同樣時態方向不合）、would have spread（過去完成的假設語氣，這裡不是假設）都不合。",
     "accuracyRate": 46,
     "discrimination": 40,
     "contextSpan": "句內",
@@ -9584,7 +9584,7 @@
   },
   {
     "id": "G114_12_1",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_1",
     "blankNum": 12,
     "category": "字彙選義",
@@ -9603,7 +9603,7 @@
   },
   {
     "id": "G114_13_1",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_1",
     "blankNum": 13,
     "category": "字彙選義",
@@ -9622,7 +9622,7 @@
   },
   {
     "id": "G114_14_1",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_1",
     "blankNum": 14,
     "category": "慣用語／片語",
@@ -9641,7 +9641,7 @@
   },
   {
     "id": "G114_15_1",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_1",
     "blankNum": 15,
     "category": "字彙選義",
@@ -9661,7 +9661,7 @@
   },
   {
     "id": "G114_16_2",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_2",
     "blankNum": 16,
     "category": "字彙選義",
@@ -9680,7 +9680,7 @@
   },
   {
     "id": "G114_17_2",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_2",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -9699,7 +9699,7 @@
   },
   {
     "id": "G114_18_2",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_2",
     "blankNum": 18,
     "category": "字彙選義",
@@ -9710,7 +9710,7 @@
       "D": "haven’t"
     },
     "answer": "C",
-    "explanation": "don't 代替 don't detect that your body is moving（省略重複部分），表示「平衡感應系統的一部分偵測到身體在動，但其他部分『沒有』」；aren't（be動詞否定，前面用的是一般動詞 detect不是be動詞）、won't（未來式否定）、haven't（現在完成式否定，前面是現在簡單式detects）都不合。",
+    "explanation": "don't 代替 don't detect that your body is moving（省略重複部分），表示「平衡感應系統的一部分偵測到身體在動，但其他部分『沒有』」；aren't（be 動詞否定，前面用的是一般動詞 detect 不是 be 動詞）、won't（未來式否定）、haven't（現在完成式否定，前面是現在簡單式 detects）都不合。",
     "accuracyRate": 40,
     "discrimination": 41,
     "contextSpan": "句內",
@@ -9718,7 +9718,7 @@
   },
   {
     "id": "G114_19_2",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_2",
     "blankNum": 19,
     "category": "慣用語／片語",
@@ -9737,7 +9737,7 @@
   },
   {
     "id": "G114_20_2",
-    "year": "114年",
+    "year": "114 年",
     "passageId": "114_2",
     "blankNum": 20,
     "category": "慣用語／片語",
@@ -9756,7 +9756,7 @@
   },
   {
     "id": "G111學測英文參考試卷_16_1",
-    "year": "111年學測英文參考試卷",
+    "year": "111 年學測英文參考試卷",
     "passageId": "111學測英文參考試卷_1",
     "blankNum": 16,
     "category": "句型結構",
@@ -9767,9 +9767,9 @@
       "D": "doing"
     },
     "answer": "C",
-    "explanation": "did 在這裡代替前面已經出現過的一般動詞 influenced（避免重複講同一個動詞）。句意是「他的寫作風格影響了現代小說，他充滿冒險的一生『也』（影響了現代小說）」，後半句要表達「也一樣」，英文用「as + 倒裝」結構來代替重複的動詞。因為 influenced 是一般動詞（不是be動詞），倒裝時不能直接把動詞本身搬到主詞前面，必須借助助動詞 do/does/did 代替，且時態要跟被取代的動詞一致（influenced是過去式，所以用did）。A) was 只能代替be動詞，這裡前面是一般動詞不能用was代替；B) being／D) doing 是分詞形式，不是限定動詞，無法承擔倒裝句裡代替原動詞的角色。",
+    "explanation": "did 在這裡代替前面已經出現過的一般動詞 influenced（避免重複講同一個動詞）。句意是「他的寫作風格影響了現代小說，他充滿冒險的一生『也』（影響了現代小說）」，後半句要表達「也一樣」，英文用「as + 倒裝」結構來代替重複的動詞。因為 influenced 是一般動詞（不是 be 動詞），倒裝時不能直接把動詞本身搬到主詞前面，必須借助助動詞 do/does/did 代替，且時態要跟被取代的動詞一致（influenced 是過去式，所以用 did）。A) was 只能代替 be 動詞，這裡前面是一般動詞不能用 was 代替；B) being／D) doing 是分詞形式，不是限定動詞，無法承擔倒裝句裡代替原動詞的角色。",
     "readMore": {
-      "hint": "重點：as/than 引導的比較句裡，如果後面重複前面用過的一般動詞，要用助動詞do/does/did代替並倒裝（動詞放主詞前面），時態要跟被取代的動詞一致",
+      "hint": "重點：as/than 引導的比較句裡，如果後面重複前面用過的一般動詞，要用助動詞 do/does/did 代替並倒裝（動詞放主詞前面），時態要跟被取代的動詞一致",
       "label": "延伸閱讀：as/than 倒裝代替前述動詞（含例句 as did）",
       "url": "https://www.learn-english-today.com/lessons/lesson_contents/verbs/inversion.html"
     },
@@ -9778,7 +9778,7 @@
   },
   {
     "id": "G111學測英文參考試卷_17_1",
-    "year": "111年學測英文參考試卷",
+    "year": "111 年學測英文參考試卷",
     "passageId": "111學測英文參考試卷_1",
     "blankNum": 17,
     "category": "字彙選義",
@@ -9795,7 +9795,7 @@
   },
   {
     "id": "G111學測英文參考試卷_18_1",
-    "year": "111年學測英文參考試卷",
+    "year": "111 年學測英文參考試卷",
     "passageId": "111學測英文參考試卷_1",
     "blankNum": 18,
     "category": "字彙選義",
@@ -9806,13 +9806,13 @@
       "D": "denied"
     },
     "answer": "D",
-    "explanation": "過去分詞 denied，被動語意「他長期以來一直『無法獲得』的普立茲獎」（he had long been denied the Pulitzer Prize）；planned（被計畫）、achieved（被達成，語意方向不合，如果已經achieved就不需要「finally winning」這個轉折）、examined（被審查）都不合。",
+    "explanation": "過去分詞 denied，被動語意「他長期以來一直『無法獲得』的普立茲獎」（he had long been denied the Pulitzer Prize）；planned（被計畫）、achieved（被達成，語意方向不合，如果已經 achieved 就不需要「finally winning」這個轉折）、examined（被審查）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是過去分詞，而「終於贏得他長久以來一直……的普立茲獎」這一句，如果沒讀出 finally（終於）背後的意思，很容易挑到 achieved（達成）。但如果早就達成了，就不會有「終於」兩個字。【怎麼判斷】四個選項都是過去分詞，可見這一格考的是語意。先把整句讀完：The Old Man and the Sea (1952) ... became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been ___.（The Old Man and the Sea（老人與海）成了他最著名的作品，終於為他贏得那座他長久以來一直……的普立茲獎。）關鍵在 finally（終於）與 had long been（長久以來一直是）——兩個字合起來的意思是：他很久都沒得到，直到這一次才拿到。所以空格要填的是「一直被拒於門外」，填 denied。be denied something 就是「被拒絕給予某物、一直得不到」（He was denied the chance. 他被剝奪了那個機會。）。還原一次：the Pulitzer Prize (that) he had long been denied——關係代名詞省略了，先行詞 the Pulitzer Prize 是 denied 的第二個受詞。【誘答選項】achieved（達成）：如果早就達成了，就不會有 finally winning him the Prize 這一句，前後矛盾。planned（計畫）：獎項不是他能計畫的東西。examined（審查）：語意不通，普立茲獎不是被他審查的對象。【常考字詞與句型】be denied sth（被拒絕給予某物）、win sb a prize（為某人贏得獎項）、the Pulitzer Prize（普立茲獎）、be awarded the Nobel Prize（獲頒諾貝爾獎）、his most famous book（他最著名的作品）、outstanding（傑出的）。"
   },
   {
     "id": "G111學測英文參考試卷_19_1",
-    "year": "111年學測英文參考試卷",
+    "year": "111 年學測英文參考試卷",
     "passageId": "111學測英文參考試卷_1",
     "blankNum": 19,
     "category": "字彙選義",
@@ -9823,13 +9823,13 @@
       "D": "modification"
     },
     "answer": "C",
-    "explanation": "語意「在這種『對抗』中失去希望與信念」，confrontation（對抗）符合，呼應前文set against（對抗）現代社會的殘酷方式；limitation（限制）、classification（分類）、modification（修改）都不合。",
+    "explanation": "語意「在這種『對抗』中失去希望與信念」，confrontation（對抗）符合，呼應前文 set against（對抗）現代社會的殘酷方式；limitation（限制）、classification（分類）、modification（修改）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是 -tion 結尾的抽象名詞，長得很像、中文卻差很遠（限制、分類、對抗、修改），如果沒抓到前一句的關鍵字，只能猜。【怎麼判斷】四個選項都是名詞，可見這一格考的是語意，那就往前讀。前半句是 tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society（強悍、有時甚至原始的人物，他們的勇氣與正直被擺在現代社會的殘酷手段對立面）。關鍵在 set against（與……對立、對抗）——這一句已經把「對抗」的關係講出來了。本句接著說 and who in this ___ lose hope and faith（而他們在這場……中失去希望與信念），那個「這場」指的就是前面那個對立，所以填 confrontation（對抗、衝突）。【誘答選項】limitation（限制）：講的是能力或範圍的界線，不是兩方對立的局面。classification（分類）：與人物和社會的衝突無關。modification（修改）：講的是修正某樣東西，語意完全不合。【常考字詞與句型】a confrontation with（與……的對抗）、be set against（與……對立）、lose hope and faith（失去希望與信念）、the brutal ways of（……的殘酷手段）、courage and honesty（勇氣與正直）、primitive（原始的）。"
   },
   {
     "id": "G111學測英文參考試卷_20_1",
-    "year": "111年學測英文參考試卷",
+    "year": "111 年學測英文參考試卷",
     "passageId": "111學測英文參考試卷_1",
     "blankNum": 20,
     "category": "字彙選義",
@@ -9840,13 +9840,13 @@
       "D": "these"
     },
     "answer": "B",
-    "explanation": "【句型】some of which 固定用法，關係代名詞which代替short stories（其中一些短篇小說收錄在……）；what（不能這樣接在of後面構成關係子句）、them、these（都不是關係代名詞，不能這樣連接子句）都不合。",
+    "explanation": "【句型】some of which 固定用法，關係代名詞 which 代替 short stories（其中一些短篇小說收錄在……）；what（不能這樣接在 of 後面構成關係子句）、them、these（都不是關係代名詞，不能這樣連接子句）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項裡 them 與 these 都能代替前面的名詞，看起來也講得通；但只要看空格前面那個 of，就知道它們進不來。【怎麼判斷】先看空格前面：some of ___ are collected in Men Without Women (1927)。注意這一串接在逗號後面，而且後面有動詞 are——所以它是一個關係子句，用來補充說明前面的 his short stories（他的短篇小說）。既然是關係子句，空格就要填關係代名詞；而它前面有介系詞 of，所以要用能接在介系詞後面的 which：some of which are collected in Men Without Women（其中一些收錄在 Men Without Women（沒有女人的男人）裡）。這個「介系詞 ＋ which」的寫法很常考，同型的還有 many of which、most of whom、the reason for which、the extent to which（……的程度）。【誘答選項】them、these：兩個都是一般代名詞，不能引導關係子句。填進去會變成 his short stories, some of them are collected ...——兩個完整的句子中間只用一個逗號連接，這是不成立的（要成立得改成 some of them being collected 或加上 and）。what：不能當關係代名詞，它前面不能有先行詞，而這裡的先行詞是 his short stories。【常考字詞與句型】some of which（其中一些）、many of which（其中許多）、most of whom（他們之中大多數）、be collected in（被收錄於）、be awarded the Nobel Prize in Literature（獲頒諾貝爾文學獎）、straightforward prose（樸實直接的文筆）。"
   },
   {
     "id": "G115_11_1",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_1",
     "blankNum": 11,
     "category": "慣用語／片語",
@@ -9866,7 +9866,7 @@
   },
   {
     "id": "G115_12_1",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_1",
     "blankNum": 12,
     "category": "字彙選義",
@@ -9885,7 +9885,7 @@
   },
   {
     "id": "G115_13_1",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_1",
     "blankNum": 13,
     "category": "字彙選義",
@@ -9904,7 +9904,7 @@
   },
   {
     "id": "G115_14_1",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_1",
     "blankNum": 14,
     "category": "慣用語／片語",
@@ -9923,7 +9923,7 @@
   },
   {
     "id": "G115_15_1",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_1",
     "blankNum": 15,
     "category": "慣用語／片語",
@@ -9942,7 +9942,7 @@
   },
   {
     "id": "G115_16_2",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_2",
     "blankNum": 16,
     "category": "字彙選義",
@@ -9961,7 +9961,7 @@
   },
   {
     "id": "G115_17_2",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_2",
     "blankNum": 17,
     "category": "慣用語／片語",
@@ -9980,7 +9980,7 @@
   },
   {
     "id": "G115_18_2",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_2",
     "blankNum": 18,
     "category": "慣用語／片語",
@@ -9999,7 +9999,7 @@
   },
   {
     "id": "G115_19_2",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_2",
     "blankNum": 19,
     "category": "慣用語／片語",
@@ -10019,7 +10019,7 @@
   },
   {
     "id": "G115_20_2",
-    "year": "115年",
+    "year": "115 年",
     "passageId": "115_2",
     "blankNum": 20,
     "category": "慣用語／片語",
@@ -10038,7 +10038,7 @@
   },
   {
     "id": "G96_27_3",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_3",
     "blankNum": 27,
     "category": "分詞／動狀詞",
@@ -10049,7 +10049,7 @@
       "D": "climbing"
     },
     "answer": "C",
-    "explanation": "【句型】ranging from...to... 固定分詞片語「範圍從……到……」；differing（不搭配from...to...這個固定範圍表達）、wandering（漫遊）、climbing（攀爬）都不合。",
+    "explanation": "【句型】ranging from...to... 固定分詞片語「範圍從……到……」；differing（不搭配 from...to...這個固定範圍表達）、wandering（漫遊）、climbing（攀爬）都不合。",
     "accuracyRate": 51,
     "discrimination": 56,
     "contextSpan": "句內",
@@ -10057,7 +10057,7 @@
   },
   {
     "id": "G96_28_3",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_3",
     "blankNum": 28,
     "category": "慣用語／片語",
@@ -10076,7 +10076,7 @@
   },
   {
     "id": "G96_29_3",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_3",
     "blankNum": 29,
     "category": "慣用語／片語",
@@ -10096,7 +10096,7 @@
   },
   {
     "id": "G96_30_3",
-    "year": "96年",
+    "year": "96 年",
     "passageId": "96_3",
     "blankNum": 30,
     "category": "字彙選義",
@@ -10195,7 +10195,7 @@
       "D": "Personal"
     },
     "answer": "C",
-    "explanation": "語意「貓咪之間彼此理毛，稱為互相理毛」，Mutual（互相的）符合allogrooming（互相理毛）這個字的定義；Early（早期的）、Natural（自然的）、Personal（個人的）都不合。",
+    "explanation": "語意「貓咪之間彼此理毛，稱為互相理毛」，Mutual（互相的）符合 allogrooming（互相理毛）這個字的定義；Early（早期的）、Natural（自然的）、Personal（個人的）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】這一篇一開始講的是貓「替自己」理毛，所以 Personal（個人的）看起來很合理；但這一段講的已經不是自己理自己，是彼此互相。【怎麼判斷】四個選項都是形容詞，可見這一格考的是語意，那就往前讀一句。前一句是 kittens also begin grooming other baby cats, as well as their mom（幼貓也開始替其他幼貓和媽媽理毛）——重點在 other baby cats 與 their mom，理毛的對象是別的貓，不是自己。本句是 ___ grooming among cats, called allogrooming, often continues into adulthood（貓之間的……理毛，稱為 allogrooming，常會持續到成年）。既然是彼此替對方理，就是「互相的」，填 Mutual。還有一個字本身就在提示：allogrooming 的字首 allo- 來自希臘文，意思是 other（其他的），整個字就是「替別的個體理毛」，與 mutual 的意思完全吻合。再看 among cats（在貓與貓之間）也印證了這是雙向的行為。【誘答選項】Personal（個人的、自己的）：方向相反，這一段講的正是替「別的貓」理毛。Early（早期的）：與時間有關，但這一句要說的是對象不是時間；而且後半句說它會持續到成年，反而不限於早期。Natural（天生的）：這一篇第一句確實提過 naturally equipped，但那是講配備，不是講「互相」這個特性。【常考字詞與句型】mutual respect（互相尊重）、mutual benefit（互利）、a mutual friend（共同的朋友）、among（在……之間，三者以上）、continue into adulthood（持續到成年）、strengthen the bond（強化連結）。"
   },
@@ -10229,7 +10229,7 @@
       "D": "where"
     },
     "answer": "D",
-    "explanation": "關係副詞 where 引導地方子句，「歐亞板塊與菲律賓板塊交會的『線』」，where修飾地方名詞line；that、what、when都不合這種地方關係子句的用法。",
+    "explanation": "關係副詞 where 引導地方子句，「歐亞板塊與菲律賓板塊交會的『線』」，where 修飾地方名詞 line；that、what、when 都不合這種地方關係子句的用法。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】先行詞是 line（線），不是你熟悉的 place 或 country，所以「地方用 where」可能不會想到這條規則，反而選了最常用的 that。【怎麼判斷】先看空格前面：on the line ___ ——先行詞是 the line，指的是地理上的一條線（板塊交界線），性質上是一個「地方」。再數空格後面那個子句：the Euro-Asian and Philippine continental plates meet（歐亞板塊與菲律賓板塊交會）——主詞是兩個板塊、動詞是 meet，而 meet 在這裡是不及物的「交會」，不需要受詞，成分一個都不缺。既然不缺，that 就進不來：關係代名詞一定要在子句裡占一個位置。剩下能用的是關係副詞 where——它本身不占成分，只代替一個表地方的介系詞片語。還原一次就清楚了：on the line, and the plates meet on that line（在那條線上，而兩個板塊在那條線上交會），把 on that line 換成 where。同判準的題目題庫裡已經出現好幾次：83 年第 17 題、89 年第 25 題、92 年第 25 題、98 年第 23 題，全都是先行詞是地方、子句成分已滿。先行詞是不是典型的「地方」不重要，重要的是它在子句裡扮演什麼角色。【誘答選項】that：關係代名詞，成分已滿塞不進去。when：關係副詞，但要配時間的先行詞（the day when），而 line 不是時間。what：不能當關係代名詞，它前面不能有先行詞。【常考字詞與句型】the line where …（……的那條線）、the place where …（……的地方）、be located along（位於……沿線）、continental plates（大陸板塊）、a geographic location（地理位置）、result in（導致）。"
   },
@@ -10246,7 +10246,7 @@
       "D": "on"
     },
     "answer": "C",
-    "explanation": "【句型】result in 字詞搭配「導致」，表示「造成了離島的多元特色」；at、from、on都不是result常見的搭配介系詞。",
+    "explanation": "【句型】result in 字詞搭配「導致」，表示「造成了離島的多元特色」；at、from、on 都不是 result 常見的搭配介系詞。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個都是高頻介系詞，而 result 的中文「造成、導致」後面在中文裡不必接介系詞，只能靠有沒有把整組記起來。【怎麼判斷】四個選項都是介系詞，可見這一格考的是 result 跟哪一個搭配。整句是 This unique geographic location and frequent earthquake activity not only created ... but also resulted ___ the diverse traits of its offshore islands.（這獨特的地理位置與頻繁的地震活動，不只造就了……，也造成了離島的多樣特色。）空格後面是「造成的結果」，所以用 result in（導致、造成）。這一組一定要與 result from 一起記，兩者方向正好相反：result in ＋ 結果（The accident resulted in three deaths. 這場意外造成三人死亡。）；result from ＋ 原因（The accident resulted from careless driving. 這場意外起因於粗心駕駛。）。記法很簡單：in 指向後面的結果，from 指向後面的原因。再用句型驗算：not only ... but also ... 前後要對等，前面是 created（造就），後面也該是一個表「造成」的動詞，result in 完全吻合。【誘答選項】from：result from 意思對，但方向反了——離島的多樣特色是結果不是原因。at、on：兩個都不與 result 組成通行的說法。【常考字詞與句型】result in ＋ 結果（導致）、result from ＋ 原因（起因於）、lead to（導致）、bring about（帶來、造成）、not only … but also …（不只……而且……）、offshore islands（離島）。"
   },
@@ -10263,7 +10263,7 @@
       "D": "Unless"
     },
     "answer": "A",
-    "explanation": "As在這裡表示「由於/既然」，「既然它們的地理位置、地質特徵、人文活動各不相同，每座島都有自己獨特的風景文化」，符合這種因果邏輯；Although（雖然，轉折不合）、If（如果）、Unless（除非）都不合。",
+    "explanation": "As 在這裡表示「由於/既然」，「既然它們的地理位置、地質特徵、人文活動各不相同，每座島都有自己獨特的風景文化」，符合這種因果邏輯；Although（雖然，轉折不合）、If（如果）、Unless（除非）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是從屬連接詞，而「各島條件不同」聽起來像個對比，很容易挑 Although。但這裡的「不同」不是障礙，正是各島各有特色的原因。【怎麼判斷】四個選項都是從屬連接詞，可見這一格考的是前後兩件事的關係。前半是 their locations, land characteristics, and human activity differ（它們的位置、地質特徵與人文活動各不相同），後半是 each has its own unique scenery and culture（每一座島都有自己獨特的風景與文化）。條件不同，所以景色文化不同——這是順向的因果，不是牴觸，填 As（由於、既然）。再看下一句：Therefore, each island offers something different for visitors.（因此，每座島為遊客提供的東西都不一樣。）——Therefore 是因果的轉承語，也印證了這一段走的是因果不是轉折。這一格讓 as 在題庫裡的身分補到第五種，可以一次擺出來：本題是「由於、既然」；84 年第 39 題是「如同、正如」（As you can see）；86 年第 23 題與 87 年第 31 題是「當……的時候」；91 年第 24 題是「隨著」；94 年第 18 題是介系詞「以……的身分」。判準始終同一句：先看後面接的是子句還是名詞，再看語意。【誘答選項】Although（雖然）：讓步要求前後互相牴觸，但條件不同與各有特色是同一個方向。If（如果）：帶出假設，而各島條件不同是既成的事實，不是假設。Unless（除非）：帶出排除性的條件，語意完全不通。【常考字詞與句型】as ＋ 子句（由於、既然）、since ＋ 子句（既然、因為）、differ（不同）、be different from（與……不同）、unique scenery（獨特的風景）、consist of（由……組成）。"
   },
@@ -10297,7 +10297,7 @@
       "D": "Unless"
     },
     "answer": "C",
-    "explanation": "If在這裡引導條件子句，「如果你早上起床後感覺還沒完全清醒」，符合條件句邏輯；Although（雖然）、Because（因為）、Unless（除非）都不合。",
+    "explanation": "If 在這裡引導條件子句，「如果你早上起床後感覺還沒完全清醒」，符合條件句邏輯；Although（雖然）、Because（因為）、Unless（除非）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是從屬連接詞，而「早上起床沒精神所以喝咖啡」聽起來很像因果，Because 很誘人。這一格要看主要子句裡那個 can。【怎麼判斷】四個選項都是從屬連接詞，可見這一格考的是前後兩件事的關係。先讀整句：___ you do not feel fully engaged after you wake up in the morning, drinking coffee at breakfast can mean the difference between a productive day and never arriving at work.（……你早上醒來後覺得還沒完全進入狀況，早餐喝杯咖啡就可能是「有生產力的一天」與「根本到不了公司」之間的差別。）關鍵在主要子句用的是 can mean（可能意味著）——講的是一種可能的結果，不是既成的事實。再看這一整段的口吻：它是在對讀者說明咖啡因的作用，讀者不一定每天早上都沒精神；所以這是一個假設的情境「如果你……那麼……」，填 If。【誘答選項】Because（因為）：它預設「你早上就是沒精神」是既定的事實，但作者面對的是所有讀者，不能替每個人斷定；而且既定事實配上 can（可能）語氣也不搭。Although（雖然）：讓步要求前後牴觸，但「沒精神」與「喝咖啡有差別」是順著走的。Unless（除非）：意思會變成「除非你沒精神，否則喝咖啡才有差別」，把邏輯整個顛倒了。【常考字詞與句型】If ＋ 子句（如果）、feel engaged（進入狀況、投入）、a productive day（有生產力的一天）、contain caffeine（含咖啡因）、a substance（物質）、make sb active（使某人有活力）。"
   },
@@ -10314,7 +10314,7 @@
       "D": "difference"
     },
     "answer": "D",
-    "explanation": "【句型】the difference between A and B 字詞搭配「A跟B之間的差別」，表示喝咖啡可能是「有活力過完一天」跟「根本到不了辦公室」之間的關鍵差異；gap、line、connection都不是這個字詞搭配的正確用字。",
+    "explanation": "【句型】the difference between A and B 字詞搭配「A 跟 B 之間的差別」，表示喝咖啡可能是「有活力過完一天」跟「根本到不了辦公室」之間的關鍵差異；gap、line、connection 都不是這個字詞搭配的正確用字。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都能接在 between 前面湊出一個名詞，而 gap between（兩者之間的差距）看起來也說得通。這一格要看那兩樣東西是「有落差」還是「根本相反」。【怎麼判斷】四個選項都是名詞，可見這一格考的是搭配與語意。先看 between 後面接的是什麼：a productive day and never arriving at work（有生產力的一天，以及根本沒去成公司）——這是兩個完全相反的結果，不是同一件事上的程度落差。要說「是 A 與 B 之間的關鍵差別」，固定說法是 mean the difference between A and B，填 difference。整句是「早餐喝杯咖啡，可能就是有生產力的一天與根本到不了公司之間的差別」。這個說法帶著「關鍵就在這裡」的味道，與 84 年第 39 題收過的 make a difference to（對……造成影響）屬於同一組說法——difference 在這兩個說法裡都不是「差異」的字面義，而是「關鍵、影響」。【誘答選項】gap（差距）：the gap between 講的是同一個尺度上的距離（the gap between rich and poor 貧富差距），但「有生產力」與「沒去成公司」不是同一把尺上的兩點。line（界線）：the line between A and B 是「A 與 B 的分界」（the line between right and wrong 是非的界線），語意偏向劃分而不是「造成關鍵影響」。connection（關聯）：方向相反，這兩個結果之間不是有關聯，是互相排斥。【常考字詞與句型】mean the difference between A and B（是 A 與 B 的關鍵差別）、make a difference（造成改變）、the gap between（……之間的差距）、the line between（……的界線）、a diet pill（減肥藥）、the main ingredient（主要成分）。"
   },
@@ -10331,7 +10331,7 @@
       "D": "having caused"
     },
     "answer": "B",
-    "explanation": "現在分詞causing補充說明結果，「促進新陳代謝，進而使身體燃燒更多卡路里」，分詞構句表示伴隨的結果；cause（原形動詞，不能這樣單獨補充說明）、to cause（不定詞，不太符合這種伴隨結果的分詞構句）、having caused（完成式分詞，時態不合，這裡是同時發生的結果不是先前已完成的動作）都不合。",
+    "explanation": "現在分詞 causing 補充說明結果，「促進新陳代謝，進而使身體燃燒更多卡路里」，分詞構句表示伴隨的結果；cause（原形動詞，不能這樣單獨補充說明）、to cause（不定詞，不太符合這種伴隨結果的分詞構句）、having caused（完成式分詞，時態不合，這裡是同時發生的結果不是先前已完成的動作）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項是 cause 的四種形態，你會開始判斷主動被動、想分詞構句的意義主詞。其實空格前面那個 thereby 已經把形態決定了。【怎麼判斷】先看結構：It boosts metabolism, thereby ___ the body to burn more calories.（咖啡因促進新陳代謝，藉此使身體燃燒更多熱量。）句子已經有主要動詞 boosts，所以空格不可能再是一個限定動詞。關鍵在 thereby（藉此、從而）——它是副詞，慣用的接法是 thereby ＋ 現在分詞，用來帶出前面那個動作所造成的結果，所以填 causing。同型的說法還有 thus causing、thereby making、thereby allowing。再看語意驗算：促進新陳代謝是原因，燃燒更多熱量是隨之而來的結果，現在分詞正是用來表達這種「隨之發生」的關係——87 年第 38 題的 encouraging the production of white blood cells 走的是同一條路（笑對免疫系統有益，隨之促進白血球生成）。順便把 cause 的句型記起來：cause somebody／something to V（使某人或某物做某事），本句的 cause the body to burn 正是這個用法。【誘答選項】cause：原形動詞，句子已經有 boosts，不能再放一個限定動詞。to cause：不定詞表目的，但燃燒熱量是新陳代謝加快之後自然發生的結果，不是「為了」燃燒熱量才加快代謝。having caused：完成分詞，表示動作發生在主要動詞之前，但這裡是先促進代謝、才燃燒熱量，時間順序剛好相反。【常考字詞與句型】thereby ＋ V-ing（藉此、從而）、cause sb／sth to V（使……做……）、boost metabolism（促進新陳代謝）、burn calories（燃燒熱量）、thus（因此）、the main ingredient in（……的主要成分）。"
   },
@@ -10365,7 +10365,7 @@
       "D": "check"
     },
     "answer": "A",
-    "explanation": "【句型】keep sb up 固定片語「讓某人熬夜不睡」，表示咖啡因會讓某些人「整晚睡不著」；remain、stand、check都不合這個字詞搭配。",
+    "explanation": "【句型】keep sb up 固定片語「讓某人熬夜不睡」，表示咖啡因會讓某些人「整晚睡不著」；remain、stand、check 都不合這個字詞搭配。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】四個選項都是動詞，而 remain 與 stand 都帶著「保持、維持」的味道，讀起來好像也能表達「一直醒著」。這一格要看空格後面有沒有受詞。【怎麼判斷】先看結構：a single cup of coffee in the morning will make them feel nervous and ___ them up all night.and 連接兩個動作，前面是 make them feel nervous，所以空格也要是原形動詞，而且後面帶著受詞 them 與副詞 up。能走「動詞 ＋ 受詞 ＋ up」並且意思是「讓某人保持某種狀態」的是 keep：keep somebody up 就是「讓某人熬夜、睡不著」，整句是「早上一杯咖啡就會讓他們緊張，還讓他們整晚睡不著」。keep 的這個用法很常見，都是「使某人維持在某個狀態」：keep sb waiting（讓某人一直等）、keep sb company（陪伴某人）、keep sb busy（讓某人忙個不停）、keep sb informed（隨時告知某人）。【誘答選項】remain：是不及物動詞（remain calm、remain silent），後面不能直接接受詞 them，形態就不合。stand：stand sb up 確實是通行的說法，但意思是「放某人鴿子」，與咖啡因讓人睡不著完全無關。check：check sb up 不是通行的說法（要說 check up on sb 調查某人，或 have a checkup 做健康檢查）。【常考字詞與句型】keep sb up（讓某人熬夜、睡不著）、keep sb waiting（讓某人一直等）、keep sb company（陪伴某人）、stand sb up（放某人鴿子）、check up on sb（調查、探視某人）、be perfectly calm（完全冷靜）。"
   }
