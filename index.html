@@ -271,14 +271,7 @@
   .dual-role{background:transparent; transition:.3s;}
   .dual-role.hint-on{background:#CFE8C9; font-weight:700;}
   .hint-toggle-row{display:flex; align-items:center; gap:8px; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); cursor:pointer;}
-  .level-select-row{display:flex; align-items:center; gap:6px; margin-bottom:10px; flex-wrap:wrap;}
   .level-caption{font-size:11.5px; color:var(--ink-soft); margin-bottom:8px; line-height:1.6;}
-  .level-label{font-size:11px; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace;}
-  .level-chip{
-    font-family:'IBM Plex Mono',monospace; font-size:11px; padding:4px 10px; border-radius:12px;
-    border:1.5px solid var(--rule); cursor:pointer; background:#fff; color:var(--ink-soft);
-  }
-  .level-chip.on{border-color:var(--gold); background:#FBF6E9; color:#8a6d00; font-weight:700;}
   .hint-switch{width:32px; height:17px; background:var(--rule); border-radius:10px; position:relative; transition:.2s;}
   .hint-switch.on{background:var(--sage);}
   .hint-switch::after{content:''; position:absolute; top:2px; left:2px; width:13px; height:13px; background:#fff; border-radius:50%; transition:.2s;}
@@ -298,6 +291,7 @@
     margin-top:12px; padding:12px 14px; background:#F7F5F0; border-radius:3px; border:1px dashed var(--rule);
     font-size:12.5px; color:var(--ink-soft); line-height:1.8;
   }
+  .outline-box .ob-note{font-size:11.5px; color:var(--ink-soft); line-height:1.7; margin-bottom:8px;}
   .outline-box .ob-title{font-family:'Noto Serif TC',serif; font-weight:700; color:var(--ink); margin-bottom:6px; font-size:13px;}
   .outline-box ol{margin:0; padding-left:18px;}
   .acc-tag{
@@ -887,17 +881,11 @@ details.skill[open] > summary::after{content:'－ 收合';}
     <div class="progress-bar"><div class="progress-fill" id="fullProgressFill" style="width:0%"></div></div>
     <div class="card">
       <span class="q-tag" id="fullYearTag"></span><!--DIFFTAG-S--><span class="q-tag diff" id="fullVocabTag"></span><span class="q-tag diff" id="fullLoadTag"></span><!--DIFFTAG-E-->
-      <div class="level-caption">👇 選一個最接近你目前程度的按鈕，會自動幫你決定要不要顯示提示（下面也可以隨時手動開關）</div>
-      <div class="level-select-row">
-        <span class="level-label">我屬於：</span>
-        <div class="level-chip on" data-level="low" onclick="setStudentLevel('low',this)">低分群考生（開提示）</div>
-        <div class="level-chip" data-level="mid" onclick="setStudentLevel('mid',this)">中間群考生（開提示）</div>
-        <div class="level-chip" data-level="high" onclick="setStudentLevel('high',this)">高分群考生（關提示，模擬考場）</div>
-      </div>
       <div class="hint-toggle-row" onclick="toggleFullHint()">
-        <span id="fullHintLabel">主旨句／轉折詞提示：開</span>
+        <span id="fullHintLabel">顯示主旨句與轉折詞提示</span>
         <div class="hint-switch on" id="fullHintSwitch"></div>
       </div>
+      <div class="level-caption">開著的時候，文章裡會用顏色標出<b>段落主旨句</b>與<b>轉折詞</b>。讀長文章抓不到重點時，建議開著；想模擬真正考場的樣子，就關掉。隨時可以切換，不影響你已經選好的答案。</div>
       <div class="hint-legend"><span class="lg4">兩者皆是</span>　<span class="lg3">全文中心思想</span>　<span class="lg1">段落主旨句</span>　<span class="lg2">轉折詞</span></div>
       <div class="passage-text" id="fullPassage"></div>
       <div class="outline-box" id="fullOutlineBox" style="display:none;"></div>
@@ -1609,28 +1597,25 @@ function startFullMode(filterFn){
 let fullHintOn = true;
 function applyHintStyling(){
   document.getElementById('fullHintSwitch').classList.toggle('on', fullHintOn);
-  document.getElementById('fullHintLabel').textContent = '主旨句／轉折詞提示：' + (fullHintOn ? '開' : '關');
   // 只切換已存在DOM元素的樣式class，不重新產生原文HTML，避免清空學生已選的答案
   document.querySelectorAll('#fullPassage .topic-sent, #fullPassage .trans-word, #fullPassage .main-thesis, #fullPassage .dual-role').forEach(el => {
     el.classList.toggle('hint-on', fullHintOn);
   });
+}
+// 骨架層（段落大意）由「答完了沒」控制，與提示開關無關。
+// 提示層是作答中的線索、骨架層是作答後的檢討工具，兩者不共用一個開關。
+function renderOutlineBox(){
   const outlineBox = document.getElementById('fullOutlineBox');
-  const pid = fullPassageIds[fullIdx];
-  const passage = PASSAGES[pid];
-  if(passage && passage.outline && passage.outline.length && fullHintOn){
+  const passage = PASSAGES[fullPassageIds[fullIdx]];
+  if(fullGraded && passage && passage.outline && passage.outline.length){
     outlineBox.style.display = 'block';
-    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div><ol>' +
-      passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
+    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div>' +
+      '<div class="ob-note">這是答完才出現的，用來檢討。回頭比對一次：你剛才讀的時候，每一段抓到的重點跟這裡寫的一不一樣？不一樣的那幾段，常常就是失分的地方。</div>' +
+      '<ol>' + passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
   } else {
     outlineBox.style.display = 'none';
     outlineBox.innerHTML = '';
   }
-}
-function setStudentLevel(level, el){
-  document.querySelectorAll('.level-chip').forEach(c => c.classList.remove('on'));
-  el.classList.add('on');
-  fullHintOn = (level !== 'high');
-  applyHintStyling();
 }
 function toggleFullHint(){
   fullHintOn = !fullHintOn;
@@ -1697,15 +1682,7 @@ function renderFull(){
   });
   document.getElementById('fullPassage').innerHTML = html;
 
-  const outlineBox = document.getElementById('fullOutlineBox');
-  if(passage.outline && passage.outline.length && fullHintOn){
-    outlineBox.style.display = 'block';
-    outlineBox.innerHTML = '<div class="ob-title">📋 段落大意</div><ol>' +
-      passage.outline.map(o => `<li>${escapeHtml(o)}</li>`).join('') + '</ol>';
-  } else {
-    outlineBox.style.display = 'none';
-    outlineBox.innerHTML = '';
-  }
+  renderOutlineBox();
   document.getElementById('fullReview').style.display = 'none';
   document.getElementById('fullReviewList').innerHTML = '';
   document.getElementById('fullTranslation').innerHTML = '';
@@ -1753,6 +1730,7 @@ function gradeFull(){
   document.getElementById('fullSubmitBtn').style.display = 'none';
   document.getElementById('fullNextBtn').style.display = '';
   fullGraded = true;
+  renderOutlineBox();
 }
 
 function nextFullPassage(){
