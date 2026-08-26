@@ -4531,7 +4531,7 @@
     "answer": "A",
     "explanation": "however 標示轉折，本句要說的是「一般人的認知」與「天氣對工作表現的實際影響」之間存在明顯落差，故用 gap；link（關聯）方向相反，clue（線索）、ratio（比例）語意不合。",
     "accuracyRate": 28,
-    "note": "【你可能會這樣想】看到 between A and B，你的第一個反應大概是「這兩者有關聯」，於是選 link——但這一題的方向剛好相反，作者要說的是「兩者對不起來」。a gap between A and B 是「A 與 B 之間的落差」，正是研究文章最愛用的句型：先講大家怎麼想，再講事實如何，中間就是一道 gap。【線索在前一句】這一格必須回頭看前一句才判斷得出來：Interestingly, many people believe that bad weather can reduce productivity and efficiency.（有趣的是，許多人相信壞天氣會降低生產力）。本句開頭的 however 標示轉折，句中的 such beliefs 也直接指回那句話的「相信」。既然是轉折，接下來要說的必然是「事實並非如此」，所以是落差而不是關聯。【判斷口訣】看到 however、in fact、yet、on the contrary 這類轉折詞，先假設下一句要推翻前一句；再看空格填進去之後，語意方向對不對得上。【誘答選項】link 是「關聯」，若填進去會變成「認知與實際之間有明顯關聯」，與 however 自相矛盾；clue 是「線索」，不與 between 搭配成這種句型；ratio 是「比例」，用於數量對比（a ratio of 2 to 1），與抽象的認知落差無關。【常考字詞與句型】a gap between A and B（A 與 B 之間的落差）、bridge／close the gap（弭平落差）、the generation gap（代溝）、a link between A and B（A 與 B 的關聯）。",
+    "note": "【你可能會這樣想】看到 between A and B，你的第一個反應大概是「這兩者有關聯」，於是選 link——但這一題的方向剛好相反，作者要說的是「兩者對不起來」。a gap between A and B 是「A 與 B 之間的落差」，正是研究文章最愛用的句型：先講大家怎麼想，再講事實如何，中間就是一道 gap。【怎麼判斷】作答線索在前一句 Interestingly, many people believe that bad weather can reduce productivity and efficiency.（有趣的是，許多人相信壞天氣會降低生產力與效率）。本句中間插了 however，句中的 such beliefs 也直接指回前一句的「相信」；既然有 however 標示轉折，接下來要說的必然是「事實並非如此」，認知與實際之間就是一道落差，填 gap。看到 however、in fact、yet、on the contrary 這類連貫標記，先假設這一句要推翻前一句，再把選項填進去看語意方向對不對得上——這一步可以避免只看見 between A and B 就選「關聯」。文末 workers are actually most productive when the weather is lousy（天氣差的時候，工作者的產出反而最高）也印證了這道落差確實存在。【誘答選項】link 是「關聯」，若填進去會變成「認知與實際之間有明顯關聯」，與 however 自相矛盾；clue 是「線索」，不與 between 搭配成這種句型；ratio 是「比例」，用於數量對比（a ratio of 2 to 1），與抽象的認知落差無關。【常考字詞與句型】a gap between A and B（A 與 B 之間的落差）、bridge／close the gap（弭平落差）、the generation gap（代溝）、a link between A and B（A 與 B 的關聯）。",
     "discrimination": 25,
     "contextSpan": "跨句",
     "contextNote": "however 與 such beliefs 都指向前一句 many people believe that bad weather can reduce productivity；gap 與 link 之爭全靠這個對比決定"
@@ -5436,7 +5436,7 @@
     "discrimination": 34,
     "contextSpan": "跨句",
     "contextNote": "下一句 the ice sheets represent a sacred symbol 才排除直覺的 environmental",
-    "note": "【你可能會這樣想】題目在講冰河消失，你大概直覺選 environmental。但句中的 also 是關鍵——它代表「除了前面已經談過的影響，還有另一種」，前文談的正是環境層面，所以這一格必須是環境以外的。【線索在下一句】For many indigenous Papuans, the ice sheets represent a sacred symbol.（對許多巴布亞原住民而言，這些冰原是神聖的象徵），下一句還說山谷是神的四肢、冰河是神的頭——這些都屬於文化層面。【記一條判斷法】看到 also、another、in addition，先問「前面講過哪一種了」，答案通常是還沒講過的那一種。【常考字詞與句型】have a significant impact on（對…有重大影響）、cultural／environmental impact（文化／環境衝擊）、indigenous people（原住民）。"
+    "note": "【你可能會這樣想】題目在講冰河消失，你大概直覺選 environmental。但句中的 also 是關鍵——它代表「除了前面已經談過的影響，還有另一種」，前文談的正是環境層面，所以這一格必須是環境以外的。【怎麼判斷】本句的 also 是關鍵：它代表「除了前面已經談過的影響，還有另一種」，而前文從頭到尾談的都是環境層面（冰河變薄、面積只剩 0.5 平方公里、十年內將完全消失），所以這一格必須是環境以外的。作答線索在下一句 For many indigenous Papuans, the ice sheets represent a sacred symbol.（對許多巴布亞原住民而言，這些冰原是神聖的象徵），再下一句還說山谷是神的四肢、冰河是神的頭——這些都屬於文化層面，填 cultural。記一條：看到 also、another、in addition，先問「前面已經講過哪一種了」，答案通常就是還沒講過的那一種。【常考字詞與句型】have a significant impact on（對…有重大影響）、cultural／environmental impact（文化／環境衝擊）、indigenous people（原住民）。"
   },
   {
     "id": "G110_30_3",
@@ -5832,7 +5832,7 @@
     "answer": "A",
     "explanation": "not unlike 是雙重否定，意為「與…並無不同」——這個午後看起來與村裡任何一個下午沒兩樣，正好呼應前一句的 a usual sunny afternoon，也讓後面的 but（突然全村失去意識）有轉折的對象。like 會使語意變成「不像任何一個下午」，與前一句的 usual 牴觸；dislike 是動詞「討厭」；alike 只能置於動詞或名詞之後表「相像」，不能後接受詞。",
     "accuracyRate": 31,
-    "note": "【先說明】本題答案是 (A) unlike。整句是 It seems not unlike any afternoon in the village, but all of a sudden, people and animals lose consciousness.——not 與 unlike 兩個否定相疊，意思回到肯定：「這午後看起來與村裡任何一個下午並無不同」。【你可能會這樣想】看到 not，你大概會想找一個正面的字來配，於是選 like，讀成「不像任何一個下午」。但這樣就與前一句的 a usual sunny afternoon（一個平常的晴朗午後）牴觸，後面的 but 也失去轉折的對象——前面已說反常，後面再說突然出事，兩句同向。【雙重否定表委婉肯定】用「否定其反面」來表達肯定，是英文常見的寫法：not uncommon（並不罕見，即相當常見）、not unheard of（並非沒聽過）、not unlike（與…頗為相似）。這種說法比直接講 like 更含蓄，小說開場很愛用。【接上你已經學過的東西】國中學過雙重否定變肯定：No one didn't come.（沒有人沒來＝全都來了）。not unlike 只是把第二個否定藏進字首 un- 裡。看到 not 後面接 un-／in-／im- 開頭的字，先把兩個否定消掉再讀。【誘答選項】dislike 是動詞，前面已有 seems；alike 只能放動詞或名詞之後（The twins look alike.），不能後接 any afternoon。【常考字詞與句型】not unlike（與…並無不同）、not uncommon（並不罕見）、not unusual（並不稀奇）、be alike（相像）、dislike（討厭）。",
+    "note": "【你可能會這樣想】看到 not，你大概會想找一個正面的字來配，於是選 like，讀成「不像任何一個下午」。但這樣就與前一句的 a usual sunny afternoon（一個平常的晴朗午後）牴觸，後面的 but 也失去轉折的對象——前面已說反常，後面再說突然出事，兩句同向。【怎麼判斷】作答線索在前一句 It is a usual sunny afternoon in the village of Midwich, England.（這是英國米德維奇村一個平常的晴朗午後），以及本句後半的轉折連接詞 but。前面既然寫「平常」，這一句就必須順著寫「和平常沒兩樣」，後面那個 but（突然全村人畜失去意識）才有東西可轉；若這一句就已經寫反常，前後同向，but 的句意連結不通。整句是 not 加上 unlike，兩個否定相疊回到肯定——與村裡任何一個下午並無不同。看到 not 後面接 un-、in-、im- 開頭的字，先把兩個否定消掉再讀一遍，語意方向立刻清楚：not uncommon（並不罕見，其實相當常見）、not unheard of（並非沒聽過）。這種說法比直接講 like 更含蓄，小說開場很常見。【誘答選項】dislike 是動詞，前面已有 seems；alike 只能放動詞或名詞之後（The twins look alike.），不能後接 any afternoon。【常考字詞與句型】not unlike（與…並無不同）、not uncommon（並不罕見）、not unusual（並不稀奇）、be alike（相像）、dislike（討厭）。",
     "discrimination": 28,
     "contextSpan": "跨句",
     "contextNote": "判斷依據在前一句 It is a usual sunny afternoon in the village of Midwich, England.，以及本句後半的轉折連接詞 but——先寫平淡如常，才有「突然全村失去意識」可轉折"
@@ -6366,7 +6366,7 @@
     "answer": "A",
     "explanation": "nowhere else 意為「世界上別無他處」，承接前一句「牠們各自獨立演化」的結果——澳洲九成以上的哺乳類與蛙類在其他地方都找不到；somewhere／everywhere／anywhere else 都無法表達這個否定語意。",
     "accuracyRate": 33,
-    "note": "這題很難，但讀懂的人幾乎都對。【你可能會這樣想】nowhere 是一個「自帶否定」的副詞，句子裡看不到 not，你因此讀不出否定的意思，往往改挑看起來比較安全的 anywhere 或 somewhere。要記住：nowhere ＝ not anywhere，否定已經藏在字裡，句中不需要也不能再加 not。【線索在前一句】本句以 As a result 開頭，直接承接前一句 They evolved separately.（牠們各自獨立演化）——澳洲大陸與其他陸塊分離之後，動物走上不同的演化路線，結果就是這些物種只有澳洲有、世界其他地方都找不到。若沒有前一句，光看本句無法決定該填哪一個 -where，屬於跨句題。【判斷方法】看到 As a result、Therefore、Thus 這類表結果的轉承語，先回頭確認「原因」是什麼，再判斷結果的語意方向。本題的原因是「分開演化」，結果必然是「別處沒有」。【誘答選項】somewhere else 是「別的某個地方」，會變成「在世界上別的某處被發現」，與獨有性矛盾；everywhere else 是「其他各處都有」，語意完全相反；anywhere else 通常用於否定句或疑問句（not found anywhere else 才成立），本句沒有 not，單獨用 anywhere 語意不完整。【常考字詞與句型】nowhere else（別無他處）、nowhere to be found（遍尋不著）、get nowhere（毫無進展）、out of nowhere（突然冒出）。",
+    "note": "這題很難，但讀懂的人幾乎都對。【你可能會這樣想】nowhere 是一個「自帶否定」的副詞，句子裡看不到 not，你因此讀不出否定的意思，往往改挑看起來比較安全的 anywhere 或 somewhere。要記住：nowhere ＝ not anywhere，否定已經藏在字裡，句中不需要也不能再加 not。【怎麼判斷】作答線索在前一句 They evolved separately.（牠們各自獨立演化）。本句以 As a result 開頭，承接的就是這個原因：澳洲與其他陸塊分開之後，動物走上不同的演化路線，結果就是這些物種只有澳洲有、世界其他地方都找不到。看到 As a result、Therefore、Thus 這類表結果的連貫標記，先回頭把原因找出來，再判斷結果的語意方向；這一步做完，四個 -where 只剩一個說得通。這一格光看本句是選不出來的，線索不在空格附近，而在上一句——遇到句首帶連貫標記的空格，養成先往回讀一句的習慣。【誘答選項】somewhere else 是「別的某個地方」，會變成「在世界上別的某處被發現」，與獨有性矛盾；everywhere else 是「其他各處都有」，語意完全相反；anywhere else 通常用於否定句或疑問句（not found anywhere else 才成立），本句沒有 not，單獨用 anywhere 語意不完整。【常考字詞與句型】nowhere else（別無他處）、nowhere to be found（遍尋不著）、get nowhere（毫無進展）、out of nowhere（突然冒出）。",
     "discrimination": 53,
     "contextSpan": "跨句",
     "contextNote": "As a result 承接前一句 They evolved separately，才知道是「別處都沒有」"
@@ -6559,7 +6559,7 @@
     "discrimination": 56,
     "contextSpan": "跨句",
     "contextNote": "前一句 a search began for his reincarnation 才知道是「被選中的」孩子",
-    "note": "讀懂前一句的人幾乎都對。【你可能會這樣想】choose-chose-chosen 你一定背過，但大概沒把 chosen 當成一個形容詞記住：「被選中的」。the chosen one 就是「天選之人」。【線索在前一句】Whenever a Dalai Lama died, a search began for his reincarnation.（每當達賴喇嘛圓寂，尋訪轉世靈童的行動就展開）。有「尋訪」，接下來提到的孩子自然是「被選中的」那一位。本句自己沒有交代挑選的動作。【順帶記一條】分詞當形容詞時先問：這個名詞是做動作的還是被做動作的？做動作用 -ing（searching 正在尋找的），被動作用 p.p.（chosen 被選中的）。【常考字詞與句型】the chosen one（天選之人）、the chosen few（少數獲選者）、be chosen as／for（被選為／被選中做…）。"
+    "note": "讀懂前一句的人幾乎都對。【你可能會這樣想】choose-chose-chosen 你一定背過，但大概沒把 chosen 當成一個形容詞記住：「被選中的」。the chosen one 就是「天選之人」。【怎麼判斷】作答線索在前一句 Whenever a Dalai Lama died, a search began for his reincarnation.（每當達賴喇嘛圓寂，尋訪轉世靈童的行動就展開）。既然有「尋訪」，接下來提到的這名男孩自然是「被選中的」那一位——本句自己完全沒有交代挑選的動作，不回頭看前一句就選不出來。分詞當形容詞，要看該動詞與被修飾名詞之間的關係：主動用現在分詞，被動用過去分詞。the boy searching for his dog（正在找狗的男孩）是主動，the boy chosen for the role（被選來擔任這個角色的男孩）是被動。這名男孩是被找到、被選中的一方，所以用 chosen。【常考字詞與句型】the chosen one（天選之人）、the chosen few（少數獲選者）、be chosen as／for（被選為／被選中做…）。"
   },
   {
     "id": "G93_17_1",
@@ -6576,7 +6576,7 @@
     "answer": "C",
     "explanation": "前一句提到 certain qualities（複數），本句以 One 開頭列出第一項，下一句再以 Another requirement 接續，構成 One… Another… 的列舉呼應；It、All、This 都無法與下一句的 Another 形成這組對稱。",
     "accuracyRate": 32,
-    "note": "【你可能會這樣想】看到句首要填一個代名詞，你第一個想到的是 It（當形式主詞或指前句），或 This（指前面提過的事）。這兩個選項文法上都說得通，所以只看本句是選不出來的。【線索在前後兩句】這一格必須把前後三句連起來讀：前一句 The {16} male child had to have certain qualities.（這名男孩必須具備某些特質）——qualities 是複數，提供了「總數」；本句 ___ was the ability to identify the belongings of his predecessor（其中一項是能認出前世的遺物）；下一句 Another requirement was {18} he should have large ears…（另一項條件是耳朵要大）。One 與下一句的 Another 構成英文列舉時最典型的節奏，缺一不可。【判斷方法：看後面有沒有 another】遇到句首代名詞的空格，先往下掃一兩句，如果看到 another、the other、still another、a second，前面那一格幾乎一定是 One。這組呼應是英文說明文列舉時的固定架構。【誘答選項】It was the ability… 文法無誤，但 it 只是指稱，不帶「其中之一」的意思，與下一句的 Another 對不起來；All 語意錯誤——並不是所有特質都是「認出前世遺物」；This 指代前一句整體，同樣無法與 Another 對稱。【常考字詞與句型】One…, another…, still another…（一項…另一項…再一項）、for one thing…, for another…（一來…二來…）、some…, others…（有些…有些…）。",
+    "note": "【你可能會這樣想】看到句首要填一個代名詞，你第一個想到的是 It（當形式主詞或指前句），或 This（指前面提過的事）。這兩個選項文法上都說得通，所以只看本句是選不出來的。【怎麼判斷】這一格要把前後三句連起來讀。前一句 The {16} male child had to have certain qualities.（這名男孩必須具備某些特質）——qualities 是複數；本句說其中一項是能認出前世自己的遺物；下一句 Another requirement was…（另一項條件是…）。One 與 Another 是英文列舉時固定的一組呼應，課本上就見過：To say is one thing; to do is another.（說是一回事，做是另一回事）。類似的句型：Of the two…, one…, the other…（兩者之中，一個…另一個…）；One…, another…, and still another…（一個…另一個…還有一個）；Some…, others…（有些…有些…）。遇到句首代名詞的空格，先往下掃一兩句，看到 another、the other、a second，前面那一格幾乎一定是 One。【誘答選項】It was the ability… 文法無誤，但 it 只是指稱，不帶「其中之一」的意思，與下一句的 Another 對不起來；All 語意錯誤——並不是所有特質都是「認出前世遺物」；This 指代前一句整體，同樣無法與 Another 對稱。【常考字詞與句型】One…, another…, still another…（一項…另一項…再一項）、for one thing…, for another…（一來…二來…）、some…, others…（有些…有些…）。",
     "discrimination": 41,
     "contextSpan": "跨句",
     "contextNote": "前一句 certain qualities 為複數，才能用 One…；下一句 Another requirement 構成 One–Another 的呼應鏈"
@@ -6977,7 +6977,7 @@
     "answer": "A",
     "explanation": "an increase in 是「…的增加」，a 44% increase in smokers wanting to kick the habit 指想戒菸的人增加了四成四；change（改變）語意不明確，portion（部分）不與百分比這樣搭配，drop（下降）與前面的 very successful 矛盾。",
     "accuracyRate": 32,
-    "note": "【你可能會這樣想】increase 你記得的大概是動詞「增加」（Prices increased.），較少把它當名詞用。名詞的 increase 有固定的字詞搭配：an increase 「in」 + 增加的項目、a 44% increase（增加了 44%），介系詞用 in 不用 of。【本題怎麼判斷】前一句 It has been very successful（成效非常好）已經把語意方向定死——既然成效好，接下來的數字必然是正面的變化。本句 has led to a 44% ___ in smokers wanting to kick the habit（使得想戒菸的人…了 44%），填 increase 才與 successful 一致。若填 drop（下降），會變成「成效很好，結果想戒菸的人少了四成四」，自相矛盾。【誘答選項】change 雖然中性，但 a 44% change 語意含糊，讀者無法判斷是增是減，不符合宣傳文案的表達習慣；portion 是「部分、份量」，不與百分比構成 a 44% portion in 這種說法。【接上你已經學過的東西】國中學過 kick the habit（戒掉壞習慣）這個片語，字面是「把習慣踢開」。本句的 smokers wanting to kick the habit 就是「想戒菸的人」——wanting 是現在分詞後位修飾 smokers。【常考字詞與句型】an increase／a decrease／a drop in（…的增加／減少／下降）、on the increase（持續增加中）、lead to（導致）、kick the habit（戒掉惡習）。",
+    "note": "【你可能會這樣想】increase 你記得的大概是動詞「增加」（Prices increased.），較少把它當名詞用。名詞的 increase 有固定的字詞搭配：an increase 「in」 + 增加的項目、a 44% increase（增加了 44%），介系詞用 in 不用 of。【怎麼判斷】作答線索在空格後面那一整組名詞，不是只有 smokers。原句是 a 44% ___ in smokers wanting to kick the habit（想戒菸的吸菸者…了 44%），wanting to kick the habit 是後位修飾，被計數的是「想戒菸的人」，不是吸菸人口。趕時間的人只讀到 in smokers 就選 drop——菸害警示奏效、吸菸人數下降，這個推論本身完全合理，錯在漏掉後面那一串。讀完整組再回頭看前一句 It has been very successful（這個做法成效非常好），方向就對上了：成效好，想戒菸的人變多，填 increase。判準：空格後的名詞若帶後位修飾（分詞、介系詞片語、關係子句），一定要讀到修飾語結束再判斷。名詞的 increase 固定跟 in 連用，不是跟 of 連用。【誘答選項】change 雖然中性，但 a 44% change 語意含糊，讀者無法判斷是增是減，不符合宣傳文案的表達習慣；portion 是「部分、份量」，不與百分比構成 a 44% portion in 這種說法。【常考字詞與句型】an increase／a decrease／a drop in（…的增加／減少／下降）、on the increase（持續增加中）、lead to（導致）、kick the habit（改掉這個習慣，在此指吸菸）。",
     "discrimination": 24,
     "contextSpan": "句內"
   },
@@ -8413,7 +8413,7 @@
     "answer": "A",
     "explanation": "下一句說明區碼相同或相鄰者通話費率較低，可知區碼決定的是通話的「費用」，故填 cost；format（格式）已用於第 18 格，quality（品質）、distance（距離）都不是區碼所決定的。",
     "accuracyRate": 31,
-    "note": "【你可能會這樣想】看到 area code（區碼）與 a call（一通電話），你腦中浮現的大概是「長途／市內」，於是直覺選 distance——區碼確實對應地理區域，這個聯想很自然，但題目問的不是區碼「代表」什麼，而是區碼「決定」什麼。【線索在下一句】答案寫在緊接的下一句：Calls within an area code and often a small group of neighboring area codes are normally charged at a lower rate than outside the area code.（同一區碼內、以及常常包括鄰近幾個區碼之間的通話，費率通常比跨區低）——charged at a lower rate 講的就是錢。區碼決定的是費率，也就是 cost。這一格必須往下讀一句才確定得了，屬於跨句題。【判斷方法】遇到抽象名詞（cost／quality／value／level）當受詞的空格，先往前後找「數字、金額、費率、程度」這類具體訊息，作者通常會在鄰句給出佐證。【誘答選項】format 已用於第 18 格（It was created {18} the format of XYX），文意選填與綜合測驗的選項不重複使用；quality 是通話品質，與區碼無關；distance 雖與區碼有地理關聯，但區碼並不「決定」距離。【常考字詞與句型】determine the cost of（決定…的費用）、at a lower rate（以較低費率）、the cost of living（生活費）、at all costs（不惜一切）、cover the cost（支付費用）。",
+    "note": "【你可能會這樣想】看到 area code（區碼）與 a call（一通電話），你腦中浮現的大概是「長途／市內」，於是直覺選 distance——區碼確實對應地理區域，這個聯想很自然，但題目問的不是區碼「代表」什麼，而是區碼「決定」什麼。【怎麼判斷】作答線索在緊接的下一句 Calls within an area code and often a small group of neighboring area codes are normally charged at a lower rate than outside the area code.（同一區碼內、以及常常包括鄰近幾個區碼之間的通話，費率通常比跨區低）——charged at a lower rate 講的就是錢，可見區碼決定的是費率，填 cost。這一格光看本句決定不了，必須往下讀一句。遇到 cost、quality、value、level 這類抽象名詞當受詞的空格，就往前後找數字、金額、費率、程度這類具體訊息，作者通常會在鄰句給出佐證；找到那個具體訊息，就知道該填哪一個抽象名詞了。【誘答選項】format 已用於第 18 格（It was created {18} the format of XYX），文意選填與綜合測驗的選項不重複使用；quality 是通話品質，與區碼無關；distance 雖與區碼有地理關聯，但區碼並不「決定」距離。【常考字詞與句型】determine the cost of（決定…的費用）、at a lower rate（以較低費率）、the cost of living（生活費）、at all costs（不惜一切）、cover the cost（支付費用）。",
     "discrimination": 44,
     "contextSpan": "跨句",
     "contextNote": "下一句 charged at a lower rate 才排除 distance／format"
@@ -8909,7 +8909,7 @@
     "answer": "B",
     "explanation": "less A than B 意為「與其說是 A，不如說是 B」；前一句提到長久以來大家認為創造力是少數人專屬，本句以 However 翻轉，說創造力與其說是天才的標誌，不如說是人類天生的潛能。more 會使語意完全相反，better／worse 則無法與 than 構成這個句型的語意。",
     "accuracyRate": 31,
-    "note": "【你可能會這樣想】四個選項都是比較級，句中也有現成的 than，文法上 more 與 less 都塞得進去、都完全合乎語法——這正是本題的難處：光靠文法救不了，一定要讀懂語意方向。【線索在前一句】前一句 It has long been assumed that creativity is some unusual trait enjoyed by the few.（長久以來大家認為創造力是少數人才享有的特殊天賦），本句以 However 起頭，就是要推翻這個看法。既然要推翻「少數人專屬」，答案自然是「與其說是罕見天才的標誌，不如說是人人都有的天生潛能」——所以是 less…than。若填 more，語意會變成「創造力比較像是天才的標誌」，剛好回頭肯定了前一句，與 However 自相矛盾。【下一句再次印證】Thus, it can be nurtured and encouraged.（因此它是可以培養與鼓勵的）——正因為創造力是人人都有的潛能，才談得上培養；如果是天才專屬，就無從培養起。前後兩句把答案夾在中間。【句型整理】less A than B ＝ 與其說 A 不如說 B（也可寫成 not so much A as B）；more A than B ＝ 與其說 B 不如說 A。兩個句型方向相反，背的時候要連著中文一起記，不能只記字面。【常考字詞與句型】less A than B（與其說 A 不如說 B）、not so much A as B（與其說 A 不如說 B）、rather than（而不是）、nurture a talent（培養才能）。",
+    "note": "【你可能會這樣想】四個選項都是比較級，句中也有現成的 than，文法上 more 與 less 都塞得進去、都完全合乎語法——這正是本題的難處：光靠文法救不了，一定要讀懂語意方向。【怎麼判斷】四個選項都是比較級，句中也有現成的 than，光靠句法選不出來，語意方向要靠鄰句決定。作答線索在前一句 It has long been assumed that creativity is some unusual trait enjoyed by the few.（長久以來大家認為，創造力是少數人才具備的一種罕見特質），本句以 However 起頭，就是要推翻這個看法。既然要推翻「少數人專屬」，答案必然是「與其說是罕見天才的標誌，不如說是人人都有的天生潛能」，填 less。下一句 Thus, it can be nurtured and encouraged.（因此創造力是可以培養、可以激發的）再印證一次——正因為人人都有，才談得上培養。兩個句型連中文一起記：less A than B ＝ 與其說 A 不如說 B；more A than B ＝ 與其說 B 不如說 A，方向相反，只記字面會選反。【常考字詞與句型】less A than B（與其說 A 不如說 B）、not so much A as B（與其說 A 不如說 B）、rather than（而不是）、nurture a talent（培養才能）。",
     "discrimination": 35,
     "contextSpan": "跨句",
     "contextNote": "more 與 less 在句內同樣合文法，是前一句 It has long been assumed that creativity is some unusual trait enjoyed by the few 加上 However 才決定方向"
