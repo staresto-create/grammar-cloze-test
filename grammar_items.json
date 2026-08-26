@@ -2102,7 +2102,7 @@
     "accuracyRate": 38,
     "discrimination": 37,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】你看到空格就想填動詞，卻忘了句子已經有主要動詞 come。一個子句只能有一個限定動詞，除非有連接詞。【現在分詞當補語】動詞後面接 V-ing，用來說明主詞「同時處於什麼狀態」：come home feeling great（帶著愉快的心情回家）、sit reading a book（坐著看書）、lie sleeping（躺著睡）。國中學過的 He sat there watching TV. 就是這個結構。【誘答選項】will feel 與 have felt 都是限定動詞，會造成一句兩個動詞卻沒有連接詞；to feel 表目的，但被呵護是在美容店已經發生的事，不是回家的目的。【常考字詞與句型】come home feeling…（帶著某種心情回家）、sit／stand／lie + V-ing（坐著／站著／躺著做某事）、spend time doing（花時間做某事）。"
+    "note": "【你可能會這樣想】你看到空格就想填動詞，卻忘了句子已經有主要動詞 come。一個子句只能有一個限定動詞，除非有連接詞。【怎麼判斷】英文兩個動詞一定要有連接詞連接。本句的動詞是 come，句中沒有連接詞，空格就不能再放動詞，will feel 與 have felt 可排除。剩下 to feel 與 feeling，看這一格要表達什麼：狗回到家時處於什麼狀態，用現在分詞當補語。come home feeling great（帶著愉快的心情回家）、sit reading a book（坐著看書）、lie sleeping（躺著睡覺），課本學過的 He sat there watching TV. 也是這個結構。（例外：go／come 後面可以直接接原形動詞，如 Let’s go see a movie.、Come visit us this summer.、I’ll go check the mailbox.　這是美式口語把 go and see、come and visit 的 and 省略而來，正式寫作仍以 go and see 或 go to see 為主。）【誘答選項】will feel 與 have felt 都是限定動詞，會造成一句兩個動詞卻沒有連接詞；to feel 表目的，但被呵護是在美容店已經發生的事，不是回家的目的。【常考字詞與句型】come home feeling…（帶著某種心情回家）、sit／stand／lie + V-ing（坐著／站著／躺著做某事）、spend time doing（花時間做某事）。"
   },
   {
     "id": "G96_17_1",
@@ -3018,7 +3018,7 @@
     "accuracyRate": 39,
     "discrimination": 34,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】虛主詞你很熟——It is easy for me to answer this question. 但「虛受詞」大概沒學過。本句 makes ___ easier for them to bruise 的真正受詞是後面那一長串 for them to bruise，因為太長，先用 it 占住受詞的位置。【兩個句型並排就懂了】虛主詞：It is easier for them to bruise.（it 占主詞位置）；虛受詞：This makes it easier for them to bruise.（it 占受詞位置）。原理相同，都是先用 it 占位、真正內容往後挪。【同句型的常見動詞】make／find／think／consider 後面都能接虛受詞：I find it hard to believe.、We think it necessary to act now。【常考字詞與句型】make it + 形容詞 + for sb + to V（使某人做某事變得…）、find it hard to V（覺得難以…）、think it necessary to V（認為有必要…）。"
+    "note": "【你可能會這樣想】虛主詞你很熟——It is easy for me to answer this question. 但「虛受詞」大概沒學過。本句 makes ___ easier for them to bruise 的真正受詞是後面那一長串 for them to bruise，因為太長，先用 it 占住受詞的位置。【怎麼判斷】makes 後面要有受詞，而這一句真正的受詞是 for them to bruise。英文語法習慣為盡快表達出句意重點，真受詞太長時就用 it 代替受詞，也就是虛受詞，真正的受詞移到後面。兩個句型並排看最清楚：It is easier for them to bruise.（虛主詞）；This makes it easier for them to bruise.（虛受詞）。虛主詞課本教過，虛受詞比較少見，但道理相同。make、find、think、consider 後面都能這樣用：I find it hard to believe.（我覺得難以相信）、We think it necessary to act now.（我們認為現在有必要行動）。【常考字詞與句型】make it + 形容詞 + for sb + to V（使某人做某事變得…）、find it hard to V（覺得難以…）、think it necessary to V（認為有必要…）。"
   },
   {
     "id": "G99_24_2",
@@ -3111,7 +3111,7 @@
     "answer": "C",
     "explanation": "Since 在此是表原因的從屬連接詞「既然、因為」：正因為儲存與運送的資訊不易取得，瓶裝水未必比自來水更好。Although（雖然）語意方向相反，Despite 是介系詞須接名詞，So 引導結果不能放在句首帶出原因子句。",
     "accuracyRate": 34,
-    "note": "【你可能會這樣想】since 你大概只想到「自從」，而且腦中綁定現在完成式，所以看到句首的 Since 帶出一個完整子句就排除了它。其實 since 有三種身分：介系詞（since last month）、表時間的連接詞（自從）、以及表原因的連接詞「既然、因為」——本題考第三種，與 because、as 意思接近：Since you are here, let's begin.（既然你來了，我們就開始吧）。【文內線索】前一句說水放太久或曝曬會滋生細菌，本句接著說消費者又無從得知這些資訊——原因層層堆疊，導出「瓶裝水未必比較好」。【誘答選項】Although 是讓步，方向相反；Despite 是介系詞，後面只能接名詞不能接子句；So 表結果，不能引導原因子句。【常考字詞與句型】since／as／because + 子句（因為）、despite + 名詞（儘管）、in spite of + 名詞（儘管）、an alternative to（…的替代選擇）。",
+    "note": "【你可能會這樣想】since 你大概只想到「自從」，而且腦中綁定現在完成式，所以看到句首的 Since 帶出一個完整子句就排除了它。其實 since 有三種身分：介系詞（since last month）、表時間的連接詞（自從）、以及表原因的連接詞「既然、因為」——本題考第三種，與 because、as 意思接近：Since you are here, let's begin.（既然你來了，我們就開始吧）。【怎麼判斷】先看空格後面接的是什麼。這一格後面是 the information … is not always readily available，一個完整子句，所以要填連接詞——Despite 是介系詞，只能接名詞，可排除。再看前後的邏輯：前一句說水放太久或曬到太陽會滋生細菌，本句說消費者又無從得知這些資訊，兩件事層層堆疊，導向「瓶裝水未必比自來水好」這個結論，所以要的是表原因的連接詞。since 有三種用法：介系詞（since last month）、表時間的連接詞（自從）、以及表原因的連接詞「既然、因為」，本題考第三種：Since you are here, let’s begin.（既然你來了，我們就開始吧）。【誘答選項】Although 是讓步，方向相反；Despite 是介系詞，後面只能接名詞不能接子句；So 表結果，不能引導原因子句。【常考字詞與句型】since／as／because + 子句（因為）、despite + 名詞（儘管）、in spite of + 名詞（儘管）、an alternative to（…的替代選擇）。",
     "discrimination": 36,
     "contextSpan": "句內"
   },
@@ -3480,7 +3480,7 @@
     "accuracyRate": 38,
     "discrimination": 50,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】語意上 some of them 完全說得通，所以很多人毫不猶豫就選 them。問題不在語意，在結構。【英文兩個句子不能只靠逗號連接】填 them 之後會變成 …about 5,000 other islands, some of them are just rocks…，前後各是一個完整句子，中間只有逗號、沒有連接詞，這在英文裡不成立。中文可以一路逗號到底，英文不行。【怎麼救】把 them 換成 which，後半句就從獨立句子降級成形容詞子句，整句只剩一個主要子句。國中學過 I have two brothers, both of whom are doctors.——同一個結構，指人用 whom、指物用 which。【常考字詞與句型】some／most／all／none of which（其中一些／多數／全部／沒有一個，指物）、both of whom（兩人都，指人）。"
+    "note": "【你可能會這樣想】語意上 some of them 完全說得通，所以很多人毫不猶豫就選 them。問題不在語意，在結構。【怎麼判斷】這一格與語意無關，四個選項填進去意思都通，要看的是結構。填 them 之後會變成 …about 5,000 other islands, some of them are just rocks…，逗號前後各是一個完整句子，中間卻沒有連接詞，不符合英文文法。句子與句子之間一定要有連接詞，而關係代名詞身兼連接詞與代名詞兩種功能。選 which，兩個子句就有連接詞連接，後半句也跟著成為形容詞子句。英文語法習慣精簡，連接詞寫一次就夠：I have two brothers, 「both of whom」 are doctors. 這裡的 both of whom 等於 and both of them，不可寫成 and both of whom。先行詞是人用 who、是物用 which，本題的先行詞是 islands，所以用 which。前面例句的 whom 與本題的 which 都是受格。【常考字詞與句型】some／most／all／none of which（其中一些／多數／全部／沒有一個，指物）、both of whom（兩人都，指人）。"
   },
   {
     "id": "G101_18_1",
@@ -4820,7 +4820,7 @@
     "accuracyRate": 35,
     "discrimination": 38,
     "contextSpan": "句內",
-    "note": "【你可能會這樣想】that 你大概只想到關係代名詞或「那個」，不知道它可以代替前面出現過的名詞，避免重複。本句完整寫法是 …while the size of their hand remains normal.，第二次的 the size 就用 that 頂替。【怎麼用】單數用 that、複數用 those，後面接 of：The head has a similar shape and size to that of a mammal.（頭部的形狀與大小與哺乳類的相似）。這跟 Do you like it?—Yes, I do. 用 do 代替 like it 是同一件事，只是換成代替名詞。【常考字詞與句型】that of／those of（代替前文出現過的名詞）、the same as that of（與…的相同）、compared with that of（與…的相比）。"
+    "note": "【你可能會這樣想】that 你大概只想到關係代名詞或「那個」，不知道它可以代替前面出現過的名詞，避免重複。本句完整寫法是 …while the size of their hand remains normal.，第二次的 the size 就用 that 頂替。【怎麼判斷】這一句完整寫出來是 …while the size of their hand remains normal.，前半句已經出現過 the size。英文語法習慣精簡，避免重複前面出現過的名詞，所以這裡用 that 代替前面出現過的單數名詞 size；如果前面出現過的是複數名詞，就用 those 代替。The population of Taipei is larger than that of Tainan.；The features of this phone are better than those of [the features of] older models.【常考字詞與句型】that of／those of（代替前文出現過的名詞）、the same as that of（與…的相同）、compared with that of（與…的相比）。"
   },
   {
     "id": "G108_28_3",
@@ -5180,7 +5180,7 @@
     "answer": "D",
     "explanation": "without 是介系詞，後面接動名詞 encountering；would not be the same without… 意為「少了…就不一樣了」。as、though 當連接詞時後面必須接完整子句，for + V-ing 用於說明物品用途，都不合。",
     "accuracyRate": 26,
-    "note": "【你可能會這樣想】空格後面是 encountering，你一看到 -ing 就想找連接詞，把 as、though 填進去；但這裡的 -ing 是動名詞不是子句，需要的是介系詞。【without ＝ 沒有】without 後面接名詞或動名詞，整組就是「沒有做某事」：without encountering them（沒有遇見牠們）。國中學過的 without saying a word（一句話也沒說）、Thank you for coming. 就是介系詞接動名詞。【為什麼不是 as／though／for】as 與 though 當連接詞時後面必須接「主詞 + 動詞」的完整子句；for + V-ing 是用來說明「物品的用途」（I need something for storing CDs.），語意套不進來。【這句在說什麼】would not be the same without… ＝「少了…就不一樣了」。少了鴿子在噴泉洗澡、在廣場成群飛舞的畫面，歐洲城市之旅就不對味了。【常考字詞與句型】would not be the same without…（少了…就不一樣了）、without doing sth（沒有做某事）、do without（沒有…也行）、cannot help doing（忍不住做）。",
+    "note": "【你可能會這樣想】空格後面是 encountering，你一看到 -ing 就想找連接詞，把 as、though 填進去；但這裡的 -ing 是動名詞不是子句，需要的是介系詞。【怎麼判斷】空格後面是 encountering，是動名詞不是子句，所以這一格要填介系詞，不是連接詞。as 與 though 當連接詞時，後面必須接「主詞＋動詞」的完整子句，這一句沒有，兩個可排除。for ＋ V-ing 用來說明物品的用途：I need something for storing CDs.（我需要能收 CD 的東西），語意套不進來。剩下 without，後面正是接名詞或動名詞：without encountering them（沒有遇見牠們）、without saying a word（一句話也沒說）。整句是 would not be the same without…，意思是少了鴿子在噴泉洗澡、在廣場成群飛舞的畫面，歐洲城市之旅就不對味了。【常考字詞與句型】would not be the same without…（少了…就不一樣了）、without doing sth（沒有做某事）、do without（沒有…也行）、cannot help doing（忍不住做）。",
     "discrimination": 31,
     "contextSpan": "句內"
   },
@@ -5357,7 +5357,7 @@
       "url": "https://www.perfect-english-grammar.com/third-conditional.html"
     },
     "accuracyRate": 30,
-    "note": "【你可能會這樣想】看到 If he was，你大概會判定這是單純的過去式條件句。其實這句出自口語，正式寫法是 If he were——口語常用 was 代替 were，但整句仍是假設語氣。判準不在 if 子句，在主要子句。【這是混合條件句】if 子句 If he was（＝were）講的是「上帝現在是否在找我麻煩」，屬於與現在事實相反；主要子句 would have been 講的是「當年那第一道雷」，屬於與過去事實相反。兩個子句時間點不同，公式是 If + 過去式／were, 主詞 + would have + p.p.（現在的假設條件 → 過去的結果）。標準例句：If I were a man, they would have given me the job.（假如我是男的，當年那份工作就會給我了）。【本題的事實】說話者被閃電擊中過很多次，他說「如果上帝真要找我麻煩，第一道雷就夠了」——言下之意是他挨了不只一道卻還活著。結果落在過去，所以用 would have been。【接上你已經學過的東西】If I were you, I would…（與現在事實相反，結果也在現在）；本題只是把結果挪到過去。【常考字詞與句型】would have + p.p.（與過去事實相反）、If I were you…（假如我是你）、be after sb（找某人麻煩）、be struck by lightning（被閃電擊中）。",
+    "note": "【你可能會這樣想】看到 If he was，你大概會判定這是單純的過去式條件句。其實這句出自口語，正式寫法是 If he were——口語常用 was 代替 were，但整句仍是假設語氣。判準不在 if 子句，在主要子句。【怎麼判斷】假設語氣要分別看 if 子句與主要子句各自對應哪個時間。看到 If he was 不要直接當成單純的過去式條件句——正式寫法是 If he were，口語常用 was 代替 were，整句仍是假設語氣。if 子句 If he was（＝were）講的是「上帝現在是不是在找我麻煩」，與現在事實相反；主要子句講的是當年那第一道雷，與過去事實相反，所以用 would have been。假設語氣可以混合使用，句型是 If ＋ 主詞 ＋ 過去式／were, 主詞 ＋ would have ＋ 過去分詞，也就是條件在現在、結果在過去。標準例句：If I were a man, they would have given me the job.（假如我是男的，當年那份工作就會給我了）。文中的事實是：這位巡山員一生被閃電擊中七次還活著，他說「如果上帝真要找我麻煩，第一道雷就夠了」，言下之意是結果並沒有發生，而那是過去的事。課本學過的 If I were you, I would…（假如我是你，我會…）條件與結果都在現在，本題只是把結果挪到過去。【常考字詞與句型】would have + p.p.（與過去事實相反）、If I were you…（假如我是你）、be after sb（找某人麻煩）、be struck by lightning（被閃電擊中）。",
     "discrimination": 26,
     "contextSpan": "句內"
   },
@@ -6004,7 +6004,7 @@
     "answer": "B",
     "explanation": "have yet to V 意為「尚未做某事」，本身即帶否定語氣，指人們面對這個新情況還沒找出因應之道；not 無法構成 have not to 這種說法，till 與 though 也接不上不定詞。",
     "accuracyRate": 32,
-    "note": "【你可能會這樣想】yet 你大概只會用在句尾（I haven't finished yet.）。這裡它夾在 have 與 to 中間，句子又看不到 not，所以讀不出否定的意思。【have yet to ＝ 還沒】它自己就是否定，不能再加 not。最快的理解方式是換句話說：have yet to V ＝ still haven't + p.p. He has yet to find an investor. ＝ He still hasn't found an investor.（他至今還沒找到投資人）。本句 people have yet to find out how to deal with it ＝ 人們還沒找出因應之道，正好呼應前一句的 we do not know what will {29} of it。【till 與 still 差一個 s】很多人是把 till 看成 still。till ＝ until（直到），後面接時間點或子句（Wait till Monday.）；still ＝ 仍然，放一般動詞前、be 動詞後（She still lives here.）。就算你把 till 讀成 still，選項印的仍是 till，而 till 接不上不定詞 to find out，句子直接不成立。【誘答選項】have not to 不是英文；though 是連接詞，接不上不定詞。【常考字詞與句型】have yet to V（尚未做某事）、be yet to be decided（尚未決定）、as yet（迄今為止）、not yet（還沒）。",
+    "note": "【你可能會這樣想】yet 你大概只會用在句尾（I haven't finished yet.）。這裡它夾在 have 與 to 中間，句子又看不到 not，所以讀不出否定的意思。【怎麼判斷】空格夾在 have 與 to find out 之間，要判斷哪一個字接得上不定詞，得看每個選項本身怎麼用。have to 是「必須」，否定要用 don’t have to，英文沒有 have not to 這種寫法，所以 not 填不進去。though 是連接詞，用來連接兩個子句，例如 Though he is young, he is capable.（他雖然年輕，卻很有能力），後面不接不定詞。till ＝ until，是「直到」，後面接時間點或子句，例如 Wait till Monday.（等到星期一）、Wait till he comes.（等到他來），一樣接不上不定詞。三個都排除，只剩 yet。have yet to V 是固定用法，意思是「還沒做某事」，它本身就帶否定，句子裡看不到 not 也不能再加。最快的理解方式是換句話說：have yet to V ＝ still haven’t ＋ p.p.。He has yet to find an investor. ＝ He still hasn’t found an investor.（他到現在還沒找到投資人）。本句 people have yet to find out how to deal with it 就是人們還沒找出因應之道，正好接住前一句的「我們不知道這件事會有什麼結果」。很多人是把 till 看成 still，這個誤讀之所以難察覺，是因為 have still to 確實是英文說法，與 have yet to 同義：He has still to reply. ＝ He has yet to reply.，讀起來完全通順。但選項印的是 till，不是 still——still 是「仍然」，放一般動詞前、be 動詞後，例如 She still lives here.（她還住在這裡）。填進去變成 have till to find out，句子不成立。【誘答選項】not 無法構成 have not to；till 等於 until，後面接時間點或子句；though 是連接詞，後面接子句。三者都接不上不定詞 to find out。【常考字詞與句型】have yet to V（尚未做某事）、be yet to be decided（尚未決定）、as yet（迄今為止）、not yet（還沒）。",
     "discrimination": 28,
     "contextSpan": "句內"
   },
@@ -8967,7 +8967,7 @@
     "answer": "C",
     "explanation": "where 引導關係副詞子句，先行詞是前面的 the mind turns inward 所形成的「內在境地」；which 之後的子句已完整、無空缺，if 與 but 也無法與逗號前的敘述構成合理邏輯。",
     "accuracyRate": 28,
-    "note": "【你可能會這樣想】where 在你腦中大概只能指「地方」——公園、學校、城市；一看到前面沒有具體地點，就把 where 排除掉。事實上 where 引導的關係副詞子句，先行詞不必是實體場所，也可以是抽象的「情境、境地、狀態」。【本題怎麼判斷】the mind turns inward（心思轉向內在）這句話造出的正是一個抽象的「內在空間」，後面的 it can subconsciously puzzle over subtle meanings and connections（在其中，心思能潛意識地琢磨細微的意義與連結）就發生在這個空間裡，用 where 承接最自然。【怎麼排除 which】關係代名詞 which 在子句裡必須擔任主詞或受詞，也就是子句會「缺一角」；本句 it can subconsciously puzzle over… 主詞 it、動詞 puzzle over、受詞 subtle meanings 樣樣不缺，沒有位置留給 which。這是判斷 where／when 與 which／that 最可靠的方法：子句完整就用關係副詞，子句缺主詞或受詞才用關係代名詞。【誘答選項】if 引導條件，但前後不是條件關係；but 表轉折，然而「心思轉向內在」與「琢磨細微意義」是順承而非對比。【接上你已經學過的東西】國中學過 This is the house where I was born.，本題只是把具體的 house 換成抽象的心理境地。同類的還有 a situation where…（在…的情況下）、cases where…（在…的案例中）。【常考字詞與句型】a situation／case where…（在…的情況／案例中）、the reason why…（…的原因）、the time when…（…的時候）、puzzle over（苦思）、turn inward（轉向內在）。",
+    "note": "【你可能會這樣想】where 在你腦中大概只能指「地方」——公園、學校、城市；一看到前面沒有具體地點，就把 where 排除掉。事實上 where 引導的關係副詞子句，先行詞不必是實體場所，也可以是抽象的「情境、境地、狀態」。【怎麼判斷】關代與關副的分別，不是看先行詞，是看空格後面的子句完不完整。關係代名詞要在形容詞子句裡當主詞或受詞，所以後面接的是不完整子句；關係副詞是副詞，不佔主詞或受詞的位置，所以後面接的是完整子句。本句 it can subconsciously puzzle over subtle meanings and connections 主詞 it、動詞 puzzle over、受詞 subtle meanings 俱全，是完整子句，所以選關係副詞 where。where 是表地點或狀態的關係副詞，先行詞不限於實際的地方，也可以是表示情況的抽象名詞，例如 a situation where…（在…的情況下）、cases where…（在…的案例中）。本句的 the mind turns inward（心思轉向內在）指的就是一種心理狀態。課本學過的 This is the house where I was born. 也是同一個結構。【誘答選項】if 引導條件，但前後不是條件關係；but 表轉折，然而「心思轉向內在」與「琢磨細微意義」是順承而非對比。【常考字詞與句型】a situation／case where…（在…的情況／案例中）、the reason why…（…的原因）、the time when…（…的時候）、puzzle over（苦思）、turn inward（轉向內在）。",
     "discrimination": 36,
     "contextSpan": "句內"
   },
