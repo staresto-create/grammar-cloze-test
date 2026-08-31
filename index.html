@@ -1255,6 +1255,12 @@ let singleAnswered = false;
    讓作業的題序可預期（buildQueue 會打散，故此處不呼叫它）。
    網址形狀：#set-<題目ID以半形逗號或句點分隔>[|<題組名稱>]
    例：#set-G83_11_1,G92_29_1|115上第3週U5 */
+/* 其他入口一律清掉題組名稱，避免上一輪 #set- 的標籤殘留在畫面上。 */
+function clearSetLabel(){
+  const el = document.getElementById('singleSetLabel');
+  if(el) el.textContent = '';
+}
+
 function startFromSetHash(){
   const raw = decodeURIComponent(location.hash || '');
   const m = raw.match(/^#set-([^|]+)(?:\|(.*))?$/);
@@ -1294,6 +1300,7 @@ function startSession(){
   const yearOk = it => selectedYears.size===0 || selectedYears.has(it.year);
   if(currentMode === 'single'){
     const filterFn = it => catOk(it) && yearOk(it) && diffOk(it);
+  clearSetLabel();
     singleQueue = buildQueue(filterFn);
     if(singleQueue.length===0){ alert('這個篩選條件下沒有題目（難易度篩選可能跟其他條件沒有交集）'); return; }
     singleIdx = 0;
@@ -1307,6 +1314,7 @@ function startSession(){
 
 function quickStart(){
   testMode = document.getElementById('testModeToggle').checked;
+  clearSetLabel();
   singleQueue = buildQueue(()=>true).slice(0,10);
   if(singleQueue.length===0) return;
   singleIdx = 0;
@@ -1318,6 +1326,7 @@ function startWrongReview(){
   const wrongIds = loadWrongIds();
   if(wrongIds.size===0) return;
   testMode = document.getElementById('testModeToggle').checked;
+  clearSetLabel();
   singleQueue = ITEMS.filter(it => wrongIds.has(it.id));
   for(let i=singleQueue.length-1;i>0;i--){
     const j = Math.floor(Math.random()*(i+1));
@@ -1611,6 +1620,7 @@ let fullIdx = 0;
 let fullGraded = false;
 
 function startFullMode(filterFn){
+  clearSetLabel();
   const validItems = ITEMS.filter(filterFn);
   fullPassageIds = Array.from(new Set(validItems.map(it=>it.passageId)));
   if(fullPassageIds.length===0){ alert('這個篩選條件下沒有題目'); return; }
