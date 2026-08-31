@@ -846,6 +846,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
   <!-- SINGLE MODE -->
   <div id="single">
     <div class="quiz-meta">
+      <span id="singleSetLabel"></span>
       <span id="singleProgress">0 / 0</span>
       <span id="singleWrongBadge"></span>
     </div>
@@ -1016,6 +1017,7 @@ async function init(){
   refreshWrongCount();
   refreshHomeStats();
   fillSpanStats();
+  startFromSetHash();
 }
 
 /* 線索範圍統計：由 ITEMS 現算，新增年度後自動更新。
@@ -1246,6 +1248,34 @@ function escapeAttr(s){ return escapeHtml(s).replace(/"/g,'&quot;'); }
 let singleQueue = [];
 let singleIdx = 0;
 let singleAnswered = false;
+
+/* #set- 深連結入口：老師指定一組題目當作業。
+   只讀 hash、不寫 hash，站內操作與既有網址皆不受影響。
+   走的是既有的單題模式，順序照網址給的順序，不套用任何篩選、不打散，
+   讓作業的題序可預期（buildQueue 會打散，故此處不呼叫它）。
+   網址形狀：#set-<題目ID以半形逗號或句點分隔>[|<題組名稱>]
+   例：#set-G83_11_1,G92_29_1|115上第3週U5 */
+function startFromSetHash(){
+  const raw = decodeURIComponent(location.hash || '');
+  const m = raw.match(/^#set-([^|]+)(?:\|(.*))?$/);
+  if(!m) return false;
+  const ids = m[1].split(/[.,]/).map(s => s.trim()).filter(Boolean);
+  const byId = {};
+  ITEMS.forEach(it => { byId[it.id] = it; });
+  const queue = ids.map(id => byId[id]).filter(Boolean);
+  if(queue.length === 0){ alert('這條作業連結裡的題目都不存在，可能是題庫更新過。'); return false; }
+  const label = (m[2] || '').trim() || '指定練習';
+  const miss = ids.length - queue.length;
+  testMode = document.getElementById('testModeToggle').checked;
+  singleQueue = queue;
+  singleIdx = 0;
+  const el = document.getElementById('singleSetLabel');
+  if(el) el.textContent = label + '（' + queue.length + ' 題）';
+  showScreen('single');
+  renderSingle();
+  if(miss > 0) alert('這條作業連結有 ' + miss + ' 題已不存在，已自動略過，其餘 ' + queue.length + ' 題照常作答。');
+  return true;
+}
 
 function buildQueue(filterFn){
   const pool = ITEMS.filter(filterFn);
