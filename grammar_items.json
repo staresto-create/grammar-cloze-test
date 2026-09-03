@@ -2909,7 +2909,12 @@
     "note": "答對率 15%，鑑別度 0：高分群與低分群考生答對率幾乎一樣，代表大家都在猜。【你可能會這樣想】inform 家族擠成一團，你記得 information、informative，卻很少把 informed 當形容詞記住。它的中文是「消息靈通的」，最接近的說法是「萬事通」——不是「包打聽」，愛探聽那個是 nosy。這一家不必一個一個背，先找到來源就好：inform（告知）→ informative 具備 inform 的特質，會給出資訊；informed 是被 inform 過的，接收了資訊。一個放出去、一個收進來。這個對立你國中就學過：interesting／interested、boring／bored——-ing 形容東西，-ed 形容人。這裡形容的是 consumers，所以只能是 informed。【怎麼判斷】線索在下一句：There isn't a brand or a trend that these young people are not aware of.（沒有哪個品牌或潮流是這些年輕人不知道的）——用雙重否定表達「什麼都知道」，正是 informed 的同義改寫。形容詞題不確定時，往下一句找作者有沒有換個說法再講一次。【誘答選項】informative（資訊豐富的）形容東西；informal（非正式的）；informational（資訊性的）。三個都不能形容「懂得做功課的人」。反義走字首 un-：uninformed（沒做功課的）。這個家族一句記完：An informative news app keeps readers informed, so they can form an informed opinion instead of an uninformed guess.（資訊充足的新聞 app 讓讀者隨時掌握狀況，於是他們形成得了有依據的看法，而不是沒做功課的瞎猜。）〔情境取材自 108 指考作文題：青年對各類新聞的關注度〕再往外兩個字：informer（線民，祕密向警方提供消息的人）與 informant（提供資訊者，語氣中性），超出高中範圍，當延伸看。【常考字詞與句型】an informed consumer（懂得做功課的消費者）、an informed decision（明智的決定）、well-informed（消息靈通的）、keep sb informed（隨時告知某人）、an informative talk（資訊豐富的演講）、be aware of（意識到）、keep abreast of（跟上…的最新狀況）。",
     "discrimination": 0,
     "contextSpan": "跨句",
-    "contextNote": "下一句 There isn't a brand or a trend that these young people are not aware of，aware 與 informed 正反同義"
+    "contextNote": "下一句 There isn't a brand or a trend that these young people are not aware of，aware 與 informed 正反同義",
+    "readMore": {
+      "label": "延伸閱讀：informed 當形容詞的用法",
+      "url": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/informed",
+      "hint": "重點：informed 形容人，是「消息靈通的、掌握足夠資訊的」——an informed choice、keep sb informed；informative 形容東西給得出資訊，是「知識性的」。"
+    }
   },
   {
     "id": "G99_18_1",
@@ -8610,9 +8615,14 @@
     "answer": "A",
     "explanation": "success on the test 指「在該測驗上取得的成功」，是前半條件句 could pass a particular test 的同義改寫；objection（反對）、agreement（同意）、discovery（發現）與通過測驗都無關。",
     "accuracyRate": 24,
-    "note": "【你可能會這樣想】四個都是名詞，你會拿中文去湊：前面說「如果七成的八歲孩子考得過某項測驗」，後面說「就代表八歲孩子的智力程度」，中間填「發現」也像、填「同意」也像。你看出這一格要接住前半那個條件句，方向抓對了；卡住的地方在後面那三個字 on the test——名詞和它專屬的介系詞是一起記的，記憶裡少了這一格，就只能拿中文硬湊。【怎麼判斷】從介系詞回推名詞。這一格後面是 on the test，先問「哪一個名詞配得上 on the test」：success on the test（在該測驗上過關）是現成說法，其餘三個名詞各自帶著自己的介系詞——objection to（對…的反對）、agreement on（對…的共識）、discovery of（對…的發現），沒有一個配 on。再看語意：前半條件句寫 could pass a particular test（考得過某項測驗），這一格是把同一件事換個說法再講一次，只有 success 對得上，另外三個都是憑空冒出來的新資訊。這一題示範了一個很好用的習慣：看到名詞後面黏著介系詞，先用介系詞刷掉選項，比逐一翻中文快得多。一句記完：Wei-ming's success on the civil service exam surprised no one who had watched him study every night after work.（偉明在公職考試上的過關，並沒有讓看過他每天下班後苦讀的人感到意外。）〔情境取材自 105 指考作文題：碩士考清潔隊員〕【誘答選項】objection（反對）：配 to，而且文中沒有任何人反對。agreement（同意、協議）：配 with 某人或 on 某事，一份測驗不是協商的對象。discovery（發現）：配 of，而且比奈在這裡是建立一套標準，不是宣布新發現。名詞挑哪個介系詞多半講不出道理，只能連著一起記。同義記一組：success on the test 等於 passing the test，反過來是 failure（失敗）。【常考字詞與句型】success on a test（測驗過關）、succeed in + V-ing（成功做到）、be successful in（在…上有成就）、objection to（對…的反對）、agreement on（對…的共識）、discovery of（對…的發現）、pass a test（考過測驗）、a level of intelligence（智力程度）。",
+    "note": "【你可能會這樣想】四個都是名詞。你會用中文句意理解：前面說「如果七成的八歲孩子考得過某項測驗」，後面說「就代表八歲孩子的智力程度」，中間填「發現」、填「同意」好像都說得通。問題出在切的位置：\nsuccess on | the test\nsuccess | on the test【怎麼判斷】切在上面那一種，就得去找後面接 on 的名詞，四個都不接。要切的是下面那一種：his performance on the test、her score on the test 也都成立，on the test 不是 success 帶的。切對之後只剩一層。前半寫 If 70 percent of 8-year-olds could pass a particular test，後半講的是同一件事——英文不重複用字，同一個概念回來時會換一個說法，pass a particular test 換成名詞就是 success。另外三個都是憑空冒出來的新資訊。一句記完：Wei-ming's success on the civil service exam surprised no one who had watched him study every night after work.（偉明在公職考試上的過關，並沒有讓看過他每天下班後苦讀的人感到意外。）〔情境取材自 105 指考作文題：碩士考清潔隊員〕【誘答選項】objection（反對）：配 to，而且文中沒有任何人反對。agreement（同意、協議）：配 with 某人或 on 某事，一份測驗不是協商的對象。discovery（發現）：配 of，而且比奈在這裡是建立一套標準，不是宣布新發現。objection、agreement、discovery 各自搭 to、on、of，那是名詞自己的介系詞；本題的 on the test 不是這一種，用介系詞刷不掉選項。判得掉它們的是語意——文中沒有人反對，一份測驗不是協商的對象，比奈在這裡也不是宣布新發現。同義記一組：success on the test 等於 passing the test，反過來是 failure（失敗）。【常考字詞與句型】success on a test（測驗過關）、succeed in + V-ing（成功做到）、be successful in（在…上有成就）、objection to（對…的反對）、agreement on（對…的共識）、discovery of（對…的發現）、pass a test（考過測驗）、a level of intelligence（智力程度）。",
     "discrimination": 6,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：success 自己搭的介系詞",
+      "url": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/success",
+      "hint": "重點：success 自己搭的介系詞是 in 與 with（success in doing sth）；本題的 on the test 不是 success 帶的。切在 success | on the test，這一格就只剩同義改寫要判。"
+    }
   },
   {
     "id": "G102_30_3",
@@ -9261,7 +9271,12 @@
     "accuracyRate": 20,
     "note": "【你可能會這樣想】end 你大概只記得「結束」，腦中畫面是時間或事件（The meeting ended at five.）。這裡結束的卻是 the similarities——講的是「兩者像到哪裡為止」。【怎麼判斷】先確認空格在句中是什麼功能：that's where the similarities ___，where 引導的子句裡 similarities 是主詞，空格就是它的動詞。四個選項都是動詞，句法過不了篩，要靠語意。關鍵在下一句：Each of these towns shows unique features of its own.（每個書鎮都有自己獨特的地方。）unique 與 similarities 正好相對，作者用它畫出界線——相似到此為止，再往下都是差異。驗算法：把 that's where…ends 換成中文的「到此為止」唸一遍——雖然所有書鎮都有很多書店，但相似之處就到此為止，接回下一句的「各有特色」，語氣銜接得上。順帶把 end 的兩個用法分清楚：名詞是「端點」，make ends meet（收支相抵）就是讓收入與支出兩端碰在一起；本題是動詞，走到那個端點。一句記完：Both charts show that students spend most of their time in class, but that's where the similarities end.（兩張圖都顯示學生大部分時間都在上課，但相似之處也就到此為止。）〔情境取材自 111 學測參考試卷作文題：美國高中生的時間分配〕【誘答選項】四個都能接在 similarities 後面當動詞，錯在語意方向。form 是「形成」，會讀成「相似之處就是在這裡形成的」——方向相反，下一句講的是差異，不是相似如何產生。count 與 matter 都可表示「重要、有分量」，放進來變成「相似之處在這裡才重要」，但下一句沒有承接重要性這條線，而是列舉各鎮的不同；count 另有「計算」一義，那個用法需要受詞，也接不上。【常考字詞與句型】That's where…ends（…到此為止）、come to an end（結束）、end up（最終落得）、make ends meet（收支相抵）、have a lot in common（有許多共同點）、unique features（獨特之處）。",
     "discrimination": 25,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：end 當動詞，結束的不只是時間",
+      "url": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/end",
+      "hint": "重點：end 當動詞是「到此為止」，常跟表範圍的 where 連用（That's where the similarities end）；count 與 matter 講的是「重要、算數」，接不進這個句框。"
+    }
   },
   {
     "id": "G111_14_1",
@@ -9591,7 +9606,12 @@
     "note": "【你可能會這樣想】match 你記得的大概是名詞「火柴、比賽」與動詞「配對」（match the words with the pictures）。同樣是只記到第一個意思就停了：它當及物動詞還有「比得上、匹敵」的意思，而且多半用在否定句——cannot match（比不上）、be no match for（不是…的對手）。這一義你國中其實碰過：No one can match him in chess.（下棋沒人比得過他）、The champion has finally met his match.（那位冠軍終於遇到對手了。）反過來的說法是 surpass、outdo、beat（勝過）。【怎麼判斷】這一格必須把前後兩句合起來讀：前一句用 surely simpler and more convenient 先讓一步，承認新科技的優點；本句以 However 轉折，說它們 cannot ___ the personal attention（比不上那份專屬的關照）。有讓步才有轉折，缺了前一句就判不出方向，屬於跨句題。整篇從敲窗人這個行業寫到它被鬧鐘取代，最後這句是作者的評價，情感方向是惋惜。【誘答選項】forget、change、regret 三個動詞的主詞都必須是有意識的人——鬧鐘不會忘記、不會後悔。看到主詞是無生命的東西，先檢查動詞需不需要「意識」，是很快的篩選法。一句記完：Nothing beats the beef noodles people line up for; no chain restaurant can match them.（沒什麼比得上讓大家排隊的那碗牛肉麵；連鎖餐廳哪一家都比不上。）〔情境取材自 107 學測作文題：排隊嘗鮮〕【常考字詞與句型】cannot match（比不上）、be no match for（不是…的對手）、meet one's match（遇到對手）、match A with B（把 A 與 B 配對）、a perfect match（絕配）、live up to（不辜負）、in time for（趕得及…）。",
     "discrimination": 17,
     "contextSpan": "跨句",
-    "contextNote": "前一句 alarm clocks are surely simpler and more convenient 建立讓步對比"
+    "contextNote": "前一句 alarm clocks are surely simpler and more convenient 建立讓步對比",
+    "readMore": {
+      "label": "延伸閱讀：match 當動詞的「比得上」",
+      "url": "https://dictionary.cambridge.org/dictionary/english-chinese-traditional/match",
+      "hint": "重點：match 當及物動詞是「比得上、敵得過」，多半用在否定——cannot match、be no match for。"
+    }
   },
   {
     "id": "G114_11_1",
