@@ -1833,7 +1833,7 @@
     "accuracyRate": 14,
     "note": "答對率 14%，鑑別度 -1：高分群考生反而比低分群錯得多。【你可能會這樣想】這一題錯的人多半不是判斷錯，是根本沒看見那個 to。你背的是「attend ＝ 參加」，一個英文字配一個中文詞——這個記法裡沒有留給介系詞的位置，所以 to 出現在眼前也不會亮起來。attend 有兩種用法，分岔點就是那個 to：attend + 受詞 ＝ 參加、出席（attend a meeting）；attend to + 受詞 ＝ 處理、照料。檢驗法是把受詞代進去唸：attend the party 成立；attend to the party 變成「照料那場派對」，跟「大學生喜歡參加派對」對不上。【怎麼判斷】整篇是母親寫給兒子談花錢的信——擔心他用錢的方式、要他量入為出、拒絕多寄錢。所以 college students like to ___ parties, movies, and lots of activities 不是中性描述休閒，是在鋪陳「花太多」。緊接的 but you also have to learn how to do without certain things 就是證據：but 前面必須是「盡情享受、放縱」，後面才轉得過來。indulge in 本身就帶著「過了頭」的語氣。【誘答選項】attend 家族的分岔正好沿著那個 to：人到場那支 → attendance（出席率）；照料那支 → attendant → flight attendant、attentive（周到的）。字根是 tend-「伸」，同家族還有 extend（延長）、intend（打算）、tendency（傾向）。一句記完：Flight attendants don't attend the flight—they attend to you, and the good ones are attentive.（空服員不是去搭那班飛機的人，是在機上照料你的人；好的空服員都很周到。）〔情境取材自 98 指考作文題：不必擔心預算的一天〕另兩個誘答同機制，也是差一個介系詞：dwell in（居住於）對 dwell on（老想著）、apply to（適用於）對 apply for（申請）。【常考字詞與句型】indulge in（盡情享受、沉溺於）、attend a meeting（出席會議）、attend to（處理、照料）、attendance（出席率）、flight attendant（空服員）、attentive（周到的）、dwell on（老想著）、apply to／apply for（適用於／申請）。",
     "discrimination": -1,
-    "discriminationNote": "鑑別度僅-1，非常接近 0，加上本題答對率只有 14%屬於難度極高的題目——大考中心官方說明本來就指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象，這題比較像是全體考生（不分程度）都容易被 attend to 這個陷阱誤導，而非題目設計本身有嚴重瑕疵。",
+    "discriminationNote": "鑑別度僅-1，非常接近 0，加上本題答對率只有 14% 屬於難度極高的題目——大考中心官方說明本來就指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象，這題比較像是全體考生（不分程度）都容易被 attend to 這個陷阱誤導，而非題目設計本身有嚴重瑕疵。",
     "contextSpan": "句內",
     "readMore": {
       "label": "延伸閱讀：attend 與 attend to，分岔就在那個 to",
@@ -2202,7 +2202,12 @@
     "accuracyRate": 15,
     "note": "【你可能會這樣想】看到 the rate 後面接著 which，多數人第一個反應是「關係代名詞前面該擺哪個介系詞」，然後開始比 by、in、of 哪一個順。順序反了。這一格真正要問的是前面那個名詞 rate 平常配哪個介系詞——先知道 at a rate（以某種速度、以某種比率），關代前面該擺什麼才有得判斷。記憶裡沒有 at 這一格，怎麼推都是猜。【怎麼判斷】先把句子還原成兩句：A new analysis has given the rate.（一項新的分析給出了那個速度。）加上 The country is losing size at that rate.（這個國家正以那個速度縮小。）第二句的 at 本來就跟在句尾，改寫成關係子句時，at 跟著關係代名詞一起搬到前面，就成了 the rate at which…。這裡有一個很穩的驗算法：把 at which 拆回句尾唸一遍，唸得通就選對了。at 這一格屬於「配數值刻度」的那一組，一起記最省力：at a rate of two centimeters a year（以每年兩公分的速度）、at the age of 18（在十八歲時）。一句記完：My classmates skim the news at a rate of three headlines a minute, but few of them finish a whole report.（我同學一分鐘掃過三則標題，卻很少有人把一整篇報導讀完。）〔情境取材自 108 指考作文題：青年對各類新聞的關注度〕【誘答選項】by which（藉由…的方法）：rate 是刻度不是方法，還原成 losing size by that rate 唸不通。in which（在…之中）：後面要接空間、範圍或時期（the year in which…），速度不是可以待在裡面的東西。of which（…的）：會讀成「那個速度的國家」，語意錯位。三個都不是 rate 慣用的介系詞——關鍵不在關代怎麼配，在名詞自己帶的那個字。同義記一組：at a rate of ＝ at a speed of。【常考字詞與句型】at a rate of（以…的速度、比率）、at a speed of（以…的時速）、at the age of（在…歲時）、at a price of（以…的價格）、the rate at which（…的速度）、shrink by（縮小…幅度）、a sign of（…的徵兆）、a trivial finding（微不足道的發現）。",
     "discrimination": 17,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：介系詞放在關係代名詞前面（the rate at which）",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/relative-pronouns-relative-clauses",
+      "hint": "重點：把關係子句還原成一句話，介系詞就跟著回到原位——the country is losing size at that rate，rate 前面用的是 at，所以寫成 the rate at which；by、in、of 都不是 rate 用的介系詞。"
+    }
   },
   {
     "id": "G96_22_2",
@@ -2908,6 +2913,7 @@
     "accuracyRate": 15,
     "note": "答對率 15%，鑑別度 0：高分群與低分群考生答對率幾乎一樣，代表大家都在猜。【你可能會這樣想】inform 家族擠成一團，你記得 information、informative，卻很少把 informed 當形容詞記住。它的中文是「消息靈通的」，最接近的說法是「萬事通」——不是「包打聽」，愛探聽那個是 nosy。這一家不必一個一個背，先找到來源就好：inform（告知）→ informative 具備 inform 的特質，會給出資訊；informed 是被 inform 過的，接收了資訊。一個放出去、一個收進來。這個對立你國中就學過：interesting／interested、boring／bored——-ing 形容東西，-ed 形容人。這裡形容的是 consumers，所以只能是 informed。【怎麼判斷】線索在下一句：There isn't a brand or a trend that these young people are not aware of.（沒有哪個品牌或潮流是這些年輕人不知道的）——用雙重否定表達「什麼都知道」，正是 informed 的同義改寫。形容詞題不確定時，往下一句找作者有沒有換個說法再講一次。【誘答選項】informative（資訊豐富的）形容東西；informal（非正式的）；informational（資訊性的）。三個都不能形容「懂得做功課的人」。反義走字首 un-：uninformed（沒做功課的）。這個家族一句記完：An informative news app keeps readers informed, so they can form an informed opinion instead of an uninformed guess.（資訊充足的新聞 app 讓讀者隨時掌握狀況，於是他們形成得了有依據的看法，而不是沒做功課的瞎猜。）〔情境取材自 108 指考作文題：青年對各類新聞的關注度〕再往外兩個字：informer（線民，祕密向警方提供消息的人）與 informant（提供資訊者，語氣中性），超出高中範圍，當延伸看。【常考字詞與句型】an informed consumer（懂得做功課的消費者）、an informed decision（明智的決定）、well-informed（消息靈通的）、keep sb informed（隨時告知某人）、an informative talk（資訊豐富的演講）、be aware of（意識到）、keep abreast of（跟上…的最新狀況）。",
     "discrimination": 0,
+    "discriminationNote": "鑑別度 0，高分群與低分群答對的比例一樣。本題答對率 15%，屬於難度很高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都卡在同一處：四個同源字擠在一起，只認得字根 inform 的話，四個看起來都跟「資訊」有關，得再往下分「形容人」還是「形容東西」才分得開。",
     "contextSpan": "跨句",
     "contextNote": "下一句 There isn't a brand or a trend that these young people are not aware of，aware 與 informed 正反同義",
     "readMore": {
@@ -3158,7 +3164,7 @@
       "D": "profit"
     },
     "answer": "A",
-    "explanation": "語意「瓶裝水產生大量的固體『廢棄物』」，waste（廢棄物）呼應後文「90%的瓶子沒有被回收，堆積在垃圾掩埋場」；resource（資源，語意相反）、ground（地面）、profit（利潤）都不合。",
+    "explanation": "語意「瓶裝水產生大量的固體『廢棄物』」，waste（廢棄物）呼應後文「90% 的瓶子沒有被回收，堆積在垃圾掩埋場」；resource（資源，語意相反）、ground（地面）、profit（利潤）都不合。",
     "accuracyRate": 58,
     "discrimination": 65,
     "contextSpan": "句內",
@@ -3777,9 +3783,14 @@
     "accuracyRate": 17,
     "note": "【你可能會這樣想】at 你記得的是「在某一個點」——at seven o'clock、at the corner，不是時間就是位置。這一格的 this 既不是時間也不是地點，是前一句旅人講的那整段話，於是 at 伸不出手，改去拿 By 或 For。你把 this 讀成「這件事」沒有錯，漏掉的是 at 還有一格用法沒進到記憶裡：at 後面接一句話、一個消息、一個景象時，表示「一聽到、一看到就起了反應」。【怎麼判斷】先把 this 還原。前一句是旅人說阿哥斯的人親切、慷慨又熱心，所以這一格加上 this 等於「聽了這番話」。再看主要子句 Aesop answered，後面是伊索的反應。前面一段話、後面一個反應，中間要的就是把觸發點接上反應的那個介系詞，at 專門做這件事，而且是一整組：at these words（聽到這番話）、at the news（一聽到這消息）、at the sight of（一看到）、laugh at（因某事而發笑）。共同的畫面是「因為它而起了反應」，不是「在它裡面」。驗算法：把 at 換成中文的「一……就」讀一遍——一聽到這話，伊索就回答——句子站得住，方向就對了。一句記完：At this, the neighbor upstairs put down the remote control and invited the new tenant to join the evening walk.（聽了這番話，樓上的鄰居放下遙控器，邀那位新住戶一起去散步。）〔情境取材自 106 指考作文題：如何排解寂寞〕【誘答選項】By this 是「到這時候為止」，要配時間點（by this time、by then），這裡的 this 是一段話不是時間；For this 會讀成「為了這個目的」或「因為這一點」，伊索開口是回應不是目的；Into this 表示進入某個空間，後面要接進得去的東西，一段話進不去。三個選項的中文分開看都通，錯在 this 回指的是「話」，只有 at 收得住「聽到話而反應」這層關係。方向記一組：at + 觸發點是「因它而起」，to + 對象是「朝它而去」（reply to、respond to）。【常考字詞與句型】at this（聽到這話、見此情形）、at these words（聽到這番話）、at the news of（一聽到…的消息）、at the sight of（一看到）、laugh at（嘲笑、因…而發笑）、reply to（回覆…）、much the same（大致相同）、warm-hearted（熱心的）。",
     "discrimination": -20,
-    "discriminationNote": "鑑別度-20，數值明顯偏負，值得留意。推測原因是選項 By 對熟悉「by + 推理」用法的高分群考生可能更有吸引力（誤以為 by this 也能表達「依此而言」），導致部分高分群反而選錯；低分群考生單純猜測命中正解的機率則相對持平，兩相抵銷之下就出現負鑑別度。",
+    "discriminationNote": "鑑別度 -20，高分群答對的比例低於低分群。本題答對率 17%，屬於難度很高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都停在 at 的同一個意思上：at 最先想到的是時間與地點，而這一格用的是「因為它而起了反應」，後面接的是引發反應的那件事；By this 要配時間點，在這裡也容易被順手選走。",
     "contextSpan": "跨句",
-    "contextNote": "this 指前一句旅人所說的話"
+    "contextNote": "this 指前一句旅人所說的話",
+    "readMore": {
+      "label": "延伸閱讀：at 表示引發反應的那個觸發點",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/at",
+      "hint": "重點：at 除了時間與地點，還有一個意思是「因為它而起了反應」，後面接的是引發反應的那件事——at the news（一聽到這消息）、at the sight of（一看到）、be surprised at（對…感到意外）；本題的 this 指的是旅人剛說完的那番話，正是引發伊索回答的那件事。By this 要配時間點，For this 會讀成「為了這個目的」，Into this 後面要接進得去的空間，三個都接不上「聽到話而回應」。"
+    }
   },
   {
     "id": "G103_18_1",
@@ -4453,6 +4464,7 @@
     "accuracyRate": 21,
     "note": "【你可能會這樣想】你是不是覺得 make do 看起來像印錯、少了一個字？很合理——你學過的 make 幾乎都帶受詞（make a cake、make him laugh），do 也是（do homework），兩個動詞光溜溜黏在一起，確實不像正常的英文。但 make do 是整組的固定片語，要當一個字記：do 在這裡不及物，整組意思是「將就、湊合著用」，後面固定接 with。這個 do 就是你國中學過的 That will do.（這樣就行了）裡的那個 do——「夠用、行得通」。檢驗法：把整組換成 manage 唸唸看，has to manage with shoes that are too small 通順，就對了。【怎麼判斷】這一段在講問題，不在講解法：窮困地區的孩子拿到鞋，很快就 grown out of them（長大穿不下），而 shoes that are the right size 又不容易取得。沒有新鞋可換，結果只能是「將就穿太小的」。後面 The Shoe That Grows 才登場解決這個問題。空格落在問題那一半，填的必須是委屈、湊合的動作。【誘答選項】make believe ＝ 假裝（＝ pretend），跟 make do 只差一個字，是本題最主要的陷阱，但「假裝穿太小的鞋」講不通。get done ＝ 完成；get lost ＝ 迷路，口語裡還有「走開」的意思。make 家族一句記完：When jobs are scarce, many graduates make do with work far below their training; pretending to be content is just making believe.（工作難找的時候，許多畢業生只能將就做遠低於所學的工作；假裝自己滿意，那只是自欺欺人。）〔情境取材自 105 指考作文題：碩士考清潔隊員〕【常考字詞與句型】make do with（將就使用）、make do without（沒有…也過得去）、make believe（假裝）、make ends meet（收支相抵）、grow out of（長大而穿不下）、outgrow（長大而不再適合）、readily available（容易取得的）。",
     "discrimination": 9,
+    "discriminationNote": "鑑別度 9，高低分群的差距不大。本題答對率 21%，屬於難度偏高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是四個選項對不分程度的考生都說得通：四組都由最常見的 get 與 make 組成，單看字面每一組都有話講，要靠 make do 這一組的實際意思才能排除其他三組。",
     "contextSpan": "句內",
     "readMore": {
       "label": "延伸閱讀：make do，將就著用",
@@ -4974,7 +4986,13 @@
     "accuracyRate": 16,
     "note": "答對率 16%，鑑別度 2：高分群考生也幾乎沒占到便宜。四個選項都是副詞，文法上誰都塞得進去，只能靠語意判斷。【你可能會這樣想】otherwise 你大概只會用在句首的「否則」（Hurry up; otherwise you'll be late.）。這裡它夾在 would 與 use 之間，位置陌生就慌了。這不是它多了新的意思，是同一個意思換了位置與功能。把字拆開看就清楚：otherwise ＝ other + wise，這個 wise 不是「聰明」，是古英文的 wise「方式、樣子」——字面就是「用另一種方式、在另一種情況下」。likewise（同樣地）、clockwise（順時針）用的都是同一個 wise，而 likewise 與 otherwise 正好是一對反義字：一個說照樣，一個說不照樣。美劇裡還常聽到第三種用法，同樣是這個 wise：接在名詞後表示「就…而言」——這用法很口語，聽得懂就好，作文不要用。【怎麼判斷】記一個公式：would／might／could + otherwise + 原形動詞 ＝「若不是現在這樣，本來會…」。念一句就有感覺：problems that might otherwise go unnoticed（若沒有檢測，本來不會被發現的問題）。本句的觸發點是 substitutes for（…的替代品）：既然頭冠是替代品，帽子與假髮就是「本來會用」的東西；would 也在配合這個假設。國中學過的 or ＝ or else ＝ otherwise，難的是位置不是意思。這一組一句記完：Weather-wise, tomorrow looks bad—otherwise the city would not have called off work and school. Time-wise the trip is fine, and money-wise, likewise.（就天氣來說，明天看來很糟——若非如此，市府不會宣布停止上班上課。時間上這趟行程沒問題，錢的方面也一樣。）〔情境取材自 114 學測作文題：颱風停課〕【誘答選項】moreover（此外）是補充、namely（也就是）是舉例、altogether（總共、完全）是總計，三個都表達不出「若非如此」。【常考字詞與句型】…; otherwise…（否則）、would otherwise + 原形（本來會…）、unless otherwise stated（除非另有說明）、likewise（同樣地）、clockwise（順時針方向）、substitute for（…的替代品）。",
     "discrimination": 2,
-    "contextSpan": "句內"
+    "discriminationNote": "鑑別度 2，高分群與低分群答對的比例只差一點。本題答對率 16%，屬於難度很高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都停在同一個意思上：otherwise 最常見的用法是「否則」，而這一格用的是另一個意思「若非如此、本來」，放在 would 後面指的是沒有發生的那一種情況。",
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：otherwise——「若非如此、本來」",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english-chinese-traditional/otherwise",
+      "hint": "重點：otherwise 放在 would 後面是「若非如此、本來就會」，指的是沒有發生的那一種情況——這裡是「要不是有 henna 頭冠，本來會戴的帽子與假髮」；moreover（此外）是補充，altogether（總共、完全）是程度，namely（也就是）是點名，三個都讀不出這個「本來」。"
+    }
   },
   {
     "id": "G109_20_1",
@@ -5480,6 +5498,7 @@
     "accuracyRate": 17,
     "note": "答對率 17%，鑑別度 10：這是本批最難的一格。【你可能會這樣想】leave + 受詞 + 過去分詞。你把 unchecked 讀成「沒被檢查的」，這很自然，因為 check 你背的就是「檢查」。但 check 當動詞還有一個意思：抑制、遏止（check the spread of a disease 遏止疾病擴散）。加上表否定的字首 un-，unchecked 就是「未受抑制、放任不管」；unattended（無人看管的）、unfinished（未完成的）同理。真正難的在後面：are left unchecked 連著兩個過去分詞，切不對整句就散了。【怎麼判斷】先把主動句還原：leave [greenhouse gases] [unchecked]。leave 後面是受詞加受詞補語，unchecked 說的是受詞的狀態。改成被動，用受詞當主詞，補語留在原地：greenhouse gases are left [unchecked]。這條路你國中走過：keep the door open（讓門開著）、make yourself understood（讓別人聽懂你的意思），補語都在說受詞怎麼樣了；leave 只是把補語換成過去分詞。再用一主一動驗算：are 是這個子句唯一的動詞，left 和 unchecked 都不是，這樣就不會把 left 讀成「離開」。最後看方向：後半句 temperatures continue rising（氣溫持續上升），前面必須是「放著不管」才接得下去。一句記完：The drains were left unchecked, and one storm turned the whole alley into a river.（排水溝沒人清理，一場暴雨就把整條巷子變成了河。）〔情境取材自 114 學測作文題：颱風停課〕【誘答選項】kept balanced（維持平衡）方向剛好相反，正是答案的反義。made released、seen dismissed 是拼湊出來的，英文沒有這兩種說法。【常考字詞與句型】leave sth unchecked（放任不管）、leave sth unattended（無人看管）、go unchecked（未受遏止地持續下去）、keep sth under control（控制住）。",
     "discrimination": 10,
+    "discriminationNote": "鑑別度 10，高低分群的差距不大。本題答對率 17%，屬於難度很高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都被同一個形狀擋住：四個選項都是「動詞 + 過去分詞」，形狀一模一樣，要判的是哪一組真的成立，不是哪一個字面上讀得通。",
     "contextSpan": "句內",
     "readMore": {
       "label": "延伸閱讀：unchecked，沒人管而一路擴大",
@@ -5807,7 +5826,12 @@
     "accuracyRate": 22,
     "note": "【你可能會這樣想】句首一長串 However, with the absence of gravity in the outer space 讀完，主詞 our body fluids 才出現，接著就是空格，後面又接一個分詞片語 shifting toward the upper body——修飾成分把句子撐得很開，你就看不出主要動詞的位置正是空格。【怎麼判斷】先找主要動詞。把句首的介系詞片語與句尾的分詞片語都遮掉，剩下 our body fluids ___，這一格是全句唯一的主要動詞。redistributing 是現在分詞、being redistributed 是被動分詞，兩個都是非限定形式，當不了主要動詞，先刪掉。剩下 redistribute 與 redistributed，差別在時態。前一句 When on Earth, we have more fluids in our lower body…（在地球上，我們下半身的體液比較多）用的是現在簡單式，因為整段在說明科學通則；本句承接同一個通則，所以用原形。驗算法：把整段唸過一遍，看時態有沒有跳動——通則從頭到尾都用現在式，若這一格忽然變成過去式，就會讀成「曾經發生過一次」。順帶記一件事：redistribute 在這裡是不及物用法——體液自己重新分佈，後面不需要受詞。很多動詞（move、shift、spread）都兼具及物與不及物，看句子有沒有受詞就能分辨。一句記完：When my sister went to college, the housework in our family redistributed itself, and I ended up doing the dishes every night.（姊姊上大學之後，家裡的家事重新分配了一遍，結果每晚洗碗的變成我。）〔情境取材自 105 學測作文題：家事分工〕【誘答選項】redistributed 若讀成過去式，會把一個持續成立的科學通則說成過去發生過的單一事件，與全篇時態不合；若讀成過去分詞，則需要 be 動詞才能構成被動，本句沒有。redistributing 是現在分詞，只能當修飾語或接在 be 動詞後面構成進行式，單獨放在主詞後面會讓句子沒有動詞。being redistributed 同樣是非限定形式，而且多了被動的意思——體液是自己移動的，不是被誰重新分配的。【常考字詞與句型】distribute（分配）／redistribute（重新分佈）、the absence of（缺乏）、shift toward（朝…移動）、be pulled down by（被…往下拉）、resemble（像、類似）。",
     "discrimination": 24,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：限定動詞與非限定動詞——哪一個才是真正的動詞",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/finite-and-non-finite-verbs",
+      "hint": "重點：主要子句的動詞一定是限定動詞（看得出時態與人稱）；-ing 形與過去分詞是非限定形式，不能單獨當真正的動詞。本句後半的 shifting 已經是分詞構句，前面那一格只能放限定動詞，而全文用現在簡單式、主詞 fluids 是複數，所以用原形 redistribute。"
+    }
   },
   {
     "id": "G112_19_2",
@@ -6322,7 +6346,13 @@
     "accuracyRate": 14,
     "note": "【你可能會這樣想】another、other、the other、one another 四個字長得像，你背下來的大概是「another + 單數名詞、other + 複數名詞、the other ＝ 兩者中的另一個」這一組——規則本身沒錯，問題是它不完整：這一套原本有四個成員，你只記了三個。第四個 one another 不是「one + another」，它是獨立的代名詞，意思是「彼此、互相」，本身就是完整的受詞，後面不必再接名詞。真正的難處在中英差異：中文的「互相」是副詞放在動詞前，英文的 one another 是代名詞放在受詞位置。照中文語序去找副詞，就會漏掉它。【怎麼判斷】劍橋《English Grammar Today》把 each other 與 one another 並列為相互代名詞（reciprocal pronouns），用於主詞的成員彼此對對方做某件事。本句主詞 Animals 是複數，intermix（混居、往來）本身就是相互性的動作，需要的正是相互代名詞。整段講的是盤古大陸上眾多動物往來混居，不是兩隻動物互看。【誘答選項】another ＝ 再一個，後面接單數名詞或單獨當代名詞（another cup）；other 是形容詞，後面一定要接名詞（other people）；the other ＝ 兩者之中的另一個（one hand… the other hand）。三個都填不進一個需要「彼此」的位置。這一組一句記完：Lonely people need to reach out to one another, one small message after another, until each other's silence is broken.（寂寞的人需要彼此主動聯繫，一則短短的訊息接著一則，直到彼此的沉默被打破。）〔情境取材自 106 指考作文題：如何排解寂寞〕【常考字詞與句型】interact／compete with one another（互相交流／競爭）、help each other（互相幫助）、one after another（一個接一個）、each other's + 名詞（彼此的…）、be separated from（與…分隔）、break up into（分裂成）。",
     "discrimination": 8,
-    "contextSpan": "句內"
+    "discriminationNote": "鑑別度 8，高分群與低分群答對的比例只差一點。本題答對率 14%，屬於難度很高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都在同一個地方讀岔了：四個選項都由 other 構成，順著「另外一個」的印象作答就會在 another 與 the other 之間打轉，而沒有回頭看 with 後面要的是「彼此」這個雙向關係。",
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：one another／each other——「彼此」的雙向關係",
+      "url": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/reciprocal-pronouns",
+      "hint": "重點：one another 與 each other 是相互代名詞，講的是雙向「互相；彼此」——A 對 B、B 也對 A；another 是「另外再一個、還有一個」，the other 是「兩個裡的另一個」，兩個都是單向，other 是形容詞、後面要接名詞。"
+    }
   },
   {
     "id": "G92_27_2",
@@ -6341,7 +6371,12 @@
     "accuracyRate": 23,
     "note": "【你可能會這樣想】介系詞 + what + 動詞。看到空格後面接著動詞 later became，你判斷要填關係代名詞——這一步沒錯，錯在下一步：伸手就拿 which 或 that。課本上的關係代名詞永遠長成「先行詞 + 關代」，眼睛已經習慣往左邊找名詞。這一格的關鍵就在：往左找，找不到。空格左邊只有介系詞 into，再往前是動詞 broke up 和主詞 Gondwana，沒有名詞可以當先行詞。【怎麼判斷】關係代名詞的解題法只有一步：把先行詞代進關代子句，唸得通就對。先試 which：先行詞是哪一個字？找不到，代不進去，which 和 that 這裡都不能用。what ＝ the thing(s) that／which，先行詞跟關代包在一起，所以它前面本來就不會有先行詞——這是 what 最好認的地方。代進去看看：broke up into what later became South America… ＝ broke up into the landmasses that later became South America…（分裂成後來變成南美洲…的那幾塊陸地），唸得通，答案就是它。這個字你國中用過：What he said is true.（他說的話是真的）＝ The thing that he said is true. 一句記完：What used to be a parking lot is now the park where the whole neighborhood jogs.（原本是停車場的那塊地，如今成了整個社區慢跑的公園。）〔情境取材自 111 學測作文題：兩座公園的比較〕【誘答選項】which 與 that 前面都要有先行詞，這裡沒有；that 還多一條限制，不能直接接在介系詞後面（英文不說 into that）。where 後面要接完整子句，本句 where 之後直接是動詞 later became，缺主詞。【常考字詞與句型】what（＝the thing(s) that／which，複合關係代名詞）、Do what you like.（做你喜歡的事）、what is called（所謂的）、what is more（更有甚者）、what is worse（更糟的是）、break up into（分裂成）。",
     "discrimination": 15,
-    "contextSpan": "句內"
+    "contextSpan": "句內",
+    "readMore": {
+      "label": "延伸閱讀：what 為複合關係代名詞＝ 先行詞 + 關係代名詞 that 或 which（＝ the thing(s) that）",
+      "url": "https://test-english.com/grammar-points/b2/relative-clauses/",
+      "hint": "重點：what 為複合關係代名詞，等於 the thing(s) that；本題 into 後面直接接子句，前面沒有名詞可當先行詞，which、that、where 三個都要先有先行詞才成立。"
+    }
   },
   {
     "id": "G92_28_2",
@@ -7620,7 +7655,7 @@
       "D": "Unless"
     },
     "answer": "A",
-    "explanation": "語意「甚至那些說自己從不做夢的人，也顯示出約 20%的快速動眼期睡眠」，Even（甚至）加強語氣，呼應後文的反預期結果；For（因為）、Except（除了，這裡不是排除而是「甚至包括」）、Unless（除非）都不合。",
+    "explanation": "語意「甚至那些說自己從不做夢的人，也顯示出約 20% 的快速動眼期睡眠」，Even（甚至）加強語氣，呼應後文的反預期結果；For（因為）、Except（除了，這裡不是排除而是「甚至包括」）、Unless（除非）都不合。",
     "contextSpan": "句內",
     "note": "本題大考中心未公布逐題答對率，以下不談數據，只談觀念。【你可能會這樣想】Except（除了）在這裡特別誘人，因為「說自己從不做夢的人」聽起來就像一群該被排除在外的例外。但只要把整句讀完就會發現，這一句要說的正好相反——那些人不但沒被排除，反而也有同樣的數據。【怎麼判斷】先看空格後面接的是什麼：people who say they never dream show about 20 percent of REM sleep 是一個完整的句子（主詞是 people、動詞是 show）。空格出現在整句的最前面，要修飾的是主詞 people 這一群人，所以要的是一個能加強語氣的副詞。再看前一句：Everyone dreams about 20 percent of their sleeping time（每個人的睡眠時間裡大約有兩成在做夢）。本句要說的是「連那些自稱從不做夢的人也一樣有兩成」——這是把一個看似最不可能的例子拿出來，用來證明前面那句話真的適用於所有人。這種「連……也」的加強語氣就是 Even。掛鉤是國中的 Even a child can do it.（連小孩都會做。）。【誘答選項】Except（除了）：意思是把某一群排除在外，但本句接著就說這些人也有兩成的快速動眼期睡眠，等於沒有被排除，語意自相矛盾。這個選項要靠讀完整句才刷得掉，不能只看空格附近。For（因為）：當連接詞時它引出的是前面那句話的理由，位置只能在後面，不能放句首。Unless（除非）：帶出的是條件，後面要接一個條件子句再配主要子句，而本句只有一個完整句子，沒有主要子句可以配。【常考字詞與句型】even（甚至、連……也）、even if（即使）、even though（雖然）、not even（連……都不）、about 20 percent（大約百分之二十）、sleeping time（睡眠時間）。"
   },
@@ -8617,6 +8652,7 @@
     "accuracyRate": 24,
     "note": "【你可能會這樣想】四個都是名詞。你會用中文句意理解：前面說「如果七成的八歲孩子考得過某項測驗」，後面說「就代表八歲孩子的智力程度」，中間填「發現」、填「同意」好像都說得通。問題出在切的位置：\nsuccess on | the test\nsuccess | on the test【怎麼判斷】切在上面那一種，就得去找後面接 on 的名詞，四個都不接。要切的是下面那一種：his performance on the test、her score on the test 也都成立，on the test 不是 success 帶的。切對之後只剩一層。前半寫 If 70 percent of 8-year-olds could pass a particular test，後半講的是同一件事——英文不重複用字，同一個概念回來時會換一個說法，pass a particular test 換成名詞就是 success。另外三個都是憑空冒出來的新資訊。一句記完：Wei-ming's success on the civil service exam surprised no one who had watched him study every night after work.（偉明在公職考試上的過關，並沒有讓看過他每天下班後苦讀的人感到意外。）〔情境取材自 105 指考作文題：碩士考清潔隊員〕【誘答選項】objection（反對）：配 to，而且文中沒有任何人反對。agreement（同意、協議）：配 with 某人或 on 某事，一份測驗不是協商的對象。discovery（發現）：配 of，而且比奈在這裡是建立一套標準，不是宣布新發現。objection、agreement、discovery 各自搭 to、on、of，那是名詞自己的介系詞；本題的 on the test 不是這一種，用介系詞刷不掉選項。判得掉它們的是語意——文中沒有人反對，一份測驗不是協商的對象，比奈在這裡也不是宣布新發現。同義記一組：success on the test 等於 passing the test，反過來是 failure（失敗）。【常考字詞與句型】success on a test（測驗過關）、succeed in + V-ing（成功做到）、be successful in（在…上有成就）、objection to（對…的反對）、agreement on（對…的共識）、discovery of（對…的發現）、pass a test（考過測驗）、a level of intelligence（智力程度）。",
     "discrimination": 6,
+    "discriminationNote": "鑑別度 6，高低分群的差距不大。本題答對率 24%，屬於難度偏高的題目——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一題比較像是不分程度的考生都切錯同一個地方：把 on the test 讀成 success 自己帶的介系詞，於是回頭比四個名詞誰配得上 on。切點在 success | on the test，on the test 不歸前面那個名詞管。",
     "contextSpan": "句內",
     "readMore": {
       "label": "延伸閱讀：success 自己搭的介系詞",
@@ -10064,7 +10100,7 @@
     "accuracyRate": 31,
     "note": "答對率 31%，鑑別度 -7：高分群考生答對的比例反而低於低分群。這在難題上並不少見，不代表題目有毛病：對某個用法愈熟的人，愈容易被它帶走。【你可能會這樣想】as such ＝ as + 前面剛提過的那個身分。99 年學測文意選填那篇談足球與團隊精神，講到退役球員時寫道：He (the former player) knows he is a member of society and must behave himself as such.（打過球的人知道自己是社會的一員，就必須以這樣的身分行事。）這裡的 as such ＝ as a member of society——such 是代名詞，代替的是前面剛講過的那個身分，免得整串再講一次。本題同理。你多半把 as such 拆成「像這樣」，讀不通就換條路走；底子好的人反而容易改挑 in that（因為，比 because 正式）。卡住的地方不是字義，是沒察覺話被縮短過。【怎麼判斷】and 後面直接就是 were，主詞不見了——它跟前半句共用 The small portions（那些小分量的點心）；such 代替的則是 small portions designed to merely touch the heart（只為「點到心意」而設計的小分量）。還原成完整版：and, [being small portions meant only to touch the heart], they were first enjoyed as snacks。話一還原，as such ＝「正因為具備這樣的性質」就出來了。再用結構確認一次：in that 後面一定要接完整子句——It is a good plan in that it saves money.（這計畫很好，因為能省錢）；本句空格後直接是 were，沒有主詞，in that 進不來。這種「話被縮短過」你背過：When in Rome, do as the Romans do.（入境隨俗）——When 後面省掉了 you are，第二個 do 也不是真的在做什麼，它代替前面那個 do。同一個用法另見文意選填站 99 年第 37 題。【誘答選項】if so（如果是這樣）用於假設，本句是既成事實；by then（到那時）需要兩個能比先後的時間點，本句沒有；in that 敗在結構。【常考字詞與句型】as such（正因為如此、以這樣的身分）、behave oneself（行為得體）、such as（例如）、in that + 子句（因為，比 because 正式）。",
     "discrimination": -7,
-    "discriminationNote": "鑑別度 -7，高分群考生答對的比例略低於低分群。這一格的難處不在字義：such 是代名詞，要回頭問一句「as what」，把它代替的那串話找回來。推測熟悉 in that 這個較正式用法的高分群考生較容易順手選走它，兩相抵銷即出現負值。大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，非題目設計有瑕疵。",
+    "discriminationNote": "鑑別度 -7，高分群答對的比例略低於低分群。本題答對率 31%——大考中心官方說明本即指出「答對率偏低的難題，高低分群差距容易變小」，這是統計上的自然現象。這一格的難處不在字義：such 是代名詞，要回頭問一句「as what」，把它代替的那串話找回來；in that 是較正式的用法，在這裡也容易被順手選走。",
     "contextSpan": "句內"
   },
   {
