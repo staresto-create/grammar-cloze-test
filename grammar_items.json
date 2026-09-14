@@ -5393,14 +5393,14 @@
       "D": "would have been"
     },
     "answer": "D",
-    "explanation": "本句是與過去事實相反的假設：「如果上帝真要找我麻煩，第一道雷早就夠了」——事實是他被擊中多次，故主要子句用 would have been；was、had been 不能作主要子句的動詞形式，would be 則指向現在或未來。",
+    "explanation": "本句是混合假設，條件在現在、結果在過去：「如果上帝真要找我麻煩，當年第一道雷早就夠了」——事實是他被擊中多次，故主要子句用 would have been；was、had been 不能作主要子句的動詞形式，would be 則指向現在或未來。",
     "readMore": {
-      "hint": "重點：與過去事實相反的假設（第三型假設語氣），if 子句用 had + 過去分詞，主要子句用 would have + 過去分詞",
-      "label": "延伸閱讀：第三型假設語氣（與過去事實相反）基本句型",
-      "url": "https://www.perfect-english-grammar.com/third-conditional.html"
+      "hint": "重點：條件在現在、結果在過去的混合假設。if 子句用過去式（If he was ＝ were），主要子句用 would have + 過去分詞",
+      "label": "延伸閱讀：混合假設（條件在現在、結果在過去）基本句型",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-third-mixed"
     },
     "accuracyRate": 30,
-    "note": "【你可能會這樣想】看到 If he was，你大概會判定這是單純的過去式條件句。其實這句出自口語，正式寫法是 If he were——口語常用 was 代替 were，但整句仍是假設語氣。判斷的依據不在 if 子句，在主要子句。【怎麼判斷】假設語氣要分別看 if 子句與主要子句各自對應哪個時間。看到 If he was 不要直接當成單純的過去式條件句——正式寫法是 If he were，口語常用 was 代替 were，整句仍是假設語氣。if 子句 If he was（＝were）講的是「上帝現在是不是在找我麻煩」，與現在事實相反；主要子句講的是當年那第一道雷，與過去事實相反，所以用 would have been。假設語氣可以混合使用，句型是 If + 主詞 + 過去式／were, 主詞 + would have + 過去分詞，也就是條件在現在、結果在過去。標準例句：If I were a man, they would have given me the job.（假如我是男的，當年那份工作就會給我了）。文中的事實是：這位巡山員一生被閃電擊中七次還活著，他說「如果上帝真要找我麻煩，第一道雷就夠了」，言下之意是結果並沒有發生，而那是過去的事。課本學過的 If I were you, I would…（假如我是你，我會…）條件與結果都在現在，本題只是把結果挪到過去。【常考字詞與句型】would have + p.p.（與過去事實相反）、if I were you …（假如我是你）、be after sb（找某人麻煩）、be struck by lightning（被閃電擊中）。",
+    "note": "【你可能會這樣想】看到 If he was，很容易判定這是單純的過去式條件句。判斷的依據不在 if 子句，在主要子句——主要子句用的是 would have been，那是與過去事實相反的形式。【怎麼判斷】假設語氣要分別看 if 子句與主要子句各自對應哪一個時間。if 子句 If he was 講的是「上帝現在是不是在找我麻煩」，與現在事實相反；主要子句講的是當年那第一道雷，與過去事實相反，所以用 would have been。與現在事實相反時，be 動詞在正式書面寫 were，而 was 在現代英文同樣通行，兩式都成立，整句仍然是假設語氣。假設語氣可以混合使用，句型是 If + 主詞 + 過去式（were／was）, 主詞 + would have + 過去分詞，也就是條件在現在、結果在過去。標準例句：If I were a man, they would have given me the job.（假如我是男的，當年那份工作就會給我了）。文中的事實是：這位巡山員一生被閃電擊中七次還活著，他說「如果上帝真要找我麻煩，第一道雷就夠了」，言下之意是結果並沒有發生，而那是過去的事。最熟的那個句型 If I were you, I would…（假如我是你，我會…）條件與結果都在現在，本題只是把結果挪到過去。【常考字詞與句型】would have + p.p.（與過去事實相反）、if I were you …（假如我是你）、be after sb（找某人麻煩）、be struck by lightning（被閃電擊中）。",
     "discrimination": 26,
     "contextSpan": "句內"
   },
