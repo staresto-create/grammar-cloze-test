@@ -282,5 +282,292 @@
    "每百字記號數": "3.4",
    "建檔": "第三百六十五場建檔。改編自 z109p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
   }
+ },
+ {
+  "id": "CLA-g115p1",
+  "year": "改編練習（十一）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "堅忍號的南極探險傳奇（The Legendary Antarctic Expedition of the Endurance）",
+  "flagNote": "本題庫改編練習：文章改編自 115 年學測閱讀測驗〈堅忍號的南極探險傳奇〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "In March 2022, the Endurance—the lost ship of the polar explorer Ernest Shackleton—was found in Antarctica, 107 years after it sank. The news made headlines around the world partly because the discovery {11} the final chapter in a legendary story of courage. In August 1914, Shackleton and a crew of 27 set sail on the Endurance, hoping to make the first land crossing of Antarctica. After leaving South Georgia Island in December, the ship ran into floating ice and was soon completely {12} in pack ice, or huge sheets of sea ice pressed tightly together. For nine months, the sturdy ship {13} , drifting slowly south and then being pushed north by the ice. Gradually, the pressure of the ice bent its wooden boards, and freezing water rushed in. On October 27, 1915, Shackleton ordered his men to abandon the ship, which sank a few weeks later. By the time the men sailed in lifeboats to Elephant Island, where no one lived, they {14} five months camping on the drifting ice. They could not survive there for long, so Shackleton and five others sailed 800 miles across stormy seas to South Georgia Island for help. Help was almost at hand, but ice and bad weather kept them from returning to the island. {15} , Shackleton returned to Elephant Island on August 30, 1916, with a ship to rescue the rest of his men. Every member of the team survived, but the Endurance stayed lost until 2022.",
+  "zh": "2022 年 3 月，極地探險家 Ernest Shackleton 失落的船「堅忍號」在南極尋獲，距離它沉沒已經過了 107 年。這則消息登上世界各地的頭條，也是因為這次發現標誌著一段勇氣傳奇的最後一章。1914 年 8 月，Shackleton 和 27 名船員搭乘堅忍號啟航，希望成為第一支從陸路橫越南極大陸的隊伍。12 月離開南喬治亞島以後，堅忍號碰上浮冰，不久便完全困在浮冰群裡，也就是緊緊擠在一起的大片海冰。九個月來，這艘堅固的船一直經得住冰的擠壓，先是緩緩往南漂，接著又讓浮冰推著往北走。冰的壓力漸漸把船板擠得變形，冰冷的海水也灌了進來。1915 年 10 月 27 日，Shackleton 下令船員棄船，幾個星期後，船就沉了。等到船員搭救生艇抵達無人居住的象島時，他們已經在漂流的浮冰上紮營了五個月。船員在島上沒辦法活太久，於是 Shackleton 和另外五個人冒著狂風巨浪航行 800 英里，到南喬治亞島求救。救援看似近在眼前，冰和惡劣的天氣卻讓他們一直回不了象島。最後，Shackleton 在 1916 年 8 月 30 日開著一艘船回到象島，接走其餘隊員。所有人都活了下來，堅忍號卻一直下落不明，直到 2022 年才找到。",
+  "textMarked": "In March 2022, the Endurance—the lost ship of the polar explorer Ernest Shackleton—was found in Antarctica, 107 years after it sank. ^^The news made headlines around the world partly because the discovery {11} the final chapter in a legendary story of courage.^^\n\nIn August 1914, Shackleton ~~and~~ a crew of 27 set sail on the Endurance, hoping to make the first land crossing of Antarctica. After leaving South Georgia Island in December, the ship ran into floating ice ~~and~~ was soon completely {12} in pack ice, or huge sheets of sea ice pressed tightly together.\n\nFor nine months, the sturdy ship {13} , drifting slowly south ~~and~~ then being pushed north by the ice. ~~Gradually~~, the pressure of the ice bent its wooden boards, ~~and~~ freezing water rushed in. On October 27, 1915, Shackleton ordered his men to abandon the ship, which sank a few weeks later.\n\n~~By the time~~ the men sailed in lifeboats to Elephant Island, where no one lived, they {14} five months camping on the drifting ice. They could not survive there for long, ~~so~~ Shackleton ~~and~~ five others sailed 800 miles across stormy seas to South Georgia Island for help. Help was almost at hand, ~~but~~ ice ~~and~~ bad weather kept them from returning to the island. {15} , Shackleton returned to Elephant Island on August 30, 1916, with a ship to rescue the rest of his men. Every member of the team survived, ~~but~~ the Endurance stayed lost until 2022.",
+  "outline": [
+   "In 2022, explorers located Shackleton’s ship, the Endurance, in Antarctic waters, 107 years after it went down, bringing a famous tale of bravery to a close.",
+   "Shackleton and 27 men sailed in 1914, planning to cross Antarctica on foot, but soon after South Georgia their ship got stuck in thick sea ice.",
+   "The strong ship survived the moving ice for nine months before the pressure broke its boards. Shackleton told everyone to leave, and the ship sank weeks later.",
+   "After months on the ice, the crew reached an empty island by lifeboat. Shackleton sailed 800 miles for help and finally rescued every man in 1916."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 250,
+   "句數": 12,
+   "記號數": 12,
+   "每百字記號數": "4.8",
+   "建檔": "第三百六十六場建檔。改編自 g115p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g111p1",
+  "year": "改編練習（十二）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "馬賽人的文化與傳統（The Culture and Traditions of the Maasai People）",
+  "flagNote": "本題庫改編練習：文章改編自 111 年學測閱讀測驗〈馬賽人的文化與傳統〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Standing proud on the savannah, or open grassland, with their red blankets and painted shields, the Maasai are a widely known symbol of East Africa. The Maasai of Kenya and northern Tanzania are semi-nomadic: they wander from place to place with their herds and live almost entirely on the animals’ meat, blood, and milk. Over the years, these {11} people have stood strong against slavery and resisted their governments’ urging to adopt a more modern lifestyle. {12} , they are one of the few tribes that have kept most of their traditions. Until recently, a Maasai boy could become a warrior only by killing a lion on his own. Maasai clothing {13} age, gender, and place. Red is a popular color, and women generally opt for checked, striped, or patterned cloth. Young men wear black for several months after a ceremony that marks their coming of age. Beadwork—jewelry made of tiny colored balls called beads—is also an important part of Maasai culture. Made by women, it is famous for its complexity. Before trade with Europeans began in the 19th century, beads were made of natural materials such as clay, shells, and ivory. Those materials were later replaced by colorful glass beads, {14} made more detailed designs and color patterns possible. Multicolored beadwork is popular among both men and women. Each color {15} a special meaning: white stands for peace, green for land and production, and red—the Maasai’s favorite color—for unity and bravery.",
+  "zh": "披著紅色毯子、拿著彩繪盾牌，傲然站在大草原上的馬賽人，是東非廣為人知的象徵。住在肯亞和坦尚尼亞北部的馬賽人過著半遊牧的生活：他們帶著牲畜四處遷徙，幾乎完全靠這些動物的肉、血和奶維生。多年來，這群無所畏懼的族人頑強抵抗奴役，也不理會政府要他們改採較現代生活方式的勸說。事實上，馬賽人是少數保留了大部分傳統的部落之一。直到不久以前，馬賽男孩要獨自殺死一頭獅子，才能成為戰士。馬賽人的服裝依年齡、性別和地區而不同。紅色很受歡迎，女性通常選擇格子、條紋或有圖案的布。年輕男子在象徵成年的儀式之後，會穿幾個月的黑色衣服。串珠飾品，也就是用細小彩色珠子串成的首飾，同樣是馬賽文化重要的一部分。這些飾品由女性製作，以繁複精細聞名。19 世紀和歐洲人通商以前，珠子是用黏土、貝殼、象牙這些天然材料做的；後來改用彩色的玻璃珠，可以做出更細緻的設計和配色圖案。男女都喜歡多色的串珠飾品。每一種顏色都有特別的意義：白色代表和平，綠色代表土地和生產，馬賽人最喜愛的紅色則代表團結和勇敢。",
+  "textMarked": "Standing proud on the savannah, or open grassland, with their red blankets ~~and~~ painted shields, the Maasai are a widely known symbol of East Africa. The Maasai of Kenya ~~and~~ northern Tanzania are semi-nomadic: they wander from place to place with their herds ~~and~~ live almost entirely on the animals’ meat, blood, ~~and~~ milk. Over the years, these {11} people have stood strong against slavery ~~and~~ resisted their governments’ urging to adopt a more modern lifestyle. ^^{12} , they are one of the few tribes that have kept most of their traditions.^^ Until recently, a Maasai boy could become a warrior only by killing a lion on his own.\n\n@@Maasai clothing {13} age, gender, and place.@@ Red is a popular color, ~~and~~ women generally opt for checked, striped, ~~or~~ patterned cloth. Young men wear black for several months after a ceremony that marks their coming of age.\n\n@@Beadwork—jewelry made of tiny colored balls called beads—is also an important part of Maasai culture.@@ Made by women, it is famous for its complexity. ~~Before~~ trade with Europeans began in the 19th century, beads were made of natural materials such as clay, shells, ~~and~~ ivory. Those materials were later replaced by colorful glass beads, {14} made more detailed designs ~~and~~ color patterns possible. Multicolored beadwork is popular among both men and women. Each color {15} a special meaning: white stands for peace, green for land and production, ~~and~~ red—the Maasai’s favorite color—for unity and bravery.",
+  "outline": [
+   "Known for red blankets and painted shields, the Maasai of Kenya and Tanzania live off their herds and have kept most traditions despite pressure to modernize.",
+   "Their clothing differs by age, gender, and place. Red is widely worn, women like checked or patterned cloth, and young men wear black after a coming-of-age ceremony.",
+   "Beadwork made by women is central to Maasai culture. Glass beads from European trade replaced natural materials, and every color carries its own meaning."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 247,
+   "句數": 14,
+   "記號數": 14,
+   "每百字記號數": "5.7",
+   "建檔": "第三百六十六場建檔。改編自 g111p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g107p1",
+  "year": "改編練習（十三）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "白宮的歷史（The History of the White House）",
+  "flagNote": "本題庫改編練習：文章改編自 107 年學測閱讀測驗〈白宮的歷史〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "For more than two hundred years, the White House has stood as a symbol of the American presidency and the American people. As plans for a new capital began in 1790, a {11} was held to find a builder for the “President’s House.” Nine designs were submitted, and James Hoban, an Irish-born architect, won the gold medal for his practical and handsome design. Although George Washington oversaw the construction, he never lived in the house. In 1800, President John Adams and his wife became its first residents. American presidents can express their own style in how they decorate the house and how they receive the public. Thomas Jefferson held the first inaugural open house in 1805—after he was sworn in, many who had watched him take the oath simply followed him home. Jefferson also opened the house for public tours, a {12} that has continued ever since, except during wartime. In addition, he held receptions on New Year’s Day and the Fourth of July. Abraham Lincoln later {13} these customs, but the inaugural crowds grew far too large for the house to hold, creating a security problem. Effective crowd control measures to {14} the problem were not introduced until Grover Cleveland’s first term. At various times, the White House went by several other names, such as the “President’s Palace” and the “Executive Mansion.” {15} , President Theodore Roosevelt officially gave the building its present name in 1901.",
+  "zh": "兩百多年來，白宮一直是美國總統職位與美國人民的象徵。1790 年新首都開始規劃，籌備期間政府舉辦了一場比賽，替「總統府」尋找建造者。比賽共收到九件設計，出生於愛爾蘭的建築師 James Hoban 以實用又美觀的設計贏得金牌。George Washington 雖然監督了白宮的興建，卻從來沒有在裡面住過。1800 年，John Adams 總統和夫人成為白宮的第一批住戶。美國總統可以從白宮的布置和接待民眾的方式，展現自己的風格。Thomas Jefferson 在 1805 年舉辦了第一次就職開放日：他宣誓就職以後，許多看他宣誓的民眾乾脆一路隨他回到白宮。Jefferson 也開放白宮讓民眾參觀，這項政策從那時起一直延續，只有戰爭期間例外。此外，他還在元旦和七月四日國慶日舉辦招待會。後來 Abraham Lincoln 延續了這些慣例，但是就職日湧進白宮的人潮多到容納不下，造成了安全問題。一直到 Grover Cleveland 第一次擔任總統時，才實施了有效的人潮管制措施來處理這個問題。白宮在不同時期還用過其他幾個名稱，例如「總統宮」和「行政官邸」。最後，Theodore Roosevelt 總統在 1901 年正式替這棟建築取了現在的名稱。",
+  "textMarked": "For more than two hundred years, the White House has stood as a symbol of the American presidency ~~and~~ the American people. ~~As~~ plans for a new capital began in 1790, a {11} was held to find a builder for the “President’s House.” Nine designs were submitted, ~~and~~ James Hoban, an Irish-born architect, won the gold medal for his practical ~~and~~ handsome design. ~~Although~~ George Washington oversaw the construction, he never lived in the house. In 1800, President John Adams ~~and~~ his wife became its first residents.\n\n@@American presidents can express their own style in how they decorate the house and how they receive the public.@@ Thomas Jefferson held the first inaugural open house in 1805—~~after~~ he was sworn in, many who had watched him take the oath simply followed him home. Jefferson also opened the house for public tours, a {12} that has continued ever since, except during wartime. ~~In addition~~, he held receptions on New Year’s Day ~~and~~ the Fourth of July. Abraham Lincoln later {13} these customs, ~~but~~ the inaugural crowds grew far too large for the house to hold, creating a security problem. Effective crowd control measures to {14} the problem were not introduced until Grover Cleveland’s first term.\n\n@@At various times, the White House went by several other names, such as the “President’s Palace” and the “Executive Mansion.”@@ {15} , President Theodore Roosevelt officially gave the building its present name in 1901.",
+  "outline": [
+   "The White House has long symbolized the presidency. Irish-born James Hoban won the design contest, and although Washington supervised the work, the Adams family moved in first.",
+   "Presidents show personal style in hosting the public. Jefferson opened the house for tours and holiday events, but growing crowds raised safety concerns until Cleveland took action.",
+   "Before 1901 the house had other names, including the President’s Palace and the Executive Mansion, until Theodore Roosevelt made its present name official."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 238,
+   "句數": 13,
+   "記號數": 12,
+   "每百字記號數": "5.0",
+   "建檔": "第三百六十六場建檔。改編自 g107p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g106p1",
+  "year": "改編練習（十四）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "狗狗認知測驗 Dognition（Dognition: Testing Dogs’ Cognitive Traits）",
+  "flagNote": "本題庫改編練習：文章改編自 106 年學測閱讀測驗〈狗狗認知測驗 Dognition〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Is your dog an Einstein or a Charmer? For US $60, a recently founded company called Dognition will help you learn more about your dog’s cognitive traits—the ways it thinks and learns. Its online test can {11} the brain behind the bark. The test looks at several areas of a dog’s intelligence, such as memory and the ability to understand how others feel, known as empathy. But don’t expect it to give your pet an IQ score. Dr. Hare, one of the company’s founders, says a dog’s intelligence is too {12} to be described with a single number. Just as humans have different kinds of intelligence, so do dogs. First, Dognition’s website takes you through a questionnaire, a list of questions about your dog’s {13} : How excited does your dog get around other dogs or children? Then, you and your dog do tests that are as fun as playing fetch or hide-and-seek. Finally, you get a report on how your dog thinks. Your dog could {14} one of nine categories, such as Einstein and Charmer. That gives you something to boast about on Facebook. {15} , the result can help you see why dogs behave the way they do. For example, a Charmer trusts you so much that it would rather solve problems with information from you than with what it can see for itself. In this way, Dognition can bring dogs and their owners closer together.",
+  "zh": "你的狗是 Einstein 型，還是 Charmer 型？只要 60 美元，一家新成立的公司 Dognition 就能幫你進一步了解狗狗的認知特質，也就是狗狗思考和學習的方式。這家公司的線上測驗，能讓你更清楚狗狗吠叫背後的那顆腦袋。測驗涵蓋狗狗智能的好幾個面向，例如記憶力，以及體會別人感受的能力，也就是同理心。不過，別期待測驗會給你的寵物一個智商分數。這家公司的創辦人之一 Hare 博士說，狗的智能太複雜，沒辦法用單一數字來描述。就像人類有不同種類的智能，狗也一樣。首先，Dognition 的網站會帶你填一份問卷，也就是一系列關於狗狗個性的問題，例如：狗狗在其他狗或小孩身邊會有多興奮？接著，你和狗狗一起做一些測驗，就像玩丟接球或捉迷藏一樣好玩。最後，你會拿到一份報告，說明你的狗狗怎麼思考。你的狗會歸入九種類型之一，例如 Einstein 型和 Charmer 型。這讓你有東西可以在臉書上炫耀一番。更重要的是，測驗結果能幫你看懂狗為什麼會有那些行為。例如，Charmer 型的狗非常信任你，解決問題時寧可依靠你給的資訊，也不靠自己親眼看到的東西。如此一來，Dognition 就能拉近狗和主人之間的距離。",
+  "textMarked": "Is your dog an Einstein ~~or~~ a Charmer? ^^For US $60, a recently founded company called Dognition will help you learn more about your dog’s cognitive traits—the ways it thinks and learns.^^ Its online test can {11} the brain behind the bark.\n\n@@The test looks at several areas of a dog’s intelligence, such as memory and the ability to understand how others feel, known as empathy.@@ ~~But~~ don’t expect it to give your pet an IQ score. Dr. Hare, one of the company’s founders, says a dog’s intelligence is too {12} to be described with a single number. ~~Just as~~ humans have different kinds of intelligence, so do dogs.\n\n~~First~~, Dognition’s website takes you through a questionnaire, a list of questions about your dog’s {13} : How excited does your dog get around other dogs ~~or~~ children? ~~Then~~, you and your dog do tests that are as fun as playing fetch ~~or~~ hide-and-seek. ~~Finally~~, you get a report on how your dog thinks.\n\n@@Your dog could {14} one of nine categories, such as Einstein and Charmer.@@ That gives you something to boast about on Facebook. {15} , the result can help you see why dogs behave the way they do. ~~For example~~, a Charmer trusts you so much that it would rather solve problems with information from you than with what it can see for itself. ~~In this way~~, Dognition can bring dogs ~~and~~ their owners closer together.",
+  "outline": [
+   "For sixty dollars, a new company named Dognition offers an online test that helps owners learn how their dogs think and learn.",
+   "The test covers memory, empathy, and other abilities instead of giving an IQ score, since dogs, like humans, have many kinds of intelligence.",
+   "Owners first answer questions about how their dog acts, then do game-like tests with it, and finally receive a report on its thinking.",
+   "Each dog is placed in one of nine groups. Besides being fun to share, the results explain dog behavior and bring pets and owners closer."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 241,
+   "句數": 16,
+   "記號數": 14,
+   "每百字記號數": "5.8",
+   "建檔": "第三百六十六場建檔。改編自 g106p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g103p4",
+  "year": "改編練習（十五）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "自動駕駛汽車的未來（The Future of Driverless Cars）",
+  "flagNote": "本題庫改編練習：文章改編自 103 年學測閱讀測驗〈自動駕駛汽車的未來〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Today the car seems to take a big leap forward every few years. Many new cars now {11} driver assistance technologies that let them park themselves, read traffic signs, and brake to avoid crashes. Carmakers are also testing Vehicle-to-Vehicle communication, or V2V. V2V uses wireless signals to send each car’s location, speed, and direction back and forth between cars, so that they keep safe distances from each other. Another system being tested, Vehicle-to-Infrastructure communication, or V2I, would link cars with nearby road signs, traffic lights, and traffic management systems. Through V2I, cars could {12} drivers to safety problems ahead and help them find the best routes. Both V2V and V2I could prevent around 80 percent of crashes. {13} , a number of firms are going a step further, building cars that drive themselves to a chosen destination without a human at the controls. Google already uses prototypes, or test versions, of such cars to carry its staff along California freeways. It once filmed one of them {14} a blind man to a fast-food restaurant for takeout hamburgers. If and when cars go completely driverless, the benefits will be enormous. Huge numbers of elderly and disabled people could regain their mobility—the freedom to get around on their own. The young will not have to pay costly car insurance, because their {15} hands and feet will no longer touch the wheel or the gas pedal. Commuters will gain hours each day to rest, read, or work.",
+  "zh": "現今汽車似乎每隔幾年就有一次大躍進。許多新車現在都配備了駕駛輔助技術，讓車子能自動停車、辨識交通標誌，還能及時煞車避免撞車。汽車製造商也正在測試車對車通訊（Vehicle-to-Vehicle communication，簡稱 V2V）。V2V 用無線訊號在車輛之間來回傳送每輛車的位置、速度和方向，讓車輛彼此保持安全距離。另一套正在測試的系統是車對基礎設施通訊（Vehicle-to-Infrastructure communication，簡稱 V2I），能把車輛和附近的道路標誌、紅綠燈和交通管理系統連結起來。透過 V2I，車子能提醒駕駛注意前方的安全問題，並且幫駕駛找出最佳路線。V2V 和 V2I 都可能防止大約 80% 的車禍。在此同時，有好幾家公司更進一步，正在研發不需要人操控、能自己開到指定目的地的汽車。Google 已經用這種車的原型車，也就是試驗用的車款，在加州的高速公路上接送員工。Google 還曾拍下一輛這種車載著一位盲人去速食店買外帶漢堡的過程。如果汽車真有完全無人駕駛的一天，好處會非常大。大批年長者和身心障礙者能重新擁有行動能力，也就是自己到處走動的自由。年輕人不必再付昂貴的汽車保險費，因為他們莽撞的手腳再也不會碰到方向盤和油門。至於通勤的人，每天會多出好幾個小時，可以休息、閱讀或工作。",
+  "textMarked": "^^Today the car seems to take a big leap forward every few years.^^ Many new cars now {11} driver assistance technologies that let them park themselves, read traffic signs, ~~and~~ brake to avoid crashes.\n\nCarmakers are also testing Vehicle-to-Vehicle communication, or V2V. V2V uses wireless signals to send each car’s location, speed, and direction back and forth between cars, ~~so that~~ they keep safe distances from each other. Another system being tested, Vehicle-to-Infrastructure communication, or V2I, would link cars with nearby road signs, traffic lights, and traffic management systems. Through V2I, cars could {12} drivers to safety problems ahead ~~and~~ help them find the best routes. @@Both V2V and V2I could prevent around 80 percent of crashes.@@\n\n@@{13} , a number of firms are going a step further, building cars that drive themselves to a chosen destination without a human at the controls.@@ Google already uses prototypes, or test versions, of such cars to carry its staff along California freeways. It once filmed one of them {14} a blind man to a fast-food restaurant for takeout hamburgers.\n\n@@If and when cars go completely driverless, the benefits will be enormous.@@ Huge numbers of elderly and disabled people could regain their mobility—the freedom to get around on their own. The young will not have to pay costly car insurance, ~~because~~ their {15} hands and feet will no longer touch the wheel or the gas pedal. Commuters will gain hours each day to rest, read, ~~or~~ work.",
+  "outline": [
+   "Cars keep improving quickly. Many new models now offer driver assistance features such as self-parking, sign reading, and automatic braking.",
+   "In V2V, cars share their position, speed, and direction by radio, while V2I links them to road signs and traffic systems. Together, the two could stop most crashes.",
+   "Some companies are also developing cars that need no driver. Google has used test models to transport its employees and once let a blind man ride off to buy hamburgers.",
+   "Driverless cars would bring huge benefits. Older and disabled people could travel freely, young drivers would save on insurance, and commuters would gain extra free time."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 245,
+   "句數": 14,
+   "記號數": 9,
+   "每百字記號數": "3.7",
+   "建檔": "第三百六十六場建檔。改編自 g103p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z109p1",
+  "year": "改編練習（十六）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "現代廢水的淨化流程（How Wastewater Is Cleaned Today）",
+  "flagNote": "本題庫改編練習：文章改編自 109 年指考閱讀測驗〈現代廢水處理流程〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Early civilizations often built drainage systems in cities to carry away rainwater that ran down the streets during storms. As cities grew more crowded, however, these old systems could no longer {11} the rising amount of water flowing into them. During the Industrial Revolution, waste from factories was also added to sewage—the dirty water from homes—so better ways of handling it were needed even more. In the mid-19th century, the first steps were taken to clean wastewater. Modern wastewater {12} is the process of removing harmful physical, chemical, and biological elements from sewage. It starts with screening out large objects such as paper and wood, as well as heavy materials like dirt. The water then passes into a series of concrete tanks. In the primary tanks, human waste, called sludge, settles to the bottom, while oils and grease float to the top, where they are collected. {13} , organic matter such as eggshells and coffee grounds is broken down into smaller substances. Next, the sewage moves into the secondary tanks, where the solids that were not removed earlier {14} through decomposition, a process that digests the material. After that, the liquid is filtered through sand, which gets rid of almost all bacteria and tiny solid particles. Finally, the chemical chlorine is added in the last tanks to {15} the remaining bacteria. Once the bacteria are destroyed, the chlorine is taken out, and the clean water is released into a river or the ocean.",
+  "zh": "早期的文明常在城市裡興建排水系統，把暴風雨時順著街道流下的雨水排走。然而，隨著城市越來越擁擠，這些舊系統再也應付不了流進來、不斷增加的水量。到了工業革命時期，工廠的廢棄物也加進了汙水（也就是家庭排出的髒水），於是更需要更好的方法來處理汙水。19 世紀中期，人類踏出了清理廢水的第一步。現代的廢水處理，是把汙水中有害的物理、化學和生物成分去除的過程。整個過程從篩除紙張、木頭等大型物品，以及泥土等重物開始，接著水流進一連串的混凝土池。在初級池裡，人類的排泄物，也就是所謂的汙泥，沉到池底，油和油脂則浮到上面，在那裡收集起來。同時，汙水裡蛋殼、咖啡渣這類有機物會分解成比較小的物質。接下來，汙水流進二級池，先前沒有去除的固體在這裡經由分解作用去除，分解就是把這些物質消化掉的過程。之後，液體用沙過濾，去除幾乎所有的細菌和微小的固體顆粒。最後一道步驟，是在末端的池子裡加入氯這種化學物質，殺死剩下的細菌。細菌消滅以後，再把氯除去，乾淨的水就排進河川或海洋。",
+  "textMarked": "Early civilizations often built drainage systems in cities to carry away rainwater that ran down the streets during storms. ~~As~~ cities grew more crowded, ~~however~~, these old systems could no longer {11} the rising amount of water flowing into them. During the Industrial Revolution, waste from factories was also added to sewage—the dirty water from homes—~~so~~ better ways of handling it were needed even more. In the mid-19th century, the first steps were taken to clean wastewater.\n\n^^Modern wastewater {12} is the process of removing harmful physical, chemical, and biological elements from sewage.^^ It starts with screening out large objects such as paper ~~and~~ wood, ~~as well as~~ heavy materials like dirt. The water then passes into a series of concrete tanks.\n\nIn the primary tanks, human waste, called sludge, settles to the bottom, ~~while~~ oils and grease float to the top, where they are collected. {13} , organic matter such as eggshells ~~and~~ coffee grounds is broken down into smaller substances. ~~Next~~, the sewage moves into the secondary tanks, where the solids that were not removed earlier {14} through decomposition, a process that digests the material. ~~After that~~, the liquid is filtered through sand, which gets rid of almost all bacteria ~~and~~ tiny solid particles.\n\n~~Finally~~, the chemical chlorine is added in the last tanks to {15} the remaining bacteria. ~~Once~~ the bacteria are destroyed, the chlorine is taken out, ~~and~~ the clean water is released into a river ~~or~~ the ocean.",
+  "outline": [
+   "Old city drains carried off storm water, but they became overloaded as cities grew, and factory waste made better methods necessary. Wastewater cleaning began in the mid-1800s.",
+   "Modern plants remove harmful physical, chemical, and biological matter from sewage, first screening out large objects and dirt before sending the water into concrete tanks.",
+   "In the first tanks, sludge sinks while oils rise and get collected; later, decomposition and sand filters take out most solids and bacteria.",
+   "In the last stage, chlorine destroys the bacteria left in the water; the chlorine is then taken out, and the clean water flows into rivers or the sea."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 250,
+   "句數": 13,
+   "記號數": 15,
+   "每百字記號數": "6.0",
+   "建檔": "第三百六十六場建檔。改編自 z109p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z105p1",
+  "year": "改編練習（十七）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "妮娜號複製船上的動手學習（Hands-on Learning aboard the Nina Replica Ship）",
+  "flagNote": "本題庫改編練習：文章改編自 105 年指考閱讀測驗〈妮娜號複製船上的動手學習〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Some people call the Nina a traveling museum, while others refer to it as a living or open-air museum. Built in Brazil {11} the 500th anniversary of Columbus’ first voyage to the New World, the Nina is a replica—an exact copy—of Columbus’ favorite ship, showing visitors how large the original was and what sailing tools were used more than 500 years ago. I joined the crew of the Nina in February 2013. My goal was to {12} my days aboard the ship in a blog as part of a research project sponsored by my university. {13} , I gained my most valuable insights when I watched or guided school-age children on tours of the ship. The field-trip tour of the Nina is hands-on learning, or learning by doing, at its best. On board, students could touch the ropes, pass around a ballast stone—a heavy rock that helps keep a ship steady—and move the extremely large tiller that steered ships in Columbus’ day. They soon came to {14} the hard work involved in sailing a ship back in his time. I was pleased to see the students become active participants in their own learning. My experience on the Nina {15} my long-held belief that students stay interested, ask better questions, and think more deeply when they are actively engaged in learning. The students who boarded the Nina came as passive learners. They left as bold explorers.",
+  "zh": "有人說妮娜號是一座巡迴博物館，也有人說它是一座活的博物館，或是露天博物館。妮娜號在巴西建造，為的是紀念哥倫布首航新世界五百週年；這艘船是哥倫布最喜愛的那艘船的複製船，也就是和原船一模一樣的複製品，讓參觀的人看到五百多年前那艘原船有多大、船上用的是哪些航海器具。2013 年 2 月，我加入妮娜號的船員行列。我的目標是用網誌記錄我在船上的日子，這是我任職的大學贊助的一項研究計畫的一部分。結果，我在觀察學齡孩子參觀、或是自己帶孩子參觀這艘船的時候，得到的心得最寶貴。妮娜號的校外教學導覽，是動手學習，也就是「做中學」的最佳示範。在船上，學生可以摸摸纜繩，傳遞壓艙石（一種幫助船身保持平穩的重石頭），還可以推動那根非常大的舵柄，哥倫布那個時代的船就是靠舵柄掌舵。學生很快就體會到，在哥倫布那個時代駕船航行有多辛苦。看到學生在自己的學習中成為主動的參與者，我很高興。我長久以來相信，學生主動投入學習的時候，會保持興趣、問出更好的問題，思考也會更深入；我在妮娜號上的經驗，證實了這個看法。登上妮娜號的學生，來的時候只會等著別人教，離開的時候已經成了勇敢的探險家。",
+  "textMarked": "Some people call the Nina a traveling museum, ~~while~~ others refer to it as a living ~~or~~ open-air museum. @@Built in Brazil {11} the 500th anniversary of Columbus’ first voyage to the New World, the Nina is a replica—an exact copy—of Columbus’ favorite ship, showing visitors how large the original was and what sailing tools were used more than 500 years ago.@@\n\nI joined the crew of the Nina in February 2013. My goal was to {12} my days aboard the ship in a blog as part of a research project sponsored by my university. {13} , I gained my most valuable insights ~~when~~ I watched ~~or~~ guided school-age children on tours of the ship.\n\n@@The field-trip tour of the Nina is hands-on learning, or learning by doing, at its best.@@ On board, students could touch the ropes, pass around a ballast stone—a heavy rock that helps keep a ship steady—~~and~~ move the extremely large tiller that steered ships in Columbus’ day. They soon came to {14} the hard work involved in sailing a ship back in his time. I was pleased to see the students become active participants in their own learning.\n\n^^My experience on the Nina {15} my long-held belief that students stay interested, ask better questions, and think more deeply when they are actively engaged in learning.^^ The students who boarded the Nina came as passive learners. They left as bold explorers.",
+  "outline": [
+   "Some call the Nina a traveling or living museum. Built in Brazil for the 500th anniversary of Columbus’ first voyage, it copies his favorite ship and its sailing tools.",
+   "The writer joined the crew in 2013 to keep a blog for a university project, yet the best lessons came from watching and guiding schoolchildren around the ship.",
+   "On the tour, students handle ropes, a ballast stone, and the huge tiller. They soon realize how hard sailing was in Columbus’ time and take an active role.",
+   "The trip supports the writer’s view that students who learn actively stay curious and think harder. Children arrive as passive listeners and leave as eager adventurers."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 244,
+   "句數": 12,
+   "記號數": 8,
+   "每百字記號數": "3.3",
+   "建檔": "第三百六十六場建檔。改編自 z105p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z104p4",
+  "year": "改編練習（十八）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "土耳其哥樂美國家公園：自然與人文（Goreme National Park: Where Nature Meets Man）",
+  "flagNote": "本題庫改編練習：文章改編自 104 年指考閱讀測驗〈土耳其哥樂美國家公園：自然與人文〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "With soaring rock formations and mysterious underground cities, Goreme National Park is an incredible tourist attraction in central Turkey. Thousands of years ago, ancient volcanoes poured out layer upon layer of thick ash and lava, which formed the Cappadocia region, where the park now stands. Over the centuries, wind and rain {11} this land, carving out valleys and leaving behind towering rock pillars as tall as 40 meters. These pillars are known as “fairy chimneys.” They {12} an extraordinary range of shapes and sizes, but most are tall and look like giant mushrooms with a cap on top. The cap is the hardest part of each pillar and protects the softer rock below from the weather. The cap, however, does not last forever. {13} , it falls off, and wind and rain cut away the rest of the pillar until it, too, collapses. But Goreme is more than its dramatic scenery. Humans, too, have left their mark on the region. In the fourth century, the Byzantine Christians inhabited, or lived in, the area. They carved thousands of cave churches out of rock. Many of them were decorated with beautiful wall paintings whose colors still {14} all their original freshness. These Christians even dug out entire underground villages to hide from the Romans and, later, the Muslims. To this day, many of these villages are still inhabited, and families {15} grapes, potatoes, and flat bread in rock-cut storerooms for the winter.",
+  "zh": "哥樂美國家公園有高聳的岩石地形和神祕的地下城市，是土耳其中部很吸引人的觀光景點。數千年前，一群古老的火山噴出一層又一層厚厚的火山灰和熔岩，形成了卡帕多奇亞地區，也就是這座公園現在的所在地。幾百年來，風和雨徹底改變了這片土地的樣貌，切出峽谷，留下高達 40 公尺的高聳岩柱。這些岩柱叫做「仙女煙囪」。仙女煙囪的形狀和大小各式各樣，不過大多數又高又直，看起來像頂端戴著一頂帽子的大蘑菇。帽子是每根岩柱最硬的部分，保護下方比較軟的岩石不受風吹雨打。不過，帽子並不會永遠留著，遲早會掉下來，接著風雨就削去岩柱剩下的部分，直到岩柱也倒塌為止。但是，哥樂美不只有壯觀的風景，人類也在這個地區留下了印記。四世紀時，拜占庭的基督徒住在這一帶。他們在岩石上鑿出數千座洞穴教堂，許多教堂裝飾著美麗的壁畫，壁畫的顏色到現在還保有原來的鮮豔。這些基督徒甚至挖出整座地下村莊，用來躲避羅馬人，以及後來的穆斯林。直到今天，這些村莊有許多仍然有人居住，居民在岩石鑿成的儲藏室裡囤積葡萄、馬鈴薯和扁麵包，準備過冬。",
+  "textMarked": "^^With soaring rock formations and mysterious underground cities, Goreme National Park is an incredible tourist attraction in central Turkey.^^ Thousands of years ago, ancient volcanoes poured out layer upon layer of thick ash ~~and~~ lava, which formed the Cappadocia region, where the park now stands. Over the centuries, wind and rain {11} this land, carving out valleys ~~and~~ leaving behind towering rock pillars as tall as 40 meters.\n\nThese pillars are known as “fairy chimneys.” They {12} an extraordinary range of shapes and sizes, ~~but~~ most are tall ~~and~~ look like giant mushrooms with a cap on top. The cap is the hardest part of each pillar ~~and~~ protects the softer rock below from the weather. The cap, ~~however~~, does not last forever. {13} , it falls off, ~~and~~ wind and rain cut away the rest of the pillar ~~until~~ it, too, collapses.\n\n~~But~~ Goreme is more than its dramatic scenery. @@Humans, too, have left their mark on the region.@@ In the fourth century, the Byzantine Christians inhabited, or lived in, the area. They carved thousands of cave churches out of rock. Many of them were decorated with beautiful wall paintings whose colors still {14} all their original freshness.\n\nThese Christians even dug out entire underground villages to hide from the Romans ~~and~~, later, the Muslims. To this day, many of these villages are still inhabited, ~~and~~ families {15} grapes, potatoes, and flat bread in rock-cut storerooms for the winter.",
+  "outline": [
+   "Central Turkey’s Goreme National Park draws tourists with its rock formations and underground cities. Ancient volcanoes built up the land, and wind and rain carved valleys and pillars.",
+   "The pillars, called fairy chimneys, vary widely, yet most look like mushrooms. A hard cap shields the softer rock below, but once the cap drops, the pillar wears away.",
+   "People have also marked the area. Byzantine Christians lived there during the fourth century and cut thousands of cave churches, many decorated with brightly colored wall paintings.",
+   "These Christians dug whole villages underground to hide from the Romans and the Muslims. Many villages have residents today, with food stored for winter."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 244,
+   "句數": 15,
+   "記號數": 13,
+   "每百字記號數": "5.3",
+   "建檔": "第三百六十六場建檔。改編自 z104p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z100p1",
+  "year": "改編練習（十九）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "松露的特性、採集與保存（Characteristics, Harvesting, and Preservation of Truffles）",
+  "flagNote": "本題庫改編練習：文章改編自 100 年指考閱讀測驗〈松露的特性、採集與保存〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Since the days of the ancient Greeks and Romans, truffles have been used in Europe as delicacies, or fine foods, and even as medicines. Today they are among the most expensive natural foods in the world, often {11} as much as US$250 to US$450 per pound. Truffles are actually mushrooms, but unusual ones. They live in close association with the roots of certain trees and grow underground. This is why they are difficult to find. In Europe, truffles are harvested with the help of female pigs or trained dogs. Female pigs are especially sensitive to the odor of truffles because it is similar to the smell {12} by male pigs. The use of pigs is risky, though, because they tend to eat anything remotely edible, or fit to eat. For this reason, dogs have been trained to dig into the ground wherever they {13} this odor, and they willingly exchange their truffle for a piece of bread and a pat on the head. To enjoy the wonderful flavor of what has been described as a jewel of the earth, you must eat truffles fresh and uncooked, shortly after they are dug up. Their flavor {14} quickly, and much of it is lost before some truffles reach the market. To preserve truffles, food experts suggest keeping them in closed glass jars in a refrigerator. {15} , they can be stored whole in bland oil, that is, oil with little taste of its own.",
+  "zh": "從古希臘、羅馬時代開始，歐洲人就把松露當作珍饈，也就是精緻的美食，甚至當作藥材。如今松露是全世界最昂貴的天然食物之一，每磅往往賣得 250 到 450 美元的高價。松露其實是蕈類，只是很不尋常。松露和特定樹木的根緊密共生，長在地底下，所以很難找到。在歐洲，採集松露要靠母豬或訓練過的狗幫忙。母豬對松露的氣味特別敏感，因為這種氣味和公豬散發的氣味很像。不過用豬有風險，因為豬什麼東西只要勉強能吃，就會吃下去。因此，人們訓練狗在察覺到這種氣味的地方往下挖，狗也願意用挖到的松露換一塊麵包，再讓主人拍拍頭。松露有「土地的寶石」之稱，想享受它絕妙的風味，一定要在挖出來後不久，就吃新鮮、生的松露。松露的風味很快就會消失，有些松露還沒送到市場，風味就已經流失大半。美食專家建議，要保存松露，可以裝進密封的玻璃罐，放在冰箱裡；或者，也可以把整顆松露泡在清淡的油裡保存，也就是本身沒什麼味道的油。",
+  "textMarked": "Since the days of the ancient Greeks ~~and~~ Romans, truffles have been used in Europe as delicacies, or fine foods, ~~and~~ even as medicines. Today they are among the most expensive natural foods in the world, often {11} as much as US$250 to US$450 per pound. @@Truffles are actually mushrooms, but unusual ones.@@ They live in close association with the roots of certain trees ~~and~~ grow underground. ~~This is why~~ they are difficult to find.\n\n@@In Europe, truffles are harvested with the help of female pigs or trained dogs.@@ Female pigs are especially sensitive to the odor of truffles ~~because~~ it is similar to the smell {12} by male pigs. The use of pigs is risky, ~~though~~, ~~because~~ they tend to eat anything remotely edible, or fit to eat. ~~For this reason~~, dogs have been trained to dig into the ground wherever they {13} this odor, ~~and~~ they willingly exchange their truffle for a piece of bread and a pat on the head.\n\n@@To enjoy the wonderful flavor of what has been described as a jewel of the earth, you must eat truffles fresh and uncooked, shortly after they are dug up.@@ Their flavor {14} quickly, ~~and~~ much of it is lost before some truffles reach the market. To preserve truffles, food experts suggest keeping them in closed glass jars in a refrigerator. {15} , they can be stored whole in bland oil, that is, oil with little taste of its own.",
+  "outline": [
+   "Prized in Europe since ancient times as food and medicine, truffles sell for high prices. These unusual mushrooms grow underground near tree roots, so they are hard to find.",
+   "Female pigs and trained dogs sniff out truffles in Europe. Since pigs eat almost anything, hunters train dogs, which happily trade their finds for bread.",
+   "Truffles taste best eaten fresh and raw soon after digging, since their flavor fades fast. Glass jars in a refrigerator or bland oil can help keep them."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 245,
+   "句數": 13,
+   "記號數": 13,
+   "每百字記號數": "5.3",
+   "建檔": "第三百六十六場建檔。改編自 z100p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z95p2",
+  "year": "改編練習（二十）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "美國對狼的戰爭（The War on Wolves in America）",
+  "flagNote": "本題庫改編練習：文章改編自 95 年指考閱讀測驗〈美國對狼的戰爭〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Native Americans could not understand the white man’s war on the wolf. The Lakota, Blackfeet, and Shoshone, among other tribes, considered the wolf their spiritual brother. They respected its endurance, or its ability to keep going for a long time, and its skill at hunting. Warriors wrapped themselves in wolf skins, hoping to {11} the wolf’s courage and endurance. The best Comanche warriors were even called wolves. White settlers, {12} , saw the wolf as an enemy to be destroyed. Western ranchers, who raised cattle, complained that wolves killed thousands of their animals each year. In 1884, Montana created its first wolf bounty—a cash reward for every dead wolf. Over thirty-five years, hunters brought in more than eighty thousand dead wolves to {13} the reward, and the government even provided free poison. Finally, in 1914, ranchers persuaded Congress to provide money to kill wolves on public lands. No place was safe for the last wolves in the American West, not even Yellowstone, the nation’s first national park. From the day the park opened in 1872, poisoned meat was {14} to kill wolves. In October 1926, two young wolves trapped near a dead bison became the last animals killed in the park’s wolf control program. Ranchers had won the war against the wolf. Only in the northern woods of Wisconsin, Minnesota, and Michigan could the howl of gray wolves still be heard, while the vast lands of the American West {15} . The country had lost its greatest predator.",
+  "zh": "美洲原住民無法理解白人為什麼要對狼發動戰爭。拉科塔人、黑腳人、修休尼人等部族，都把狼當作精神上的兄弟。他們敬佩狼的耐力，也就是長時間持續下去的能力，也敬佩狼的狩獵本領。戰士會把狼皮裹在身上，希望能得到狼的勇氣和耐力。科曼奇人最精銳的戰士，甚至就叫做狼。相反地，白人移民把狼看成必須消滅的敵人。西部那些養牛的牧場主人抱怨，狼每年咬死好幾千頭牲口。1884 年，蒙大拿第一次祭出狼的懸賞，也就是每殺一隻狼就發一筆賞金。三十五年間，獵人送去超過八萬具狼屍，領取賞金，政府甚至免費提供毒藥。最後在 1914 年，牧場主人說服國會撥款，在公有土地上撲殺狼。對美國西部最後的狼來說，沒有一個地方是安全的，連美國第一座國家公園黃石公園也不例外。從 1872 年公園開放那天起，園內就有人擺出下了毒的肉來毒死狼。1926 年 10 月，兩隻小狼在一頭野牛的屍體附近落入陷阱，成了公園控制狼群的計畫中最後殺死的動物。牧場主人打贏了這場對狼的戰爭。只有在威斯康辛、明尼蘇達和密西根北部的森林裡，還聽得到灰狼的嚎叫，美國西部廣大的土地卻陷入一片寂靜。這個國家失去了它最偉大的掠食者。",
+  "textMarked": "Native Americans could not understand the white man’s war on the wolf. @@The Lakota, Blackfeet, and Shoshone, among other tribes, considered the wolf their spiritual brother.@@ They respected its endurance, or its ability to keep going for a long time, ~~and~~ its skill at hunting. Warriors wrapped themselves in wolf skins, hoping to {11} the wolf’s courage and endurance. The best Comanche warriors were even called wolves.\n\n@@White settlers, {12} , saw the wolf as an enemy to be destroyed.@@ Western ranchers, who raised cattle, complained that wolves killed thousands of their animals each year. In 1884, Montana created its first wolf bounty—a cash reward for every dead wolf. Over thirty-five years, hunters brought in more than eighty thousand dead wolves to {13} the reward, ~~and~~ the government even provided free poison. ~~Finally~~, in 1914, ranchers persuaded Congress to provide money to kill wolves on public lands.\n\n@@No place was safe for the last wolves in the American West, not even Yellowstone, the nation’s first national park.@@ From the day the park opened in 1872, poisoned meat was {14} to kill wolves. In October 1926, two young wolves trapped near a dead bison became the last animals killed in the park’s wolf control program.\n\n^^Ranchers had won the war against the wolf.^^ Only in the northern woods of Wisconsin, Minnesota, ~~and~~ Michigan could the howl of gray wolves still be heard, ~~while~~ the vast lands of the American West {15} . The country had lost its greatest predator.",
+  "outline": [
+   "Several Native American tribes treated the wolf as a spiritual brother, admired its endurance and hunting skill, and wore wolf skins to gain its qualities.",
+   "White settlers took the opposite view. Ranchers blamed wolves for cattle losses, Montana paid for dead wolves, and the government supplied poison and federal money.",
+   "Even Yellowstone offered no protection. Poison was used against wolves from the park’s earliest days, and the last animals its control program killed were two young wolves in 1926.",
+   "With the ranchers victorious, wild gray wolves survived only in a few northern forests, leaving the West quiet and without its top hunter."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 250,
+   "句數": 16,
+   "記號數": 9,
+   "每百字記號數": "3.6",
+   "建檔": "第三百六十六場建檔。改編自 z95p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
  }
 ]
