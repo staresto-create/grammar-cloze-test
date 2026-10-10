@@ -1,0 +1,286 @@
+[
+ {
+  "id": "CLA-g113p1",
+  "year": "改編練習（一）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "魔鬼氈的發明（The Invention of Velcro）",
+  "flagNote": "本題庫改編練習：文章改編自 113 年學測閱讀測驗〈魔鬼氈的發明〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "One morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Back home, he found plant burrs stuck to the dog’s fur and his pants. Under a microscope, he saw that the burrs had many tiny hooks that clung firmly to the loops in the fabric. Seeing how tightly the hooks and loops held together, he {11} that if he could copy this design, he could produce a strong fastener with many uses. Finding the right fabric for a strong bond was his first challenge. Cotton proved too soft, so after years of testing, he chose nylon. By 1955, he {12} a version that stayed closed yet was easy to pull apart when needed. That year, the product, named “Velcro,” received a Swiss patent, and de Mestral opened factories in Europe and, eventually, North America to {13} it on a large scale. At first, though, Velcro was not a success. Most fashion critics considered it ugly and cheap-looking. {14} , its use was limited to athletic equipment. In the early 1960s, however, the fastener finally {15} when NASA began using it in items sent into space with astronauts. Today, de Mestral’s design is found almost everywhere, from clothing and shoes to toys and airline seats. Most impressively, it was used to hold together parts of the first artificial heart placed in a human.",
+  "zh": "1941 年的一個早晨，瑞士工程師 George de Mestral 帶著狗到樹林裡散步。回家後，他發現狗毛和自己的褲子上黏了不少植物的芒刺。他把芒刺放到顯微鏡下，看見上面有許多細小的鉤子，緊緊勾住布料上的線圈。看到鉤子和線圈扣得這麼牢，他斷定，要是能仿照這種構造，就能做出一種牢固又用途廣泛的扣件。他的第一個難題，是找到能牢牢黏合的布料。棉布太軟，所以經過多年測試，他改用尼龍。到了 1955 年，他已經把產品改良到既能牢牢扣住、需要時又能輕鬆扯開的程度。同一年，這項取名為 Velcro 的產品取得了瑞士的專利；de Mestral 也開始設廠大量製造，先在歐洲，後來又擴展到北美。不過，魔鬼氈一開始並不成功。大多數時尚評論家認為它又醜又廉價，因此它只用在運動器材上。到了 1960 年代初期，美國太空總署開始把它用在隨太空人上太空的物品上，這種扣件終於大受歡迎。如今，de Mestral 的設計幾乎隨處可見，從衣服、鞋子到玩具和飛機座椅都有。最令人驚嘆的是，第一顆裝進人體的人工心臟，也用它來固定零件。",
+  "textMarked": "One morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Back home, he found plant burrs stuck to the dog’s fur ~~and~~ his pants. Under a microscope, he saw that the burrs had many tiny hooks that clung firmly to the loops in the fabric. Seeing how tightly the hooks and loops held together, he {11} that if he could copy this design, he could produce a strong fastener with many uses.\n\nFinding the right fabric for a strong bond was his first challenge. Cotton proved too soft, ~~so~~ after years of testing, he chose nylon. By 1955, he {12} a version that stayed closed ~~yet~~ was easy to pull apart ~~when~~ needed. That year, the product, named “Velcro,” received a Swiss patent, ~~and~~ de Mestral opened factories in Europe ~~and~~, eventually, North America to {13} it on a large scale.\n\nAt first, ~~though~~, Velcro was not a success. Most fashion critics considered it ugly ~~and~~ cheap-looking. {14} , its use was limited to athletic equipment. In the early 1960s, ~~however~~, the fastener finally {15} ~~when~~ NASA began using it in items sent into space with astronauts. @@Today, de Mestral’s design is found almost everywhere, from clothing and shoes to toys and airline seats.@@ Most impressively, it was used to hold together parts of the first artificial heart placed in a human.",
+  "outline": [
+   "On a walk in 1941, George de Mestral found burrs on his dog and pants. Their tiny hooks gripped fabric loops, which gave him the idea for a fastener.",
+   "Soft cotton failed, so he switched to nylon. By 1955 the fastener held well but opened easily, won a Swiss patent, and went into factory production.",
+   "Critics found Velcro ugly, so at first only sports gear used it. NASA made it popular in the 1960s, and today it appears everywhere, even in an artificial heart."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 234,
+   "句數": 14,
+   "記號數": 11,
+   "每百字記號數": "4.7",
+   "建檔": "第三百六十五場建檔。改編自 g113p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g110p4",
+  "year": "改編練習（二）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "摩根奇幻樂園（Morgan’s Wonderland）",
+  "flagNote": "本題庫改編練習：文章改編自 110 年學測閱讀測驗〈摩根奇幻樂園〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Morgan’s Wonderland, located in San Antonio, Texas, is a theme park intended mainly for children with mental or physical disabilities. The park was built by Gordon Hartman, a former real estate developer, and was inspired by his daughter, Morgan, who has severe cognitive delays and physical challenges. The world’s first ultra-accessible family fun park, Morgan’s Wonderland opened in the spring of 2010. Admission is free for guests with special needs, and tickets for the general public are heavily discounted {11} people of all ages and abilities can come together and play in a fun and safe environment. Completely wheelchair-accessible, the park offers 25 acres of {12} , including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the grounds. The rides have all been {13} for wheelchair users, so every member of the family can join in the fun. In June 2017, the park celebrated the opening of Morgan’s Inspiration Island. This {14} is made up of five themed splash pads and a riverboat ride. There, guests in wheelchairs can {15} special waterproof chairs and enjoy the water without risking damage to their own wheelchairs. “Morgan taught me that there’s more to life in many ways than what I saw before,” said Hartman.",
+  "zh": "摩根奇幻樂園位在德州聖安東尼奧，是一座主要為身心障礙兒童設計的主題樂園。樂園由前房地產開發商 Gordon Hartman 興建，靈感來自他的女兒 Morgan；Morgan 有嚴重的認知發展遲緩，身體也有障礙。摩根奇幻樂園是全世界第一座「超無障礙」的家庭遊樂園，2010 年春天開幕。有特殊需求的遊客免費入園，一般民眾的門票也大打折扣，好讓各種年齡、各種能力的人都能聚在一起，在有趣又安全的環境裡玩樂。樂園全區都能讓輪椅通行，25 英畝的園區裡有各式遊樂設施，包括遊樂器材、遊戲場、釣了再放生的釣魚湖，園區各處還有野餐區。所有遊樂器材都經過改造，坐輪椅也能搭乘，全家人都能一起同樂。2017 年 6 月，樂園慶祝「摩根靈感島」開幕。這個新增的園區有五座主題戲水區和一項河船遊樂設施。坐輪椅的遊客在那裡可以換坐特製的防水椅，盡情玩水，不必擔心弄壞自己的輪椅。Hartman 說：「Morgan 讓我明白，人生在許多方面，比我以前所看到的還要豐富。」",
+  "textMarked": "^^Morgan’s Wonderland, located in San Antonio, Texas, is a theme park intended mainly for children with mental or physical disabilities.^^ The park was built by Gordon Hartman, a former real estate developer, ~~and~~ was inspired by his daughter, Morgan, who has severe cognitive delays ~~and~~ physical challenges. The world’s first ultra-accessible family fun park, Morgan’s Wonderland opened in the spring of 2010. Admission is free for guests with special needs, ~~and~~ tickets for the general public are heavily discounted {11} people of all ages ~~and~~ abilities can come together ~~and~~ play in a fun ~~and~~ safe environment.\n\n@@Completely wheelchair-accessible, the park offers 25 acres of {12} , including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the grounds.@@ The rides have all been {13} for wheelchair users, ~~so~~ every member of the family can join in the fun.\n\nIn June 2017, the park celebrated the opening of Morgan’s Inspiration Island. This {14} is made up of five themed splash pads ~~and~~ a riverboat ride. There, guests in wheelchairs can {15} special waterproof chairs ~~and~~ enjoy the water without risking damage to their own wheelchairs. “Morgan taught me that there’s more to life in many ways than what I saw before,” said Hartman.",
+  "outline": [
+   "Gordon Hartman built this Texas theme park for disabled children after his daughter Morgan inspired him. It opened in 2010, and guests with special needs get in free.",
+   "The whole park is open to wheelchairs. It has rides, playgrounds, a fishing lake and picnic spots, and wheelchair users can enjoy every ride with their families.",
+   "A water area with splash pads and a riverboat ride opened in 2017. Hartman says Morgan taught him that life holds more than he once saw."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 206,
+   "句數": 10,
+   "記號數": 11,
+   "每百字記號數": "5.3",
+   "建檔": "第三百六十五場建檔。改編自 g110p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g106p2",
+  "year": "改編練習（三）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "巴西戰舞卡波耶拉（Capoeira）",
+  "flagNote": "本題庫改編練習：文章改編自 106 年學測閱讀測驗〈巴西戰舞卡波耶拉〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Capoeira is a martial art that combines elements of fighting, acrobatics, drumming, singing, and dance. {11} its dancelike appearance, it shares many basic techniques with other martial arts. Capoeira was created nearly 500 years ago in Brazil by African slaves. {12} from their homes against their will, they first developed it as a means of self-defense. But before long, Capoeira was no longer only for protection; it also became a powerful weapon in their life-or-death struggle against the slave owners. When the owners realized the power of Capoeira, they began to punish anyone who practiced it. The slaves therefore learned to {13} the forbidden fights with singing, clapping, and dancing, as though Capoeira were simply entertainment. The slave owners were not the only ones against Capoeira. At first, the Brazilian government also {14} it. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the government that it had great cultural value and should become an official fighting style. He succeeded and turned the martial art into Brazil’s national sport. Bimba was also among the first to open Capoeira schools, which helped the art {15} around the world. Nowadays, Capoeira can be seen in movies and music videos, and it is believed to have influenced breaking and other hip-hop dance styles.",
+  "zh": "卡波耶拉是一種武術，結合了格鬥、雜技、擊鼓、歌唱和舞蹈等元素。卡波耶拉儘管外表像舞蹈，卻和其他武術有許多相同的基本技巧。卡波耶拉是將近五百年前，巴西的非洲奴隸創造出來的。這些非洲人違反自己的意願，遭人擄離家鄉，起初練卡波耶拉是為了自衛。不過沒過多久，卡波耶拉就不只用來保護自己，還成了他們對抗奴隸主、攸關生死的強大武器。奴隸主發現卡波耶拉的威力之後，開始懲罰練習的人。奴隸於是學會用歌唱、拍手和舞蹈來掩飾這些禁止的打鬥，讓卡波耶拉看起來只是一種娛樂。反對卡波耶拉的不只是奴隸主，一開始，巴西政府也禁止卡波耶拉。不過，一位人稱 Mestre Bimba 的人花了大量時間和心力，說服巴西政府卡波耶拉有很高的文化價值，應該成為正式的格鬥技。他成功了，讓這門武術成為巴西的國技。Bimba 也是最早開設卡波耶拉學校的人之一，這些學校讓卡波耶拉在世界各地流行起來。現在，電影和 MV 裡都看得到卡波耶拉，一般也認為卡波耶拉影響了霹靂舞和其他嘻哈舞蹈。",
+  "textMarked": "@@Capoeira is a martial art that combines elements of fighting, acrobatics, drumming, singing, and dance.@@ {11} its dancelike appearance, it shares many basic techniques with other martial arts.\n\n@@Capoeira was created nearly 500 years ago in Brazil by African slaves.@@ {12} from their homes against their will, they first developed it as a means of self-defense. ~~But~~ before long, Capoeira was no longer only for protection; it also became a powerful weapon in their life-or-death struggle against the slave owners. ~~When~~ the owners realized the power of Capoeira, they began to punish anyone who practiced it. The slaves ~~therefore~~ learned to {13} the forbidden fights with singing, clapping, ~~and~~ dancing, ~~as though~~ Capoeira were simply entertainment.\n\nThe slave owners were not the only ones against Capoeira. At first, the Brazilian government also {14} it. ~~However~~, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the government that it had great cultural value ~~and~~ should become an official fighting style. He succeeded ~~and~~ turned the martial art into Brazil’s national sport.\n\n@@Bimba was also among the first to open Capoeira schools, which helped the art {15} around the world.@@ Nowadays, Capoeira can be seen in movies ~~and~~ music videos, ~~and~~ it is believed to have influenced breaking ~~and~~ other hip-hop dance styles.",
+  "outline": [
+   "Capoeira mixes fighting, acrobatics, drumming, singing, and dance. Although it looks like a dance, many of its basic moves match those of other martial arts.",
+   "African slaves in Brazil created it nearly 500 years ago for self-defense. When their owners punished them for it, they hid the fighting behind music and dancing.",
+   "The Brazilian government first made the art illegal, but Mestre Bimba persuaded officials of its cultural worth, and it became the national sport.",
+   "Bimba’s early schools spread the art worldwide. Today it appears in films and music videos and is thought to have shaped breaking and other hip-hop dances."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 221,
+   "句數": 13,
+   "記號數": 14,
+   "每百字記號數": "6.3",
+   "建檔": "第三百六十五場建檔。改編自 g106p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g104p1",
+  "year": "改編練習（四）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "泰武國小古謠傳唱隊（Taiwu Elementary School Folk Singers）",
+  "flagNote": "本題庫改編練習：文章改編自 104 年學測閱讀測驗〈泰武國小古謠傳唱隊〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "In 2009, the Taiwu Elementary School Folk Singers were invited to perform in four European countries. Camake Valaule, the group’s founder, admitted he was very nervous on their first European tour. Since most of the 75-minute show was a cappella, that is, sung without instruments, he feared the audience would fall asleep. {11} , the listeners paid close attention from start to finish. They later told him that through the songs, they had formed a {12} of the singers’ village without having to visit it. This experience boosted the group’s confidence. According to Camake, singing traditional ballads has also helped the students and their parents {13} their own culture. It used to be that only tribal elders aged between 50 and 60 could sing these songs. Hearing their children perform them, many parents have begun to wonder why they themselves cannot sing these ballads. Now, it is often the children {14} the songs to their parents. Although the group has become famous abroad, fame was never Camake’s goal when he founded it in 2006. What mattered most was helping the children understand why they sing these songs and helping them preserve their culture. After Typhoon Morakot struck in August 2009, the school and the village had to {15} to a new site. “We could not take the forest or our houses with us,” Camake said, “but we could bring our culture along.”",
+  "zh": "2009 年，泰武國小古謠傳唱隊受邀到歐洲四個國家演出。傳唱隊的創辦人 Camake Valaule 坦承第一次到歐洲巡迴演出時非常緊張。75 分鐘的演出大部分是 a cappella，也就是沒有樂器伴奏的清唱，所以他擔心觀眾會睡著。出乎他意料的是，聽眾從頭到尾都聽得非常專心。他們事後告訴他，透過這些歌，他們不必親自走一趟，腦中就有了歌者村子的畫面。這次經驗讓傳唱隊的信心大增。Camake 說，唱傳統古謠也讓學生和家長重新和自己的文化連結起來。以前只有五、六十歲的部落長老會唱這些歌；家長聽到孩子唱，很多人開始納悶，為什麼自己不會唱這些古謠。現在常常是孩子教父母唱這些歌。雖然傳唱隊已經在國外打響名號，但是 Camake 在 2006 年成立傳唱隊時，目標從來不是名聲。他最在意的是讓孩子明白自己為什麼唱這些歌，並且幫助他們保存自己的文化。2009 年 8 月莫拉克颱風來襲之後，學校和村子必須遷到新的地方。Camake 說：「我們帶不走森林，也帶不走我們的房子，但是我們可以把文化帶著走。」",
+  "textMarked": "In 2009, the Taiwu Elementary School Folk Singers were invited to perform in four European countries. Camake Valaule, the group’s founder, admitted he was very nervous on their first European tour. ~~Since~~ most of the 75-minute show was a cappella, ~~that is~~, sung without instruments, he feared the audience would fall asleep. {11} , the listeners paid close attention from start to finish. They later told him that through the songs, they had formed a {12} of the singers’ village without having to visit it. This experience boosted the group’s confidence.\n\n@@According to Camake, singing traditional ballads has also helped the students and their parents {13} their own culture.@@ It used to be that only tribal elders aged between 50 and 60 could sing these songs. Hearing their children perform them, many parents have begun to wonder why they themselves cannot sing these ballads. Now, it is often the children {14} the songs to their parents.\n\n~~Although~~ the group has become famous abroad, fame was never Camake’s goal when he founded it in 2006. ^^What mattered most was helping the children understand why they sing these songs and helping them preserve their culture.^^ ~~After~~ Typhoon Morakot struck in August 2009, the school ~~and~~ the village had to {15} to a new site. “We could not take the forest ~~or~~ our houses with us,” Camake said, “~~but~~ we could bring our culture along.”",
+  "outline": [
+   "In 2009 a school folk group from Taiwu toured Europe. Its founder feared a show without instruments would bore people, but audiences loved it and felt they saw the village.",
+   "Singing old ballads has brought students and parents closer to their culture. Once only tribal elders knew the songs; now children teach them to their parents.",
+   "Fame abroad was never the goal; keeping the culture alive was. After Typhoon Morakot forced the school and village to move, culture was something they could still carry."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 235,
+   "句數": 14,
+   "記號數": 9,
+   "每百字記號數": "3.8",
+   "建檔": "第三百六十五場建檔。改編自 g104p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g100p4",
+  "year": "改編練習（五）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "紅杉的生態（The Ecology of Redwood Trees）",
+  "flagNote": "本題庫改編練習：文章改編自 100 年學測閱讀測驗〈紅杉的生態〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Redwood trees are the tallest plants on Earth, reaching heights of up to 100 meters. They are also known for their {11} , typically 500 to 1,000 years but sometimes more than 2,000 years. The trunk of a redwood is huge and usually forms a single straight column. It is covered with a soft, spongy bark, which can be well over two feet thick in mature trees. This bark gives older trees some protection from insects, but its main {12} is that it keeps the center of the tree intact during moderate forest fires. This resistance to fire explains why the giant redwood can live so long. While most other trees are destroyed by forest fires, the redwood actually prospers {13} them. Moderate fires clear the ground of competing plants, and the rising heat dries and opens the ripe cones of the redwood, releasing thousands of seeds onto the soil below. Besides seeds, new trees often grow from sprouts, young trees that form at the base of the trunk. These sprouts grow slowly and {14} the root system of the “mother” tree for food. When the main tree dies, the sprouts are free to grow as full trees, forming a “fairy ring” around the original tree. These trees, {15} , may give rise to more sprouts, and the cycle continues.",
+  "zh": "紅杉是地球上最高的植物，可以長到 100 公尺高。紅杉也以長壽聞名，通常能活 500 到 1,000 年，有時甚至超過 2,000 年。紅杉的樹幹非常粗大，通常長成一根筆直的柱子，外面覆蓋著一層柔軟、像海綿一樣的樹皮；比較成熟的樹，樹皮厚度可以超過兩英尺。這層樹皮讓老樹在某種程度上不受昆蟲侵害，但它最主要的好處是，遇到中等規模的森林火災時，能保護樹心完好無損。這種耐火的能力，就是巨大的紅杉能活那麼久的原因。大部分其他的樹木會毀於森林火災，紅杉卻反而因為森林火災長得更好。中等規模的火災會清除地面上和紅杉競爭的植物，上升的熱氣也會烘乾成熟的紅杉毬果，讓毬果張開，把成千上萬顆種子撒在下方的土地上。除了種子之外，新的樹也常常從嫩芽長出來，嫩芽就是在樹幹基部長出的小樹苗。這些嫩芽長得很慢，靠「母樹」的根系取得養分。母樹死了以後，嫩芽就能自由長成大樹，在原來那棵樹的周圍形成一圈「仙女環」。這些樹接著又可能長出更多嫩芽，就這樣循環下去。",
+  "textMarked": "Redwood trees are the tallest plants on Earth, reaching heights of up to 100 meters. They are also known for their {11} , typically 500 to 1,000 years ~~but~~ sometimes more than 2,000 years.\n\nThe trunk of a redwood is huge ~~and~~ usually forms a single straight column. It is covered with a soft, spongy bark, which can be well over two feet thick in mature trees. This bark gives older trees some protection from insects, ~~but~~ its main {12} is that it keeps the center of the tree intact during moderate forest fires. @@This resistance to fire explains why the giant redwood can live so long.@@\n\n@@While most other trees are destroyed by forest fires, the redwood actually prospers {13} them.@@ Moderate fires clear the ground of competing plants, ~~and~~ the rising heat dries ~~and~~ opens the ripe cones of the redwood, releasing thousands of seeds onto the soil below.\n\n@@Besides seeds, new trees often grow from sprouts, young trees that form at the base of the trunk.@@ These sprouts grow slowly ~~and~~ {14} the root system of the “mother” tree for food. ~~When~~ the main tree dies, the sprouts are free to grow as full trees, forming a “fairy ring” around the original tree. These trees, {15} , may give rise to more sprouts, ~~and~~ the cycle continues.",
+  "outline": [
+   "Redwoods are the tallest plants on the planet, rising as high as 100 meters, and many of them survive for centuries, some for over two thousand years.",
+   "Their huge trunks are wrapped in soft bark more than two feet thick, which guards the core during moderate fires and lets the trees reach great ages.",
+   "Fires that kill most other trees help redwoods grow: they burn away rival plants, and their heat opens ripe cones so that thousands of seeds drop.",
+   "Sprouts at the base of the trunk draw food from the mother tree’s roots. When she dies, they grow into a ring of trees that produce sprouts of their own."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 223,
+   "句數": 12,
+   "記號數": 11,
+   "每百字記號數": "4.9",
+   "建檔": "第三百六十五場建檔。改編自 g100p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-g99p1",
+  "year": "改編練習（六）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "紐西蘭特有種昆蟲威塔（The Weta, a Native Insect of New Zealand）",
+  "flagNote": "本題庫改編練習：文章改編自 99 年學測閱讀測驗〈紐西蘭特有種昆蟲威塔〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "In New Zealand, there is a grasshopper-like insect that is found nowhere else on earth. New Zealanders have given it the nickname weta, a Maori word meaning “god of bad looks.” Most people feel disgusted {11} these bulky, slow-moving bugs. Wetas are nocturnal; they come out of their caves and holes only after dark. A giant weta can grow to over three inches long and weigh as much as 1.5 ounces. Just like their cousins the grasshoppers and crickets, wetas are able to “sing” by {12} parts of their legs together or against their lower bodies. Not many people are likely to feel sympathy for these endangered creatures. {13} , they do need protecting. The slow and clumsy wetas have been around in New Zealand since the age of the dinosaurs. There they evolved and survived in an environment where they had no {14} until rats arrived with European immigrants. Rats, which love to hunt and eat wetas, have become a real problem for many native species that are not used to their presence, and they {15} a serious threat to the native weta population.",
+  "zh": "紐西蘭有一種長得像蚱蜢的昆蟲，在地球上其他地方都找不到。紐西蘭人替這種昆蟲取了個暱稱叫 weta（威塔），這是毛利語，意思是「醜陋之神」。大部分的人看到這種笨重、行動緩慢的蟲子，都會覺得噁心。威塔是夜行性動物，天黑以後才會從洞穴和地洞裡出來。巨型威塔可以長到三英寸以上，重達 1.5 盎司。威塔和牠們的近親蚱蜢、蟋蟀一樣，能把腳的某些部位互相摩擦，或在下半身上摩擦，發出「歌聲」。大概沒有多少人會同情這些瀕臨絕種的生物，儘管如此，威塔確實需要保護。行動緩慢又笨拙的威塔從恐龍時代就生活在紐西蘭，牠們在沒有天敵的環境中演化、存活下來，直到老鼠隨著歐洲移民來到紐西蘭。很愛獵食威塔的老鼠，已經成了許多本地物種的大問題，這些物種不習慣有老鼠存在；老鼠也對本地的威塔族群構成嚴重威脅。",
+  "textMarked": "@@In New Zealand, there is a grasshopper-like insect that is found nowhere else on earth.@@ New Zealanders have given it the nickname weta, a Maori word meaning “god of bad looks.” Most people feel disgusted {11} these bulky, slow-moving bugs.\n\nWetas are nocturnal; they come out of their caves ~~and~~ holes only after dark. A giant weta can grow to over three inches long ~~and~~ weigh as much as 1.5 ounces. Just like their cousins the grasshoppers ~~and~~ crickets, wetas are able to “sing” by {12} parts of their legs together ~~or~~ against their lower bodies.\n\nNot many people are likely to feel sympathy for these endangered creatures. @@{13} , they do need protecting.@@ The slow ~~and~~ clumsy wetas have been around in New Zealand since the age of the dinosaurs. There they evolved ~~and~~ survived in an environment where they had no {14} ~~until~~ rats arrived with European immigrants. Rats, which love to hunt ~~and~~ eat wetas, have become a real problem for many native species that are not used to their presence, ~~and~~ they {15} a serious threat to the native weta population.",
+  "outline": [
+   "New Zealand is home to the weta, a grasshopper-like insect found nowhere else. Its Maori name points to its ugly looks, and most people find it disgusting.",
+   "Wetas hide in caves and holes until night. Giant ones may top three inches and 1.5 ounces, and like crickets they make sounds with their legs.",
+   "Few people care about these endangered insects, but they deserve protection. Safe since dinosaur times, wetas are now hunted by rats that came with European settlers."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 189,
+   "句數": 11,
+   "記號數": 11,
+   "每百字記號數": "5.8",
+   "建檔": "第三百六十五場建檔。改編自 g99p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z110p4",
+  "year": "改編練習（七）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "高爾夫球的演進（The Evolution of the Golf Ball）",
+  "flagNote": "本題庫改編練習：文章改編自 110 年指考閱讀測驗〈高爾夫球的演進與凹洞的空氣動力學原理〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Since golf began in the 15th century, the game has seen many advances, including significant changes to the golf ball. Early golfers played with a wooden ball until it {11} the Featherie, a leather bag stuffed with feathers. In 1848 came the Gutta Percha ball, which was far more durable and affordable. The next {12} came in the early 1900s with the Haskell, the first ball with a rubber core, which could travel up to 20 yards farther than the Gutta Percha ball. In 1905, William Taylor introduced the first dimpled ball, which was covered with tiny dents. By the 1930s, golf balls with rows of dimples were accepted as the standard design. These tiny dents play an important role in a golf ball’s {13} because they improve its aerodynamics. A ball moving through the air experiences two major forces: lift and drag. Dimples reduce drag, the force that pulls back on the ball, so it can travel faster and farther. They also force the airflow downward, which pushes the ball upward. Airplanes depend on the same {14} to stay in the air. In general, balls with small, shallow dimples tend to have a longer, lower flight path, whereas those with deeper dimples fly higher. {15} , golfers can choose their balls based on what they need for a particular shot or for particular weather.",
+  "zh": "自從高爾夫球在 15 世紀出現以來，這項運動有了許多進步，其中包括高爾夫球本身的重大改變。早期的球員打的是木球，後來木球讓位給羽毛填充球（Featherie），也就是塞滿羽毛的皮囊。1848 年出現了古塔膠球（Gutta Percha），比之前的球耐用得多，價格也實惠得多。下一個重大突破出現在 1900 年代初，也就是 Haskell 球，這是第一顆有橡膠核心的球，最多可以比古塔膠球多飛 20 碼。1905 年，William Taylor 推出第一顆有凹洞的球，球面布滿小凹洞。到了 1930 年代，表面有成排凹洞的高爾夫球，已經是公認的標準設計。這些小凹洞對高爾夫球的性能非常重要，因為它們能改善球的空氣動力。球在空中前進時，會受到兩種主要的力：升力和阻力。凹洞能減少阻力，也就是往後拉住球的那股力量，讓球飛得更快、更遠。凹洞也會把氣流往下推，氣流則把球往上推。飛機能留在空中，靠的也是同樣的原理。一般來說，凹洞小而淺的球，飛行路徑比較遠、比較低；凹洞比較深的球則飛得比較高。因此，球員可以依照某一桿的擊球需要或特定的天氣選球。",
+  "textMarked": "^^Since golf began in the 15th century, the game has seen many advances, including significant changes to the golf ball.^^ Early golfers played with a wooden ball ~~until~~ it {11} the Featherie, a leather bag stuffed with feathers. In 1848 came the Gutta Percha ball, which was far more durable ~~and~~ affordable. The next {12} came in the early 1900s with the Haskell, the first ball with a rubber core, which could travel up to 20 yards farther than the Gutta Percha ball. In 1905, William Taylor introduced the first dimpled ball, which was covered with tiny dents. By the 1930s, golf balls with rows of dimples were accepted as the standard design.\n\n@@These tiny dents play an important role in a golf ball’s {13} because they improve its aerodynamics.@@ A ball moving through the air experiences two major forces: lift ~~and~~ drag. Dimples reduce drag, the force that pulls back on the ball, ~~so~~ it can travel faster ~~and~~ farther. They ~~also~~ force the airflow downward, which pushes the ball upward. Airplanes depend on the same {14} to stay in the air.\n\n~~In general~~, balls with small, shallow dimples tend to have a longer, lower flight path, ~~whereas~~ those with deeper dimples fly higher. {15} , golfers can choose their balls based on what they need for a particular shot ~~or~~ for particular weather.",
+  "outline": [
+   "Golf balls have changed greatly since the 15th century, moving from wooden balls and feather-filled leather bags to Gutta Percha, rubber-core, and finally dimpled designs.",
+   "Dimples help a golf ball fly better by cutting the air resistance that slows it down and by sending air downward to lift it, much as airplanes stay aloft.",
+   "Shallow dimples give a long, low flight, while deep ones send the ball higher, so players pick the ball that suits each shot and the weather."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 227,
+   "句數": 13,
+   "記號數": 11,
+   "每百字記號數": "4.8",
+   "建檔": "第三百六十五場建檔。改編自 z110p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z105p2",
+  "year": "改編練習（八）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "大型貓科動物起源的新發現（A New Finding on the Origin of Big Cats）",
+  "flagNote": "本題庫改編練習：文章改編自 105 年指考閱讀測驗〈大型貓科動物起源的新發現〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "An ancient skull dug up recently indicates that big cats originated in central Asia, not Africa as widely thought. Dated to between 4.1 and 5.95 million years ago, the fossil is the oldest {11} of a big cat ever found. The previous record holder, tooth fragments found in Tanzania, is only about 3.8 million years old. Where big cats came from has long been hotly debated, and a lack of fossil evidence has made it hard to {12} the question. Jack Tseng, a paleontologist at the University of Southern California, and his team made the find in 2010 in a remote part of Tibet. “This find suggests that big cats have a deeper evolutionary origin than previously suspected,” said Tseng. After three years of {13} the skull with other fossils and using DNA data to build a family tree, the team was convinced that the creature was a big cat. Taken together, the fossil and DNA evidence {14} the idea that big cats first appeared in central Asia some 16 million years ago. They may have lived in a vast mountain area formed as the Himalayas rose, feeding on animals such as the Tibetan blue sheep. They then spread into Southeast Asia, evolving into the clouded leopard, tiger, and snow leopard. {15} , as they moved across continents, some of them developed into jaguars and lions.",
+  "zh": "最近出土的一個古老頭骨顯示，大型貓科動物起源於中亞，而不是一般認為的非洲。這塊化石的年代在 410 萬到 595 萬年前之間，是目前發現最古老的大型貓科動物遺骸；之前的紀錄保持者是在坦尚尼亞發現的牙齒碎片，只有大約 380 萬年。大型貓科動物從哪裡來，長久以來一直爭論得很熱烈，而缺乏化石證據，也讓這個問題很難有定論。南加州大學的古生物學家 Jack Tseng 和他的團隊，在 2010 年於西藏一個偏遠的地方發現了這塊化石。Tseng 說：「這項發現顯示，大型貓科動物演化的起源比之前推測的更久遠。」團隊花了三年把這個頭骨和其他化石比對，又用 DNA 資料建立家族譜系，最後確信這種動物是大型貓科動物。綜合化石和 DNA 的證據來看，都支持這樣的看法：大型貓科動物大約在 1,600 萬年前最早出現在中亞。牠們可能住在喜馬拉雅山隆起時形成的廣大山區，以西藏岩羊這類動物為食。接著牠們散布到東南亞，演化出雲豹、老虎和雪豹；後來，隨著牠們跨越各大洲遷徙，其中一些發展成美洲豹和獅子。",
+  "textMarked": "^^An ancient skull dug up recently indicates that big cats originated in central Asia, not Africa as widely thought.^^ Dated to between 4.1 and 5.95 million years ago, the fossil is the oldest {11} of a big cat ever found. The previous record holder, tooth fragments found in Tanzania, is only about 3.8 million years old. Where big cats came from has long been hotly debated, ~~and~~ a lack of fossil evidence has made it hard to {12} the question.\n\nJack Tseng, a paleontologist at the University of Southern California, ~~and~~ his team made the find in 2010 in a remote part of Tibet. “This find suggests that big cats have a deeper evolutionary origin than previously suspected,” said Tseng. After three years of {13} the skull with other fossils ~~and~~ using DNA data to build a family tree, the team was convinced that the creature was a big cat.\n\n@@Taken together, the fossil and DNA evidence {14} the idea that big cats first appeared in central Asia some 16 million years ago.@@ They may have lived in a vast mountain area formed as the Himalayas rose, feeding on animals such as the Tibetan blue sheep. They ~~then~~ spread into Southeast Asia, evolving into the clouded leopard, tiger, ~~and~~ snow leopard. {15} , ~~as~~ they moved across continents, some of them developed into jaguars ~~and~~ lions.",
+  "outline": [
+   "A skull dug up recently is older than the 3.8-million-year-old record from Tanzania. It suggests big cats came from central Asia, not Africa, a long-argued issue.",
+   "Jack Tseng's team found the fossil in Tibet in 2010. After three years of study with other fossils and DNA data, they concluded it belonged to a big cat.",
+   "Big cats probably arose in Asia about 16 million years ago, spread to Southeast Asia, and eventually reached other continents, where jaguars and lions appeared."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 230,
+   "句數": 11,
+   "記號數": 9,
+   "每百字記號數": "3.9",
+   "建檔": "第三百六十五場建檔。改編自 z105p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z101p4",
+  "year": "改編練習（九）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "爆破拆除建築物（Explosive Demolition of Buildings）",
+  "flagNote": "本題庫改編練習：文章改編自 101 年指考閱讀測驗〈爆破拆除建築物〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Demolition is the tearing-down of buildings and other structures. You can easily {11} a five-story building with excavators and wrecking balls, but for a 20-story skyscraper, explosive demolition is the preferred method. To demolish a building safely, blasters must map out a careful plan ahead of time. The first step is to study the building’s blueprints to understand how it is put together. Next, the crew tours the building, taking notes on the support structure of each floor. With all the data in hand, the blasters {12} a plan of attack, deciding what explosives to use, where to place them, and how to time each explosion. Generally speaking, blasters set off explosives on the support columns of the lower floors first and then on a few upper floors. In most cases, blowing up the lower floors is enough to collapse the building. {13} , loading explosives on upper floors helps break the building material apart as it falls. Smaller pieces {14} an easier cleanup after the blast. The hardest part of bringing a building down is {15} the direction in which it falls, so that it comes down exactly where the crew wants it to. To topple the building toward the north, the blasters start with the explosives on the north side. In this way, the crew can safely tumble the building over into a parking lot or other open area.",
+  "zh": "拆除就是把建築物和其他結構拆掉。用挖土機和破壞球，可以輕鬆夷平一棟五層樓的建築；但如果是 20 層樓的摩天大樓，首選的方法就是爆破拆除。為了安全拆除一棟建築物，爆破人員必須事先擬定周詳的計畫。第一步是研究建築物的藍圖，了解建築物是怎麼構成的。接著，爆破小組會在建築物裡實地走一遍，記下每一層樓的支撐結構。資料全部到手以後，爆破人員就擬定作戰計畫，決定要用哪些炸藥、炸藥放在什麼位置，以及每一次引爆的時間怎麼安排。一般來說，爆破人員會先引爆低樓層支柱上的炸藥，再引爆幾層高樓層的炸藥。大多數情況下，炸掉低樓層就足以讓建築物倒塌；儘管如此，在高樓層裝炸藥，有助於讓建材在倒下時碎裂開來。碎塊比較小，爆破以後清理起來就比較容易。拆除建築物最難的部分，是控制建築物倒下的方向，讓它正好倒在爆破小組想要的地方。要讓建築物往北倒，爆破人員就從北側的炸藥開始引爆。這樣一來，爆破小組就能安全地讓建築物倒進停車場或其他空曠的地方。",
+  "textMarked": "Demolition is the tearing-down of buildings ~~and~~ other structures. ^^You can easily {11} a five-story building with excavators and wrecking balls, but for a 20-story skyscraper, explosive demolition is the preferred method.^^\n\n@@To demolish a building safely, blasters must map out a careful plan ahead of time.@@ The first step is to study the building’s blueprints to understand how it is put together. ~~Next~~, the crew tours the building, taking notes on the support structure of each floor. With all the data in hand, the blasters {12} a plan of attack, deciding what explosives to use, where to place them, ~~and~~ how to time each explosion.\n\n@@Generally speaking, blasters set off explosives on the support columns of the lower floors first and then on a few upper floors.@@ ~~In most cases~~, blowing up the lower floors is enough to collapse the building. {13} , loading explosives on upper floors helps break the building material apart ~~as~~ it falls. Smaller pieces {14} an easier cleanup after the blast.\n\n@@The hardest part of bringing a building down is {15} the direction in which it falls, so that it comes down exactly where the crew wants it to.@@ To topple the building toward the north, the blasters start with the explosives on the north side. ~~In this way~~, the crew can safely tumble the building over into a parking lot ~~or~~ other open area.",
+  "outline": [
+   "Small buildings can be knocked down with excavators and wrecking balls, but explosives are the preferred way to demolish a 20-story skyscraper.",
+   "Blasters plan carefully in advance. They study blueprints, walk through the building to note its supports, and then choose the explosives, their positions, and the timing.",
+   "Blasting the lower floors brings the building down, and extra charges on upper floors break it into small pieces that are easier to clear away.",
+   "The key task is deciding which way the building falls. Blasting one side first tips it toward that side, ideally into an empty space nearby."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 232,
+   "句數": 13,
+   "記號數": 11,
+   "每百字記號數": "4.7",
+   "建檔": "第三百六十五場建檔。改編自 z101p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ },
+ {
+  "id": "CLA-z109p2",
+  "year": "改編練習（十）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "馬里亞納海溝的深海汙染（Deep-Sea Pollution in the Mariana Trench）",
+  "flagNote": "本題庫改編練習：文章改編自 109 年指考閱讀測驗〈馬里亞納海溝的深海汙染〉，刪短後照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "The planet’s deepest point lies in the Pacific Ocean’s Mariana Trench, miles below the sea surface. According to a new study, even in this remote place, sea creatures cannot escape pollution. A team of researchers recently sent a remotely operated vehicle into the depths of the trench. In the small hard-shelled animals it brought back, the researchers found extremely high levels of prohibited industrial chemicals. These animals were heavily {11} , with toxin levels 50 times higher than those found in the most heavily polluted rivers in the world. {12} , all the chemicals found were “persistent organic pollutants” (POPs), meaning they stay in the environment for a very long time. PCBs, one of the most common types, were once widely used in industry, but they {13} in the United States in the 1970s after being linked to cancer. These compounds stick to the surface of materials like plastic. Many sea creatures mistakenly eat this colorful but toxic material, so the chemicals build up inside them. When these animals die, their {14} sink to the ocean floor, where deep-sea creatures feed on them. This is how the pollutants pass from one creature to another along the food chain. The fact that the trench lies many miles away from any industrial source suggests that these pollutants can travel {15} , despite having been prohibited worldwide decades ago.",
+  "zh": "地球最深的地方在太平洋的馬里亞納海溝，位於海面下好幾英里。根據一項新研究，即使在這麼偏遠的地方，海洋生物也逃不過汙染。一個研究團隊最近派了一具遙控載具潛入海溝深處，在它帶回來的小型甲殼動物體內，研究人員發現了濃度極高的禁用工業化學物質。這些動物受到嚴重的汙染，毒素濃度是全世界汙染最嚴重的河川裡測到的 50 倍。更糟的是，研究找到的化學物質全都屬於「持久性有機汙染物」（POPs），也就是說，這些物質會在環境中留存很長的時間。最常見的一種是多氯聯苯（PCBs），過去廣泛用在工業上，但是在 1970 年代發現和癌症有關以後，美國就禁用了。這些化合物會附著在塑膠等材料的表面，很多海洋生物誤吃了這種色彩鮮豔卻有毒的東西，化學物質就在牠們體內累積。這些動物死後，屍體沉到海底，深海生物再吃下這些屍體。汙染物就是這樣沿著食物鏈，從一種生物傳到另一種生物身上。海溝離任何工業汙染源都有好幾英里遠，這表示這些汙染物雖然幾十年前就已經在全球禁用，仍然能夠遠距離移動。",
+  "textMarked": "The planet’s deepest point lies in the Pacific Ocean’s Mariana Trench, miles below the sea surface. ^^According to a new study, even in this remote place, sea creatures cannot escape pollution.^^ A team of researchers recently sent a remotely operated vehicle into the depths of the trench. In the small hard-shelled animals it brought back, the researchers found extremely high levels of prohibited industrial chemicals. These animals were heavily {11} , with toxin levels 50 times higher than those found in the most heavily polluted rivers in the world.\n\n@@{12} , all the chemicals found were “persistent organic pollutants” (POPs), meaning they stay in the environment for a very long time.@@ PCBs, one of the most common types, were once widely used in industry, ~~but~~ they {13} in the United States in the 1970s after being linked to cancer.\n\nThese compounds stick to the surface of materials like plastic. Many sea creatures mistakenly eat this colorful ~~but~~ toxic material, ~~so~~ the chemicals build up inside them. ~~When~~ these animals die, their {14} sink to the ocean floor, where deep-sea creatures feed on them. @@This is how the pollutants pass from one creature to another along the food chain.@@\n\n@@The fact that the trench lies many miles away from any industrial source suggests that these pollutants can travel {15} , despite having been prohibited worldwide decades ago.@@",
+  "outline": [
+   "At the bottom of the Mariana Trench, the deepest spot on Earth, small animals collected by a robot carried toxin levels fifty times those found in the dirtiest rivers.",
+   "The chemicals belong to a group that lasts for decades in nature. PCBs, a common type, were outlawed in the US in the 1970s over cancer fears.",
+   "The chemicals cling to plastic that sea animals swallow by mistake. Dead animals sink to the seabed and are eaten, handing the poison along the food chain.",
+   "Because the trench lies far from any factory, the pollutants seem to have journeyed a great way, though the world stopped using them decades ago."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 227,
+   "句數": 12,
+   "記號數": 8,
+   "每百字記號數": "3.5",
+   "建檔": "第三百六十五場建檔。改編自 z109p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+  }
+ }
+]

@@ -443,7 +443,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
 <div class="wrap">
   <header class="top">
     <div class="title">學測克漏字文法&amp;轉折語</div>
-    <div class="sub">83–115 年學測歷屆克漏字 · 單題模式 / 全文模式</div>
+    <div class="sub">83–115 年學測歷屆克漏字 · 改編練習 10 篇 · 單題模式 / 全文模式</div>
   </header>
 
   <!-- HOME -->
@@ -465,7 +465,8 @@ details.skill[open] > summary::after{content:'－ 收合';}
     <!--DIFFTAG-E-->
     <div class="status-banner">
       <b>現況說明：</b>目前題庫涵蓋 83–115 年<b>學測</b>克漏字（共 <span class="jsTotal">565</span> 題，<b>全部附深入解析</b>），並收錄<b>大考中心公布的官方逐題答對率</b>，讓你知道哪些題目連高分群考生都容易答錯。題庫與解析都已完成，仍持續核對修訂；如果發現題目、答案或解析有疑似錯誤，歡迎告訴老師，謝謝！<br>
-      <b>關於答對率：</b>部分題目下方會顯示大考中心公布的全體考生答對率，目前已收錄 91–115 年資料；83–90 年大考中心沒有公布逐題答對率，所以這幾年沒有這項資訊，不是題目漏收。
+      <b>關於答對率：</b>部分題目下方會顯示大考中心公布的全體考生答對率，目前已收錄 91–115 年資料；83–90 年大考中心沒有公布逐題答對率，所以這幾年沒有這項資訊，不是題目漏收。<br>
+      <b>改編練習：</b>另有本題庫自己改編的 10 篇、50 題：文章改編自歷屆學測、指考閱讀測驗，刪短後照現行學測綜合測驗的版面出題（每篇五格、每格四選一），參考答案與解析由本題庫撰寫。它們不是大考中心的試題，沒有官方答對率，也不算進 <span class="jsTotal">565</span> 題；在「篩選年份」選「改編練習（一）」到「改編練習（十）」就能練。
     </div>
     
     <div class="static-entry">
@@ -909,7 +910,7 @@ details.skill[open] > summary::after{content:'－ 收合';}
     </div>
   </div>
 
-  <footer><div style="font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:2; margin-bottom:12px;"><a href="https://staresto-create.github.io/JCEE-vocab-questions/" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">← 回題庫首頁</a><span style="padding:0 8px; opacity:.5;">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">🧩 五個詞：拼圖的規則</a></div>資料來源：83–115 年學測歷屆克漏字（大考中心公布），分類依文法點手動整理<br>© 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫 · <a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">📖 使用與著作權</a></footer>
+  <footer><div style="font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:2; margin-bottom:12px;"><a href="https://staresto-create.github.io/JCEE-vocab-questions/" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">← 回題庫首頁</a><span style="padding:0 8px; opacity:.5;">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">🧩 五個詞：拼圖的規則</a></div>資料來源：83–115 年學測歷屆克漏字（大考中心公布），分類依文法點手動整理；改編練習由本題庫改編自歷屆學測、指考閱讀測驗<br>© 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫 · <a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">📖 使用與著作權</a></footer>
 </div>
 
 <script>
@@ -1005,6 +1006,15 @@ async function init(){
   ]);
   PASSAGES = await pRes.json();
   ITEMS = await iRes.json();
+  // 首頁統計只算歷屆試題，先算再併入改編練習
+  fillSpanStats();
+  try{
+    const [apRes, aiRes] = await Promise.all([fetch('adapt/passages.json'), fetch('adapt/items.json')]);
+    if(apRes.ok && aiRes.ok){
+      (await apRes.json()).forEach(p => { PASSAGES[p.id] = p; });
+      (await aiRes.json()).forEach(it => ITEMS.push(it));
+    }
+  }catch(e){}
   //DIFFTAG-S
   try{
     const dRes = await fetch('passage_profile.json');
@@ -1016,7 +1026,6 @@ async function init(){
   buildDiffChips();
   refreshWrongCount();
   refreshHomeStats();
-  fillSpanStats();
   startFromSetHash();
 }
 
@@ -1142,7 +1151,22 @@ function renderDiffTags(pid, vId, lId){
   }
 }
 //DIFFTAG-E
+// 中文數字（一至九十九）轉成整數，給改編練習排序用
+function cnNum(s){
+  const d = '一二三四五六七八九';
+  const m = s.match(/^(.)?十(.)?$/);
+  if(m) return (m[1] ? d.indexOf(m[1]) + 1 : 1) * 10 + (m[2] ? d.indexOf(m[2]) + 1 : 0);
+  return d.indexOf(s) + 1;
+}
+// 改編練習：年份標籤後面接中文篇名
+function yearLabel(y, p){
+  if(p && p.exam === '改編練習' && p.title) return y + '・' + p.title.replace(/（.*$/, '');
+  return y;
+}
 function yearSortKey(y){
+  // 改編練習排在歷屆之後，依（一）（二）……的順序
+  const am = y.match(/^改編練習（(.+)）$/);
+  if(am) return [-100 - cnNum(am[1]), ''];
   const m = y.match(/\d+/);
   const num = m ? parseInt(m[0],10) : 999;
   const extra = y.replace(/^\d+年?/,'');
@@ -1415,7 +1439,7 @@ function renderSingle(){
   document.getElementById('singleProgress').textContent = (singleIdx+1)+' / '+singleQueue.length;
   document.getElementById('singleProgressFill').style.width = ((singleIdx)/singleQueue.length*100)+'%';
   document.getElementById('singleWrongBadge').innerHTML = testMode ? '<span style="color:var(--gold);">● 測試模式中</span>' : '';
-  document.getElementById('singleYearTag').textContent = it.year;
+  document.getElementById('singleYearTag').textContent = yearLabel(it.year, passage);
   document.getElementById('singleCatTag').textContent = it.category;
   //DIFFTAG-S
   renderDiffTags(it.passageId);
@@ -1711,7 +1735,7 @@ function renderFull(){
   document.getElementById('fullProgress').textContent = (fullIdx+1)+' / '+fullPassageIds.length;
   document.getElementById('fullWrongBadge').innerHTML = testMode ? '<span style="color:var(--gold);">● 測試模式中</span>' : '';
   document.getElementById('fullProgressFill').style.width = (fullIdx/fullPassageIds.length*100)+'%';
-  document.getElementById('fullYearTag').textContent = passage.year;
+  document.getElementById('fullYearTag').textContent = yearLabel(passage.year, passage);
   //DIFFTAG-S
   renderDiffTags(pid, 'fullVocabTag', 'fullLoadTag');
   //DIFFTAG-E
@@ -1725,6 +1749,9 @@ function renderFull(){
       <option value="">?${it.blankNum}</option>${opts}</select>`;
     html = html.replace(token, sel);
   });
+  if(passage.exam === '改編練習' && passage.flagNote){
+    html = '<div style="font-size:12.5px; line-height:1.7; color:var(--ink-soft); background:#FFFDF7; border:1px solid #DCD3BB; border-radius:4px; padding:8px 12px; margin-bottom:12px;">' + escapeHtml(passage.flagNote) + '</div>' + html;
+  }
   document.getElementById('fullPassage').innerHTML = html;
 
   renderOutlineBox();
