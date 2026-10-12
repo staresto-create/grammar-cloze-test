@@ -1821,7 +1821,15 @@ function nextFullPassage(){
   renderFull();
 }
 
-init();
+/* #adapt：總站卡片直接連進改編練習（先選好改編練習，再捲到選擇範圍） */
+function applyAdaptHash(){
+  if(location.hash !== '#adapt') return;
+  document.querySelectorAll('#yearGrid .cat-chip').forEach(el => {
+    if(String(el.dataset.year).indexOf('改編練習') === 0 && !selectedYears.has(el.dataset.year)) toggleYear(el);
+  });
+  const first = document.querySelector('#yearGrid .cat-chip.on'); if(first) first.scrollIntoView({block:'center'});
+}
+init().then(applyAdaptHash);
 </script>
 </body>
 </html>
