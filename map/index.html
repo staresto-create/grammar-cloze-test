@@ -19,6 +19,7 @@
 /* 題目地圖：一年一列、一題一格；格子顏色沿用題庫既有的難／中／易分級，每格都同時印出題號與答對率，不只靠顏色 */
 :root{
   --hard-bg:#AE3626; --hard-fg:#FFFFFF;
+  --low-bg:#F2B79A; --low-fg:#4A1F0E;
   --mid-bg:#F1E4BD; --mid-fg:#4A3B0E;
   --easy-bg:#DAE9DC; --easy-fg:#24472F;
   --none-bg:#FFFDF7; --none-fg:#5B5648;
@@ -37,13 +38,19 @@
 .mp-chip[aria-pressed="true"]{background:var(--chip-on-bg);color:var(--chip-on-fg);border-color:var(--chip-on-bg)}
 .mp-chip[aria-pressed="true"] .n{color:var(--chip-on-fg)}
 .mp-chip:focus-visible,.mp-cell:focus-visible,.mp-rowhead a:focus-visible,.mp-reset:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
-.sw.hard{background:var(--hard-bg)} .sw.mid{background:var(--mid-bg)} .sw.easy{background:var(--easy-bg)}
+.sw.hard{background:var(--hard-bg)} .sw.low{background:var(--low-bg)} .sw.mid{background:var(--mid-bg)} .sw.easy{background:var(--easy-bg)}
 .sw.none{background:var(--none-bg);border-style:dashed} .sw.special{background:var(--paper-card);border:2px dashed var(--crimson)}
 .mp-bar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .mp-count{font-size:14px}
 .mp-count b{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-size:16px}
 .mp-reset{font:inherit;font-size:13.5px;color:var(--crimson);background:none;border:0;min-height:40px;padding:0 4px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
 .mp-reset[disabled]{color:var(--ink-soft);text-decoration:none;cursor:default}
+.mp-legend{margin:14px 0 0;font-size:13.5px}
+.mp-legend ul{list-style:none;margin:0 0 8px;padding:0;display:flex;flex-wrap:wrap;gap:6px 16px}
+.mp-legend li{display:inline-flex;align-items:center;gap:7px}
+.mp-legend .sw{width:16px;height:16px;border-radius:4px}
+.mp-legend .n{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-size:12px;color:var(--ink-soft)}
+.mp-legend p{margin:0;font-size:13px;color:var(--ink-soft)}
 .mp-help{font-size:12.5px;color:var(--ink-soft);margin:10px 0 0}
 h2.mp-sec{font-family:'Noto Serif TC',serif;font-weight:700;font-size:18px;margin:30px 0 4px;padding-bottom:8px;border-bottom:2px solid var(--rule);text-wrap:balance}
 .mp-secnote{font-size:13px;color:var(--ink-soft);margin:6px 0 4px}
@@ -59,6 +66,7 @@ h2.mp-sec{font-family:'Noto Serif TC',serif;font-weight:700;font-size:18px;margi
 .mp-cell .q{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-weight:600;font-size:16px;line-height:1.2}
 .mp-cell .p{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-size:11.5px;line-height:1.3}
 .mp-cell.hard{background:var(--hard-bg);color:var(--hard-fg)}
+.mp-cell.low{background:var(--low-bg);color:var(--low-fg)}
 .mp-cell.mid{background:var(--mid-bg);color:var(--mid-fg)}
 .mp-cell.easy{background:var(--easy-bg);color:var(--easy-fg)}
 .mp-cell.none{background:var(--none-bg);color:var(--none-fg);border:1.5px dashed var(--rule)}
@@ -79,6 +87,7 @@ h2.mp-sec{font-family:'Noto Serif TC',serif;font-weight:700;font-size:18px;margi
   <h1>克漏字題目地圖</h1>
   <p class="mp-intro">這一頁把題庫的 <b id="total">全部</b> 題排成一張圖。每一格是一題，上面是<b>題號</b>，下面是大考中心公布的全體考生<b>答對率</b>；<b>顏色越紅，題目越難</b>。<b>點格子</b>就會進到那一題的詳解。</p>
   <p class="mp-note" id="rateNote"></p>
+  <div class="mp-legend" id="legend" hidden></div>
 
   <div class="mp-panel" id="filters" hidden>
     <h2>難易（依答對率）</h2>
@@ -124,6 +133,7 @@ function tierOf(it){
 function baseTier(it){
   if (!isNum(it.accuracyRate)) return 'none';
   if (it.accuracyRate <= 25) return 'hard';
+  if (it.accuracyRate < 40) return 'low';   // 首頁「答對率低於 40% 的難題」的另一半
   if (it.accuracyRate <= 75) return 'mid';
   return 'easy';
 }
@@ -234,6 +244,20 @@ function renderRows(container, rows, sec){
     if (sec) sec.rows.push(row);
   });
 }
+function buildLegend(items){
+  var cnt = {hard:0, low:0, mid:0, easy:0, none:0};
+  items.forEach(function(it){ cnt[baseTier(it)]++; });
+  var rows = [['hard','答對率 25% 以下'],['low','26% 至 39%'],['mid','40% 至 75%'],['easy','高於 75%'],['none','沒有答對率']];
+  var ul = el('ul');
+  rows.forEach(function(r){
+    var li = el('li'); li.appendChild(el('span','sw ' + r[0])); li.appendChild(document.createTextNode(r[1] + ' '));
+    li.appendChild(el('span','n','(' + cnt[r[0]] + ' 題)')); ul.appendChild(li);
+  });
+  var box = document.getElementById('legend');
+  box.appendChild(ul);
+  box.appendChild(el('p','', '紅色加橘色共 ' + (cnt.hard + cnt.low) + ' 題，就是首頁所說「答對率低於 40% 的難題」。下方篩選的「中」，橘色和米色的格子都會選到。'));
+  box.hidden = false;
+}
 function yearRange(rows){
   var ns = [];
   rows.forEach(function(r){ var m = /^(\d+) 年$/.exec(r.label); if (m) ns.push(parseInt(m[1],10)); });
@@ -244,6 +268,7 @@ function build(items){
   document.getElementById('total').textContent = items.length;
   document.getElementById('total2').textContent = items.length;
   buildChips(items);
+  buildLegend(items);
   // 以「整年」為單位分兩區：該年有任何一題有官方答對率的，放上區
   var years = groupByYear(items);
   var yrWith = years.filter(function(r){ return r.items.some(function(it){ return isNum(it.accuracyRate); }); });
