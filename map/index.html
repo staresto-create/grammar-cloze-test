@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>克漏字題目地圖 · 依答對率一眼看出哪題最難｜學測克漏字文法&amp;轉折詞</title>
+<meta name="description" content="學測英文克漏字全部題目排成一張圖：每題一格，顯示大考中心官方答對率，顏色越紅越難，可依難易與題型篩選，點格子進該題詳解。">
+<link rel="canonical" href="https://staresto-create.github.io/grammar-cloze-test/map/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="克漏字題目地圖 · 依答對率一眼看出哪題最難｜學測克漏字文法&amp;轉折詞">
+<meta property="og:description" content="學測英文克漏字全部題目排成一張圖：每題一格，顯示大考中心官方答對率，顏色越紅越難，可依難易與題型篩選，點格子進該題詳解。">
+<meta property="og:url" content="https://staresto-create.github.io/grammar-cloze-test/map/">
+<meta property="og:site_name" content="學測克漏字文法&amp;轉折詞">
+<meta name="robots" content="index,follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/page.css">
+<style>
+/* 題目地圖：一年一列、一題一格；格子顏色沿用題庫既有的難／中／易分級，每格都同時印出題號與答對率，不只靠顏色 */
+:root{
+  --hard-bg:#AE3626; --hard-fg:#FFFFFF;
+  --mid-bg:#F1E4BD; --mid-fg:#4A3B0E;
+  --easy-bg:#DAE9DC; --easy-fg:#24472F;
+  --none-bg:#FFFDF7; --none-fg:#5B5648;
+  --chip-on-bg:#221F1A; --chip-on-fg:#F6F1E4;
+}
+.mp-intro{margin:0 0 10px;font-size:15px}
+.mp-intro b{color:var(--crimson)}
+.mp-note{margin:0 0 6px;font-size:13px;color:var(--ink-soft)}
+.mp-panel{margin:18px 0 6px;padding:14px 0;border-top:2px solid var(--ink);border-bottom:1px solid var(--rule)}
+.mp-panel h2{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-size:12px;letter-spacing:.08em;color:var(--ink-soft);margin:0 0 8px;padding:0;border:0;font-weight:600}
+.mp-chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px}
+.mp-chip{font:inherit;font-size:13.5px;color:var(--ink);background:var(--paper-card);border:1.5px solid var(--rule);border-radius:999px;
+  min-height:40px;padding:4px 13px;cursor:pointer;display:inline-flex;align-items:center;gap:7px}
+.mp-chip .n{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-size:12px;color:var(--ink-soft)}
+.mp-chip .sw{width:12px;height:12px;border-radius:3px;border:1px solid var(--rule);flex:none}
+.mp-chip[aria-pressed="true"]{background:var(--chip-on-bg);color:var(--chip-on-fg);border-color:var(--chip-on-bg)}
+.mp-chip[aria-pressed="true"] .n{color:var(--chip-on-fg)}
+.mp-chip:focus-visible,.mp-cell:focus-visible,.mp-rowhead a:focus-visible,.mp-reset:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.sw.hard{background:var(--hard-bg)} .sw.mid{background:var(--mid-bg)} .sw.easy{background:var(--easy-bg)}
+.sw.none{background:var(--none-bg);border-style:dashed} .sw.special{background:var(--paper-card);border:2px dashed var(--crimson)}
+.mp-bar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.mp-count{font-size:14px}
+.mp-count b{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-size:16px}
+.mp-reset{font:inherit;font-size:13.5px;color:var(--crimson);background:none;border:0;min-height:40px;padding:0 4px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.mp-reset[disabled]{color:var(--ink-soft);text-decoration:none;cursor:default}
+.mp-help{font-size:12.5px;color:var(--ink-soft);margin:10px 0 0}
+h2.mp-sec{font-family:'Noto Serif TC',serif;font-weight:700;font-size:18px;margin:30px 0 4px;padding-bottom:8px;border-bottom:2px solid var(--rule);text-wrap:balance}
+.mp-secnote{font-size:13px;color:var(--ink-soft);margin:6px 0 4px}
+.mp-row{padding:14px 0;border-bottom:1px solid var(--rule)}
+.mp-rowhead{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin:0 0 8px;flex-wrap:wrap}
+.mp-rowhead .y{font-family:'Noto Serif TC',serif;font-weight:700;font-size:16px}
+.mp-rowhead .y small{font-family:'Noto Sans TC',sans-serif;font-weight:400;font-size:12.5px;color:var(--ink-soft);margin-left:8px}
+.mp-rowhead a{font-size:13px;min-height:32px;display:inline-flex;align-items:center}
+.mp-cells{display:flex;flex-wrap:wrap;gap:6px 18px}
+.mp-grp{display:flex;flex-wrap:wrap;gap:6px}
+.mp-cell{display:flex;flex-direction:column;align-items:center;justify-content:center;width:46px;height:54px;border-radius:6px;
+  text-decoration:none;position:relative;border:1.5px solid transparent;font-variant-numeric:tabular-nums;transition:opacity .15s}
+.mp-cell .q{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-weight:600;font-size:16px;line-height:1.2}
+.mp-cell .p{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-size:11.5px;line-height:1.3}
+.mp-cell.hard{background:var(--hard-bg);color:var(--hard-fg)}
+.mp-cell.mid{background:var(--mid-bg);color:var(--mid-fg)}
+.mp-cell.easy{background:var(--easy-bg);color:var(--easy-fg)}
+.mp-cell.none{background:var(--none-bg);color:var(--none-fg);border:1.5px dashed var(--rule)}
+.mp-cell.special{border:2.5px dashed var(--crimson)}
+.mp-cell.special::after{content:"特";position:absolute;top:-7px;right:-6px;font-family:'Noto Sans TC',sans-serif;font-size:10.5px;font-weight:700;
+  background:var(--crimson);color:#fff;border-radius:4px;padding:0 4px;line-height:15px}
+.mp-cell.dim{opacity:.18}
+.mp-cell:hover{border-color:var(--ink)}
+.mp-src{font-size:12.5px;color:var(--ink-soft);margin:30px 0 0;padding-top:12px;border-top:1px dashed var(--rule)}
+.mp-status{font-size:14px;color:var(--ink-soft);margin:24px 0}
+@media (max-width:600px){.mp-cells{gap:6px}.mp-grp{width:100%}.mp-cell{flex:1 1 0;width:auto;min-width:0}}
+@media (prefers-reduced-motion:reduce){.mp-cell{transition:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="crumb"><a href="../">學測克漏字題庫</a> ／ <a href="../y/">年度總覽</a> ／ 題目地圖</div>
+  <h1>克漏字題目地圖</h1>
+  <p class="mp-intro">這一頁把題庫的 <b id="total">全部</b> 題排成一張圖。每一格是一題，上面是<b>題號</b>，下面是大考中心公布的全體考生<b>答對率</b>；<b>顏色越紅，題目越難</b>。<b>點格子</b>就會進到那一題的詳解。</p>
+  <p class="mp-note" id="rateNote"></p>
+
+  <div class="mp-panel" id="filters" hidden>
+    <h2>難易（依答對率）</h2>
+    <div class="mp-chips" id="tierChips"></div>
+    <h2>題型</h2>
+    <div class="mp-chips" id="catChips"></div>
+    <div class="mp-bar">
+      <div class="mp-count" aria-live="polite">符合的題目：<b id="matchN">0</b> 題（共 <span id="total2">0</span> 題）</div>
+      <button class="mp-reset" id="reset" type="button" disabled>清除篩選</button>
+    </div>
+    <p class="mp-help">選了條件之後，沒有符合題目的年度會收起來，其他年度裡不符合的格子會變淡。標有「特」的格子是鑑別度為負值的題目。</p>
+  </div>
+
+  <p class="mp-status" id="status">題目載入中……</p>
+  <noscript><p class="mp-status">這一頁需要開啟 JavaScript 才能顯示。你也可以從<a href="../y/">年度總覽</a>逐年瀏覽全部題目。</p></noscript>
+  <p class="mp-note" id="noneMsg" hidden>沒有符合這些條件的題目，請取消一兩個條件再試。</p>
+  <div id="out"></div>
+
+  <p class="mp-src">答對率與鑑別度來自大考中心公布的官方統計；難易分級、題型分類與各題詳解，都和題庫首頁使用同一份資料。難（答對率 25% 以下）、中（25% 至 75%）、易（高於 75%）是教育測驗常用的切法，大考中心本身沒有訂切點。</p>
+<footer><div style="font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:2; margin-bottom:12px;"><a href="https://staresto-create.github.io/JCEE-vocab-questions/" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">← 回題庫首頁</a><span style="padding:0 8px; opacity:.5;">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">🧩 五個詞：拼圖的規則</a></div>資料來源：83–115 年學測歷屆克漏字（大考中心公布），分類依文法點手動整理<br>© 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫 · <a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">📖 使用與著作權</a></footer>
+</div>
+
+<script>
+/* 資料來源：../grammar_items.json（和首頁同一份）。以後新增年度、補答對率、改分類，這一頁會自動跟著變，不需要重新產生。 */
+var YEAR_SLUG = {'91 年補考':'g91makeup','92 年補考':'g92makeup','110 年試辦考試':'g110trial',
+  '99 課綱學測參考用試卷':'g99ref','111 年學測英文參考試卷':'g111ref','學測參考試卷':'gref'};
+var OTHER_ORDER = ['92 年補考','91 年補考','110 年試辦考試','99 課綱學測參考用試卷','111 年學測英文參考試卷','學測參考試卷'];
+var TIERS = [['hard','難（≤25%）'],['mid','中（25~75%）'],['easy','易（＞75%）'],['special','特殊（鑑別度為負）'],['none','沒有答對率']];
+
+function yearSlug(label){
+  if (YEAR_SLUG[label]) return YEAR_SLUG[label];
+  var m = /^(\d+) 年$/.exec(label);
+  return m ? 'g' + m[1] : null;
+}
+function isNum(v){ return typeof v === 'number'; }
+function tierOf(it){
+  if (isNum(it.discrimination) && it.discrimination < 0) return 'special';
+  if (!isNum(it.accuracyRate)) return 'none';
+  if (it.accuracyRate <= 25) return 'hard';
+  if (it.accuracyRate <= 75) return 'mid';
+  return 'easy';
+}
+function baseTier(it){
+  if (!isNum(it.accuracyRate)) return 'none';
+  if (it.accuracyRate <= 25) return 'hard';
+  if (it.accuracyRate <= 75) return 'mid';
+  return 'easy';
+}
+function displayYear(label){
+  var m = /^(\d+) 年$/.exec(label);
+  return m ? m[1] + ' 年學測' : label;
+}
+function passageNo(it){ return parseInt(String(it.id).split('_').pop(), 10) || 0; }
+function linkFor(it){
+  var ys = yearSlug(it.year);
+  if (ys) return '../q/' + ys + '-' + it.blankNum + '-' + passageNo(it) + '/';
+  return '../#set-' + encodeURIComponent(it.id);   // 沒有對應詳解頁時，改連到練習頁
+}
+
+var selTiers = {}, selCats = {}, cells = [], sections = [];
+function el(tag, cls, text){ var e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; }
+
+function buildChips(items){
+  var tc = document.getElementById('tierChips'), cc = document.getElementById('catChips');
+  var tcount = {}, ccount = {}, order = [];
+  items.forEach(function(it){
+    var t = tierOf(it); tcount[t] = (tcount[t]||0) + 1;
+    var c = it.category;
+    if (!(c in ccount)){ ccount[c] = 0; order.push(c); }
+    ccount[c]++;
+  });
+  TIERS.forEach(function(t){
+    var b = el('button','mp-chip'); b.type = 'button'; b.setAttribute('aria-pressed','false'); b.dataset.k = t[0];
+    b.appendChild(el('span','sw ' + t[0]));
+    b.appendChild(document.createTextNode(t[1] + ' '));
+    b.appendChild(el('span','n','(' + (tcount[t[0]]||0) + ')'));
+    b.addEventListener('click', function(){ toggle(selTiers, b); });
+    tc.appendChild(b);
+  });
+  order.sort(function(a,b){ return ccount[b] - ccount[a]; });
+  order.forEach(function(c){
+    var b = el('button','mp-chip'); b.type = 'button'; b.setAttribute('aria-pressed','false'); b.dataset.k = c;
+    b.appendChild(document.createTextNode(c + ' '));
+    b.appendChild(el('span','n','(' + ccount[c] + ')'));
+    b.addEventListener('click', function(){ toggle(selCats, b); });
+    cc.appendChild(b);
+  });
+}
+function toggle(set, b){
+  var k = b.dataset.k;
+  if (set[k]){ delete set[k]; b.setAttribute('aria-pressed','false'); }
+  else { set[k] = true; b.setAttribute('aria-pressed','true'); }
+  apply();
+}
+function apply(){
+  var nt = Object.keys(selTiers).length, nc = Object.keys(selCats).length, n = 0;
+  sections.forEach(function(sc){ sc.rows.forEach(function(r){ r._m = 0; }); });
+  cells.forEach(function(c){
+    var ok = (!nt || selTiers[c.tier]) && (!nc || selCats[c.cat]);
+    c.node.classList.toggle('dim', !ok);
+    if (ok){ n++; c.row._m++; }
+  });
+  var active = !!(nt || nc);
+  sections.forEach(function(sc){
+    var any = false;
+    sc.rows.forEach(function(r){ r.hidden = active && r._m === 0; if (!r.hidden) any = true; });
+    sc.heads.forEach(function(h){ h.hidden = !any; });
+  });
+  document.getElementById('noneMsg').hidden = n !== 0;
+  document.getElementById('matchN').textContent = n;
+  document.getElementById('reset').disabled = !active;
+}
+
+function groupByYear(items){
+  var rows = [], idx = {};
+  items.forEach(function(it){
+    var k = it.year;
+    if (!(k in idx)){ idx[k] = rows.length; rows.push({label:k, slug:yearSlug(k), items:[]}); }
+    rows[idx[k]].items.push(it);
+  });
+  return rows;
+}
+function renderRows(container, rows, sec){
+  rows.forEach(function(r){
+    var row = el('div','mp-row');
+    var head = el('div','mp-rowhead');
+    var y = el('div','y', displayYear(r.label));
+    y.appendChild(el('small','', r.items.length + ' 題'));
+    head.appendChild(y);
+    if (r.slug){ var a = el('a','', '這一年的詳解 →'); a.href = '../y/' + r.slug + '/'; head.appendChild(a); }
+    row.appendChild(head);
+    var wrap = el('div','mp-cells');
+    var cur = null, grp = null, inGrp = 0;
+    r.items.sort(function(a,b){ return a.blankNum - b.blankNum; });
+    r.items.forEach(function(it){
+      var pn = passageNo(it);
+      if (pn !== cur || inGrp >= 5){ cur = pn; inGrp = 0; grp = el('div','mp-grp'); wrap.appendChild(grp); }
+      inGrp++;
+      var tier = tierOf(it), base = baseTier(it);
+      var c = el('a','mp-cell ' + base + (tier === 'special' ? ' special' : ''));
+      c.href = linkFor(it);
+      c.appendChild(el('span','q', String(it.blankNum)));
+      c.appendChild(el('span','p', isNum(it.accuracyRate) ? it.accuracyRate + '%' : '—'));
+      var tip = displayYear(r.label) + ' 第 ' + it.blankNum + ' 題 · ' + it.category + ' · ' +
+                (isNum(it.accuracyRate) ? '答對率 ' + it.accuracyRate + '%' : '沒有官方答對率');
+      if (tier === 'special') tip += ' · 鑑別度為負';
+      c.title = tip; c.setAttribute('aria-label', tip);
+      grp.appendChild(c);
+      cells.push({node:c, tier:tier, cat:it.category, row:row});
+    });
+    row.appendChild(wrap);
+    container.appendChild(row);
+    if (sec) sec.rows.push(row);
+  });
+}
+function yearRange(rows){
+  var ns = [];
+  rows.forEach(function(r){ var m = /^(\d+) 年$/.exec(r.label); if (m) ns.push(parseInt(m[1],10)); });
+  if (!ns.length) return '';
+  return Math.min.apply(null, ns) + ' 至 ' + Math.max.apply(null, ns) + ' 年';
+}
+function build(items){
+  document.getElementById('total').textContent = items.length;
+  document.getElementById('total2').textContent = items.length;
+  buildChips(items);
+  // 以「整年」為單位分兩區：該年有任何一題有官方答對率的，放上區
+  var years = groupByYear(items);
+  var yrWith = years.filter(function(r){ return r.items.some(function(it){ return isNum(it.accuracyRate); }); });
+  var yrWithout = years.filter(function(r){ return yrWith.indexOf(r) < 0; });
+  function num(r){ var m = /^(\d+) 年$/.exec(r.label); return m ? parseInt(m[1],10) : null; }
+  yrWith.sort(function(a,b){ return (num(b)||0) - (num(a)||0); });
+  yrWithout.sort(function(a,b){
+    var na = num(a), nb = num(b);
+    if (na !== null && nb !== null) return nb - na;
+    if (na !== null) return -1;
+    if (nb !== null) return 1;
+    var ia = OTHER_ORDER.indexOf(a.label), ib = OTHER_ORDER.indexOf(b.label);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+  });
+  var rWith = yearRange(yrWith), rWithout = yearRange(yrWithout);
+  document.getElementById('rateNote').textContent =
+    (rWith ? rWith + '有官方答對率。' : '') +
+    (yrWithout.length ? (rWithout ? rWithout + '、' : '') + '補考、試辦考試與參考試卷等，大考中心沒有公布逐題答對率，格子裡以「—」表示，不是題目漏收。' : '');
+  var out = document.getElementById('out');
+  var s1 = {heads:[], rows:[]}, s2 = {heads:[], rows:[]}; sections.push(s1, s2);
+  if (yrWith.length){
+    var h1 = el('h2','mp-sec','有官方答對率的試卷' + (rWith ? '（' + rWith + '學測）' : '')); out.appendChild(h1); s1.heads.push(h1);
+    renderRows(out, yrWith, s1);
+  }
+  if (yrWithout.length){
+    var h2 = el('h2','mp-sec','沒有公布答對率的試卷'); out.appendChild(h2); s2.heads.push(h2);
+    var n2 = el('p','mp-secnote','這些試卷一樣有完整詳解，只是沒有答對率可以比較難易。'); out.appendChild(n2); s2.heads.push(n2);
+    renderRows(out, yrWithout, s2);
+  }
+  document.getElementById('filters').hidden = false;
+  document.getElementById('status').hidden = true;
+  apply();
+}
+document.getElementById('reset').addEventListener('click', function(){
+  selTiers = {}; selCats = {};
+  document.querySelectorAll('.mp-chip').forEach(function(b){ b.setAttribute('aria-pressed','false'); });
+  apply();
+});
+fetch('../grammar_items.json').then(function(r){
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+}).then(build).catch(function(){
+  document.getElementById('status').textContent = '題目資料讀取失敗，請重新整理頁面；也可以從年度總覽逐年瀏覽全部題目。';
+});
+</script>
+</body>
+</html>
