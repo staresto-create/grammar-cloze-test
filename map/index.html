@@ -18,10 +18,10 @@
 <style>
 /* 題目地圖：一年一列、一題一格；格子顏色沿用題庫既有的難／中／易分級，每格都同時印出題號與答對率，不只靠顏色 */
 :root{
-  --hard-bg:#AE3626; --hard-fg:#FFFFFF;
-  --low-bg:#E3A83C; --low-fg:#3A2600;
-  --mid-bg:#F1E4BD; --mid-fg:#4A3B0E;
-  --easy-bg:#7FC28F; --easy-fg:#082414;
+  --hard-bg:#E9A89E; --hard-fg:#5E160B; --hard-bd:#D17E71;
+  --low-bg:#F6DFB0; --low-fg:#5A3C00; --low-bd:#E6C57E;
+  --mid-bg:#F7F1E1; --mid-fg:#4A3B0E; --mid-bd:#E3D7B4;
+  --easy-bg:#D3E8D6; --easy-fg:#14391F; --easy-bd:#A9D0B0;
   --none-bg:#FFFDF7; --none-fg:#5B5648;
   --chip-on-bg:#221F1A; --chip-on-fg:#F6F1E4;
 }
@@ -38,7 +38,7 @@
 .mp-chip[aria-pressed="true"]{background:var(--chip-on-bg);color:var(--chip-on-fg);border-color:var(--chip-on-bg)}
 .mp-chip[aria-pressed="true"] .n{color:var(--chip-on-fg)}
 .mp-chip:focus-visible,.mp-cell:focus-visible,.mp-rowhead a:focus-visible,.mp-reset:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
-.sw.hard{background:var(--hard-bg)} .sw.low{background:var(--low-bg)} .sw.mid{background:var(--mid-bg)} .sw.easy{background:var(--easy-bg)}
+.sw.hard{background:var(--hard-bg);border-color:var(--hard-bd)} .sw.low{background:var(--low-bg);border-color:var(--low-bd)} .sw.mid{background:var(--mid-bg);border-color:var(--mid-bd)} .sw.easy{background:var(--easy-bg);border-color:var(--easy-bd)}
 .sw.none{background:var(--none-bg);border-style:dashed} .sw.special{background:var(--paper-card);border:2px dashed var(--crimson)}
 .mp-bar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
 .mp-count{font-size:14px}
@@ -61,14 +61,14 @@ h2.mp-sec{font-family:'Noto Serif TC',serif;font-weight:700;font-size:18px;margi
 .mp-rowhead a{font-size:13px;min-height:32px;display:inline-flex;align-items:center}
 .mp-cells{display:flex;flex-wrap:wrap;gap:6px 18px}
 .mp-grp{display:flex;flex-wrap:wrap;gap:6px}
-.mp-cell{display:flex;flex-direction:column;align-items:center;justify-content:center;width:46px;height:54px;border-radius:6px;
+.mp-cell{display:flex;flex-direction:column;align-items:center;justify-content:center;width:46px;height:54px;border-radius:9px;
   text-decoration:none;position:relative;border:1.5px solid transparent;font-variant-numeric:tabular-nums;transition:opacity .15s}
 .mp-cell .q{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-weight:600;font-size:16px;line-height:1.2}
 .mp-cell .p{font-family:'IBM Plex Mono','Noto Sans TC',monospace;font-size:11.5px;line-height:1.3}
-.mp-cell.hard{background:var(--hard-bg);color:var(--hard-fg)}
-.mp-cell.low{background:var(--low-bg);color:var(--low-fg)}
-.mp-cell.mid{background:var(--mid-bg);color:var(--mid-fg)}
-.mp-cell.easy{background:var(--easy-bg);color:var(--easy-fg)}
+.mp-cell.hard{background:var(--hard-bg);color:var(--hard-fg);border-color:var(--hard-bd)}
+.mp-cell.low{background:var(--low-bg);color:var(--low-fg);border-color:var(--low-bd)}
+.mp-cell.mid{background:var(--mid-bg);color:var(--mid-fg);border-color:var(--mid-bd)}
+.mp-cell.easy{background:var(--easy-bg);color:var(--easy-fg);border-color:var(--easy-bd)}
 .mp-cell.none{background:var(--none-bg);color:var(--none-fg);border:1.5px dashed var(--rule)}
 .mp-cell.special{border:2.5px dashed var(--crimson)}
 .mp-cell.special::after{content:"特";position:absolute;top:-7px;right:-6px;font-family:'Noto Sans TC',sans-serif;font-size:10.5px;font-weight:700;
@@ -82,10 +82,10 @@ h2.mp-sec{font-family:'Noto Serif TC',serif;font-weight:700;font-size:18px;margi
 /* 深色模式：色階沿用同一組意義（紅最難、金黃、米色、綠最易），明度重新挑過，格子上的數字仍是主要資訊 */
 @media screen and (prefers-color-scheme: dark){
   :root{
-    --hard-bg:#B93A27; --hard-fg:#FFFFFF;
-    --low-bg:#C99533; --low-fg:#241700;
-    --mid-bg:#4A4231; --mid-fg:#EADFC0;
-    --easy-bg:#2F7D4A; --easy-fg:#F2FFF6;
+    --hard-bg:#6B2E27; --hard-fg:#FFDDD6; --hard-bd:#8F4338;
+    --low-bg:#66512A; --low-fg:#FFEFC8; --low-bd:#8A7040;
+    --mid-bg:#3B362B; --mid-fg:#EADFC0; --mid-bd:#554E3D;
+    --easy-bg:#2A5239; --easy-fg:#DDF6E4; --easy-bd:#3F7A56;
     --none-bg:#26231F; --none-fg:#B8B0A0;
     --chip-on-bg:#EDE7D8; --chip-on-fg:#1B1916;
   }
