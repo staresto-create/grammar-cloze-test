@@ -18,10 +18,10 @@
 <style>
 /* 題目地圖：一年一列、一題一格；格子顏色沿用題庫既有的難／中／易分級，每格都同時印出題號與答對率，不只靠顏色 */
 :root{
-  --hard-bg:#E9A89E; --hard-fg:#5E160B; --hard-bd:#D17E71;
-  --low-bg:#F6DFB0; --low-fg:#5A3C00; --low-bd:#E6C57E;
-  --mid-bg:#F7F1E1; --mid-fg:#4A3B0E; --mid-bd:#E3D7B4;
-  --easy-bg:#D3E8D6; --easy-fg:#14391F; --easy-bd:#A9D0B0;
+  --hard-bg:#FBE4E1; --hard-fg:#5E160B; --hard-bd:#B3382C; --hard-badge:#B3382C;
+  --low-bg:#FBEBCF; --low-fg:#5A3C00; --low-bd:#E3B966;
+  --mid-bg:#F8F2E3; --mid-fg:#4A3B0E; --mid-bd:#E6DBBC;
+  --easy-bg:#E2EFE5; --easy-fg:#14391F; --easy-bd:#B5D2BD;
   --none-bg:#FFFDF7; --none-fg:#5B5648;
   --chip-on-bg:#221F1A; --chip-on-fg:#F6F1E4;
 }
@@ -71,7 +71,8 @@ h2.mp-sec{font-family:'Noto Serif TC',serif;font-weight:700;font-size:18px;margi
 .mp-cell.easy{background:var(--easy-bg);color:var(--easy-fg);border-color:var(--easy-bd)}
 .mp-cell.none{background:var(--none-bg);color:var(--none-fg);border:1.5px dashed var(--rule)}
 .mp-cell.special{border:2.5px dashed var(--crimson)}
-.mp-cell.special::after{content:"特";position:absolute;top:-7px;right:-6px;font-family:'Noto Sans TC',sans-serif;font-size:10.5px;font-weight:700;
+.mp-cell.hard::before{content:"難";position:absolute;top:-7px;right:-6px;font-family:'Noto Sans TC',sans-serif;font-size:10.5px;font-weight:700;background:var(--hard-badge);color:#fff;border-radius:4px;padding:0 4px;line-height:15px;z-index:1}
+.mp-cell.special::after{content:"特";position:absolute;top:-7px;left:-6px;font-family:'Noto Sans TC',sans-serif;font-size:10.5px;font-weight:700;
   background:var(--crimson);color:#fff;border-radius:4px;padding:0 4px;line-height:15px}
 .mp-cell.dim{opacity:.18}
 .mp-cell:hover{border-color:var(--ink)}
@@ -82,10 +83,10 @@ h2.mp-sec{font-family:'Noto Serif TC',serif;font-weight:700;font-size:18px;margi
 /* 深色模式：色階沿用同一組意義（紅最難、金黃、米色、綠最易），明度重新挑過，格子上的數字仍是主要資訊 */
 @media screen and (prefers-color-scheme: dark){
   :root{
-    --hard-bg:#6B2E27; --hard-fg:#FFDDD6; --hard-bd:#8F4338;
-    --low-bg:#66512A; --low-fg:#FFEFC8; --low-bd:#8A7040;
+    --hard-bg:#4A2622; --hard-fg:#FFDDD6; --hard-bd:#C2493B; --hard-badge:#C2493B;
+    --low-bg:#4F4126; --low-fg:#FFEFC8; --low-bd:#8A7040;
     --mid-bg:#3B362B; --mid-fg:#EADFC0; --mid-bd:#554E3D;
-    --easy-bg:#2A5239; --easy-fg:#DDF6E4; --easy-bd:#3F7A56;
+    --easy-bg:#27483A; --easy-fg:#DDF6E4; --easy-bd:#3F7A56;
     --none-bg:#26231F; --none-fg:#B8B0A0;
     --chip-on-bg:#EDE7D8; --chip-on-fg:#1B1916;
   }
