@@ -98,6 +98,9 @@
   .cat-chip.on{border-color:var(--sage); background:var(--tint-sage); color:var(--sage); font-weight:600;}
   .cat-chip.disabled{opacity:.32; cursor:not-allowed; text-decoration:line-through;}
   .cat-chip .chip-count{font-size:10px; color:var(--ink-soft); opacity:.7;}
+  .topic-note{font-size:12.5px; color:var(--ink-soft); line-height:1.7; margin:0 0 10px;}
+  .topic-sub-label{font-size:12px; color:var(--ink-soft); margin:10px 0 6px;}
+  #availNote{margin:10px 0 4px; padding:6px 10px; border-left:3px solid var(--gold); color:var(--ink);}
   .cat-chip.on .chip-count{color:var(--sage);}
   .cat-tools{display:flex; gap:14px; margin-top:8px; font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px;}
   .cat-tools a{color:var(--ink-soft); cursor:pointer; text-decoration:underline;}
@@ -563,7 +566,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
 
   <!-- HOME -->
   <div id="home">
-  <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">第一次使用？</span><a href="../JCEE-vocab-questions/howto.html">怎麼使用這個題庫</a></div><div class="ubrow"><span class="ublab">同一題庫</span><a href="y/">詳解總覽</a><a href="hard/">歷屆最難的 18 題</a><a href="map/">題目地圖</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-start">開始練習</a><a href="#catFilterSection">篩選文法點</a><a href="#u-year">篩選年份</a><a href="#adapt">仿真練習</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
+  <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">第一次使用？</span><a href="../JCEE-vocab-questions/howto.html">怎麼使用這個題庫</a></div><div class="ubrow"><span class="ublab">同一題庫</span><a href="y/">詳解總覽</a><a href="hard/">歷屆最難的 18 題</a><a href="map/">題目地圖</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-start">開始練習</a><a href="#u-topic">篩選文章主題</a><a href="#catFilterSection">篩選文法點</a><a href="#u-year">篩選年份</a><a href="#adapt">仿真練習</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
     <div data-start-here></div>
     <p class="home-desc print-note" style="margin:0 0 14px"><b>想用紙本練習？</b>進到題目畫面後，按最上方的「🖨️ 列印成考卷」，印出來就是考卷：空格留白，不含答案、解析和提示。手機和電腦都能印（也可以存成 PDF）。</p>
     <!--DIFFTAG-S-->
@@ -906,6 +909,19 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
         </div>
       </div>
 
+      <div id="topicFilterSection">
+        <div class="sec-title" id="u-topic">篩選文章主題<span style="font-weight:400; text-transform:none; letter-spacing:0; font-size:11px; margin-left:6px;">（選填，可複選）</span></div>
+        <div class="topic-note">依文章談的內容找文章，例如想先讀科學或飲食旅遊類的文章。一篇文章可能同時屬於兩個主題，選其中任一個都找得到。</div>
+        <div class="cat-grid" id="topicGrid"></div>
+        <div id="subWrap" hidden>
+          <div class="topic-sub-label">社會議題可再細分（選填）</div>
+          <div class="cat-grid" id="subGrid"></div>
+        </div>
+        <div class="topic-sub-label">只看台灣相關的文章（選填）</div>
+        <div class="cat-grid" id="twGrid"></div>
+        <div class="cat-tools"><a onclick="clearTopics()">全不選</a></div>
+      </div>
+
       <div id="catFilterSection">
         <div class="sec-title">篩選文法點</div>
         <div class="cat-grid" id="catGrid"></div>
@@ -928,6 +944,7 @@ function kkOpt(w){ w = String(w == null ? '' : w).trim(); return (window.KK && w
         測試模式（本次作答不計入學習歷程與錯題本）
       </label>
 
+      <div class="topic-note" id="availNote" role="status" aria-live="polite" hidden></div>
       <button class="big-btn" id="startBtn" onclick="startSession()">開始練習 →</button>
     </div>
 
@@ -1157,12 +1174,14 @@ async function init(){
   //DIFFTAG-E
   buildCategoryChips();
   buildYearChips();
+  buildTopicChips();
   buildDiffChips();
   refreshWrongCount();
   refreshHomeStats();
   scrMountStrip();
   renderProgress();
-  startFromSetHash() || startFromQHash() || startFromFullHash();
+  refreshAvail();
+  try{ startFromSetHash() || startFromQHash() || startFromFullHash() || applyTopicHash(); }catch(e){}  // 網址編碼壞掉時照常停在首頁
 }
 
 /* 線索範圍統計：由 ITEMS 現算，新增年度後自動更新。
@@ -1230,6 +1249,170 @@ function fillSpanStats(){
     '\u3000<i style="background:' + REST + ';"></i>其餘' + (CN[restC] || restC) + '類 ' + restN;
 }
 
+/* 文章主題（2026-11-01）：主題是整篇文章的屬性，存在 grammar_passages.json 與 adapt/passages.json 的
+   topic（主要）、topic2（次要）、topicSub（社會議題子標籤）、tw（台灣相關）；每一題用 passageId 去查。
+   同一個主題內是「或」（主要或次要符合就算），與文法點、年份、難易度之間是「且」。 */
+const TOPIC_ORDER = ['家庭與日常生活','校園與學習','人際關係','自我成長與心理','健康、醫療與運動','社會議題','商業、經濟與職場','科技與媒體','科學與自然','環境與災害','歷史與文化','文學與藝術','飲食與旅遊'];
+const SUB_ORDER = ['人權與法治','性別平等','動物權益','全球議題'];
+let selectedTopics = new Set(), selectedSubs = new Set(), twOnly = false;
+function passageOf(it){ return PASSAGES[it.passageId] || {}; }
+function itemTopics(it){ const p = passageOf(it); return [p.topic, p.topic2].filter(Boolean); }
+function topicOk(it, skipTw){
+  const p = passageOf(it);
+  if(twOnly && !skipTw && !p.tw) return false;
+  if(selectedTopics.size === 0) return true;
+  return itemTopics(it).some(t => {
+    if(!selectedTopics.has(t)) return false;
+    if(t === '社會議題' && selectedSubs.size > 0) return selectedSubs.has(p.topicSub);
+    return true;
+  });
+}
+function buildTopicChips(){
+  const pids = new Set(ITEMS.map(it => it.passageId));
+  const cnt = {}, sub = {}; let tw = 0;
+  pids.forEach(id => {
+    const p = PASSAGES[id]; if(!p) return;
+    [p.topic, p.topic2].filter(Boolean).forEach(t => { cnt[t] = (cnt[t]||0) + 1; });
+    if(p.topicSub) sub[p.topicSub] = (sub[p.topicSub]||0) + 1;
+    if(p.tw) tw++;
+  });
+  selectedTopics = new Set(); selectedSubs = new Set(); twOnly = false;
+  document.getElementById('topicGrid').innerHTML = TOPIC_ORDER.map((t, i) =>
+    `<div class="cat-chip" data-topic="${escapeAttr(t)}" data-code="${i+1}" onclick="toggleTopic(this)">${escapeHtml(t)} <span class="chip-count">(${cnt[t]||0} 篇)</span></div>`).join('');
+  document.getElementById('subGrid').innerHTML = SUB_ORDER.filter(t => sub[t]).map(t =>
+    `<div class="cat-chip" data-sub="${escapeAttr(t)}" onclick="toggleSub(this)">${escapeHtml(t)} <span class="chip-count">(${sub[t]} 篇)</span></div>`).join('');
+  document.getElementById('twGrid').innerHTML =
+    `<div class="cat-chip" id="twChip" onclick="toggleTw(this)">台灣相關 <span class="chip-count">(${tw} 篇)</span></div>`;
+}
+function toggleTopic(el){
+  if(el.classList.contains('disabled')) return;
+  const t = el.dataset.topic;
+  if(selectedTopics.has(t)){ selectedTopics.delete(t); el.classList.remove('on'); }
+  else{ selectedTopics.add(t); el.classList.add('on'); }
+  availFrom(el); refreshAvail();
+}
+function toggleSub(el){
+  if(el.classList.contains('disabled')) return;
+  const t = el.dataset.sub;
+  if(selectedSubs.has(t)){ selectedSubs.delete(t); el.classList.remove('on'); }
+  else{ selectedSubs.add(t); el.classList.add('on'); }
+  availFrom(el); refreshAvail();
+}
+function toggleTw(el){
+  if(el.classList.contains('disabled')) return;
+  twOnly = !twOnly; el.classList.toggle('on', twOnly);
+  availFrom(el); refreshAvail();
+}
+function clearTopics(){
+  selectedTopics = new Set(); selectedSubs = new Set(); twOnly = false;
+  document.querySelectorAll('#topicGrid .cat-chip, #subGrid .cat-chip, #twGrid .cat-chip').forEach(el => el.classList.remove('on'));
+  availFrom(document.getElementById('twGrid')); refreshAvail();
+}
+/* 提示要出現在學生剛按的那一區下方，學生才看得到；切換模式或從網址進站時放在「開始練習」上方。 */
+function availFrom(el){
+  const note = document.getElementById('availNote'); if(!note) return;
+  let anchor = el ? (el.classList.contains('cat-grid') ? el : el.closest('.cat-grid')) : null;
+  if(anchor && anchor.id === 'subGrid') anchor = document.getElementById('twGrid');
+  if(anchor && anchor.nextElementSibling && anchor.nextElementSibling.classList.contains('cat-tools')) anchor = anchor.nextElementSibling;
+  if(anchor) anchor.after(note);
+  else { const b = document.getElementById('startBtn'); if(b) b.before(note); }
+}
+/* 各篩選互相反灰：某個選項在其他條件下一題都沒有，就灰掉、不能選；已選的會自動取消，並顯示提示。
+   規則與 startSession 一致：單題模式看文法點、年份、難易度與主題；全文模式不看文法點。
+   主題晶片的篇數依其他條件重新計算。取消後條件變了，所以一直算到沒有變動為止（最多 8 輪）。 */
+function refreshAvail(){
+  const full = currentMode === 'full';
+  const catOk = it => full || selectedCats.size === 0 || selectedCats.has(it.category);
+  const yearOk = it => selectedYears.size === 0 || selectedYears.has(it.year);
+  const diffOk = it => selectedDiffs.size === 0 || selectedDiffs.has(getDiffTier(it));
+  const base = it => catOk(it) && yearOk(it) && diffOk(it);
+  const cancelled = [];
+  const labelOf = el => el.textContent.replace(/\s*\(\d+( 篇)?\)\s*$/, '').trim();
+  const setState = (el, av, set, key) => {
+    el.classList.toggle('disabled', !av);
+    if(!av && set.has(key)){ set.delete(key); el.classList.remove('on'); cancelled.push(labelOf(el)); return true; }
+    return false;
+  };
+  const setCount = (el, n) => { const c = el.querySelector('.chip-count'); if(c) c.textContent = '(' + n + ' 篇)'; };
+  const countPassages = pred => { const ids = new Set(); ITEMS.forEach(it => { if(pred(it)) ids.add(it.passageId); }); return ids.size; };
+  for(let round = 0; round < 8; round++){
+    let changed = false;
+    if(!full){
+      document.querySelectorAll('#catGrid .cat-chip').forEach(el => {
+        const c = el.dataset.cat;
+        changed = setState(el, ITEMS.some(it => it.category === c && yearOk(it) && diffOk(it) && topicOk(it)), selectedCats, c) || changed;
+      });
+    }
+    document.querySelectorAll('#yearGrid .cat-chip').forEach(el => {
+      const y = el.dataset.year;
+      changed = setState(el, ITEMS.some(it => it.year === y && catOk(it) && diffOk(it) && topicOk(it)), selectedYears, y) || changed;
+    });
+    document.querySelectorAll('#diffGrid .cat-chip').forEach(el => {
+      const d = el.dataset.diff;
+      changed = setState(el, ITEMS.some(it => getDiffTier(it) === d && catOk(it) && yearOk(it) && topicOk(it)), selectedDiffs, d) || changed;
+    });
+    document.querySelectorAll('#topicGrid .cat-chip').forEach(el => {
+      const t = el.dataset.topic;
+      const has = it => base(it) && (!twOnly || passageOf(it).tw) && itemTopics(it).includes(t);
+      setCount(el, countPassages(has));
+      changed = setState(el, ITEMS.some(has), selectedTopics, t) || changed;
+    });
+    // 子標籤只在選了「社會議題」時顯示；取消社會議題時子標籤一併清掉（學生自己取消的，不另外提示）
+    const wrap = document.getElementById('subWrap');
+    if(!selectedTopics.has('社會議題')){
+      if(selectedSubs.size){ selectedSubs = new Set(); changed = true; }
+      document.querySelectorAll('#subGrid .cat-chip').forEach(el => el.classList.remove('on'));
+      wrap.hidden = true;
+    } else {
+      wrap.hidden = false;
+      document.querySelectorAll('#subGrid .cat-chip').forEach(el => {
+        const t = el.dataset.sub;
+        const has = it => base(it) && (!twOnly || passageOf(it).tw) && passageOf(it).topicSub === t && itemTopics(it).includes('社會議題');
+        setCount(el, countPassages(has));
+        changed = setState(el, ITEMS.some(has), selectedSubs, t) || changed;
+      });
+    }
+    const tw = document.getElementById('twChip');
+    if(tw){
+      const has = it => base(it) && passageOf(it).tw && topicOk(it, true);
+      setCount(tw, countPassages(has));
+      const av = ITEMS.some(has);
+      tw.classList.toggle('disabled', !av);
+      if(!av && twOnly){ twOnly = false; tw.classList.remove('on'); cancelled.push('台灣相關'); changed = true; }
+    }
+    if(!changed) break;
+  }
+  const note = document.getElementById('availNote');
+  if(note){
+    if(cancelled.length){ note.textContent = '系統已取消：' + [...new Set(cancelled)].join('、') + '（和目前選的其他條件合起來，找不到符合的題目）'; note.hidden = false; }
+    else { note.textContent = ''; note.hidden = true; }
+  }
+}
+/* 網址帶 #topic=代碼（1 到 13，與英聽 6ME 的 cat 代碼相同；可加 tw 表示台灣相關）就先選好，不自動開始。
+   套用後把網址上的 #topic= 清掉，免得按上一頁或重新整理時又蓋掉學生後來的選擇。 */
+function applyTopicHash(){
+  let h = location.hash || '';
+  try{ h = decodeURIComponent(h); }catch(e){}
+  const m = h.match(/^#topic=([\w,]+)$/);
+  if(!m) return false;
+  const home = document.getElementById('home');
+  if(home && home.style.display === 'none') return false;
+  selectedTopics = new Set(); selectedSubs = new Set(); twOnly = false;
+  m[1].split(',').forEach(c => {
+    if(c === 'tw'){ twOnly = true; return; }
+    const n = parseInt(c, 10);
+    if(n >= 1 && n <= 13) selectedTopics.add(TOPIC_ORDER[n-1]);
+  });
+  document.querySelectorAll('#topicGrid .cat-chip').forEach(el => el.classList.toggle('on', selectedTopics.has(el.dataset.topic)));
+  const tw = document.getElementById('twChip'); if(tw) tw.classList.toggle('on', twOnly);
+  availFrom(document.getElementById('twGrid'));
+  refreshAvail();
+  const sec = document.getElementById('u-topic'); if(sec) sec.scrollIntoView({block:'start'});
+  try{ history.replaceState(null, '', location.pathname + location.search); }catch(e){}
+  return true;
+}
+window.addEventListener('hashchange', applyTopicHash);
+
 function buildCategoryChips(){
   const counts = {};
   ITEMS.forEach(it => { counts[it.category] = (counts[it.category]||0) + 1; });
@@ -1245,7 +1428,7 @@ function toggleCat(el){
   const c = el.dataset.cat;
   if(selectedCats.has(c)){ selectedCats.delete(c); el.classList.remove('on'); }
   else{ selectedCats.add(c); el.classList.add('on'); }
-  updateYearAvailability();
+  availFrom(el); updateYearAvailability();
 }
 function toggleAllCats(on){
   document.querySelectorAll('#catGrid .cat-chip').forEach(el=>{
@@ -1254,7 +1437,7 @@ function toggleAllCats(on){
     if(on){ selectedCats.add(c); el.classList.add('on'); }
     else{ selectedCats.delete(c); el.classList.remove('on'); }
   });
-  updateYearAvailability();
+  availFrom(document.getElementById('catGrid')); updateYearAvailability();
 }
 
 let selectedYears = new Set();
@@ -1331,7 +1514,7 @@ function toggleYear(el){
   const y = el.dataset.year;
   if(selectedYears.has(y)){ selectedYears.delete(y); el.classList.remove('on'); }
   else{ selectedYears.add(y); el.classList.add('on'); }
-  updateCategoryAvailability();
+  availFrom(el); updateCategoryAvailability();
 }
 function toggleAllYears(on){
   document.querySelectorAll('#yearGrid .cat-chip').forEach(el=>{
@@ -1340,30 +1523,10 @@ function toggleAllYears(on){
     if(on){ selectedYears.add(y); el.classList.add('on'); }
     else{ selectedYears.delete(y); el.classList.remove('on'); }
   });
-  updateCategoryAvailability();
+  availFrom(document.getElementById('yearGrid')); updateCategoryAvailability();
 }
-function updateYearAvailability(){
-  document.querySelectorAll('#yearGrid .cat-chip').forEach(el=>{
-    const y = el.dataset.year;
-    const available = selectedCats.size === 0 || ITEMS.some(it => it.year===y && selectedCats.has(it.category));
-    el.classList.toggle('disabled', !available);
-    if(!available && selectedYears.has(y)){
-      selectedYears.delete(y);
-      el.classList.remove('on');
-    }
-  });
-}
-function updateCategoryAvailability(){
-  document.querySelectorAll('#catGrid .cat-chip').forEach(el=>{
-    const c = el.dataset.cat;
-    const available = selectedYears.size === 0 || ITEMS.some(it => it.category===c && selectedYears.has(it.year));
-    el.classList.toggle('disabled', !available);
-    if(!available && selectedCats.has(c)){
-      selectedCats.delete(c);
-      el.classList.remove('on');
-    }
-  });
-}
+function updateYearAvailability(){ refreshAvail(); }
+function updateCategoryAvailability(){ refreshAvail(); }
 
 function getDiffTier(it){
   if(it.discrimination !== undefined && it.discrimination < 0) return 'special';
@@ -1384,9 +1547,11 @@ function buildDiffChips(){
   ).join('');
 }
 function toggleDiff(el){
+  if(el.classList.contains('disabled')) return;
   const t = el.dataset.diff;
   if(selectedDiffs.has(t)){ selectedDiffs.delete(t); el.classList.remove('on'); }
   else{ selectedDiffs.add(t); el.classList.add('on'); }
+  availFrom(el); refreshAvail();
 }
 
 function selectMode(m){
@@ -1399,6 +1564,7 @@ function selectMode(m){
   } else {
     catSection.style.display = '';
   }
+  availFrom(null); refreshAvail();
 }
 
 function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
@@ -1512,7 +1678,7 @@ function startSession(){
   const catOk = it => selectedCats.size===0 || selectedCats.has(it.category);
   const yearOk = it => selectedYears.size===0 || selectedYears.has(it.year);
   if(currentMode === 'single'){
-    const filterFn = it => catOk(it) && yearOk(it) && diffOk(it);
+    const filterFn = it => catOk(it) && yearOk(it) && diffOk(it) && topicOk(it);
   clearSetLabel();
     singleQueue = buildQueue(filterFn);
     if(singleQueue.length===0){ alert('這個篩選條件下沒有題目（難易度篩選可能跟其他條件沒有交集）'); return; }
@@ -1520,8 +1686,8 @@ function startSession(){
     showScreen('single');
     renderSingle();
   } else {
-    // 全文模式：不受文法分類篩選影響，一律顯示完整段落所有空格，只依年份與難易度篩選
-    startFullMode(it => yearOk(it) && diffOk(it));
+    // 全文模式：不受文法分類篩選影響，一律顯示完整段落所有空格，只依年份、難易度與文章主題篩選
+    startFullMode(it => yearOk(it) && diffOk(it) && topicOk(it));
   }
 }
 
