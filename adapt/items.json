@@ -1724,5 +1724,90 @@
   "explanation": "語意「只有在威斯康辛、明尼蘇達和密西根北部的森林裡，還聽得到灰狼的嚎叫，美國西部廣大的土地卻『陷入一片寂靜』」，while 帶出和前半句 heard 相對的情況，fell silent 符合；fell apart（崩解）、fell behind（落後）、fell short（未達到）都和聲音無關。",
   "contextSpan": "句內",
   "note": "【你可能會這樣想】讀到 the vast lands of the American West（美國西部廣大的土地），你可能想到中文「大地支離破碎」，於是挑 fell apart。可是本句前半講的是聽不聽得到聲音。【怎麼判斷】本句前半是倒裝：only 加地點放在句首，英文用倒裝凸顯「只有這裡」，助動詞 could 因此移到主詞前面，意思是只有北方的森林還聽得到灰狼的嚎叫（the howl of gray wolves could still be heard）。後半用 while 接上，while 在這裡表示對比：北方森林還聽得到，西部大地就要和 heard 相對，講聲音消失，所以是 fell silent。fall 後面接形容詞，表示變成某種狀態，同 fall asleep（睡著）。例句：The noisy classroom fell silent when the principal walked in.（校長一走進來，吵鬧的教室立刻安靜下來。）【誘答選項】fell apart 是「崩解、四分五裂」。中文「大地支離破碎」讀起來說得通，所以最有吸引力。可是 while 要和前半句的 heard 形成對比，後半講的應該是聲音；中文會通，是因為只把後半句當成荒涼的描寫，沒有和前半句對照。fell behind 是「落後」，要有比較或競爭的對象，句中沒有。fell short 是「不足、未達到」，要有一個標準或目標，句中也沒有。【常考字詞與句型】fall silent（陷入寂靜）、fall apart（崩解）、fall behind + N（落後於……）、fall short of + N（未達到……）、Only + 地點 + 助動詞 + S + V（只有在……才……）。"
+ },
+ {
+  "id": "GCLA-yanagisawa2025_11",
+  "year": "改編練習（二十一）",
+  "passageId": "CLA-yanagisawa2025",
+  "blankNum": 11,
+  "category": "字彙選義",
+  "options": {
+   "A": "determine",
+   "B": "tolerate",
+   "C": "imitate",
+   "D": "reserve"
+  },
+  "answer": "A",
+  "explanation": "語意「志願者填寫一份問卷，用來『判定』他們有多樂觀」，determine（判定、查明）符合問卷的用途；tolerate（容忍）、imitate（模仿）、reserve（保留）都不是問卷能對 how optimistic they were 做的事。",
+  "contextSpan": "句內",
+  "note": "【你可能會這樣想】reserve 和 tolerate 都是學過的常見動詞，不確定問卷能做什麼的時候，容易隨手挑一個。【怎麼判斷】to 後面接原形動詞，後面的 how optimistic they were 是名詞子句，當作它的受詞。問卷的功能是知道每個人的樂觀程度，也就是「判定」，determine 後面接 how / whether 子句很常見（determine how much / whether ...）。同一段前面說志願者先在掃描時想像未來事件，這裡 Afterward 之後才填問卷，目的是把腦部活動和樂觀程度配對。例句：The test is designed to determine how much students have learned.（這項測驗的目的，是判定學生學到多少。）【誘答選項】tolerate 是「容忍」，後面接人或事，不接 how 子句；imitate 是「模仿」，要有被模仿的對象，句中沒有；reserve 是「保留、預訂」，受詞通常是座位、權利或資源，不接 how 引導的子句，與問卷也無關。【常考字詞與句型】determine + how / whether / what 子句（判定……）、be designed to V（目的是……）、Afterward（之後）。"
+ },
+ {
+  "id": "GCLA-yanagisawa2025_12",
+  "year": "改編練習（二十一）",
+  "passageId": "CLA-yanagisawa2025",
+  "blankNum": 12,
+  "category": "連接詞／轉折詞",
+  "options": {
+   "A": "by contrast",
+   "B": "in particular",
+   "C": "as a result",
+   "D": "for instance"
+  },
+  "answer": "A",
+  "explanation": "語意「樂觀的人腦部活動相近；『相較之下』，悲觀的人呈現各式各樣的模式」，by contrast 帶出和上一句相反的情況；in particular（尤其是）、as a result（因此）、for instance（舉例來說）都不合兩群人相反的結果。",
+  "contextSpan": "跨句",
+  "note": "【你可能會這樣想】看到 Pessimists 緊接在 optimists 後面，可能以為悲觀的人是「其中一個例子」，就選 for instance。【怎麼判斷】前一句說越樂觀的人，腦部活動越和其他樂觀者相近；這句說悲觀的人 showed a wide range of patterns, each one different from the next（呈現各式各樣的模式，彼此都不一樣）。一個是「相近」，一個是「各不相同」，兩者相反，所以用 by contrast（相較之下）連接。逗號夾住空格，表示這是插入的轉折片語，把它拿掉句子依然完整。例句：Ana is outgoing. By contrast, her brother is shy.（Ana 外向，相較之下，她哥哥很害羞。）【誘答選項】for instance 是舉例，悲觀的人不是樂觀者的例子；in particular 是「尤其」，要接著前面的範圍縮小；as a result 是「因此」，兩句之間沒有因果。【常考字詞與句型】by contrast / in contrast / on the other hand（相較之下）、for instance / for example（舉例）、in particular（尤其）、as a result（因此）。"
+ },
+ {
+  "id": "GCLA-yanagisawa2025_13",
+  "year": "改編練習（二十一）",
+  "passageId": "CLA-yanagisawa2025",
+  "blankNum": 13,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "pressure",
+   "B": "balance",
+   "C": "distance",
+   "D": "support"
+  },
+  "answer": "C",
+  "explanation": "語意「樂觀的人和令人不快的未來保持一段情緒上的『距離』，用比較平靜的方式去想它」，keep an emotional distance from 是慣用說法；pressure（壓力）、balance（平衡）、support（支持）都不能這樣搭配 from。",
+  "contextSpan": "句內",
+  "note": "【你可能會這樣想】emotional balance（情緒平衡）和 emotional support（情緒支持）都是常聽到的搭配，讀到 emotional 很容易直接選它們。【怎麼判斷】空格後面有 from unpleasant futures（避開令人不快的未來），前一句說樂觀的人不只是把壞事看成好事，Rather 之後要接另一種做法：不是改變看法，而是離遠一點、用平靜的方式想（thinking about them more calmly）。keep a distance from 就是「與……保持距離」，加上 emotional 變成「情緒上的距離」。例句：After the argument, she kept her distance from him.（吵架之後，她和他保持距離。）【誘答選項】pressure 是壓力，不會和 from 配成「遠離」；balance 能放在 keep 後面，但 keep an emotional balance from 讀不通，balance 要接 between 或不接介系詞；support 是支持，與「想得平靜」相反方向。【常考字詞與句型】keep one’s distance from（與……保持距離）、emotional distance（情緒上的距離）、Rather,（反而）。"
+ },
+ {
+  "id": "GCLA-yanagisawa2025_14",
+  "year": "改編練習（二十一）",
+  "passageId": "CLA-yanagisawa2025",
+  "blankNum": 14,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "look down on",
+   "B": "get along with",
+   "C": "run out of",
+   "D": "break away from"
+  },
+  "answer": "B",
+  "explanation": "語意「如果他們的大腦用相似的方式描繪未來，樂觀的人也許更容易和彼此『相處』」，get along with 是「與……相處融洽」，和上一句 sociable（善於社交）呼應；look down on（看不起）、run out of（用完）、break away from（脫離）都不合。",
+  "contextSpan": "跨句",
+  "note": "【你可能會這樣想】看到後面的 each other，以為要選一個和「人與人」有關的動詞片語，look down on（看不起）也是和人相關，容易誤選。【怎麼判斷】空格前一句說這種共通的思考方式可能解釋樂觀的人為什麼 so sociable（這麼善於社交），空格所在的句子用 If 說明理由：因為想像的未來很像，所以彼此更容易相處。get along with 後面接人，表示關係融洽，這裡的受詞是 each other（彼此），所以 get along with each other 是「彼此相處融洽」。例句：Most of my classmates get along with each other.（我的同學大多彼此處得來。）【誘答選項】look down on 是「瞧不起」，與 sociable 相反；run out of 後面接物品，表示用完；break away from 是「脫離（團體）」，也和善於社交相反。【常考字詞與句型】get along with + 人（與……相處融洽）、look down on（瞧不起）、run out of + N（用完）、break away from（脫離）。"
+ },
+ {
+  "id": "GCLA-yanagisawa2025_15",
+  "year": "改編練習（二十一）",
+  "passageId": "CLA-yanagisawa2025",
+  "blankNum": 15,
+  "category": "慣用語／片語",
+  "options": {
+   "A": "give up",
+   "B": "show up",
+   "C": "put off",
+   "D": "pick up"
+  },
+  "answer": "D",
+  "explanation": "語意「這種相似，是天生的，還是長時間慢慢『學來』的」，pick up 在這裡是「（不經刻意學習而）學會、養成」；give up（放棄）、show up（出現）、put off（延後）都不能放進 something they ___ over time。",
+  "contextSpan": "句內",
+  "note": "【你可能會這樣想】over time 是「隨著時間」，give up 和 put off 都能和時間連在一起，show up 也常見，容易隨手挑一個。【怎麼判斷】空格前面是 born with（天生具有），or 之後要放與天生相反的來源：後天學到的。something they ___ over time 是關係子句，something 是這個動詞的受詞，所以動詞要能接受詞，意思是「慢慢學到、養成」，pick up 符合，它帶有不經刻意教導、慢慢學到的意思，正好和 born with 相對。例句：Children pick up a new language quickly.（孩子很快學會一種新語言。）【誘答選項】show up 是「出現」，不及物，後面不能有受詞；give up 是「放棄」，與 born with 對比的「學到」方向相反；put off 是「延後」，說不出一種特質怎麼來的。【常考字詞與句型】pick up + N（學會、養成）、take up + 活動（開始從事）、show up（出現）、give up（放棄）、put off（延後）、be born with（天生具有）。"
  }
 ]

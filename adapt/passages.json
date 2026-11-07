@@ -649,5 +649,38 @@
   "topic2": "歷史與文化",
   "topicSub": "",
   "tw": false
+ },
+ {
+  "id": "CLA-yanagisawa2025",
+  "year": "改編練習（二十一）",
+  "exam": "改編練習",
+  "examType": "改編練習",
+  "title": "樂觀的人，腦中的未來很像（Optimists Picture the Future Alike）",
+  "flagNote": "本題庫改編練習：文章依 Yanagisawa 等人（2025）發表於 PNAS 的研究，以及神戶大學的新聞稿所載事實重新撰寫，照現行學測綜合測驗的版面出題（第 11–15 題，每題四選一），參考答案與解析由本題庫撰寫，沒有官方答對率。",
+  "flagKind": [
+   "出處說明"
+  ],
+  "accuracyRateSource": null,
+  "text": "Have you ever felt that you and a friend were “on the same wavelength”? A new study from Kobe University in Japan suggests that, for optimists at least, this feeling may be more than a figure of speech. Earlier research had shown that optimists tend to have wider circles of friends and to be more satisfied with their relationships. Psychologist Yanagisawa Kuniaki wanted to know why. His team scanned the brains of a total of 87 volunteers while they imagined future events, some pleasant, some neutral, and some unpleasant. Afterward, the volunteers filled out a questionnaire to {11} how optimistic they were. The scans showed a clear pattern. In the medial prefrontal cortex, a brain region involved in thinking about the future, the more optimistic a volunteer was, the more closely his or her activity matched that of other optimists. Pessimists, {12} , showed a wide range of patterns, each one different from the next. Interestingly, optimists did not simply see bad events in a good light. Rather, they seemed to keep an emotional {13} from unpleasant futures, thinking about them more calmly. The researchers believe this shared way of thinking may help explain why optimists are so sociable. If their brains picture the future in similar ways, optimists may {14} each other more easily. It is not yet known, however, whether this similarity is something people are born with or something they {15} over time.",
+  "zh": "你有沒有過這種感覺：覺得自己和朋友「想法很合拍」？日本神戶大學的一項新研究指出，至少對樂觀的人來說，這種感覺可能不只是一種說法而已。\n\n先前的研究已經發現，樂觀的人往往交友圈比較廣，對自己的人際關係也比較滿意。心理學家柳澤邦昭想知道原因。他的團隊掃描了總共 87 位志願者的大腦，同時請他們想像未來的事件，有的愉快，有的中性，有的令人不快。之後，志願者填寫一份問卷，用來判定他們有多樂觀。\n\n掃描顯示出一個很清楚的模式。在內側前額葉皮質（大腦中和思考未來有關的區域），志願者越樂觀，腦部活動就和其他樂觀者越相近。相較之下，悲觀的人呈現各式各樣的模式，彼此各不相同。樂觀的人也不是單純把壞事看成好事。他們反而像是和令人不快的未來保持一段情緒上的距離，用比較平靜的方式去想它。\n\n研究人員認為，這種共通的思考方式，也許有助於解釋樂觀的人為什麼這麼容易與人往來。如果他們的大腦用相似的方式描繪未來，樂觀的人也許彼此就更容易相處。至於這種相似，究竟是天生的，還是長時間慢慢學來的，目前還不清楚。",
+  "textMarked": "Have you ever felt that you and a friend were “on the same wavelength”? ^^A new study from Kobe University in Japan suggests that, for optimists at least, this feeling may be more than a figure of speech.^^\n\nEarlier research had shown that optimists tend to have wider circles of friends and to be more satisfied with their relationships. @@Psychologist Yanagisawa Kuniaki wanted to know why.@@ His team scanned the brains of a total of 87 volunteers while they imagined future events, some pleasant, some neutral, and some unpleasant. ~~Afterward~~, the volunteers filled out a questionnaire to {11} how optimistic they were.\n\n@@The scans showed a clear pattern.@@ In the medial prefrontal cortex, a brain region involved in thinking about the future, the more optimistic a volunteer was, the more closely his or her activity matched that of other optimists. Pessimists, {12} , showed a wide range of patterns, each one different from the next. Interestingly, optimists did not simply see bad events in a good light. ~~Rather~~, they seemed to keep an emotional {13} from unpleasant futures, thinking about them more calmly.\n\n@@The researchers believe this shared way of thinking may help explain why optimists are so sociable.@@ If their brains picture the future in similar ways, optimists may {14} each other more easily. It is not yet known, ~~however~~, whether this similarity is something people are born with or something they {15} over time.",
+  "outline": [
+   "A new study suggests that the feeling of being “on the same wavelength” may be more than a figure of speech, at least for optimists.",
+   "Researchers scanned 87 volunteers’ brains as they imagined future events, then measured how optimistic each person was.",
+   "The more optimistic a person was, the more similar the brain activity was to that of other optimists, while pessimists showed many different patterns; optimists also seemed to stay emotionally distant from unpleasant futures.",
+   "This shared way of thinking may explain why optimists get along well, though it is unknown whether it is inborn or learned."
+  ],
+  "internalNote": {
+   "_說明": "命題端量測，網站不顯示，供審稿使用",
+   "全文字數": 236,
+   "句數": 14,
+   "記號數": 7,
+   "每百字記號數": "3.0",
+   "建檔": "本場建檔。依 Yanagisawa 等人（2025）PNAS 研究與神戶大學新聞稿（2025-07-22）、ScienceDaily、Neuroscience News 所載事實重新撰寫，文字全部自寫；事實範圍：87 位志願者、fMRI、想像正向／中性／負向未來事件、問卷測樂觀程度、內側前額葉皮質、樂觀者模式相近而悲觀者分歧、樂觀者對負面未來保持情緒距離而非正面重新詮釋、天生或後天尚不清楚。"
+  },
+  "topic": "自我成長與心理",
+  "topic2": "人際關係",
+  "topicSub": "",
+  "tw": false
  }
 ]
