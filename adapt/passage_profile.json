@@ -219,6 +219,26 @@
   "words": 185,
   "year": "改編練習（六）"
  },
+ "CLA-yanagisawa2025": {
+  "advPct": 5.1,
+  "blanks": 5,
+  "contentTokens": 99,
+  "levels": {
+   "1": 44,
+   "2": 25,
+   "3": 6,
+   "4": 7,
+   "5": 4,
+   "6": 1
+  },
+  "offList": 11,
+  "readLoad": 45.8,
+  "rlBand": 2,
+  "sentLen": 16.4,
+  "vcBand": 1,
+  "words": 229,
+  "year": "改編練習（二十一）"
+ },
  "CLA-z100p1": {
   "advPct": 3.9,
   "blanks": 5,
