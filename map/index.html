@@ -159,10 +159,10 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 <script>
 /* 資料來源：../grammar_items.json（和首頁同一份）。以後新增年度、補答對率、改分類，這一頁會自動跟著變，不需要重新產生。 */
 var YEAR_SLUG = {'91 年補考':'g91makeup','92 年補考':'g92makeup','110 年試辦考試':'g110trial',
-  '99 課綱學測參考試卷（102 年施測）':'g99ref','111 學年度起適用學測參考試卷':'g111ref','學測參考試卷':'gref'};
+  '99 課綱學測參考試卷（102 年施測）':'g99ref','111 學年度起適用學測參考試卷':'g111ref','95 課綱學測參考試卷（98 年施測）':'gref'};
 /* 年度標籤：和歷屆詳解總覽（y/）各頁標題相同，特殊試卷也標出考別 */
 var LABELS = {'91 年補考':'91 年學測補考','92 年補考':'92 年學測補考','110 年試辦考試':'110 年學測試辦考試'};
-var OTHER_ORDER = ['92 年補考','91 年補考','110 年試辦考試','99 課綱學測參考試卷（102 年施測）','111 學年度起適用學測參考試卷','學測參考試卷'];
+var OTHER_ORDER = ['92 年補考','91 年補考','110 年試辦考試','99 課綱學測參考試卷（102 年施測）','111 學年度起適用學測參考試卷','95 課綱學測參考試卷（98 年施測）'];
 var TIERS = [['hard','難：25% 以下'],['low','中：26–39%'],['mid','中：40–75%'],['easy','易：76% 以上'],['none','沒有答對率'],['special','特殊：鑑別度為負']];
 
 function yearSlug(label){
@@ -354,7 +354,7 @@ function build(items){
   }
   if (yrWithout.length){
     var h2 = el('h2','mp-sec','沒有答對率的試卷'); h2.id='u-unrated'; out.appendChild(h2); s2.heads.push(h2);
-    var n2 = el('p','mp-secnote','這些試卷大考中心沒有公布逐題答對率（試辦考試只公布級分統計）。格子裡以「—」表示，題目與詳解一樣完整，可以照常練習。'); out.appendChild(n2); s2.heads.push(n2);
+    var n2 = el('p','mp-secnote','這些試卷大考中心沒有公布逐題答對率（試辦考試只公布級分對照、級分人數與成績標準）。格子裡以「—」表示，題目與詳解一樣完整，可以照常練習。'); out.appendChild(n2); s2.heads.push(n2);
     renderRows(out, yrWithout, s2);
   }
   document.getElementById('filters').hidden = false;
